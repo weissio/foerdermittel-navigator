@@ -1,0 +1,47 @@
+{
+  "fee": 1192,
+  "locktime": 0,
+  "sigops": 0,
+  "size": 313,
+  "status": {
+    "block_hash": "00000000000000000000b5ffeb66c1c33738265990c78493aaf787bf1165699b",
+    "block_height": 868604,
+    "block_time": 1730580530,
+    "confirmed": true
+  },
+  "txid": "b501d02a542be006b5e58dfe90eb56b8c5b73a6158c4f122a62a8766af330f1f",
+  "version": 2,
+  "vin": [
+    {
+      "inner_witnessscript_asm": "OP_PUSHBYTES_32 5be78f56f32a9bb2dcfd2aa778a393dc6fc4c06e1dba1afc183720b24d3dab4a OP_CHECKSIG OP_0 OP_IF OP_PUSHBYTES_3 6f7264 OP_PUSHBYTES_1 01 OP_PUSHBYTES_10 746578742f706c61696e OP_0 OP_PUSHBYTES_60 7b2270223a22746170222c226f70223a22746f6b656e2d7472616e73666572222c227469636b223a22746170222c22616d74223a2234382e3333227d OP_ENDIF",
+      "is_coinbase": false,
+      "prevout": {
+        "scriptpubkey": "5120e5973a59eb00c6af630096122da5c88cca83f0c26dfacbecf5b10a60def84218",
+        "scriptpubkey_address": "bc1puktn5k0tqrr27ccqjcfzmfwg3n9g8uxzdhavhm84ky9xphhcggvq3xvxrk",
+        "scriptpubkey_asm": "OP_PUSHNUM_1 OP_PUSHBYTES_32 e5973a59eb00c6af630096122da5c88cca83f0c26dfacbecf5b10a60def84218",
+        "scriptpubkey_type": "v1_p2tr",
+        "value": 1738
+      },
+      "scriptsig": "",
+      "scriptsig_asm": "",
+      "sequence": 4294967295,
+      "txid": "67d7b87624cfdea21f667809651806906bc9f1bd29c321b31b9f29faf205e95d",
+      "vout": 0,
+      "witness": [
+        "5725eaaadf827e0a13efa4b987af542b064a5078f6c4ad24d5743a60663ffcebccfb9828f49fd13be2a56b01a0bb101b35d480cd7b0eb17d7e350d729dde3e47",
+        "205be78f56f32a9bb2dcfd2aa778a393dc6fc4c06e1dba1afc183720b24d3dab4aac0063036f726401010a746578742f706c61696e003c7b2270223a22746170222c226f70223a22746f6b656e2d7472616e73666572222c227469636b223a22746170222c22616d74223a2234382e3333227d68",
+        "c15be78f56f32a9bb2dcfd2aa778a393dc6fc4c06e1dba1afc183720b24d3dab4a"
+      ]
+    }
+  ],
+  "vout": [
+    {
+      "scriptpubkey": "51208300e1eb7dce35d6ee3d0cd4fa782a9bfd7d7c1391cf84d470050947f5dd5c45",
+      "scriptpubkey_address": "bc1psvqwr6maec6adm3apn2057p2n07h6lqnj88cf4rsq5y50awat3zsw8xgf9",
+      "scriptpubkey_asm": "OP_PUSHNUM_1 OP_PUSHBYTES_32 8300e1eb7dce35d6ee3d0cd4fa782a9bfd7d7c1391cf84d470050947f5dd5c45",
+      "scriptpubkey_type": "v1_p2tr",
+      "value": 546
+    }
+  ],
+  "weight": 595
+}

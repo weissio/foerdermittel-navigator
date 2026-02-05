@@ -1,0 +1,62 @@
+{
+  "fee": 3897,
+  "locktime": 0,
+  "sigops": 0,
+  "size": 269,
+  "status": {
+    "block_hash": "0000000000000000000313d6581e210cad3bdf4db4a13c8e05479ebbe8b87fec",
+    "block_height": 782628,
+    "block_time": 1679853743,
+    "confirmed": true
+  },
+  "txid": "8002765ad3bb096ea5b76ed13f40d4b25a065b1e465fd6d17513f11db3850d3a",
+  "version": 1,
+  "vin": [
+    {
+      "is_coinbase": false,
+      "prevout": {
+        "scriptpubkey": "51209b1e46d01991ac2e5f370be77ceae34d3b8c26f7ac9bdc0dc80623a81679641f",
+        "scriptpubkey_address": "bc1pnv0yd5qejxkzuhehp0nhe6hrf5accfhh4jdacrwgqc36s9nevs0sz0mnuh",
+        "scriptpubkey_asm": "OP_PUSHNUM_1 OP_PUSHBYTES_32 9b1e46d01991ac2e5f370be77ceae34d3b8c26f7ac9bdc0dc80623a81679641f",
+        "scriptpubkey_type": "v1_p2tr",
+        "value": 363
+      },
+      "scriptsig": "",
+      "scriptsig_asm": "",
+      "sequence": 4294967293,
+      "txid": "f0cfbc041f844d23d4fe44b6f04a0706ba392fa32742076cf191ca3a39eef910",
+      "vout": 2,
+      "witness": [
+        "d582453262b3500f47e21aacd4e6de25a31b2df7a0692eef48c146a7c4dffb5010236d0858539f9d5299b29507f3653792a9366964546418ff172a1e6aace5e0"
+      ]
+    },
+    {
+      "is_coinbase": false,
+      "prevout": {
+        "scriptpubkey": "51209b1e46d01991ac2e5f370be77ceae34d3b8c26f7ac9bdc0dc80623a81679641f",
+        "scriptpubkey_address": "bc1pnv0yd5qejxkzuhehp0nhe6hrf5accfhh4jdacrwgqc36s9nevs0sz0mnuh",
+        "scriptpubkey_asm": "OP_PUSHNUM_1 OP_PUSHBYTES_32 9b1e46d01991ac2e5f370be77ceae34d3b8c26f7ac9bdc0dc80623a81679641f",
+        "scriptpubkey_type": "v1_p2tr",
+        "value": 11592
+      },
+      "scriptsig": "",
+      "scriptsig_asm": "",
+      "sequence": 4294967293,
+      "txid": "c67e55425c94ec06a8c419afc2df06485398938f6c7bc93ac0a192e9c1fe6131",
+      "vout": 2,
+      "witness": [
+        "6c989b128036cf7186fd0e299986838d99bc7d89c04c1dff9ce513607149461968973c1ff4bacf79ca2a53c0232195860b2caf226fc856605be9e1d21159e736"
+      ]
+    }
+  ],
+  "vout": [
+    {
+      "scriptpubkey": "51208300e1eb7dce35d6ee3d0cd4fa782a9bfd7d7c1391cf84d470050947f5dd5c45",
+      "scriptpubkey_address": "bc1psvqwr6maec6adm3apn2057p2n07h6lqnj88cf4rsq5y50awat3zsw8xgf9",
+      "scriptpubkey_asm": "OP_PUSHNUM_1 OP_PUSHBYTES_32 8300e1eb7dce35d6ee3d0cd4fa782a9bfd7d7c1391cf84d470050947f5dd5c45",
+      "scriptpubkey_type": "v1_p2tr",
+      "value": 8058
+    }
+  ],
+  "weight": 674
+}
