@@ -31,6 +31,56 @@ ESPLORA_BASE_URL=https://mempool.space/api python tools/fetch_tx_fixtures.py
 pytest -q
 ```
 
+## Analyze a transaction
+```bash
+python tools/analyze_tx.py <txid>
+```
+
+Use a local fixture instead of a network call:
+```bash
+python tools/analyze_tx.py <txid> --use-fixture
+```
+
+Include wallet metadata and output as CSV:
+```bash
+python tools/analyze_tx.py <txid> --wallet-id mywallet --wallet-address bc1... --format csv
+```
+
+German CSV headers and EUR valuation:
+```bash
+python tools/analyze_tx.py <txid> --wallet-id mywallet --wallet-address bc1... --format csv --csv-lang de --eur-rate 42000
+```
+
+DATEV-friendly CSV export (semicolon, decimal comma):
+```bash
+python tools/analyze_tx.py <txid> --format datev --eur-rate 42000
+```
+
+JSON output with yearly summary:
+```bash
+python tools/analyze_tx.py <txid> --summary --eur-rate 42000
+```
+
+Batch analysis with multiple txids:
+```bash
+python tools/analyze_tx.py <txid1> <txid2> --format csv --csv-lang de
+```
+
+Batch analysis from file (one txid per line):
+```bash
+python tools/analyze_tx.py --txids-file txids.txt --format csv
+```
+
+Auto-fetch BTC/EUR rate from CoinGecko for each tx date:
+```bash
+python tools/analyze_tx.py <txid> --rate-source coingecko --summary
+```
+
+ECB rates are only for fiat currencies (not BTC):
+```bash
+python tools/analyze_tx.py <txid> --rate-source ecb --rate-currency USD --summary
+```
+
 ## Notes
 - OP_RETURN and inscription detections are metadata-only and do not create transfer events.
 - Miner fees are emitted as their own `fee` event when computable.
