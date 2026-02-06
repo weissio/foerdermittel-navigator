@@ -7,7 +7,7 @@ This package fetches decoded Bitcoin transactions (Esplora-compatible JSON), par
 - Parses vin/vout, computes fee when input values are available.
 - Detects `op_return` outputs.
 - Detects ordinals-style inscriptions by scanning witness blobs for ASCII markers.
-- Normalizes to metadata-only economic events: `fee`, `op_return`, `inscription`.
+- Normalizes to metadata-only economic events including NFT and token events when detectable.
 
 ## Setup
 ```bash
@@ -80,6 +80,10 @@ ECB rates are only for fiat currencies (not BTC):
 ```bash
 python tools/analyze_tx.py <txid> --rate-source ecb --rate-currency USD --summary
 ```
+
+CSV fields include protocol and inscription metadata when present:
+- `Protokoll`, `Operation`, `Ticker`, `Token_Menge`
+- `Inscription_ID`, `Inscription_Nummer`, `Content_Typ`
 
 ## Notes
 - OP_RETURN and inscription detections are metadata-only and do not create transfer events.
