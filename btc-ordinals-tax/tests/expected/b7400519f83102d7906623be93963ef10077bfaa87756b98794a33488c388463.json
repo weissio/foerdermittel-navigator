@@ -1,0 +1,5 @@
+{
+  "must_have_types": ["token_mint"],
+  "must_not_have_types": ["op_return", "inscription"],
+  "fee_required_if_computable": true
+}

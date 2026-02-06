@@ -448,6 +448,11 @@ def main() -> int:
         action="store_true",
         help="include yearly summary in JSON output",
     )
+    parser.add_argument(
+        "--overrides",
+        default=os.environ.get("BTC_TAX_OVERRIDES"),
+        help="path to JSON overrides for protocol classification",
+    )
     args = parser.parse_args()
 
     txids = _collect_txids(args)
@@ -464,7 +469,11 @@ def main() -> int:
             decoded_tx = fetch_tx(txid, base_url=args.base_url)
 
         parsed = parse_tx(decoded_tx)
-        detection = detect_metadata(decoded_tx, parsed)
+        overrides = None
+        if args.overrides:
+            with open(args.overrides, "r", encoding="utf-8") as handle:
+                overrides = json.load(handle)
+        detection = detect_metadata(decoded_tx, parsed, overrides=overrides)
         events = normalize(parsed, detection)
 
         eur_rate = args.eur_rate

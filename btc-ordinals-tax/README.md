@@ -26,6 +26,11 @@ You can override the default Esplora base URL:
 ESPLORA_BASE_URL=https://mempool.space/api python tools/fetch_tx_fixtures.py
 ```
 
+Fetch an additional txid:
+```bash
+python tools/fetch_tx_fixtures.py --txid <txid>
+```
+
 ## Run tests
 ```bash
 pytest -q
@@ -79,6 +84,11 @@ python tools/analyze_tx.py <txid> --rate-source coingecko --summary
 ECB rates are only for fiat currencies (not BTC):
 ```bash
 python tools/analyze_tx.py <txid> --rate-source ecb --rate-currency USD --summary
+```
+
+Manual protocol overrides (for special protocol txs without on-chain markers):
+```bash
+BTC_TAX_OVERRIDES=tests/fixtures/tx_overrides.json python tools/analyze_tx.py <txid> --format csv --csv-lang de
 ```
 
 CSV fields include protocol and inscription metadata when present:

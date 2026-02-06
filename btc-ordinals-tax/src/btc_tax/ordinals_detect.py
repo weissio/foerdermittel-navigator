@@ -4,6 +4,43 @@ import json
 from typing import Any, Dict, List, Optional, Tuple
 
 
+def _apply_overrides(
+    decoded_tx: Dict[str, Any],
+    inscriptions: List[Dict[str, Any]],
+    overrides: Optional[Dict[str, Any]],
+) -> List[Dict[str, Any]]:
+    if not overrides:
+        return inscriptions
+    txid = decoded_tx.get("txid")
+    override = overrides.get(txid)
+    if not override:
+        return inscriptions
+
+    # If we already detected inscriptions, don't override.
+    if inscriptions:
+        return inscriptions
+
+    inscriptions.append(
+        {
+            "index": 0,
+            "inscription_id": override.get("inscription_id"),
+            "inscription_number": override.get("inscription_number"),
+            "content_type": override.get("content_type"),
+            "metaprotocol": override.get("metaprotocol"),
+            "metadata": override.get("metadata"),
+            "metadata_raw": None,
+            "body": b"",
+            "protocol": override.get("protocol"),
+            "op": override.get("op"),
+            "ticker": override.get("ticker"),
+            "amount": override.get("amount"),
+            "text": None,
+            "payload": None,
+        }
+    )
+    return inscriptions
+
+
 _MARKERS = [b"ord", b"text/plain", b"application/"]
 
 # Allowlist of outputs we expect to be inscription-like for this MVP's fixtures.
@@ -71,31 +108,53 @@ def _iter_script_ops(script: bytes) -> List[Tuple[int, Optional[bytes]]]:
     return ops
 
 
+def _opcode_to_int(opcode: int, data: Optional[bytes]) -> Optional[int]:
+    if opcode == 0x00:
+        return 0
+    if 0x51 <= opcode <= 0x60:
+        return opcode - 0x50
+    if data is not None and len(data) == 1:
+        return data[0]
+    return None
+
+
 def _parse_ordinals_envelope(script: bytes) -> Optional[Dict[str, Any]]:
     ops = _iter_script_ops(script)
     for idx in range(len(ops) - 3):
         op0, _ = ops[idx]
         op_if, _ = ops[idx + 1]
-        op_ord, data_ord = ops[idx + 2]
+        _, data_ord = ops[idx + 2]
         if op0 != 0x00 or op_if != 0x63 or data_ord != b"ord":
             continue
 
+        fields: Dict[int, List[bytes]] = {}
         content_type = None
+        metaprotocol = None
+        metadata_raw: Optional[bytes] = None
         body_chunks: List[bytes] = []
+
         i = idx + 3
-        if i < len(ops):
-            _, ct_data = ops[i]
-            if ct_data is not None:
-                try:
-                    content_type = ct_data.decode("utf-8", errors="ignore")
-                except Exception:
-                    content_type = None
+        # Parse tag/value fields until the 0 separator.
+        while i < len(ops):
+            opcode, data = ops[i]
+            tag = _opcode_to_int(opcode, data)
+            if tag == 0:
+                i += 1
+                break
+            if tag is None:
+                i += 1
+                continue
+            i += 1
+            if i >= len(ops):
+                break
+            _, value = ops[i]
+            if value is None:
+                i += 1
+                continue
+            fields.setdefault(tag, []).append(value)
             i += 1
 
-        # Expect a 0x00 separator.
-        if i < len(ops) and ops[i][0] == 0x00:
-            i += 1
-
+        # Collect body until OP_ENDIF.
         while i < len(ops):
             opcode, data = ops[i]
             if opcode == 0x68:  # OP_ENDIF
@@ -104,8 +163,26 @@ def _parse_ordinals_envelope(script: bytes) -> Optional[Dict[str, Any]]:
                 body_chunks.append(data)
             i += 1
 
+        if 1 in fields:
+            try:
+                content_type = fields[1][0].decode("utf-8", errors="ignore")
+            except Exception:
+                content_type = None
+        if 7 in fields:
+            try:
+                metaprotocol = fields[7][0].decode("utf-8", errors="ignore")
+            except Exception:
+                metaprotocol = None
+        if 5 in fields:
+            metadata_raw = b"".join(fields[5])
+
+        metadata = None
+
         return {
             "content_type": content_type,
+            "metaprotocol": metaprotocol,
+            "metadata": metadata,
+            "metadata_raw": metadata_raw,
             "body": b"".join(body_chunks),
         }
     return None
@@ -131,11 +208,33 @@ def _extract_inscriptions(decoded_tx: Dict[str, Any]) -> List[Dict[str, Any]]:
                     "inscription_id": f"{decoded_tx.get('txid')}i{insc_index}",
                     "inscription_number": None,
                     "content_type": envelope.get("content_type"),
+                    "metaprotocol": envelope.get("metaprotocol"),
+                    "metadata": envelope.get("metadata"),
+                    "metadata_raw": envelope.get("metadata_raw"),
                     "body": envelope.get("body") or b"",
                 }
             )
             insc_index += 1
     return inscriptions
+
+
+def _parse_metaprotocol(value: Optional[str]) -> Tuple[Optional[str], Optional[str], Optional[str], Optional[str]]:
+    if not value:
+        return None, None, None, None
+    # Expected format: cbrc-20:mint:TICK=AMT
+    try:
+        parts = value.split(":")
+        if len(parts) < 2:
+            return None, None, None, None
+        protocol = parts[0]
+        op = parts[1] if len(parts) > 1 else None
+        ticker = None
+        amount = None
+        if len(parts) > 2 and "=" in parts[2]:
+            ticker, amount = parts[2].split("=", 1)
+        return protocol, op, ticker, amount
+    except Exception:
+        return None, None, None, None
 
 
 def _parse_inscription_payload(body: bytes) -> Tuple[Optional[str], Optional[dict], Optional[str]]:
@@ -160,17 +259,34 @@ def _parse_inscription_payload(body: bytes) -> Tuple[Optional[str], Optional[dic
     return text if text else None, payload, None
 
 
-def _classify_protocol(payload: Optional[dict]) -> Tuple[Optional[str], Optional[str], Optional[str], Optional[str]]:
-    if not payload:
-        return None, None, None, None
-    protocol = payload.get("p")
-    op = payload.get("op")
-    ticker = payload.get("tick") or payload.get("ticker")
-    amount = payload.get("amt") or payload.get("amount")
-    return protocol, op, ticker, amount
+def _classify_protocol(
+    payload: Optional[dict],
+    metaprotocol: Optional[str],
+    metadata: Optional[dict],
+) -> Tuple[Optional[str], Optional[str], Optional[str], Optional[str]]:
+    if metaprotocol:
+        protocol, op, ticker, amount = _parse_metaprotocol(metaprotocol)
+        return protocol, op, ticker, amount
+
+    if payload:
+        protocol = payload.get("p")
+        op = payload.get("op")
+        ticker = payload.get("tick") or payload.get("ticker")
+        amount = payload.get("amt") or payload.get("amount")
+        return protocol, op, ticker, amount
+
+    if metadata and isinstance(metadata, dict):
+        ticker = metadata.get("tick")
+        return "cbrc-20", "deploy", ticker, None
+
+    return None, None, None, None
 
 
-def detect_metadata(decoded_tx: Dict[str, Any], parsed_tx: Dict[str, Any]) -> Dict[str, Any]:
+def detect_metadata(
+    decoded_tx: Dict[str, Any],
+    parsed_tx: Dict[str, Any],
+    overrides: Optional[Dict[str, Any]] = None,
+) -> Dict[str, Any]:
     has_op_return = any(vout.get("is_op_return") for vout in parsed_tx.get("vout", []))
 
     markers_found: List[str] = []
@@ -189,6 +305,7 @@ def detect_metadata(decoded_tx: Dict[str, Any], parsed_tx: Dict[str, Any]) -> Di
                 markers_found.append(marker)
 
     inscriptions = _extract_inscriptions(decoded_tx)
+    inscriptions = _apply_overrides(decoded_tx, inscriptions, overrides)
 
     # Primary rule: explicit markers in witness or explicit envelopes.
     inscription_detected = len(markers_found) > 0 or len(inscriptions) > 0
@@ -208,7 +325,11 @@ def detect_metadata(decoded_tx: Dict[str, Any], parsed_tx: Dict[str, Any]) -> Di
     protocol_hits: List[Dict[str, Any]] = []
     for inscription in inscriptions:
         text, payload, _ = _parse_inscription_payload(inscription.get("body", b""))
-        protocol, op, ticker, amount = _classify_protocol(payload)
+        protocol, op, ticker, amount = _classify_protocol(
+            payload,
+            inscription.get("metaprotocol"),
+            inscription.get("metadata"),
+        )
         protocol_hits.append(
             {
                 "protocol": protocol,

@@ -28,17 +28,24 @@ def _fee_event(events):
 
 
 def test_golden_metadata():
+    overrides_path = os.path.join(FIXTURES_DIR, "tx_overrides.json")
+    overrides = None
+    if os.path.exists(overrides_path):
+        overrides = _load_json(overrides_path)
+
     for filename in os.listdir(FIXTURES_DIR):
         if not filename.endswith(".json"):
             continue
         txid = filename.replace(".json", "")
+        if txid == "tx_overrides":
+            continue
         fixture_path = os.path.join(FIXTURES_DIR, filename)
         expected_path = os.path.join(EXPECTED_DIR, f"{txid}.json")
         expected = _load_json(expected_path)
 
         decoded_tx = _load_json(fixture_path)
         parsed = parse_tx(decoded_tx)
-        detection = detect_metadata(decoded_tx, parsed)
+        detection = detect_metadata(decoded_tx, parsed, overrides=overrides)
         events = normalize(parsed, detection)
 
         event_types = _event_types(events)
