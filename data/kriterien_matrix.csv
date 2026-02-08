@@ -6,7 +6,7 @@ region,Deutschland | EU (inkl. Deutschland) | Bundesland,Geografische Gueltigkei
 thema,Forschung und Entwicklung | Innovation | Digitalisierung | Energieeffizienz | EU-Fonds | Gruendung/Nachfolge,Inhaltliche Ausrichtung des Vorhabens.,ZIM_2025; EU_HORIZON; KFW_511_512; BAFA_EEW; KFW_067
 projektphase,F&E-Projekt | Investition/Betriebsmittel | Beratung/Planung | Gruendung/Festigung,Projektstadium bzw. Einsatzart der Mittel.,ZIM_2025; KFW_511_512; BAFA_EBN_M2; KFW_067
 projektart,Durchfuehrbarkeitsstudie | F&E-Einzelprojekt | F&E-Kooperationsprojekt | Innovationsnetzwerk,Projektform/Instrument der Foerderung.,ZIM_2025
-themen_schwerpunkt,"technologieoffen | thematisch (z. B. Wasserstoff, KI, Automotive)",Thematische Einordnung; technologieoffen oder themenspezifisch.,ZIM_2025
+themen_schwerpunkt,technologieoffen | digitalisierung | energieeffizienz/ressourceneffizienz | gruendung | innovation,"Thematische Einordnung, aus Programmen abgeleitet.",ZIM_2025; KFW_511_512; BAFA_EEW; KFW_067; KFW_380
 mitarbeiter_max,250 (EU-KMU-Definition),"Maximale Mitarbeiterzahl, sofern Programm KMU-Definition verlangt.",EU_KMU_DEFINITION; KFW_380
 umsatz_max,50 Mio EUR (EU-KMU-Definition) | 500 Mio EUR (KfW 380 groessere mittelstaendische Unternehmen),"Maximaler Umsatz/Gruppenumsatz, sofern gefordert.",EU_KMU_DEFINITION; KFW_380
 foerderhoehe,Programmspezifisch (z. B. 200.000 EUR Kredit; 4.000 EUR Zuschuss),Maximale Foerderhoehe.,KFW_067; BAFA_EBN_M2
