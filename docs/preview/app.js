@@ -1,6 +1,7 @@
 const statusEl = document.getElementById("statusFilter");
-const kategorieEl = document.getElementById("kategorieFilter");
 const projektartEl = document.getElementById("projektartFilter");
+const foerderartEl = document.getElementById("foerderartFilter");
+const zielgruppeEl = document.getElementById("zielgruppeFilter");
 const themaEl = document.getElementById("themaFilter");
 const searchEl = document.getElementById("searchFilter");
 const resetBtn = document.getElementById("resetBtn");
@@ -12,6 +13,21 @@ const countLaufendEl = document.getElementById("countLaufend");
 const standEl = document.getElementById("stand");
 
 let data = [];
+
+function buildOptions(selectEl, values, label = "Alle") {
+  const sorted = Array.from(values).filter(Boolean).sort((a, b) => a.localeCompare(b));
+  selectEl.innerHTML = "";
+  const all = document.createElement("option");
+  all.value = "";
+  all.textContent = label;
+  selectEl.appendChild(all);
+  for (const v of sorted) {
+    const opt = document.createElement("option");
+    opt.value = v;
+    opt.textContent = v;
+    selectEl.appendChild(opt);
+  }
+}
 
 function parseCSV(text) {
   const lines = text.split(/\r?\n/).filter(Boolean);
@@ -45,14 +61,16 @@ function parseCSV(text) {
 
 function matchesFilter(item) {
   const status = statusEl.value.trim();
-  const kategorie = kategorieEl.value.trim();
   const projektart = projektartEl.value.trim().toLowerCase();
+  const foerderart = foerderartEl.value.trim().toLowerCase();
+  const zielgruppe = zielgruppeEl.value.trim().toLowerCase();
   const thema = themaEl.value.trim().toLowerCase();
   const q = searchEl.value.trim().toLowerCase();
 
   if (status && item.status !== status) return false;
-  if (kategorie && item.kategorie !== kategorie) return false;
   if (projektart && !item.projektart.toLowerCase().includes(projektart)) return false;
+  if (foerderart && !item.foerderart.toLowerCase().includes(foerderart)) return false;
+  if (zielgruppe && !item.zielgruppe.toLowerCase().includes(zielgruppe)) return false;
   if (thema && !item.themen_schwerpunkt.toLowerCase().includes(thema)) return false;
   if (q) {
     const hay = [
@@ -111,14 +129,15 @@ function render() {
 
 function resetFilters() {
   statusEl.value = "";
-  kategorieEl.value = "";
   projektartEl.value = "";
+  foerderartEl.value = "";
+  zielgruppeEl.value = "";
   themaEl.value = "";
   searchEl.value = "";
   render();
 }
 
-[statusEl, kategorieEl, projektartEl, themaEl, searchEl].forEach(el => {
+[statusEl, projektartEl, foerderartEl, zielgruppeEl, themaEl, searchEl].forEach(el => {
   el.addEventListener("input", render);
 });
 resetBtn.addEventListener("click", resetFilters);
@@ -127,6 +146,11 @@ fetch("/data/foerderprogramme.csv")
   .then(r => r.text())
   .then(text => {
     data = parseCSV(text);
+    buildOptions(statusEl, new Set(data.map(d => d.status)), "Alle Status");
+    buildOptions(projektartEl, new Set(data.map(d => d.projektart)), "Alle Projektarten");
+    buildOptions(foerderartEl, new Set(data.map(d => d.foerderart)), "Alle Foerderarten");
+    buildOptions(zielgruppeEl, new Set(data.map(d => d.zielgruppe)), "Alle Zielgruppen");
+    buildOptions(themaEl, new Set(data.map(d => d.themen_schwerpunkt)), "Alle Themen");
     standEl.textContent = new Date().toISOString().slice(0, 10);
     render();
   })
