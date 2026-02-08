@@ -1,12 +1,7 @@
 kriterium,moegliche_werte,beschreibung,quelle_programme
-foerderart,Zuschuss | Kredit | Beteiligung | Zuschuss und Kredit,Art der finanziellen Foerderung.,KFW_067; KFW_511_512; KFW_265; BAFA_EEW; ZIM_2025
-zielgruppe,KMU | Unternehmen | Gruender | Freiberufler | Start-ups,Wer antragsberechtigt ist.,KFW_067; KFW_511_512; KFW_265; ZIM_2025
-region,Deutschland | EU (inkl. Deutschland) | Bundesland,Geografische Gueltigkeit/Verwaltungsebene.,KFW_067; BAFA_EEW; EU_HORIZON; EU_FUNDS_DE_PORTAL
-thema,Gruendung/Nachfolge | Digitalisierung | Innovation | Forschung und Entwicklung | Energieeffizienz | EU-Fonds,Inhaltliche Ausrichtung des Vorhabens.,KFW_067; KFW_511_512; KFW_265; ZIM_2025; BAFA_EEW; EU_HORIZON
-projektphase,Gruendung/Festigung | Investition/Betriebsmittel | Wachstum/Finanzierung | Beratung/Planung | Forschung/Innovation,Projektstadium bzw. Einsatzart der Mittel.,KFW_067; KFW_511_512; KFW_265; BAFA_EBN_M2; EU_HORIZON
-mitarbeiter_max,"250 (KMU-Definition, falls Programm darauf verweist)","Maximale Mitarbeiterzahl, sofern gefordert.",KFW_511_512; ZIM_2025
-umsatz_max,"50 Mio EUR (KMU-Definition, falls Programm darauf verweist)","Maximaler Umsatz, sofern gefordert.",KFW_511_512
-foerderhoehe,Programmspezifisch (z. B. max 4.000 EUR),Maximale Foerderhoehe.,BAFA_EBN_M2
-foerdersatz,Programmspezifisch (z. B. 50 %),Foerdersatz in Prozent.,BAFA_EBN_M2
-richtlinie_stand,Datum/Stand der Richtlinie,Stand oder Datum der Richtlinie/Programmgrundlage.,KFW_067; ZIM_2025; BAFA_EBN_M2
-frist,Einreichfrist oder laufend,Fristen bzw. Antragsfenster.,EU_HORIZON; EU_DIGITAL_EUROPE
+foerderart,Zuschuss | Kredit | Beteiligung | Zuschuss und Kredit,Art der finanziellen Foerderung.,KFW_511_512; BAFA_EEW; ZIM_2025; EU_HORIZON
+zielgruppe,KMU | Unternehmen | Gruender | Freiberufler | Start-ups,Wer antragsberechtigt ist.,KFW_511_512; ZIM_2025; EU_HORIZON
+region,Deutschland | EU (inkl. Deutschland) | Bundesland,Geografische Gueltigkeit/Verwaltungsebene.,KFW_511_512; BAFA_EEW; EU_HORIZON
+thema,Forschung und Entwicklung | Innovation | Digitalisierung | Energieeffizienz | Binnenmarkt,Inhaltliche Ausrichtung des Vorhabens.,ZIM_2025; EU_HORIZON; KFW_511_512; BAFA_EEW; EU_SINGLE_MARKET
+projektphase,F&E-Projekt | Investition/Betriebsmittel | Wachstum/Marktzugang,Projektstadium bzw. Einsatzart der Mittel.,ZIM_2025; KFW_511_512; EU_SINGLE_MARKET
+richtlinie_stand,Datum/Stand der Richtlinie,Stand oder Datum der Richtlinie/Programmgrundlage.,ZIM_2025; BAFA_EEW

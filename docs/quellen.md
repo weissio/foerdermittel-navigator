@@ -4,6 +4,6 @@
 - BAFA: Programmlisten und Richtlinien fuer Energieeffizienz und Energieberatung.
 - KfW: Produktseiten und Produktinfos zu Krediten/Beteiligungen.
 - EU Funding & Tenders Portal: Programme und Calls (EU-direkt).
-- Nationale Portale fuer EU-Fonds (Shared Management), Deutschland: BMWK-Portal zur EU-Kohaesions- und Strukturpolitik.
+- EU Shared Management: National Single Portals (Einstieg fuer nationale Programme mit EU-Fonds).
 
 Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturierte Kriterien, Richtlinien-Links, Stand/Datum sowie Quelle.
