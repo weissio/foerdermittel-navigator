@@ -36,3 +36,5 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - EISMEA Call: European Startup and Scaleup Hubs pilot (HORIZON-EIE-2026-02-CONNECT-01): https://eismea.ec.europa.eu/funding-opportunities/calls-proposals/european-startup-and-scaleup-hubs-pilot-horizon-eie-2026-02-connect-01_en
 - EISMEA Call: Erasmus for Young Entrepreneurs (SMP-COSME-2026-EYE): https://eismea.ec.europa.eu/funding-opportunities/calls-proposals/erasmus-young-entrepreneurs-smp-cosme-2026-eye_en
 - EIC Funding Opportunities (EIC Accelerator & EIC STEP Scale Up): https://eic.ec.europa.eu/funding-opportunities_en
+
+- EIC Funding Opportunities (Cut-off Dates 2026 inkl. EIC Accelerator & STEP Scale Up, Advanced Innovation Challenges): https://eic.ec.europa.eu/funding-opportunities_en
