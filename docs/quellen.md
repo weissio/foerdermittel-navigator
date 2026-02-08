@@ -30,3 +30,9 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - ZIM International: IraSME (37. Ausschreibung, offen bis 25.03.2026): https://www.zim.de/ZIM/Redaktion/DE/Meldungen/2025-Internationale-Ausschreibungen/2025-12-01-37-ausschreibung-irasme.html
 - ZIM International: Deutschland-Chile (4. Ausschreibung, offen bis 31.03.2026): https://www.zim.de/ZIM/Redaktion/DE/Meldungen/2025-Internationale-Ausschreibungen/2025-10-01-4-ausschreibung-deutschland-chile.html
 - ZIM International: Kanada (17. Ausschreibung, offen bis 19.06.2026): https://www.zim.de/ZIM/Redaktion/DE/Meldungen/2026-Internationale-Ausschreibungen/2026-02-03-17-ausschreibung-deutschland-kanada.html
+
+- EISMEA Call: Upskilling/Reskilling Tourism (PPPA-2026-TOURISM-CAPACITY-BUILDING): https://eismea.ec.europa.eu/funding-opportunities/calls-proposals/upskilling-and-reskilling-tourism-ecosystem-tourism-knowledge-hub-and-tourism-data-space-pppa-2026_en
+- EISMEA Call: I3 Capacity Building 2026 (I3-2026-CAP2b): https://eismea.ec.europa.eu/funding-opportunities/calls-proposals/i3-capacity-building-call-2026-i3-2026-cap2b_en
+- EISMEA Call: European Startup and Scaleup Hubs pilot (HORIZON-EIE-2026-02-CONNECT-01): https://eismea.ec.europa.eu/funding-opportunities/calls-proposals/european-startup-and-scaleup-hubs-pilot-horizon-eie-2026-02-connect-01_en
+- EISMEA Call: Erasmus for Young Entrepreneurs (SMP-COSME-2026-EYE): https://eismea.ec.europa.eu/funding-opportunities/calls-proposals/erasmus-young-entrepreneurs-smp-cosme-2026-eye_en
+- EIC Funding Opportunities (EIC Accelerator & EIC STEP Scale Up): https://eic.ec.europa.eu/funding-opportunities_en
