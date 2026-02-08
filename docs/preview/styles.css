@@ -112,6 +112,12 @@ button {
   border-radius: 12px;
   padding: 14px;
 }
+.card__meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin: 8px 0;
+}
 .card h3 {
   margin: 0 0 6px;
   font-size: 18px;
@@ -123,6 +129,10 @@ button {
   font-size: 12px;
   background: #efe7db;
   margin-right: 6px;
+}
+.pill--date {
+  background: #e7f0ea;
+  color: #1f6f5c;
 }
 .row {
   margin: 8px 0;

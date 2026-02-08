@@ -81,11 +81,17 @@ function render() {
   for (const item of filtered) {
     const card = document.createElement("div");
     card.className = "card";
+    const letzte = item.letzte_pruefung || "-";
+    const stand = item.richtlinie_stand || "-";
     card.innerHTML = `
       <h3>${item.programm_name || "Programm"}</h3>
       <div class="row">
         <span class="pill">${item.status || "n/a"}</span>
         <span class="pill">${item.kategorie || "n/a"}</span>
+      </div>
+      <div class="card__meta">
+        <span class="pill pill--date">Letzte Pruefung: ${letzte}</span>
+        <span class="pill pill--date">Richtlinie-Stand: ${stand}</span>
       </div>
       <div class="row"><strong>Traeger:</strong> ${item.traeger || "-"}</div>
       <div class="row"><strong>Foerderart:</strong> ${item.foerderart || "-"}</div>
