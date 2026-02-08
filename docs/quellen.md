@@ -7,3 +7,4 @@
 - EU Shared Management: National Single Portals (Einstieg fuer nationale Programme mit EU-Fonds).
 
 Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturierte Kriterien, Richtlinien-Links, Stand/Datum sowie Quelle.
+- EU-KMU-Definition (Empfehlung 2003/361/EG): Schwellenwerte fuer Mitarbeiter, Umsatz/Bilanzsumme.

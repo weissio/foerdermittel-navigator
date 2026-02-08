@@ -5,3 +5,4 @@ region,Deutschland | EU (inkl. Deutschland) | Bundesland,Geografische Gueltigkei
 thema,Forschung und Entwicklung | Innovation | Digitalisierung | Energieeffizienz | Binnenmarkt,Inhaltliche Ausrichtung des Vorhabens.,ZIM_2025; EU_HORIZON; KFW_511_512; BAFA_EEW; EU_SINGLE_MARKET
 projektphase,F&E-Projekt | Investition/Betriebsmittel | Wachstum/Marktzugang,Projektstadium bzw. Einsatzart der Mittel.,ZIM_2025; KFW_511_512; EU_SINGLE_MARKET
 richtlinie_stand,Datum/Stand der Richtlinie,Stand oder Datum der Richtlinie/Programmgrundlage.,ZIM_2025; BAFA_EEW
+kmu_definition,Mitarbeiter < 250; Umsatz <= 50 Mio EUR oder Bilanzsumme <= 43 Mio EUR,EU-KMU-Definition nach Empfehlung 2003/361/EG als globale Standardregel (Programm-Override nur bei expliziter Abweichung).,EU_KMU_DEFINITION
