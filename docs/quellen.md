@@ -27,6 +27,6 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 
 - ZIM Start Antragstellung 2025 (laufend ab 30.01.2025): https://www.zim.de/ZIM/Redaktion/DE/Meldungen/2025/1/2025-01-30-Start-Antragstellung-ZIM-2025.html
 - ZIM International: Deutschland-Polen (3. Ausschreibung, offen bis 30.04.2026): https://www.zim.de/ZIM/Redaktion/DE/Meldungen/2025-Internationale-Ausschreibungen/2025-12-01-3-ausschreibung-deutschland-polen.html
-- ZIM International: IraSME (37. Ausschreibung, offen bis 25.03.2026): https://www.zim.de/ZIM/Redaktion/DE/Artikel/internationale-ausschreibung-irasme.html
+- ZIM International: IraSME (37. Ausschreibung, offen bis 25.03.2026): https://www.zim.de/ZIM/Redaktion/DE/Meldungen/2025-Internationale-Ausschreibungen/2025-12-01-37-ausschreibung-irasme.html
 - ZIM International: Deutschland-Chile (4. Ausschreibung, offen bis 31.03.2026): https://www.zim.de/ZIM/Redaktion/DE/Meldungen/2025-Internationale-Ausschreibungen/2025-10-01-4-ausschreibung-deutschland-chile.html
-- ZIM International: Kanada (17. Ausschreibung, offen bis 19.06.2026): https://www.zim.de/ZIM/Redaktion/DE/Artikel/International/kanada.html
+- ZIM International: Kanada (17. Ausschreibung, offen bis 19.06.2026): https://www.zim.de/ZIM/Redaktion/DE/Meldungen/2026-Internationale-Ausschreibungen/2026-02-03-17-ausschreibung-deutschland-kanada.html
