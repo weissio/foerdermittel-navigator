@@ -20,3 +20,7 @@
 
 Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturierte Kriterien, Richtlinien-Links, Stand/Datum sowie Quelle.
 - ZIM Call-Start 30.01.2025 (Call offen/laufend): https://www.zim.de/ZIM/Redaktion/DE/Kurzmeldungen/2025/2025-01-30-Ausschreibungsstart-2025.html
+- ZIM Ausschreibungsstart 2025 (laufende Antragstellung ab 30.01.2025): https://www.zim.de/ZIM/Redaktion/DE/Kurzmeldungen/2025/2025-01-30-Ausschreibungsstart-2025.html
+- ZIM International: 3. Ausschreibung Deutschland-Polen (Call offen bis 30.04.2026): https://www.zim.de/ZIM/Redaktion/DE/Meldungen/2025-Internationale-Ausschreibungen/2025-12-01-3-ausschreibung-deutschland-polen.html
+- ZIM Programminfo (Projektformen, technologieoffen): https://www.zim.de/ZIM/Redaktion/DE/Artikel/foerderangebot/foerderangebot-zim.html
+- Forschungszulage (FZulG) Infos: https://www.bundesfinanzministerium.de/Web/DE/Themen/Steuern/Steuerliche_Themengebiete/Forschungszulage/forschungszulage.html
