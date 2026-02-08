@@ -1,8 +1,11 @@
 kriterium,moegliche_werte,beschreibung,quelle_programme
-foerderart,Zuschuss | Kredit | Beteiligung | Zuschuss und Kredit,Art der finanziellen Foerderung.,KFW_511_512; BAFA_EEW; ZIM_2025; EU_HORIZON
-zielgruppe,KMU | Unternehmen | Gruender | Freiberufler | Start-ups,Wer antragsberechtigt ist.,KFW_511_512; ZIM_2025; EU_HORIZON
-region,Deutschland | EU (inkl. Deutschland) | Bundesland,Geografische Gueltigkeit/Verwaltungsebene.,KFW_511_512; BAFA_EEW; EU_HORIZON
-thema,Forschung und Entwicklung | Innovation | Digitalisierung | Energieeffizienz | Binnenmarkt,Inhaltliche Ausrichtung des Vorhabens.,ZIM_2025; EU_HORIZON; KFW_511_512; BAFA_EEW; EU_SINGLE_MARKET
-projektphase,F&E-Projekt | Investition/Betriebsmittel | Wachstum/Marktzugang,Projektstadium bzw. Einsatzart der Mittel.,ZIM_2025; KFW_511_512; EU_SINGLE_MARKET
-richtlinie_stand,Datum/Stand der Richtlinie,Stand oder Datum der Richtlinie/Programmgrundlage.,ZIM_2025; BAFA_EEW
 kmu_definition,Mitarbeiter < 250; Umsatz <= 50 Mio EUR oder Bilanzsumme <= 43 Mio EUR,EU-KMU-Definition nach Empfehlung 2003/361/EG als globale Standardregel (Programm-Override nur bei expliziter Abweichung).,EU_KMU_DEFINITION
+foerderart,Zuschuss | Kredit | Zuschuss und Kredit | Steuerliche Forschungszulage,Art der finanziellen Foerderung.,ZIM_2025; KFW_067; KFW_511_512; BAFA_EEW; FZULG
+zielgruppe,KMU | Unternehmen | Gruender | Freiberufler | Start-ups,Wer antragsberechtigt ist.,ZIM_2025; KFW_067; KFW_511_512; FZULG
+region,Deutschland | EU (inkl. Deutschland) | Bundesland,Geografische Gueltigkeit/Verwaltungsebene.,ZIM_2025; BAFA_EEW; EU_HORIZON; EU_FUNDS_DE_PORTAL
+thema,Forschung und Entwicklung | Innovation | Digitalisierung | Energieeffizienz | EU-Fonds | Gruendung/Nachfolge,Inhaltliche Ausrichtung des Vorhabens.,ZIM_2025; EU_HORIZON; KFW_511_512; BAFA_EEW; KFW_067
+projektphase,F&E-Projekt | Investition/Betriebsmittel | Beratung/Planung | Gruendung/Festigung,Projektstadium bzw. Einsatzart der Mittel.,ZIM_2025; KFW_511_512; BAFA_EBN_M2; KFW_067
+mitarbeiter_max,250 (EU-KMU-Definition),"Maximale Mitarbeiterzahl, sofern Programm KMU-Definition verlangt.",EU_KMU_DEFINITION; KFW_380
+umsatz_max,50 Mio EUR (EU-KMU-Definition) | 500 Mio EUR (KfW 380 groessere mittelstaendische Unternehmen),"Maximaler Umsatz/Gruppenumsatz, sofern gefordert.",EU_KMU_DEFINITION; KFW_380
+foerderhoehe,Programmspezifisch (z. B. 200.000 EUR Kredit; 4.000 EUR Zuschuss),Maximale Foerderhoehe.,KFW_067; BAFA_EBN_M2
+foerdersatz,Programmspezifisch (z. B. 50 % Zuschuss),Foerdersatz in Prozent.,BAFA_EBN_M2

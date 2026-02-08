@@ -1,10 +1,21 @@
 # Offizielle Quellen (Start)
 
-- Foerderdatenbank (BMWK): Master-Index fuer Bund/Land/EU-Programme. Lizenzhinweis: CC BY-ND 3.0 (keine 1:1-Uebernahme von Texten; nur strukturierte Fakten und Verlinkung).
-- BAFA: Programmlisten und Richtlinien fuer Energieeffizienz und Energieberatung.
-- KfW: Produktseiten und Produktinfos zu Krediten/Beteiligungen.
-- EU Funding & Tenders Portal: Programme und Calls (EU-direkt).
-- EU Shared Management: National Single Portals (Einstieg fuer nationale Programme mit EU-Fonds).
+- Foerderdatenbank (BMWK) (Impressum/Lizenz): https://www.foerderdatenbank.de/FDB/DE/Meta/Impressum/impressum.html
+- ZIM Richtlinie ab 2025 (BMWK/ZIM): https://www.zim.de/ZIM/Redaktion/DE/Publikationen/Richtlinien/zim-richtlinie-ab-2025.html
+- KfW ERP-Gruenderkredit StartGeld (067) Produktseite: https://www.kfw.de/inlandsfoerderung/Unternehmen/Gr%C3%BCnden-Nachfolgen/F%C3%B6rderprodukte/ERP-Gr%C3%BCnderkredit-Startgeld-%28067%29/
+- KfW StartGeld Erhoehung 200.000 EUR (Pressemitteilung): https://www.kfw.de/%C3%9Cber-die-KfW/Newsroom/Aktuelles/Pressemitteilungen-Details_872832.html
+- KfW ERP-Digitalisierungs- und Innovationskredit (380) Merkblatt: https://www.kfw.de/PDF/Download-Center/F%C3%B6rderprogramme-%28Inlandsf%C3%B6rderung%29/PDF-Dokumente/6000004011_M_380_390_391.pdf
+- KfW ERP-Foerderkredit Digitalisierung (511/512): https://www.kfw.de/inlandsfoerderung/Unternehmen/Innovation-und-Digitalisierung/F%C3%B6rderprodukte/ERP-F%C3%B6rderkredit-Digitalisierung-%28511-512%29/
+- BAFA EEW Richtlinie in Kraft (Pressemitteilung): https://www.bafa.de/SharedDocs/Pressemitteilungen/DE/Energie/2024_02_eew.html
+- BAFA Energieberatung Nichtwohngebaeude/Anlagen/Systeme Modul 2: https://www.bafa.de/DE/Energie/Energieberatung/Nichtwohngebaeude_Anlagen_Systeme/Modul2_Energieberatung/modul2_energieberatung.html
+- BMF Forschungszulage: https://www.bundesfinanzministerium.de/Web/DE/Themen/Steuern/Steuerliche_Themengebiete/Forschungszulage/forschungszulage.html
+- EU Programme (Funding & Tenders):
+  - Digital Europe: https://commission.europa.eu/funding-tenders/find-funding/eu-funding-programmes/digital-europe-programme_en
+  - Single Market Programme: https://commission.europa.eu/funding-tenders/find-funding/eu-funding-programmes/single-market-programme_en
+  - Horizon Europe: https://commission.europa.eu/funding-tenders/find-funding/eu-funding-programmes/horizon-europe_en
+- EU National Single Portals (Shared Management): https://commission.europa.eu/funding-tenders/find-funding/funding-management-mode/national-single-portals_en
+- Deutschland: EU-Kohaesions- und Strukturpolitik (BMWK): https://www.bmwk.de/Redaktion/DE/Artikel/Europa/eu-kohaesions-und-strukturpolitik.html
+- EU-KMU-Definition (Empfehlung 2003/361/EG): https://single-market-economy.ec.europa.eu/smes/sme-definition_en
+- EU-KMU-Definition (EUR-Lex Glossar): https://eur-lex.europa.eu/EN/legal-content/summary/definition-of-sme.html
 
 Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturierte Kriterien, Richtlinien-Links, Stand/Datum sowie Quelle.
-- EU-KMU-Definition (Empfehlung 2003/361/EG): Schwellenwerte fuer Mitarbeiter, Umsatz/Bilanzsumme.
