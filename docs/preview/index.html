@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Foerdermittel-Navigator – Preview</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="hero">
+      <div class="hero__inner">
+        <div class="badge">Preview</div>
+        <h1>Foerdermittel-Navigator</h1>
+        <p>
+          Schneller Abgleich von Unternehmens- und Projektkriterien mit laufenden
+          Programmen und offenen Calls. Fokus: KMU, F&E, Digitalisierung, Energieeffizienz.
+        </p>
+        <div class="meta">
+          <div><strong>Datenquelle:</strong> data/foerderprogramme.csv</div>
+          <div><strong>Stand:</strong> <span id="stand">–</span></div>
+        </div>
+      </div>
+    </header>
+
+    <main class="container">
+      <section class="filters">
+        <div class="filter">
+          <label>Status</label>
+          <select id="statusFilter">
+            <option value="">Alle</option>
+            <option value="laufend">Laufend</option>
+            <option value="offen">Offen</option>
+            <option value="geplant">Geplant</option>
+          </select>
+        </div>
+        <div class="filter">
+          <label>Kategorie</label>
+          <select id="kategorieFilter">
+            <option value="">Alle</option>
+            <option value="laufend">Laufend</option>
+            <option value="offen">Offen</option>
+            <option value="zukuenftig">Zukuenftig</option>
+          </select>
+        </div>
+        <div class="filter">
+          <label>Projektart</label>
+          <input id="projektartFilter" placeholder="z. B. F&E-Kooperationsprojekt" />
+        </div>
+        <div class="filter">
+          <label>Themenfokus</label>
+          <input id="themaFilter" placeholder="z. B. energieeffizienz" />
+        </div>
+        <div class="filter">
+          <label>Suche</label>
+          <input id="searchFilter" placeholder="Programm, Traeger, Thema..." />
+        </div>
+        <button id="resetBtn">Filter zuruecksetzen</button>
+      </section>
+
+      <section class="stats">
+        <div class="stat">
+          <div class="stat__label">Ergebnisse</div>
+          <div class="stat__value" id="count">0</div>
+        </div>
+        <div class="stat">
+          <div class="stat__label">Offen</div>
+          <div class="stat__value" id="countOffen">0</div>
+        </div>
+        <div class="stat">
+          <div class="stat__label">Laufend</div>
+          <div class="stat__value" id="countLaufend">0</div>
+        </div>
+      </section>
+
+      <section>
+        <div id="cards" class="cards"></div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <p>
+        Hinweis: Beschreibungen sind strukturierte Auszuege, keine 1:1-Uebernahmen
+        aus offiziellen Texten. Fuer Details immer die Richtlinie bzw. Quelle pruefen.
+      </p>
+    </footer>
+
+    <script src="./app.js"></script>
+  </body>
+</html>
