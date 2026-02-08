@@ -19,3 +19,4 @@
 - EU-KMU-Definition (EUR-Lex Glossar): https://eur-lex.europa.eu/EN/legal-content/summary/definition-of-sme.html
 
 Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturierte Kriterien, Richtlinien-Links, Stand/Datum sowie Quelle.
+- ZIM Call-Start 30.01.2025 (Call offen/laufend): https://www.zim.de/ZIM/Redaktion/DE/Kurzmeldungen/2025/2025-01-30-Ausschreibungsstart-2025.html

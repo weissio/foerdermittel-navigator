@@ -9,3 +9,8 @@ mitarbeiter_max,250 (EU-KMU-Definition),"Maximale Mitarbeiterzahl, sofern Progra
 umsatz_max,50 Mio EUR (EU-KMU-Definition) | 500 Mio EUR (KfW 380 groessere mittelstaendische Unternehmen),"Maximaler Umsatz/Gruppenumsatz, sofern gefordert.",EU_KMU_DEFINITION; KFW_380
 foerderhoehe,Programmspezifisch (z. B. 200.000 EUR Kredit; 4.000 EUR Zuschuss),Maximale Foerderhoehe.,KFW_067; BAFA_EBN_M2
 foerdersatz,Programmspezifisch (z. B. 50 % Zuschuss),Foerdersatz in Prozent.,BAFA_EBN_M2
+status,offen | geschlossen | laufend | geplant,Status der Antragstellung bzw. Call-Status.,ZIM_2025
+call_open_date,YYYY-MM-DD,Datum der Call-Oeffnung (falls vorhanden).,ZIM_2025
+call_close_date,YYYY-MM-DD,Datum der Call-Schliessung (falls vorhanden).,ZIM_2025
+call_deadline,YYYY-MM-DD,"Einreichfrist, falls explizit genannt.",ZIM_2025
+kategorie,laufend | offen | zukuenftig,Einordnung gemaess deiner Vorgabe (laufend + offene Calls; zukuenftig separat).,ZIM_2025
