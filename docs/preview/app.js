@@ -143,8 +143,30 @@ function resetFilters() {
 resetBtn.addEventListener("click", resetFilters);
 
 const base = window.location.origin;
-fetch(`${base}/data/foerderprogramme.csv`)
-  .then(r => r.text())
+const candidates = [
+  `${base}/data/foerderprogramme.csv`,
+  `${base}/docs/preview/../../data/foerderprogramme.csv`,
+  `../../data/foerderprogramme.csv`,
+  `/data/foerderprogramme.csv`
+];
+
+async function loadCSV() {
+  for (const url of candidates) {
+    try {
+      const r = await fetch(url, { cache: "no-store" });
+      if (!r.ok) continue;
+      const text = await r.text();
+      if (text && text.trim().length > 0) {
+        return text;
+      }
+    } catch (_) {
+      // try next candidate
+    }
+  }
+  throw new Error("CSV not found or empty");
+}
+
+loadCSV()
   .then(text => {
     data = parseCSV(text);
     buildOptions(statusEl, new Set(data.map(d => d.status)), "Alle Status");
@@ -156,5 +178,5 @@ fetch(`${base}/data/foerderprogramme.csv`)
     render();
   })
   .catch(err => {
-    cardsEl.innerHTML = `<div class="card">Fehler beim Laden der Daten: ${err}</div>`;
+    cardsEl.innerHTML = `<div class="card">Fehler beim Laden der Daten: ${err.message}</div>`;
   });
