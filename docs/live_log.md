@@ -27,3 +27,7 @@
 ## 2026-02-09 22:55
 - Laender-Programme ergaenzt: L-Bank (BW), IFB Hamburg, IB.SH, SAB, NBank, WIBank, LfA Bayern.
 - Alle als laufend markiert, Quellen verlinkt, letzte_pruefung gesetzt.
+
+## 2026-02-09 23:10
+- Landesbank-Programme ergaenzt: IBB (Berlin Innovativ PLUS, Berlin Kapital, IBB-Wachstumsprogramm), TAB (Foerderprogramme nach Branche/Zielgruppe).
+- Quellen verlinkt, letzte_pruefung gesetzt.

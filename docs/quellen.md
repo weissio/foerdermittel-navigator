@@ -51,3 +51,6 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - NBank Foerderprogramme fuer Unternehmen (Niedersachsen): https://www.nbank.de/Foerderprogramme/Foerderprogramme-fuer-Unternehmen/
 - WIBank Foerderprogramme Unternehmen (Hessen): https://www.wibank.de/wibank/unternehmen/foerderprogramme
 - LfA Foerderbank Bayern (Unternehmen): https://lfa.de/unternehmen/
+- IBB Foerderprogramme A-Z: https://www.ibb.de/de/wirtschaftsfoerderung/foerderprogramme-a-z/foerderprogramme-a-z.html
+- IBB Wachstumsprogramm: https://www.ibb.de/wachstumsprogramm
+- TAB Foerderprogramme nach Branche/Zielgruppe: https://www.aufbaubank.de/Foerderprogramme/Branche
