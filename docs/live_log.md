@@ -23,3 +23,7 @@
 ## 2026-02-09 22:40
 - Laender-Programme ergaenzt: ILB Brandenburg (Brandenburg-Kredit Gruendung, Brandenburg GO, Brandenburg-Kredit Mikro), ISB Rheinland-Pfalz (Kredit 601/603, Beratungsprogramm), NRW.BANK (Invest Zukunft, Universalkredit).
 - Quellen: ILB, Gruenden-in-Brandenburg, ISB Foerderung A-Z, NRW.BANK Unternehmensfoerderung.
+
+## 2026-02-09 22:55
+- Laender-Programme ergaenzt: L-Bank (BW), IFB Hamburg, IB.SH, SAB, NBank, WIBank, LfA Bayern.
+- Alle als laufend markiert, Quellen verlinkt, letzte_pruefung gesetzt.

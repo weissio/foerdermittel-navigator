@@ -44,3 +44,10 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - Brandenburg-Kredit Gruendung (Detail): https://www.gruenden-in-brandenburg.de/angebote/brandenburg-kredit-gruendung
 - ISB Rheinland-Pfalz Foerderung A-Z (Programme Uebersicht): https://isb.rlp.de/service/foerderung.html
 - NRW.BANK Unternehmensfoerderung (Programme Uebersicht): https://www.nrwbank.de/de/unternehmen/
+- L-Bank Unternehmerprogramme (BW): https://www.l-bank.de/produkte/unternehmer/
+- IFB Hamburg Unternehmensfoerderung: https://www.ifbhh.de/foerderung/unternehmen
+- IB.SH Programme Unternehmen: https://www.ib-sh.de/foerderprogramme/unternehmen/
+- SAB Foerderprogramme (Sachsen): https://www.sab.sachsen.de/foerderprogramme
+- NBank Foerderprogramme fuer Unternehmen (Niedersachsen): https://www.nbank.de/Foerderprogramme/Foerderprogramme-fuer-Unternehmen/
+- WIBank Foerderprogramme Unternehmen (Hessen): https://www.wibank.de/wibank/unternehmen/foerderprogramme
+- LfA Foerderbank Bayern (Unternehmen): https://lfa.de/unternehmen/
