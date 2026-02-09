@@ -15,3 +15,7 @@
 ## 2026-02-09 22:45
 - Bund-Block Snapshot: BAFA EBN Module 1/2/3, BAFA EEW, ZIM, FZulG, KfW 067/380/511-512, BMWK INVEST vorbereitet; alle als laufend markiert.
 - Quellen verlinkt und `letzte_pruefung` gesetzt.
+
+## 2026-02-09 22:25
+- Preview: Status-Counts jetzt fuer alle Statuswerte (offen/laufend/zukuenftig/sonstige) sichtbar.
+- Start Datenausbau: Landesbanken/Landesfoerderinstitute + EU-Fonds Shared Management + Bund-Programme (laufend).
