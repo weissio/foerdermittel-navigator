@@ -8,8 +8,7 @@ const resetBtn = document.getElementById("resetBtn");
 
 const cardsEl = document.getElementById("cards");
 const countEl = document.getElementById("count");
-const countOffenEl = document.getElementById("countOffen");
-const countLaufendEl = document.getElementById("countLaufend");
+const statusCountsEl = document.getElementById("statusCounts");
 const standEl = document.getElementById("stand");
 
 let data = [];
@@ -88,12 +87,16 @@ function matchesFilter(item) {
 
 function render() {
   const filtered = data.filter(matchesFilter);
-  const offen = filtered.filter(d => d.status === "offen").length;
-  const laufend = filtered.filter(d => d.status === "laufend").length;
+  const byStatus = {};
+  for (const d of filtered) {
+    const key = (d.status || "unbekannt").toLowerCase();
+    byStatus[key] = (byStatus[key] || 0) + 1;
+  }
 
   countEl.textContent = filtered.length;
-  countOffenEl.textContent = offen;
-  countLaufendEl.textContent = laufend;
+  statusCountsEl.textContent = Object.entries(byStatus)
+    .map(([k, v]) => `${k}: ${v}`)
+    .join(" | ") || "–";
 
   cardsEl.innerHTML = "";
   for (const item of filtered) {
