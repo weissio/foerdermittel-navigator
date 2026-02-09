@@ -19,3 +19,7 @@
 ## 2026-02-09 22:25
 - Preview: Status-Counts jetzt fuer alle Statuswerte (offen/laufend/zukuenftig/sonstige) sichtbar.
 - Start Datenausbau: Landesbanken/Landesfoerderinstitute + EU-Fonds Shared Management + Bund-Programme (laufend).
+
+## 2026-02-09 22:40
+- Laender-Programme ergaenzt: ILB Brandenburg (Brandenburg-Kredit Gruendung, Brandenburg GO, Brandenburg-Kredit Mikro), ISB Rheinland-Pfalz (Kredit 601/603, Beratungsprogramm), NRW.BANK (Invest Zukunft, Universalkredit).
+- Quellen: ILB, Gruenden-in-Brandenburg, ISB Foerderung A-Z, NRW.BANK Unternehmensfoerderung.
