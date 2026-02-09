@@ -142,7 +142,7 @@ function resetFilters() {
 });
 resetBtn.addEventListener("click", resetFilters);
 
-fetch("/data/foerderprogramme.csv")
+fetch("../../data/foerderprogramme.csv")
   .then(r => r.text())
   .then(text => {
     data = parseCSV(text);
