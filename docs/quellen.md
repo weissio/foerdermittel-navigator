@@ -38,3 +38,5 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - EIC Funding Opportunities (EIC Accelerator & EIC STEP Scale Up): https://eic.ec.europa.eu/funding-opportunities_en
 
 - EIC Funding Opportunities (Cut-off Dates 2026 inkl. EIC Accelerator & STEP Scale Up, Advanced Innovation Challenges): https://eic.ec.europa.eu/funding-opportunities_en
+- BAFA Energieberatung Nichtwohngebaeude/Anlagen/Systeme (Module 1-3 Uebersicht): https://www.bafa.de/DE/Energie/Energieberatung/Nichtwohngebaeude_Anlagen_Systeme/nichtwohngebaeude_anlagen_systeme_node.html
+- BMWK INVEST – Zuschuss fuer Wagniskapital: https://www.bmwk.de/Redaktion/DE/Dossier/invest.html
