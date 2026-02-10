@@ -64,3 +64,7 @@
 ## 2026-02-10 01:05
 - ESF+ Einstiege ergaenzt: NRW, Niedersachsen, Sachsen.
 - Quellen verlinkt, letzte_pruefung gesetzt.
+
+## 2026-02-10 01:25
+- EFRE-Einstiege ergaenzt: Berlin, Brandenburg, Mecklenburg-Vorpommern.
+- Quellen verlinkt, letzte_pruefung gesetzt.

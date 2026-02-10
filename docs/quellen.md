@@ -76,3 +76,6 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - ESF+ NRW Uebersicht (NRW.BANK): https://www.nrwbank.de/de/foerderung/foerderprodukte/60170/esf-plus---foerderprogramme-des-bundes-2021-2027.html
 - ESF+ Niedersachsen (Call for proposals entry): https://pact-for-skills.ec.europa.eu/stakeholders-and-business/funding-opportunities/european-social-fund-plus-esf-germany-lower-saxonyniedersachsen_en
 - ESF+ Sachsen 2021-2027 (Uebersicht): https://www.schule.sachsen.de/europaeischer-sozialfonds-esf-plus-2021-2027-7745.html
+- EFRE Berlin Programmportal: https://www.berlin.de/sen/wirtschaft/gruenden-und-foerdern/foerderprogramme/efre/
+- EFRE Brandenburg Programmportal: https://efre.brandenburg.de/efre/de/
+- EFRE Mecklenburg-Vorpommern Programmportal: https://www.regierung-mv.de/Landesregierung/wm/EFRE/
