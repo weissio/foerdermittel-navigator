@@ -62,3 +62,5 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - BAB Bremen Unternehmensfoerderung: https://www.bab-bremen.de/de/page/unternehmen
 - IFB MV Unternehmensfoerderung: https://www.lfi-mv.de/foerderprogramme/unternehmen/
 - MBB Brandenburg (Buergschaften): https://www.mbb-mittelstand.de/
+- Foerderdatenbank EFRE (Einstieg/Onlineantrag): https://www.foerderdatenbank.de/FDB/DE/Service/Onlineantrag/EFRE/efre_node.html
+- Foerderdatenbank ESF+ (Einstieg/Onlineantrag): https://www.foerderdatenbank.de/FDB/DE/Service/Onlineantrag/ESF/esf_node.html

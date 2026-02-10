@@ -43,3 +43,7 @@
 ## 2026-02-09 23:50
 - Landesbanken ergaenzt: BAB Bremen, IFB MV, MBB Brandenburg (Buergschaften).
 - Quellen verlinkt, letzte_pruefung gesetzt.
+
+## 2026-02-10 00:05
+- EU-Fonds Einstieg ergaenzt: EFRE-Portal, ESF+-Portal (Foerderdatenbank).
+- Bremen: GRW Unternehmensfoerderung (Uebersicht BAB) ergaenzt.
