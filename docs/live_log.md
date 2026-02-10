@@ -51,3 +51,7 @@
 ## 2026-02-10 00:20
 - EFRE-Programme Einstieg je Bundesland ergaenzt: NRW, Bayern, Baden-Wuerttemberg.
 - Quellen verlinkt, letzte_pruefung gesetzt.
+
+## 2026-02-10 00:35
+- EFRE-Einstiege ergaenzt: Hessen, Niedersachsen, Sachsen.
+- Quellen verlinkt, letzte_pruefung gesetzt.

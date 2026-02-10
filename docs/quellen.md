@@ -67,3 +67,6 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - EFRE/JTF NRW Programmportal: https://www.efre.nrw.de/
 - EFRE Bayern Programmportal: https://www.efre.bayern.de/efre/
 - EFRE Baden-Wuerttemberg Programmportal: https://efre-bw.de/
+- EFRE Hessen Programmportal: https://efre.hessen.de/
+- EFRE Niedersachsen Programmportal: https://www.efre.niedersachsen.de/startseite/
+- EFRE Sachsen Programmportal: https://www.strukturfonds.sachsen.de/efre-4427.html
