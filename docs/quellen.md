@@ -84,3 +84,5 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - ESF+ Berlin (IBB): https://www.ibb.de/de/foerderungen/europaeischer-sozialfonds-plus/europaeischer-sozialfonds-plus.html
 - ESF+ Hamburg: https://www.esf-hamburg.de/der-esf-plus-in-hamburg-617700
 - EFRE Bremen Programm 2021-2027: https://www.efre-bremen.de/foerderperiode-2021-2027/programm-2021-2027-32026
+- ESF+ Brandenburg Programmportal: https://esf.brandenburg.de/esf/de/esf-2021-2027/esf-programm/
+- ESF+ Brandenburg Foerderprogramme 2021-2027 (Zeitplan/Calls): https://esf.brandenburg.de/esf/de/esf-2021-2027/esf-foerderprogramme-2021-2027/

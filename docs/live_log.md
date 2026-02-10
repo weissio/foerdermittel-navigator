@@ -77,3 +77,7 @@
 - ESF+ Einstiege ergaenzt: Berlin, Hamburg.
 - EFRE Einstieg ergaenzt: Bremen.
 - Quellen verlinkt, letzte_pruefung gesetzt.
+
+## 2026-02-10 02:20
+- ESF+ Brandenburg ergaenzt: Programmportal + Foerderprogramme/Zeitplan.
+- Quellen verlinkt, letzte_pruefung gesetzt.
