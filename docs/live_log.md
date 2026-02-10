@@ -35,3 +35,7 @@
 ## 2026-02-09 23:25
 - Saarland-Programme ergaenzt (SIKB/KBG): Beteiligungsprogramm, EFRE Nachrangdarlehensfonds I, Risikopartnerschaften.
 - Quelle: Foerderdatenbank Saarland Programme.
+
+## 2026-02-09 23:35
+- Sachsen-Anhalt ergaenzt: IB-Gruendungsdarlehen 2021-2027, GRW Unternehmensfoerderung (MWL/IB).
+- Quellen verlinkt, letzte_pruefung gesetzt.

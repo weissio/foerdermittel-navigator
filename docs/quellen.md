@@ -57,3 +57,5 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - Foerderdatenbank (Saarland KBG Beteiligungsprogramm): https://www.foerderdatenbank.de/FDB/Content/DE/Foerderprogramm/Land/Saarland/beteiligung-kbg-kmu.html
 - Foerderdatenbank (EFRE Nachrangdarlehensfonds Saarland I): https://www.foerderdatenbank.de/FDB/Content/DE/Foerderprogramm/Land/Saarland/efre-nachrangdarlehensfonds-i.html
 - Foerderdatenbank (Risikopartnerschaften SIKB): https://www.foerderdatenbank.de/FDB/Content/DE/Foerderprogramm/Land/Saarland/risikopartnerschaften-investitionskreditbank.html
+- IB Sachsen-Anhalt Unternehmen (Programme inkl. IB-Gruendungsdarlehen 2021-2027): https://www.ib-sachsen-anhalt.de/de/unternehmen
+- MWL Sachsen-Anhalt GRW Unternehmensfoerderung: https://mwl.sachsen-anhalt.de/ministerium/foerderung/grw-unternehmensfoerderung
