@@ -73,3 +73,6 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - EFRE Schleswig-Holstein Programm 2021-2027: https://www.schleswig-holstein.de/DE/landesregierung/themen/wirtschaft/lpw/efre_programm/efre_2021-2027/efreprogramm-2021-2027_node
 - EFRE Thueringen Programm 2021-2027: https://www.efre-thueringen.de/efre-programm/programm/
 - ESF+ Hessen Programme 2021-2027: https://www.esf-hessen.de/esf-hessen/programme-2021-2027
+- ESF+ NRW Uebersicht (NRW.BANK): https://www.nrwbank.de/de/foerderung/foerderprodukte/60170/esf-plus---foerderprogramme-des-bundes-2021-2027.html
+- ESF+ Niedersachsen (Call for proposals entry): https://pact-for-skills.ec.europa.eu/stakeholders-and-business/funding-opportunities/european-social-fund-plus-esf-germany-lower-saxonyniedersachsen_en
+- ESF+ Sachsen 2021-2027 (Uebersicht): https://www.schule.sachsen.de/europaeischer-sozialfonds-esf-plus-2021-2027-7745.html

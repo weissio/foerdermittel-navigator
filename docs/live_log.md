@@ -60,3 +60,7 @@
 - EFRE-Einstiege ergaenzt: Schleswig-Holstein, Thueringen.
 - ESF+ Hessen Programme 2021-2027 (Uebersicht) ergaenzt.
 - Quellen verlinkt, letzte_pruefung gesetzt.
+
+## 2026-02-10 01:05
+- ESF+ Einstiege ergaenzt: NRW, Niedersachsen, Sachsen.
+- Quellen verlinkt, letzte_pruefung gesetzt.
