@@ -47,3 +47,7 @@
 ## 2026-02-10 00:05
 - EU-Fonds Einstieg ergaenzt: EFRE-Portal, ESF+-Portal (Foerderdatenbank).
 - Bremen: GRW Unternehmensfoerderung (Uebersicht BAB) ergaenzt.
+
+## 2026-02-10 00:20
+- EFRE-Programme Einstieg je Bundesland ergaenzt: NRW, Bayern, Baden-Wuerttemberg.
+- Quellen verlinkt, letzte_pruefung gesetzt.

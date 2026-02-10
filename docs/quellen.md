@@ -64,3 +64,6 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - MBB Brandenburg (Buergschaften): https://www.mbb-mittelstand.de/
 - Foerderdatenbank EFRE (Einstieg/Onlineantrag): https://www.foerderdatenbank.de/FDB/DE/Service/Onlineantrag/EFRE/efre_node.html
 - Foerderdatenbank ESF+ (Einstieg/Onlineantrag): https://www.foerderdatenbank.de/FDB/DE/Service/Onlineantrag/ESF/esf_node.html
+- EFRE/JTF NRW Programmportal: https://www.efre.nrw.de/
+- EFRE Bayern Programmportal: https://www.efre.bayern.de/efre/
+- EFRE Baden-Wuerttemberg Programmportal: https://efre-bw.de/
