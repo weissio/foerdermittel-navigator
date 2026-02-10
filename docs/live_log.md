@@ -31,3 +31,7 @@
 ## 2026-02-09 23:10
 - Landesbank-Programme ergaenzt: IBB (Berlin Innovativ PLUS, Berlin Kapital, IBB-Wachstumsprogramm), TAB (Foerderprogramme nach Branche/Zielgruppe).
 - Quellen verlinkt, letzte_pruefung gesetzt.
+
+## 2026-02-09 23:25
+- Saarland-Programme ergaenzt (SIKB/KBG): Beteiligungsprogramm, EFRE Nachrangdarlehensfonds I, Risikopartnerschaften.
+- Quelle: Foerderdatenbank Saarland Programme.

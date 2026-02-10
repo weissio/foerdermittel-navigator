@@ -54,3 +54,6 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - IBB Foerderprogramme A-Z: https://www.ibb.de/de/wirtschaftsfoerderung/foerderprogramme-a-z/foerderprogramme-a-z.html
 - IBB Wachstumsprogramm: https://www.ibb.de/wachstumsprogramm
 - TAB Foerderprogramme nach Branche/Zielgruppe: https://www.aufbaubank.de/Foerderprogramme/Branche
+- Foerderdatenbank (Saarland KBG Beteiligungsprogramm): https://www.foerderdatenbank.de/FDB/Content/DE/Foerderprogramm/Land/Saarland/beteiligung-kbg-kmu.html
+- Foerderdatenbank (EFRE Nachrangdarlehensfonds Saarland I): https://www.foerderdatenbank.de/FDB/Content/DE/Foerderprogramm/Land/Saarland/efre-nachrangdarlehensfonds-i.html
+- Foerderdatenbank (Risikopartnerschaften SIKB): https://www.foerderdatenbank.de/FDB/Content/DE/Foerderprogramm/Land/Saarland/risikopartnerschaften-investitionskreditbank.html
