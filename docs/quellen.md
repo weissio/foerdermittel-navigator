@@ -70,3 +70,6 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - EFRE Hessen Programmportal: https://efre.hessen.de/
 - EFRE Niedersachsen Programmportal: https://www.efre.niedersachsen.de/startseite/
 - EFRE Sachsen Programmportal: https://www.strukturfonds.sachsen.de/efre-4427.html
+- EFRE Schleswig-Holstein Programm 2021-2027: https://www.schleswig-holstein.de/DE/landesregierung/themen/wirtschaft/lpw/efre_programm/efre_2021-2027/efreprogramm-2021-2027_node
+- EFRE Thueringen Programm 2021-2027: https://www.efre-thueringen.de/efre-programm/programm/
+- ESF+ Hessen Programme 2021-2027: https://www.esf-hessen.de/esf-hessen/programme-2021-2027
