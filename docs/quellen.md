@@ -81,3 +81,6 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - EFRE Mecklenburg-Vorpommern Programmportal: https://www.regierung-mv.de/Landesregierung/wm/EFRE/
 - EFRE Saarland Programm 2021-2027: https://www.saarland.de/SharedDocs/Downloads/DE/staatskanzlei/efre_2021_2027.html
 - EFRE Sachsen-Anhalt Programm 2021-2027 (PDF): https://www.europa.sachsen-anhalt.de/fileadmin/Bibliothek/Politik_und_Verwaltung/StK/EFRE/EFRE_2021-2027.pdf
+- ESF+ Berlin (IBB): https://www.ibb.de/de/foerderungen/europaeischer-sozialfonds-plus/europaeischer-sozialfonds-plus.html
+- ESF+ Hamburg: https://www.esf-hamburg.de/der-esf-plus-in-hamburg-617700
+- EFRE Bremen Programm 2021-2027: https://www.efre-bremen.de/foerderperiode-2021-2027/programm-2021-2027-32026

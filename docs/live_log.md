@@ -72,3 +72,8 @@
 ## 2026-02-10 01:40
 - EFRE-Einstiege ergaenzt: Saarland, Sachsen-Anhalt.
 - Quellen verlinkt, letzte_pruefung gesetzt.
+
+## 2026-02-10 02:05
+- ESF+ Einstiege ergaenzt: Berlin, Hamburg.
+- EFRE Einstieg ergaenzt: Bremen.
+- Quellen verlinkt, letzte_pruefung gesetzt.
