@@ -59,3 +59,6 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - Foerderdatenbank (Risikopartnerschaften SIKB): https://www.foerderdatenbank.de/FDB/Content/DE/Foerderprogramm/Land/Saarland/risikopartnerschaften-investitionskreditbank.html
 - IB Sachsen-Anhalt Unternehmen (Programme inkl. IB-Gruendungsdarlehen 2021-2027): https://www.ib-sachsen-anhalt.de/de/unternehmen
 - MWL Sachsen-Anhalt GRW Unternehmensfoerderung: https://mwl.sachsen-anhalt.de/ministerium/foerderung/grw-unternehmensfoerderung
+- BAB Bremen Unternehmensfoerderung: https://www.bab-bremen.de/de/page/unternehmen
+- IFB MV Unternehmensfoerderung: https://www.lfi-mv.de/foerderprogramme/unternehmen/
+- MBB Brandenburg (Buergschaften): https://www.mbb-mittelstand.de/

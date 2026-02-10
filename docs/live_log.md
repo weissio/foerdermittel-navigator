@@ -39,3 +39,7 @@
 ## 2026-02-09 23:35
 - Sachsen-Anhalt ergaenzt: IB-Gruendungsdarlehen 2021-2027, GRW Unternehmensfoerderung (MWL/IB).
 - Quellen verlinkt, letzte_pruefung gesetzt.
+
+## 2026-02-09 23:50
+- Landesbanken ergaenzt: BAB Bremen, IFB MV, MBB Brandenburg (Buergschaften).
+- Quellen verlinkt, letzte_pruefung gesetzt.
