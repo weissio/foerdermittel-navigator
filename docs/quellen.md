@@ -79,3 +79,5 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - EFRE Berlin Programmportal: https://www.berlin.de/sen/wirtschaft/gruenden-und-foerdern/foerderprogramme/efre/
 - EFRE Brandenburg Programmportal: https://efre.brandenburg.de/efre/de/
 - EFRE Mecklenburg-Vorpommern Programmportal: https://www.regierung-mv.de/Landesregierung/wm/EFRE/
+- EFRE Saarland Programm 2021-2027: https://www.saarland.de/SharedDocs/Downloads/DE/staatskanzlei/efre_2021_2027.html
+- EFRE Sachsen-Anhalt Programm 2021-2027 (PDF): https://www.europa.sachsen-anhalt.de/fileadmin/Bibliothek/Politik_und_Verwaltung/StK/EFRE/EFRE_2021-2027.pdf

@@ -68,3 +68,7 @@
 ## 2026-02-10 01:25
 - EFRE-Einstiege ergaenzt: Berlin, Brandenburg, Mecklenburg-Vorpommern.
 - Quellen verlinkt, letzte_pruefung gesetzt.
+
+## 2026-02-10 01:40
+- EFRE-Einstiege ergaenzt: Saarland, Sachsen-Anhalt.
+- Quellen verlinkt, letzte_pruefung gesetzt.
