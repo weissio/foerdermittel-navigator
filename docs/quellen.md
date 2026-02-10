@@ -88,3 +88,5 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - ESF+ Brandenburg Foerderprogramme 2021-2027 (Zeitplan/Calls): https://esf.brandenburg.de/esf/de/esf-2021-2027/esf-foerderprogramme-2021-2027/
 - ESF+ Mecklenburg-Vorpommern Programmportal: https://www.europa-mv.de/foerderinstrumente/fonds_mv/esf/
 - ESF+ Saarland (Open Call): https://pact-for-skills.ec.europa.eu/stakeholders-and-business/funding-opportunities/european-social-fund-plus-esf-germany-saarland_en
+- ESF+ Schleswig-Holstein (Open Call): https://pact-for-skills.ec.europa.eu/stakeholders-and-business/funding-opportunities/european-social-fund-plus-esf-germany-schleswig-holstein_en
+- ESF+ Thueringen (Open Call): https://pact-for-skills.ec.europa.eu/stakeholders-and-business/funding-opportunities/european-social-fund-plus-esf-germany-thuringiathuringen_en

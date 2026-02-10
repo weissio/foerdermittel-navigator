@@ -85,3 +85,7 @@
 ## 2026-02-10 02:35
 - ESF+ Einstiege ergaenzt: Mecklenburg-Vorpommern (Programmportal), Saarland (Open Call).
 - Quellen verlinkt, letzte_pruefung gesetzt.
+
+## 2026-02-10 02:55
+- ESF+ Einstiege ergaenzt: Schleswig-Holstein (Open Call), Thueringen (Open Call).
+- Quellen verlinkt, letzte_pruefung gesetzt.
