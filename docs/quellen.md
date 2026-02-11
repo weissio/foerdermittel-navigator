@@ -152,3 +152,7 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - ISB Foerderung A-Z (RLP): https://isb.rlp.de/foerderung/foerderung-a-bis-z.html
 - ISB Innovation & Digitalisierung (RLP): https://isb.rlp.de/foerderung/innovation-und-digitalisierung.html
 - ISB Energie (RLP): https://isb.rlp.de/foerderung/energie.html
+- NBank KMU-Kredit: https://www.nbank.de/Unternehmen/Gr%C3%BCnden-Wachsen/KMU-Kredit/
+- NBank KMU-Kredit niedrigschwellig: https://www.nbank.de/Unternehmen/Gr%C3%BCnden-Wachsen/KMU-Kredit-niedrigschwellig/
+- NBank Gruendungs- und Wachstumskredit: https://www.nbank.de/Unternehmen/Gr%C3%BCnden-Wachsen/Gr%C3%BCndungs--und-Wachstumskredit/
+- NBank Niedersachsen Gruendungsstipendium: https://www.nbank.de/Unternehmen/Gr%C3%BCnden-Wachsen/Niedersachsen-Gr%C3%BCndungsstipendium/

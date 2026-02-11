@@ -199,3 +199,10 @@
 - ISB Energie (RLP) ergaenzt.
 - Quellen verlinkt, letzte_pruefung gesetzt.
 
+## 2026-02-11 15:05
+- NBank KMU-Kredit ergaenzt.
+- NBank KMU-Kredit niedrigschwellig ergaenzt.
+- NBank Gruendungs- und Wachstumskredit ergaenzt.
+- Niedersachsen Gruendungsstipendium ergaenzt.
+- Quellen verlinkt, letzte_pruefung gesetzt.
+
