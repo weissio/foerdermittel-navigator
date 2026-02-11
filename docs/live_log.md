@@ -212,3 +212,10 @@
 - IBB Innovationsfachkraft ergaenzt.
 - Quellen verlinkt, letzte_pruefung gesetzt.
 
+
+## 2026-02-12 00:36
+- programm_id-Normalisierung in der Datenbank vorgenommen.
+- `IBM_*` auf `IB_SA_*` umgestellt (Sachsen-Anhalt).
+- `IBB_AQUISITIONSBONUS` auf `IBB_AKQUISITIONSBONUS` umgestellt.
+- `IBB_INNOVATIONSTOOL` auf `IBB_INNOVATIONSFACHKRAFT` umgestellt.
+- Ziel: stabile, konsistente IDs fuer Filter/Referenzen.
