@@ -130,3 +130,8 @@
 - IBB: Wachstumsprogramm und Berlin Kapital ergaenzt.
 - Quellen verlinkt, letzte_pruefung gesetzt.
 
+## 2026-02-11 08:05
+- IBB Pro FIT Fruehphasenfinanzierung ergaenzt.
+- IBB Pro FIT Projektfinanzierung ergaenzt.
+- Quellen verlinkt, letzte_pruefung gesetzt.
+

@@ -115,3 +115,5 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - IFB Hamburg-Kredit Mikro: https://www.ifbhh.de/foerderprogramm/hamburg-kredit-mikro
 - IBB-Wachstumsprogramm: https://www.ibb.de/wachstumsprogramm
 - IBB Berlin Kapital: https://www.ibb.de/berlinkapital
+- IBB Pro FIT Fruehphasenfinanzierung: https://www.ibb.de/de/foerderprogramme/pro-fit-fruehphasenfinanzierung.html
+- IBB Pro FIT Projektfinanzierung: https://www.ibb.de/de/foerderprogramme/pro-fit-projektfinanzierung.html
