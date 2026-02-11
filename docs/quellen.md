@@ -126,3 +126,6 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - IB.SH Innovationsprogramm: https://www.ib-sh.de/foerderprogramme/innovationsprogramm/
 - IB.SH Digitalisierungsprogramm: https://www.ib-sh.de/foerderprogramme/digitalisierungsprogramm/
 - IB.SH Energiewende- und Klimaschutzprogramm: https://www.ib-sh.de/foerderprogramme/energiewende-und-klimaschutzprogramm/
+- MBB Wachstumsagentur Brandenburg: https://www.mbb-mittelstand.de/wachstumsagentur/
+- BAB Bremen Mikrokredit: https://www.bab-bremen.de/foerderung/foerderprogramme/mikrokredit
+- TAB Innovation (Thueringen): https://www.aufbaubank.de/Foerderprogramme/TAB-Innovation

@@ -152,3 +152,9 @@
 - IB.SH Energiewende- und Klimaschutzprogramm ergaenzt.
 - Quellen verlinkt, letzte_pruefung gesetzt.
 
+## 2026-02-11 10:10
+- MBB Wachstumsagenturen Brandenburg ergaenzt.
+- BAB Bremen Mikrokredit ergaenzt.
+- TAB Innovation (Thueringen) ergaenzt.
+- Quellen verlinkt, letzte_pruefung gesetzt.
+
