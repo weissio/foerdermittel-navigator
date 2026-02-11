@@ -140,3 +140,6 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - SAB Innovationspraemie: https://sab.sachsen.de/innovationspr%C3%A4mie1
 - SAB Digitalisierung Zuschuss EFRE 2021-2027: https://sab.sachsen.de/f%C3%B6rderrichtlinie-digitalisierung-zuschuss-efre-2021-bis-2027
 - SAB Technologietransferfoerderung: https://www.sab.sachsen.de/technologietransferf%C3%B6rderung
+- IB Sachsen-Anhalt Gruendungsmikrodarlehen: https://www.ib-sachsen-anhalt.de/de/unternehmen/gruenden-und-wachsen/gruendungsmikrodarlehen
+- IB Sachsen-Anhalt Wachstumsfinanzierung: https://www.ib-sachsen-anhalt.de/de/unternehmen/investieren-finanzieren/wachstum
+- IB Sachsen-Anhalt Unternehmen (Investieren/Finanzieren): https://www.ib-sachsen-anhalt.de/de/unternehmen/investieren-finanzieren

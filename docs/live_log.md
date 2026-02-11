@@ -175,3 +175,9 @@
 - IBB Foerderprogramme A-Z Uebersicht ergaenzt.
 - Quellen verlinkt, letzte_pruefung gesetzt.
 
+## 2026-02-11 12:45
+- IB Sachsen-Anhalt Gruendungsmikrodarlehen ergaenzt.
+- IB Sachsen-Anhalt Wachstumsfinanzierung ergaenzt.
+- IB Sachsen-Anhalt Unternehmensdarlehen (Investieren/Finanzieren) ergaenzt.
+- Quellen verlinkt, letzte_pruefung gesetzt.
+
