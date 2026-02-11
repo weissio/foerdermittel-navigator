@@ -140,3 +140,9 @@
 - L-Bank Digitalisierungsfinanzierung ergaenzt.
 - Quellen verlinkt, letzte_pruefung gesetzt.
 
+## 2026-02-11 09:05
+- LfA Universalkredit ergaenzt.
+- LfA Gruendungs- und Wachstumskredit (GuW) fuer junge und etablierte Unternehmen ergaenzt.
+- NRW MID Digitalisierung ergaenzt.
+- Quellen verlinkt, letzte_pruefung gesetzt.
+

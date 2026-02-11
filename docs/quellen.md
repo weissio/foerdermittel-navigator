@@ -119,3 +119,7 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - IBB Pro FIT Projektfinanzierung: https://www.ibb.de/de/foerderprogramme/pro-fit-projektfinanzierung.html
 - L-Bank GuW-BW: https://www.l-bank.de/produkte/wirtschaftsfoerderung/guw-bw.html
 - L-Bank Digitalisierungsfinanzierung: https://www.l-bank.de/produkte/wirtschaftsfoerderung/digitalisierungsfinanzierung.html
+- LfA Universalkredit (Darlehen): https://www.lfa.de/website/de/foerderangebote/finanzierung/stabilisierung/foerderangebot/Darlehen/index.php
+- LfA Gruendungs- und Wachstumskredit (GuW) Junge Unternehmen: https://www.lfa.de/website/de/foerderangebote/gruendung/index.php
+- LfA Gruendungs- und Wachstumskredit (GuW) Etablierte Unternehmen: https://www.lfa.de/website/de/foerderangebote/gruendung-wachstum/wachstum/index.php
+- NRW MID Digitalisierung (Produktdetail): https://www.nrwbank.de/de/foerderung/foerderprodukte/60348/produktdetail.html
