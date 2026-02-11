@@ -117,3 +117,5 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - IBB Berlin Kapital: https://www.ibb.de/berlinkapital
 - IBB Pro FIT Fruehphasenfinanzierung: https://www.ibb.de/de/foerderprogramme/pro-fit-fruehphasenfinanzierung.html
 - IBB Pro FIT Projektfinanzierung: https://www.ibb.de/de/foerderprogramme/pro-fit-projektfinanzierung.html
+- L-Bank GuW-BW: https://www.l-bank.de/produkte/wirtschaftsfoerderung/guw-bw.html
+- L-Bank Digitalisierungsfinanzierung: https://www.l-bank.de/produkte/wirtschaftsfoerderung/digitalisierungsfinanzierung.html

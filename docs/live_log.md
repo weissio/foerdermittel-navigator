@@ -135,3 +135,8 @@
 - IBB Pro FIT Projektfinanzierung ergaenzt.
 - Quellen verlinkt, letzte_pruefung gesetzt.
 
+## 2026-02-11 08:35
+- L-Bank GuW-BW ergaenzt.
+- L-Bank Digitalisierungsfinanzierung ergaenzt.
+- Quellen verlinkt, letzte_pruefung gesetzt.
+
