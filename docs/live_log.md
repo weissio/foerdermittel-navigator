@@ -122,3 +122,11 @@
 - ISB RLP Programme ergaenzt: Mittelstandskredit, Betriebsmittelkredit, Weiterbildungs- und Beratungsprogramme.
 - Quellen verlinkt, letzte_pruefung gesetzt.
 
+## 2026-02-11 07:45
+- L-Bank Innovationsfinanzierung ergaenzt.
+- SAB Sachsenkredit "Universal" ergaenzt.
+- NBank Investkredit und MikroSTARTer ergaenzt.
+- IFB Hamburg: Kredit Gruendung/Nachfolge und Kredit Mikro ergaenzt.
+- IBB: Wachstumsprogramm und Berlin Kapital ergaenzt.
+- Quellen verlinkt, letzte_pruefung gesetzt.
+

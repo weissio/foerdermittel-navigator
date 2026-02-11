@@ -107,3 +107,11 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - WIBank HessenFonds (Klein-/Grossdarlehen, Innovationskredit, Beteiligung, Gründung/Wachstum): https://www.wibank.de/wibank/unternehmensfinanzierung/hessenfonds/hessenfonds-1.jsp
 - ISB Förderung A-Z (RLP): https://isb.rlp.de/foerderung/foerderung-a-bis-z.html
 - ISB Wachsen & Investieren (RLP): https://isb.rlp.de/foerderung/wachsen-und-investieren.html
+- L-Bank Innovationsfinanzierung: https://www.l-bank.de/produkte/wirtschaftsfoerderung/innovationsfinanzierung.html
+- SAB Sachsenkredit "Universal": https://www.sab.sachsen.de/sab-sachsenkredit-universal-neu
+- NBank Investkredit: https://www.foerderdatenbank.de/FDB/Content/DE/Foerderprogramm/Land/Niedersachsen/nbank-investkredit.html
+- NBank MikroSTARTer Niedersachsen: https://www.nbank.de/F%C3%B6rderprogramme/Aktuelle-F%C3%B6rderprogramme/MikroSTARTer-Niedersachsen.html
+- IFB Hamburg-Kredit Gruendung und Nachfolge: https://www.ifbhh.de/ifb/foerderprogramm/hamburg-kredit-gruendung-und-nachfolge
+- IFB Hamburg-Kredit Mikro: https://www.ifbhh.de/foerderprogramm/hamburg-kredit-mikro
+- IBB-Wachstumsprogramm: https://www.ibb.de/wachstumsprogramm
+- IBB Berlin Kapital: https://www.ibb.de/berlinkapital
