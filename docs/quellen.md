@@ -133,3 +133,6 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - NRW MID Digitale Sicherheit: https://www.nrwbank.de/de/foerderung/foerderprodukte/60347/produktdetail.html
 - NRW MID Digitalisierung (Assistenzsysteme): https://www.nrwbank.de/de/foerderung/foerderprodukte/60349/produktdetail.html
 - NRW MID Innovations-/Digitalscouts: https://www.nrwbank.de/de/foerderung/foerderprodukte/60355/produktdetail.html
+- NBank Innovationsfoerderprogramm: https://www.nbank.de/F%C3%B6rderprogramme/Aktuelle-F%C3%B6rderprogramme/Innovationsf%C3%B6rderprogramm.html
+- SAB Innovation (EFRE): https://www.sab.sachsen.de/innovation-efre
+- ILB ProFIT Brandenburg: https://www.ilb.de/de/foerderung/foerderprodukte/profit/

@@ -163,3 +163,9 @@
 - NRW MID Innovations-/Digitalscouts ergaenzt.
 - Quellen verlinkt, letzte_pruefung gesetzt.
 
+## 2026-02-11 11:05
+- NBank Innovationsfoerderprogramm ergaenzt.
+- SAB Innovation (EFRE) ergaenzt.
+- ILB ProFIT Brandenburg ergaenzt.
+- Quellen verlinkt, letzte_pruefung gesetzt.
+
