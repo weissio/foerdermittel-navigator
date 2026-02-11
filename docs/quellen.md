@@ -99,3 +99,5 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - ESF+ Niedersachsen Programmportal: https://www.esf.niedersachsen.de/startseite/
 - ESF+ Berlin Programmportal: https://www.berlin.de/sen/arbeit/europaeischer-sozialfonds-plus/
 - ESF+ Hamburg Programme/Projektaufrufe: https://www.esf-hamburg.de/foerderung-617696
+- IB.SH Mittelstandskredit: https://www.ib-sh.de/foerderprogramme/ib-sh-mittelstandskredit/
+- L-Bank Gruendung und Wachstum (L-Plus): https://www.l-bank.de/produkte/unternehmer/gruendung-und-wachstum.html

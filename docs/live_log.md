@@ -106,3 +106,7 @@
 - ESF+ Berlin Programmportal ergaenzt.
 - ESF+ Hamburg Programme/Projektaufrufe ergaenzt.
 - Quellen verlinkt, letzte_pruefung gesetzt.
+
+## 2026-02-10 05:00
+- Landesbanken Detailprogramme ergaenzt: IB.SH Mittelstandskredit, L-Bank Gruendung und Wachstum.
+- Quellen verlinkt, letzte_pruefung gesetzt.
