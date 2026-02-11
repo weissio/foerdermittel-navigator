@@ -181,3 +181,9 @@
 - IB Sachsen-Anhalt Unternehmensdarlehen (Investieren/Finanzieren) ergaenzt.
 - Quellen verlinkt, letzte_pruefung gesetzt.
 
+## 2026-02-11 13:20
+- IBB Technologiecoaching ergaenzt.
+- IBB Go-Bio initial ergaenzt.
+- IBB Innovationsassistent/in ergaenzt.
+- Quellen verlinkt, letzte_pruefung gesetzt.
+

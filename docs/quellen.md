@@ -143,3 +143,6 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - IB Sachsen-Anhalt Gruendungsmikrodarlehen: https://www.ib-sachsen-anhalt.de/de/unternehmen/gruenden-und-wachsen/gruendungsmikrodarlehen
 - IB Sachsen-Anhalt Wachstumsfinanzierung: https://www.ib-sachsen-anhalt.de/de/unternehmen/investieren-finanzieren/wachstum
 - IB Sachsen-Anhalt Unternehmen (Investieren/Finanzieren): https://www.ib-sachsen-anhalt.de/de/unternehmen/investieren-finanzieren
+- IBB Technologiecoaching: https://www.ibb.de/de/foerderprogramme/technologiecoaching.html
+- IBB Go-Bio initial: https://www.ibb.de/de/foerderprogramme/go-bio-initial.html
+- IBB Innovationsassistent/in: https://www.ibb.de/de/foerderprogramme/innovationsassistent-in.html
