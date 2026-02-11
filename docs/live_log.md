@@ -219,3 +219,9 @@
 - `IBB_AQUISITIONSBONUS` auf `IBB_AKQUISITIONSBONUS` umgestellt.
 - `IBB_INNOVATIONSTOOL` auf `IBB_INNOVATIONSFACHKRAFT` umgestellt.
 - Ziel: stabile, konsistente IDs fuer Filter/Referenzen.
+
+## 2026-02-12 00:44
+- Datenqualitaetscheck ausgefuehrt.
+- `programm_id`: 158 eindeutig, keine Duplikate.
+- `status`-Werte konsistent (`laufend`, `offen`, `geplant`).
+- Keine Status/Kategorie-Inkonsistenzen gefunden.
