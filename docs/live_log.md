@@ -93,3 +93,7 @@
 ## 2026-02-10 03:10
 - ESF+ Programme ergaenzt: Bayern, Baden-Wuerttemberg, Rheinland-Pfalz.
 - Quellen verlinkt, letzte_pruefung gesetzt.
+
+## 2026-02-10 03:40
+- ESF+ Programme ergaenzt: Sachsen-Anhalt, Saarland.
+- Quellen verlinkt, letzte_pruefung gesetzt.
