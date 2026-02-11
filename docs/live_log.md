@@ -206,3 +206,9 @@
 - Niedersachsen Gruendungsstipendium ergaenzt.
 - Quellen verlinkt, letzte_pruefung gesetzt.
 
+## 2026-02-11 15:40
+- IBB Coaching BONUS ergaenzt.
+- IBB Akquisitionsbonus ergaenzt.
+- IBB Innovationsfachkraft ergaenzt.
+- Quellen verlinkt, letzte_pruefung gesetzt.
+

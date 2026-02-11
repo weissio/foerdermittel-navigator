@@ -156,3 +156,6 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - NBank KMU-Kredit niedrigschwellig: https://www.nbank.de/Unternehmen/Gr%C3%BCnden-Wachsen/KMU-Kredit-niedrigschwellig/
 - NBank Gruendungs- und Wachstumskredit: https://www.nbank.de/Unternehmen/Gr%C3%BCnden-Wachsen/Gr%C3%BCndungs--und-Wachstumskredit/
 - NBank Niedersachsen Gruendungsstipendium: https://www.nbank.de/Unternehmen/Gr%C3%BCnden-Wachsen/Niedersachsen-Gr%C3%BCndungsstipendium/
+- IBB Coaching BONUS: https://www.ibb.de/de/foerderprogramme/coaching-bonus.html
+- IBB Akquisitionsbonus: https://www.ibb.de/de/foerderprogramme/akquisitionsbonus.html
+- IBB Innovationsfachkraft: https://www.ibb.de/de/foerderprogramme/innovationsfachkraft.html
