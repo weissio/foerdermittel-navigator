@@ -97,3 +97,7 @@
 ## 2026-02-10 03:40
 - ESF+ Programme ergaenzt: Sachsen-Anhalt, Saarland.
 - Quellen verlinkt, letzte_pruefung gesetzt.
+
+## 2026-02-10 04:05
+- ESF+ Programme ergaenzt: Bremen, Niedersachsen (Programmportale).
+- Quellen verlinkt, letzte_pruefung gesetzt.

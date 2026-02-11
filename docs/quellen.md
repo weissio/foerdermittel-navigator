@@ -95,3 +95,5 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - ESF+ Rheinland-Pfalz Programm: https://esf.rlp.de/esf-programm
 - ESF+ Sachsen-Anhalt Programmportal: https://www.europa.sachsen-anhalt.de/ESF/ESF-2021-2027
 - ESF+ Saarland Programmportal: https://www.saarland.de/DE/portale/esfplus/esfplus_node.html
+- ESF+ Bremen Programmportal: https://www.esf.bremen.de/
+- ESF+ Niedersachsen Programmportal: https://www.esf.niedersachsen.de/startseite/
