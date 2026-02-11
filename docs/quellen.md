@@ -149,3 +149,6 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - TAB Forschung und Entwicklung: https://www.aufbaubank.de/Foerderprogramme/Forschung-Entwicklung
 - TAB Digitalisierung: https://www.aufbaubank.de/Foerderprogramme/Digitalisierung
 - TAB Energie und Klimaschutz: https://www.aufbaubank.de/Foerderprogramme/Energie-Klimaschutz
+- ISB Foerderung A-Z (RLP): https://isb.rlp.de/foerderung/foerderung-a-bis-z.html
+- ISB Innovation & Digitalisierung (RLP): https://isb.rlp.de/foerderung/innovation-und-digitalisierung.html
+- ISB Energie (RLP): https://isb.rlp.de/foerderung/energie.html

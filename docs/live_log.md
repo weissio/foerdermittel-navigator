@@ -193,3 +193,9 @@
 - TAB Energie & Klimaschutz ergaenzt.
 - Quellen verlinkt, letzte_pruefung gesetzt.
 
+## 2026-02-11 14:30
+- ISB Weiterbildung (RLP) ergaenzt.
+- ISB Digitalisierung & Innovation (RLP) ergaenzt.
+- ISB Energie (RLP) ergaenzt.
+- Quellen verlinkt, letzte_pruefung gesetzt.
+
