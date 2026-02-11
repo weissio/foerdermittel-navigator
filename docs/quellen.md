@@ -103,3 +103,7 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - L-Bank Gruendung und Wachstum (L-Plus): https://www.l-bank.de/produkte/unternehmer/gruendung-und-wachstum.html
 - NRW.BANK.Gründung und Wachstum: https://www.nrwbank.de/de/foerderung/foerderprodukte/60100/nrwbank-gruendung-und-wachstum.html
 - LfA Innovationskredit: https://www.umweltpakt.bayern.de/werkzeuge/foerderfibel/programme/12/innovationskredit
+- ILB Brandenburg-Kredit Unternehmen: https://www.foerderdatenbank.de/FDB/Content/DE/Foerderprogramm/Land/Brandenburg/brandenburg-kredit-unternehmen.html
+- WIBank HessenFonds (Klein-/Grossdarlehen, Innovationskredit, Beteiligung, Gründung/Wachstum): https://www.wibank.de/wibank/unternehmensfinanzierung/hessenfonds/hessenfonds-1.jsp
+- ISB Förderung A-Z (RLP): https://isb.rlp.de/foerderung/foerderung-a-bis-z.html
+- ISB Wachsen & Investieren (RLP): https://isb.rlp.de/foerderung/wachsen-und-investieren.html

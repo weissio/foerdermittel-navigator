@@ -116,3 +116,9 @@
 - IB.SH Mittelstandskredit Quelle auf Produktseite aktualisiert.
 - Quellen verlinkt, letzte_pruefung gesetzt.
 
+## 2026-02-11 07:16
+- ILB Brandenburg-Kredit Unternehmen ergaenzt.
+- WIBank HessenFonds-Programme (Klein-/Grossdarlehen, Innovationskredit, Gruendung & Wachstum, Beteiligung) ergaenzt.
+- ISB RLP Programme ergaenzt: Mittelstandskredit, Betriebsmittelkredit, Weiterbildungs- und Beratungsprogramme.
+- Quellen verlinkt, letzte_pruefung gesetzt.
+
