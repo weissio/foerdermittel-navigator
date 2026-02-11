@@ -90,3 +90,6 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - ESF+ Saarland (Open Call): https://pact-for-skills.ec.europa.eu/stakeholders-and-business/funding-opportunities/european-social-fund-plus-esf-germany-saarland_en
 - ESF+ Schleswig-Holstein (Open Call): https://pact-for-skills.ec.europa.eu/stakeholders-and-business/funding-opportunities/european-social-fund-plus-esf-germany-schleswig-holstein_en
 - ESF+ Thueringen (Open Call): https://pact-for-skills.ec.europa.eu/stakeholders-and-business/funding-opportunities/european-social-fund-plus-esf-germany-thuringiathuringen_en
+- ESF+ Bayern Programmportal: https://www.esf.bayern.de/
+- ESF+ Baden-Wuerttemberg Programm: https://www.esf-bw.de/esf-plus-in-bw/programm-des-esf-plus-in-baden-wuerttemberg
+- ESF+ Rheinland-Pfalz Programm: https://esf.rlp.de/esf-programm
