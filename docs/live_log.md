@@ -169,3 +169,9 @@
 - ILB ProFIT Brandenburg ergaenzt.
 - Quellen verlinkt, letzte_pruefung gesetzt.
 
+## 2026-02-11 12:00
+- Sachsen-Anhalt INVESTIERT ergaenzt (Call derzeit geschlossen; zukuenftig).
+- SAB Innovationspraemie, Digitalisierung Zuschuss EFRE 2021-2027 und Technologietransfer ergaenzt.
+- IBB Foerderprogramme A-Z Uebersicht ergaenzt.
+- Quellen verlinkt, letzte_pruefung gesetzt.
+

@@ -136,3 +136,7 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - NBank Innovationsfoerderprogramm: https://www.nbank.de/F%C3%B6rderprogramme/Aktuelle-F%C3%B6rderprogramme/Innovationsf%C3%B6rderprogramm.html
 - SAB Innovation (EFRE): https://www.sab.sachsen.de/innovation-efre
 - ILB ProFIT Brandenburg: https://www.ilb.de/de/foerderung/foerderprodukte/profit/
+- Sachsen-Anhalt INVESTIERT: https://www.ib-sachsen-anhalt.de/de/unternehmen/investieren-finanzieren/investiert
+- SAB Innovationspraemie: https://sab.sachsen.de/innovationspr%C3%A4mie1
+- SAB Digitalisierung Zuschuss EFRE 2021-2027: https://sab.sachsen.de/f%C3%B6rderrichtlinie-digitalisierung-zuschuss-efre-2021-bis-2027
+- SAB Technologietransferfoerderung: https://www.sab.sachsen.de/technologietransferf%C3%B6rderung
