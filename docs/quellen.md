@@ -123,3 +123,6 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - LfA Gruendungs- und Wachstumskredit (GuW) Junge Unternehmen: https://www.lfa.de/website/de/foerderangebote/gruendung/index.php
 - LfA Gruendungs- und Wachstumskredit (GuW) Etablierte Unternehmen: https://www.lfa.de/website/de/foerderangebote/gruendung-wachstum/wachstum/index.php
 - NRW MID Digitalisierung (Produktdetail): https://www.nrwbank.de/de/foerderung/foerderprodukte/60348/produktdetail.html
+- IB.SH Innovationsprogramm: https://www.ib-sh.de/foerderprogramme/innovationsprogramm/
+- IB.SH Digitalisierungsprogramm: https://www.ib-sh.de/foerderprogramme/digitalisierungsprogramm/
+- IB.SH Energiewende- und Klimaschutzprogramm: https://www.ib-sh.de/foerderprogramme/energiewende-und-klimaschutzprogramm/

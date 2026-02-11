@@ -146,3 +146,9 @@
 - NRW MID Digitalisierung ergaenzt.
 - Quellen verlinkt, letzte_pruefung gesetzt.
 
+## 2026-02-11 09:30
+- IB.SH Innovationsprogramm ergaenzt.
+- IB.SH Digitalisierungsprogramm ergaenzt.
+- IB.SH Energiewende- und Klimaschutzprogramm ergaenzt.
+- Quellen verlinkt, letzte_pruefung gesetzt.
+
