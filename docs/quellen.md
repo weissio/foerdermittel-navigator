@@ -97,3 +97,5 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - ESF+ Saarland Programmportal: https://www.saarland.de/DE/portale/esfplus/esfplus_node.html
 - ESF+ Bremen Programmportal: https://www.esf.bremen.de/
 - ESF+ Niedersachsen Programmportal: https://www.esf.niedersachsen.de/startseite/
+- ESF+ Berlin Programmportal: https://www.berlin.de/sen/arbeit/europaeischer-sozialfonds-plus/
+- ESF+ Hamburg Programme/Projektaufrufe: https://www.esf-hamburg.de/foerderung-617696

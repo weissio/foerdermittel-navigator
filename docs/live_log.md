@@ -101,3 +101,8 @@
 ## 2026-02-10 04:05
 - ESF+ Programme ergaenzt: Bremen, Niedersachsen (Programmportale).
 - Quellen verlinkt, letzte_pruefung gesetzt.
+
+## 2026-02-10 04:30
+- ESF+ Berlin Programmportal ergaenzt.
+- ESF+ Hamburg Programme/Projektaufrufe ergaenzt.
+- Quellen verlinkt, letzte_pruefung gesetzt.
