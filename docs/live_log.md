@@ -158,3 +158,8 @@
 - TAB Innovation (Thueringen) ergaenzt.
 - Quellen verlinkt, letzte_pruefung gesetzt.
 
+## 2026-02-11 10:40
+- NRW MID Innovation, Digitale Sicherheit, Digitale Assistenzsysteme ergaenzt.
+- NRW MID Innovations-/Digitalscouts ergaenzt.
+- Quellen verlinkt, letzte_pruefung gesetzt.
+

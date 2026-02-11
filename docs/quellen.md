@@ -129,3 +129,7 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - MBB Wachstumsagentur Brandenburg: https://www.mbb-mittelstand.de/wachstumsagentur/
 - BAB Bremen Mikrokredit: https://www.bab-bremen.de/foerderung/foerderprogramme/mikrokredit
 - TAB Innovation (Thueringen): https://www.aufbaubank.de/Foerderprogramme/TAB-Innovation
+- NRW MID Innovation: https://www.nrwbank.de/de/foerderung/foerderprodukte/60346/produktdetail.html
+- NRW MID Digitale Sicherheit: https://www.nrwbank.de/de/foerderung/foerderprodukte/60347/produktdetail.html
+- NRW MID Digitalisierung (Assistenzsysteme): https://www.nrwbank.de/de/foerderung/foerderprodukte/60349/produktdetail.html
+- NRW MID Innovations-/Digitalscouts: https://www.nrwbank.de/de/foerderung/foerderprodukte/60355/produktdetail.html
