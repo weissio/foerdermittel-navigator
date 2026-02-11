@@ -187,3 +187,9 @@
 - IBB Innovationsassistent/in ergaenzt.
 - Quellen verlinkt, letzte_pruefung gesetzt.
 
+## 2026-02-11 13:55
+- TAB Forschung & Entwicklung ergaenzt.
+- TAB Digitalisierung ergaenzt.
+- TAB Energie & Klimaschutz ergaenzt.
+- Quellen verlinkt, letzte_pruefung gesetzt.
+

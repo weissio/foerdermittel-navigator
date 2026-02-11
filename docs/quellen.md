@@ -146,3 +146,6 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - IBB Technologiecoaching: https://www.ibb.de/de/foerderprogramme/technologiecoaching.html
 - IBB Go-Bio initial: https://www.ibb.de/de/foerderprogramme/go-bio-initial.html
 - IBB Innovationsassistent/in: https://www.ibb.de/de/foerderprogramme/innovationsassistent-in.html
+- TAB Forschung und Entwicklung: https://www.aufbaubank.de/Foerderprogramme/Forschung-Entwicklung
+- TAB Digitalisierung: https://www.aufbaubank.de/Foerderprogramme/Digitalisierung
+- TAB Energie und Klimaschutz: https://www.aufbaubank.de/Foerderprogramme/Energie-Klimaschutz
