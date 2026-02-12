@@ -28,6 +28,21 @@ function buildOptions(selectEl, values, label = "Alle") {
   }
 }
 
+function collectThemeValues(rows) {
+  const set = new Set();
+  const splitBy = /[|/,;]/;
+  for (const row of rows) {
+    const raw = (row.themen_schwerpunkt || row.thema || "").trim();
+    if (!raw) continue;
+    raw
+      .split(splitBy)
+      .map(s => s.trim())
+      .filter(Boolean)
+      .forEach(v => set.add(v));
+  }
+  return set;
+}
+
 function parseCSV(text) {
   if (!text || !text.trim()) return [];
   const rows = [];
@@ -95,7 +110,9 @@ function matchesFilter(item) {
   if (projektart && !item.projektart.toLowerCase().includes(projektart)) return false;
   if (foerderart && !item.foerderart.toLowerCase().includes(foerderart)) return false;
   if (zielgruppe && !item.zielgruppe.toLowerCase().includes(zielgruppe)) return false;
-  const themaField = (item.themen_schwerpunkt || item.thema || "").toLowerCase();
+  const themaField = (item.themen_schwerpunkt || item.thema || "")
+    .toLowerCase()
+    .replace(/[|/,;]/g, " ");
   if (thema && !themaField.includes(thema)) return false;
   if (q) {
     const hay = [
@@ -229,7 +246,7 @@ loadCSV()
     buildOptions(projektartEl, new Set(data.map(d => d.projektart)), "Alle Projektarten");
     buildOptions(foerderartEl, new Set(data.map(d => d.foerderart)), "Alle Foerderarten");
     buildOptions(zielgruppeEl, new Set(data.map(d => d.zielgruppe)), "Alle Zielgruppen");
-    buildOptions(themaEl, new Set(data.map(d => d.themen_schwerpunkt || d.thema)), "Alle Themen");
+    buildOptions(themaEl, collectThemeValues(data), "Alle Themen");
     const letztePruefungen = data
       .map(d => d.letzte_pruefung)
       .filter(v => /^\d{4}-\d{2}-\d{2}$/.test(v))

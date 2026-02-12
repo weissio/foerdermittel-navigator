@@ -262,3 +262,8 @@
 - Feste Statuszaehlung eingefuehrt: `offen | laufend | geplant`.
 - Ergebnisliste sortiert: zuerst `offen` (naechste Frist zuerst), dann `laufend`, dann `geplant`.
 - Fristanzeige priorisiert nun konkrete Datumsfelder (`call_deadline`, `call_close_date`) robust.
+
+## 2026-02-12 04:22
+- Themenfilter in der Preview praezisiert.
+- Themenoptionen werden jetzt aus einzelnen Tokens gebildet (Split bei `| , / ;`) statt kompletter Rohstrings.
+- Filtervergleich robust gegen Trennzeichen in `themen_schwerpunkt`/`thema`.
