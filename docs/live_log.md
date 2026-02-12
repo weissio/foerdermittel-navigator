@@ -241,3 +241,8 @@
 - CSV-Parsing auf escaped Quotes/Kommas in Feldern stabilisiert.
 - Themenfilter erweitert: Fallback auf `thema`, wenn `themen_schwerpunkt` leer ist.
 - Datenstand-Anzeige auf max. `letzte_pruefung` umgestellt (statt aktuellem Tagesdatum).
+
+## 2026-02-12 01:05
+- Datenqualitaet verbessert: fehlende `projektart` und `themen_schwerpunkt` in 4 EU-Einstiegsprogrammen gefuellt.
+- Betroffen: `EU_DIGITAL_EUROPE`, `EU_FUNDS_DE_PORTAL`, `EU_HORIZON`, `EU_SINGLE_MARKET`.
+- Validator erneut ausgefuehrt: `Validation OK`.
