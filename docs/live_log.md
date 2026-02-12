@@ -312,3 +312,7 @@
 - Monatsbatch-Skript angelegt: `scripts/run_monthly_batch.sh`.
 - Funktion: QA-Lauf ausfuehren (`scripts/run_qa.sh`) + Eintrag in `data/update_log.csv` automatisiert schreiben.
 - `docs/update_process.md` um konkreten Monatslauf-Aufruf erweitert.
+
+## 2026-02-12 09:06
+- `docs/qa_commands.md` erweitert: Monatsbatch-Aufruf (`scripts/run_monthly_batch.sh`) als Standardkommando dokumentiert.
+- Ziel: QA und Update-Log aus einer zentralen Kommandoliste nutzbar.
