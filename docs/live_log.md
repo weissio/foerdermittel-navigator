@@ -296,3 +296,9 @@
 ## 2026-02-12 07:08
 - QA-Bedienung dokumentiert in `docs/qa_commands.md`.
 - Enthalten: Standardlauf (`scripts/run_qa.sh`), Einzelchecks und erwartete Ergebnisse.
+
+## 2026-02-12 07:17
+- Neues Snapshot-Tool angelegt: `scripts/report_deadlines.py`.
+- Ausgabe-Datei: `docs/deadline_snapshot.md`.
+- QA-Runner erweitert (`scripts/run_qa.sh`) und Schrittzaehlung auf 4 Schritte harmonisiert.
+- Gesamt-QA erfolgreich durchgelaufen.
