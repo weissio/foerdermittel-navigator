@@ -2,7 +2,7 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-12 06:09`
+- Erzeugt am: `2026-02-12 06:39`
 - Datensaetze: `158`
 - Eindeutige `programm_id`: `158`
 
@@ -107,4 +107,4 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | themen_schwerpunkt | 0 |
 | thema | 0 |
 | match_reason | 0 |
-| foerdergegenstand | 4 |
+| foerdergegenstand | 0 |

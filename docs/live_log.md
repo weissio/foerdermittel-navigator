@@ -276,3 +276,8 @@
 ## 2026-02-12 06:09
 - Kombinierter QA-Lauf ausgefuehrt: `validate_foerderprogramme`, `check_deadlines`, `report_coverage`.
 - Ergebnis: Validierung OK, keine offenen Calls mit nur abgelaufener Frist, Coverage-Snapshot aktualisiert.
+
+## 2026-02-12 06:25
+- Datenqualitaet verbessert: `foerdergegenstand` in vier EU-Einstiegsprogrammen vervollstaendigt.
+- Betroffen: `EU_DIGITAL_EUROPE`, `EU_FUNDS_DE_PORTAL`, `EU_HORIZON`, `EU_SINGLE_MARKET`.
+- Kombinierter QA-Lauf erfolgreich (Validation OK, Deadline-Check stabil, Coverage aktualisiert).
