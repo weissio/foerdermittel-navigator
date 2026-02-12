@@ -316,3 +316,8 @@
 ## 2026-02-12 09:06
 - `docs/qa_commands.md` erweitert: Monatsbatch-Aufruf (`scripts/run_monthly_batch.sh`) als Standardkommando dokumentiert.
 - Ziel: QA und Update-Log aus einer zentralen Kommandoliste nutzbar.
+
+## 2026-02-12 09:20
+- Monatsbatch ausgefuehrt: `scripts/run_monthly_batch.sh`.
+- QA komplett erfolgreich (`validate`, `deadlines`, `coverage`, `deadline_snapshot`).
+- `data/update_log.csv` um Batch-Eintrag erweitert (158 geprueft, 0 geaendert).
