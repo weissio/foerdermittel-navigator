@@ -29,33 +29,58 @@ function buildOptions(selectEl, values, label = "Alle") {
 }
 
 function parseCSV(text) {
-  const lines = text.split(/\r?\n/).filter(Boolean);
-  if (!lines.length) return [];
-  const headers = lines[0].split(",").map(h => h.trim());
+  if (!text || !text.trim()) return [];
   const rows = [];
-  for (let i = 1; i < lines.length; i++) {
-    const row = [];
-    let current = "";
-    let inQuotes = false;
-    for (let j = 0; j < lines[i].length; j++) {
-      const char = lines[i][j];
-      if (char === '"' ) {
-        inQuotes = !inQuotes;
-      } else if (char === "," && !inQuotes) {
-        row.push(current);
-        current = "";
+  let row = [];
+  let field = "";
+  let inQuotes = false;
+
+  for (let i = 0; i < text.length; i++) {
+    const ch = text[i];
+    const next = text[i + 1];
+
+    if (ch === '"') {
+      if (inQuotes && next === '"') {
+        field += '"';
+        i += 1;
       } else {
-        current += char;
+        inQuotes = !inQuotes;
       }
+      continue;
     }
-    row.push(current);
+
+    if (ch === "," && !inQuotes) {
+      row.push(field);
+      field = "";
+      continue;
+    }
+
+    if ((ch === "\n" || ch === "\r") && !inQuotes) {
+      if (ch === "\r" && next === "\n") i += 1;
+      row.push(field);
+      field = "";
+      if (row.some(cell => cell !== "")) rows.push(row);
+      row = [];
+      continue;
+    }
+
+    field += ch;
+  }
+
+  if (field.length || row.length) {
+    row.push(field);
+    if (row.some(cell => cell !== "")) rows.push(row);
+  }
+
+  if (!rows.length) return [];
+  const headers = rows[0].map(h => (h || "").trim());
+  return rows.slice(1).map(cols => {
     const obj = {};
     headers.forEach((h, idx) => {
-      obj[h] = (row[idx] || "").replace(/^"|"$/g, "");
+      obj[h] = (cols[idx] || "").trim();
     });
-    rows.push(obj);
-  }
-  return rows;
+    return obj;
+  });
 }
 
 function matchesFilter(item) {
@@ -70,7 +95,8 @@ function matchesFilter(item) {
   if (projektart && !item.projektart.toLowerCase().includes(projektart)) return false;
   if (foerderart && !item.foerderart.toLowerCase().includes(foerderart)) return false;
   if (zielgruppe && !item.zielgruppe.toLowerCase().includes(zielgruppe)) return false;
-  if (thema && !item.themen_schwerpunkt.toLowerCase().includes(thema)) return false;
+  const themaField = (item.themen_schwerpunkt || item.thema || "").toLowerCase();
+  if (thema && !themaField.includes(thema)) return false;
   if (q) {
     const hay = [
       item.programm_name,
@@ -176,8 +202,12 @@ loadCSV()
     buildOptions(projektartEl, new Set(data.map(d => d.projektart)), "Alle Projektarten");
     buildOptions(foerderartEl, new Set(data.map(d => d.foerderart)), "Alle Foerderarten");
     buildOptions(zielgruppeEl, new Set(data.map(d => d.zielgruppe)), "Alle Zielgruppen");
-    buildOptions(themaEl, new Set(data.map(d => d.themen_schwerpunkt)), "Alle Themen");
-    standEl.textContent = new Date().toISOString().slice(0, 10);
+    buildOptions(themaEl, new Set(data.map(d => d.themen_schwerpunkt || d.thema)), "Alle Themen");
+    const letztePruefungen = data
+      .map(d => d.letzte_pruefung)
+      .filter(v => /^\d{4}-\d{2}-\d{2}$/.test(v))
+      .sort();
+    standEl.textContent = letztePruefungen.length ? letztePruefungen[letztePruefungen.length - 1] : "-";
     render();
   })
   .catch(err => {

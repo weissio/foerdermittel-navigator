@@ -235,3 +235,9 @@
 - Neues Reporting-Tool angelegt: `scripts/report_coverage.py`.
 - Snapshot erzeugt: `docs/coverage_snapshot.md`.
 - Ziel: transparente Abdeckung nach Status, Region, Traeger und Thema fuer Priorisierung der naechsten Erweiterungen.
+
+## 2026-02-12 00:56
+- Preview-App robustifiziert (`docs/preview/app.js`).
+- CSV-Parsing auf escaped Quotes/Kommas in Feldern stabilisiert.
+- Themenfilter erweitert: Fallback auf `thema`, wenn `themen_schwerpunkt` leer ist.
+- Datenstand-Anzeige auf max. `letzte_pruefung` umgestellt (statt aktuellem Tagesdatum).
