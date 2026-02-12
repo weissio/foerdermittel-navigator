@@ -100,6 +100,18 @@ button {
   font-size: 22px;
   font-weight: 700;
 }
+.info-note {
+  margin: 8px 0 16px;
+  padding: 10px 12px;
+  border-radius: 10px;
+  border: 1px solid var(--border);
+  background: #fffaf2;
+  color: var(--muted);
+  font-size: 13px;
+}
+.info-note strong {
+  color: var(--ink);
+}
 
 .cards {
   display: grid;

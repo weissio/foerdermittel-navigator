@@ -326,3 +326,7 @@
 - Preview-Sortierung fuer offene Calls verbessert (`docs/preview/app.js`).
 - Reihenfolge basiert jetzt auf der naechsten zukuenftigen Frist statt auf der ersten historischen Frist.
 - Fristanzeige auf Karten nutzt ebenfalls die naechste relevante Frist.
+
+## 2026-02-12 09:45
+- Preview um sichtbaren Frist-Hinweis erweitert (`docs/preview/index.html`, `docs/preview/styles.css`).
+- Nutzer sieht jetzt direkt: Sortierung nach naechster Frist und Kennzeichnung rollierender Programme.
