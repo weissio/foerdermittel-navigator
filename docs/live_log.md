@@ -256,3 +256,9 @@
 - Coverage-Report erweitert: Erzeugungszeit + Feldqualitaetsprofil.
 - Feldqualitaet zeigt jetzt alle Ziel-Felder inkl. 0-Werte.
 - Validator-Lauf weiterhin ohne Fehler (Validation OK).
+
+## 2026-02-12 04:14
+- Preview-Ergebnislogik verbessert (`docs/preview/app.js`).
+- Feste Statuszaehlung eingefuehrt: `offen | laufend | geplant`.
+- Ergebnisliste sortiert: zuerst `offen` (naechste Frist zuerst), dann `laufend`, dann `geplant`.
+- Fristanzeige priorisiert nun konkrete Datumsfelder (`call_deadline`, `call_close_date`) robust.

@@ -111,18 +111,45 @@ function matchesFilter(item) {
   return true;
 }
 
+function firstDeadline(item) {
+  const candidates = [item.call_deadline, item.call_close_date, item.frist]
+    .filter(Boolean)
+    .flatMap(v => String(v).split("|"))
+    .map(v => v.trim())
+    .filter(v => /^\d{4}-\d{2}-\d{2}$/.test(v))
+    .sort();
+  return candidates[0] || "";
+}
+
+function compareItems(a, b) {
+  const rank = { offen: 0, laufend: 1, geplant: 2 };
+  const aStatus = (a.status || "").toLowerCase();
+  const bStatus = (b.status || "").toLowerCase();
+  const aRank = rank[aStatus] ?? 9;
+  const bRank = rank[bStatus] ?? 9;
+  if (aRank !== bRank) return aRank - bRank;
+
+  const aDeadline = firstDeadline(a);
+  const bDeadline = firstDeadline(b);
+  if (aStatus === "offen") {
+    if (aDeadline && bDeadline && aDeadline !== bDeadline) return aDeadline.localeCompare(bDeadline);
+    if (aDeadline && !bDeadline) return -1;
+    if (!aDeadline && bDeadline) return 1;
+  }
+
+  return (a.programm_name || "").localeCompare(b.programm_name || "");
+}
+
 function render() {
-  const filtered = data.filter(matchesFilter);
-  const byStatus = {};
+  const filtered = data.filter(matchesFilter).sort(compareItems);
+  const byStatus = { offen: 0, laufend: 0, geplant: 0 };
   for (const d of filtered) {
-    const key = (d.status || "unbekannt").toLowerCase();
-    byStatus[key] = (byStatus[key] || 0) + 1;
+    const key = (d.status || "").toLowerCase();
+    if (Object.prototype.hasOwnProperty.call(byStatus, key)) byStatus[key] += 1;
   }
 
   countEl.textContent = filtered.length;
-  statusCountsEl.textContent = Object.entries(byStatus)
-    .map(([k, v]) => `${k}: ${v}`)
-    .join(" | ") || "–";
+  statusCountsEl.textContent = `offen: ${byStatus.offen} | laufend: ${byStatus.laufend} | geplant: ${byStatus.geplant}`;
 
   cardsEl.innerHTML = "";
   for (const item of filtered) {
@@ -144,7 +171,7 @@ function render() {
       <div class="row"><strong>Foerderart:</strong> ${item.foerderart || "-"}</div>
       <div class="row"><strong>Thema:</strong> ${item.thema || "-"}</div>
       <div class="row"><strong>Projektart:</strong> ${item.projektart || "-"}</div>
-      <div class="row"><strong>Frist:</strong> ${item.frist || item.call_deadline || "-"}</div>
+      <div class="row"><strong>Frist:</strong> ${firstDeadline(item) || item.frist || "-"}</div>
       <div class="row"><strong>Warum passt es?</strong> ${item.match_reason || "-"}</div>
       <div class="row"><strong>Was wird gefoerdert?</strong> ${item.foerdergegenstand || "-"}</div>
       <div class="links">
