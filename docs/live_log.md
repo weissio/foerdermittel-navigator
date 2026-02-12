@@ -292,3 +292,7 @@
 - Einheitliches QA-Runner-Skript angelegt: `scripts/run_qa.sh`.
 - Fuehrt in Reihenfolge aus: `validate_foerderprogramme.py`, `check_deadlines.py`, `report_coverage.py`.
 - Einmaliger Lauf erfolgreich abgeschlossen.
+
+## 2026-02-12 07:08
+- QA-Bedienung dokumentiert in `docs/qa_commands.md`.
+- Enthalten: Standardlauf (`scripts/run_qa.sh`), Einzelchecks und erwartete Ergebnisse.
