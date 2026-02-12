@@ -14,7 +14,13 @@ Ziel: Vollstaendige, nachvollziehbare Aktualitaet der Programme und Calls.
 1. Programme mit `status=laufend` pruefen (Richtlinie, Antragslage, Stand).
 2. Programme mit `status=offen` pruefen (Fristen, Call-Status, etwaige Updates).
 3. `letzte_pruefung` aktualisieren.
-4. Aenderungen in `data/update_log.csv` protokollieren.
+4. QA-Checks gesammelt ausfuehren: `scripts/run_qa.sh`.
+5. Aenderungen in `data/update_log.csv` protokollieren.
+
+## Frist-Logik
+- `offen` mit konkreter Frist: Datumsfelder in `call_deadline`, optional `call_close_date`/`frist`.
+- `offen` ohne fixes Datum: in `frist` als `rollierend (...)` kennzeichnen.
+- `geplant` mit abgelaufener Frist bleibt als Historien-/Folgeaufruf-Hinweis zulaessig, muss aber im Check sichtbar sein.
 
 ## Aenderungsprotokoll
 Jeder Update-Lauf erzeugt Eintraege in `data/update_log.csv` mit:
