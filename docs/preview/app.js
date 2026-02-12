@@ -138,6 +138,12 @@ function firstDeadline(item) {
   return candidates[0] || "";
 }
 
+function isRollingDeadline(item) {
+  const frist = String(item.frist || "").toLowerCase();
+  if (firstDeadline(item)) return false;
+  return ["rollierend", "losverfahren", "programmabhaengig", "laufend"].some(k => frist.includes(k));
+}
+
 function compareItems(a, b) {
   const rank = { offen: 0, laufend: 1, geplant: 2 };
   const aStatus = (a.status || "").toLowerCase();
@@ -174,6 +180,8 @@ function render() {
     card.className = "card";
     const letzte = item.letzte_pruefung || "-";
     const stand = item.richtlinie_stand || "-";
+    const deadline = firstDeadline(item) || item.frist || "-";
+    const deadlineType = isRollingDeadline(item) ? " (rollierend)" : "";
     card.innerHTML = `
       <h3>${item.programm_name || "Programm"}</h3>
       <div class="row">
@@ -188,7 +196,7 @@ function render() {
       <div class="row"><strong>Foerderart:</strong> ${item.foerderart || "-"}</div>
       <div class="row"><strong>Thema:</strong> ${item.thema || "-"}</div>
       <div class="row"><strong>Projektart:</strong> ${item.projektart || "-"}</div>
-      <div class="row"><strong>Frist:</strong> ${firstDeadline(item) || item.frist || "-"}</div>
+      <div class="row"><strong>Frist:</strong> ${deadline}${deadlineType}</div>
       <div class="row"><strong>Warum passt es?</strong> ${item.match_reason || "-"}</div>
       <div class="row"><strong>Was wird gefoerdert?</strong> ${item.foerdergegenstand || "-"}</div>
       <div class="links">

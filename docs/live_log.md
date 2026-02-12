@@ -302,3 +302,8 @@
 - Ausgabe-Datei: `docs/deadline_snapshot.md`.
 - QA-Runner erweitert (`scripts/run_qa.sh`) und Schrittzaehlung auf 4 Schritte harmonisiert.
 - Gesamt-QA erfolgreich durchgelaufen.
+
+## 2026-02-12 07:39
+- Preview-Fristanzeige verbessert (`docs/preview/app.js`).
+- Offene Programme ohne fixes Datum werden explizit als `rollierend` markiert.
+- Ziel: schnellere visuelle Trennung von datierten Calls vs. rollierenden Antragsfenstern.
