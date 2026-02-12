@@ -225,3 +225,8 @@
 - `programm_id`: 158 eindeutig, keine Duplikate.
 - `status`-Werte konsistent (`laufend`, `offen`, `geplant`).
 - Keine Status/Kategorie-Inkonsistenzen gefunden.
+
+## 2026-02-12 00:48
+- Neues QA-Tool angelegt: `scripts/validate_foerderprogramme.py`.
+- CSV-Validierung ausgefuehrt (`data/foerderprogramme.csv`).
+- Ergebnis: 158 Zeilen, 158 eindeutige IDs, Status/Kategorie konsistent, Validation OK.
