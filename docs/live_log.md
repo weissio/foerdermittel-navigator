@@ -246,3 +246,8 @@
 - Datenqualitaet verbessert: fehlende `projektart` und `themen_schwerpunkt` in 4 EU-Einstiegsprogrammen gefuellt.
 - Betroffen: `EU_DIGITAL_EUROPE`, `EU_FUNDS_DE_PORTAL`, `EU_HORIZON`, `EU_SINGLE_MARKET`.
 - Validator erneut ausgefuehrt: `Validation OK`.
+
+## 2026-02-12 01:10
+- Update-Nachweis in `data/update_log.csv` erfasst (Batch 2026-02-12).
+- Geprueft: 158 Datensaetze.
+- Dokumentiert: technische Qualitaetsaenderungen (ID-Normalisierung, EU-Felder, Validator, Preview-Hardening).

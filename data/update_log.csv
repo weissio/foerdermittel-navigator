@@ -1,1 +1,2 @@
 batch_date,quelle,anzahl_geprueft,anzahl_geaendert,kommentar
+2026-02-12,manueller_batch,158,9,"ID-Normalisierung + EU-Feld-Vervollstaendigung + QA-Validator/Preview-Hardening"
