@@ -321,3 +321,8 @@
 - Monatsbatch ausgefuehrt: `scripts/run_monthly_batch.sh`.
 - QA komplett erfolgreich (`validate`, `deadlines`, `coverage`, `deadline_snapshot`).
 - `data/update_log.csv` um Batch-Eintrag erweitert (158 geprueft, 0 geaendert).
+
+## 2026-02-12 09:32
+- Preview-Sortierung fuer offene Calls verbessert (`docs/preview/app.js`).
+- Reihenfolge basiert jetzt auf der naechsten zukuenftigen Frist statt auf der ersten historischen Frist.
+- Fristanzeige auf Karten nutzt ebenfalls die naechste relevante Frist.

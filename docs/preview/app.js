@@ -128,14 +128,25 @@ function matchesFilter(item) {
   return true;
 }
 
-function firstDeadline(item) {
-  const candidates = [item.call_deadline, item.call_close_date, item.frist]
+function deadlineCandidates(item) {
+  return [item.call_deadline, item.call_close_date, item.frist]
     .filter(Boolean)
     .flatMap(v => String(v).split("|"))
     .map(v => v.trim())
     .filter(v => /^\d{4}-\d{2}-\d{2}$/.test(v))
     .sort();
+}
+
+function firstDeadline(item) {
+  const candidates = deadlineCandidates(item);
   return candidates[0] || "";
+}
+
+function nextDeadline(item) {
+  const candidates = deadlineCandidates(item);
+  if (!candidates.length) return "";
+  const today = new Date().toISOString().slice(0, 10);
+  return candidates.find(d => d >= today) || candidates[candidates.length - 1];
 }
 
 function isRollingDeadline(item) {
@@ -152,8 +163,8 @@ function compareItems(a, b) {
   const bRank = rank[bStatus] ?? 9;
   if (aRank !== bRank) return aRank - bRank;
 
-  const aDeadline = firstDeadline(a);
-  const bDeadline = firstDeadline(b);
+  const aDeadline = nextDeadline(a);
+  const bDeadline = nextDeadline(b);
   if (aStatus === "offen") {
     if (aDeadline && bDeadline && aDeadline !== bDeadline) return aDeadline.localeCompare(bDeadline);
     if (aDeadline && !bDeadline) return -1;
@@ -180,7 +191,7 @@ function render() {
     card.className = "card";
     const letzte = item.letzte_pruefung || "-";
     const stand = item.richtlinie_stand || "-";
-    const deadline = firstDeadline(item) || item.frist || "-";
+    const deadline = nextDeadline(item) || item.frist || "-";
     const deadlineType = isRollingDeadline(item) ? " (rollierend)" : "";
     card.innerHTML = `
       <h3>${item.programm_name || "Programm"}</h3>
