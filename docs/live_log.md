@@ -267,3 +267,8 @@
 - Themenfilter in der Preview praezisiert.
 - Themenoptionen werden jetzt aus einzelnen Tokens gebildet (Split bei `| , / ;`) statt kompletter Rohstrings.
 - Filtervergleich robust gegen Trennzeichen in `themen_schwerpunkt`/`thema`.
+
+## 2026-02-12 04:32
+- Neues QA-Tool angelegt: `scripts/check_deadlines.py`.
+- Fristpruefung erweitert auf `call_deadline`, `call_close_date`, `frist` inkl. Mehrfachfristen und Datumsformaten (`YYYY-MM-DD`, `DD.MM.YYYY`).
+- Ergebnis: keine offenen Calls mit ausschliesslich abgelaufener Frist; 6 offene Programme ohne konkrete Deadline (rollierend/Losverfahren); 1 geplanter, bereits abgelaufener Call (`SA_INVESTIERT`).
