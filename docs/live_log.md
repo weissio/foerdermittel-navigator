@@ -272,3 +272,7 @@
 - Neues QA-Tool angelegt: `scripts/check_deadlines.py`.
 - Fristpruefung erweitert auf `call_deadline`, `call_close_date`, `frist` inkl. Mehrfachfristen und Datumsformaten (`YYYY-MM-DD`, `DD.MM.YYYY`).
 - Ergebnis: keine offenen Calls mit ausschliesslich abgelaufener Frist; 6 offene Programme ohne konkrete Deadline (rollierend/Losverfahren); 1 geplanter, bereits abgelaufener Call (`SA_INVESTIERT`).
+
+## 2026-02-12 06:09
+- Kombinierter QA-Lauf ausgefuehrt: `validate_foerderprogramme`, `check_deadlines`, `report_coverage`.
+- Ergebnis: Validierung OK, keine offenen Calls mit nur abgelaufener Frist, Coverage-Snapshot aktualisiert.
