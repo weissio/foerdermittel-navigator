@@ -281,3 +281,9 @@
 - Datenqualitaet verbessert: `foerdergegenstand` in vier EU-Einstiegsprogrammen vervollstaendigt.
 - Betroffen: `EU_DIGITAL_EUROPE`, `EU_FUNDS_DE_PORTAL`, `EU_HORIZON`, `EU_SINGLE_MARKET`.
 - Kombinierter QA-Lauf erfolgreich (Validation OK, Deadline-Check stabil, Coverage aktualisiert).
+
+## 2026-02-12 06:40
+- Fristbehandlung fuer offene Programme praezisiert.
+- `scripts/check_deadlines.py` unterscheidet jetzt zwischen fehlender Deadline und rollierenden/programmbedingten Fristen.
+- Ergebnis: `offen without deadline` = 0, `offen with rolling/program-dependent deadline` = 6.
+- Kombinierter QA-Lauf erfolgreich (Validation OK, Coverage aktualisiert).

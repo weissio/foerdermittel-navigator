@@ -35,6 +35,7 @@ def main() -> int:
     rows = list(csv.DictReader(CSV_PATH.open(encoding="utf-8", newline="")))
 
     open_without_deadline: list[str] = []
+    open_rolling: list[str] = []
     open_past_deadline: list[str] = []
     planned_with_past_deadline: list[str] = []
 
@@ -42,6 +43,7 @@ def main() -> int:
         status = (row.get("status") or "").strip().lower()
         pid = (row.get("programm_id") or "").strip()
         title = (row.get("programm_name") or "").strip()
+        frist_raw = (row.get("frist") or "").strip().lower()
         date_values = [
             (row.get("call_deadline") or "").strip(),
             (row.get("call_close_date") or "").strip(),
@@ -54,7 +56,10 @@ def main() -> int:
 
         if status == "offen":
             if not dates:
-                open_without_deadline.append(f"{pid} | {title}")
+                if any(k in frist_raw for k in ["rollierend", "losverfahren", "programmabhaengig", "laufend"]):
+                    open_rolling.append(f"{pid} | {title}")
+                else:
+                    open_without_deadline.append(f"{pid} | {title}")
             elif dates[-1] < today:
                 open_past_deadline.append(f"{pid} | {title} | last={dates[-1].isoformat()}")
         elif status == "geplant" and dates and dates[-1] < today:
@@ -64,6 +69,9 @@ def main() -> int:
     print(f"Checked rows: {len(rows)}")
     print(f"offen without deadline: {len(open_without_deadline)}")
     for item in open_without_deadline:
+        print(f"- {item}")
+    print(f"offen with rolling/program-dependent deadline: {len(open_rolling)}")
+    for item in open_rolling:
         print(f"- {item}")
     print(f"offen with only past deadline: {len(open_past_deadline)}")
     for item in open_past_deadline:
