@@ -307,3 +307,8 @@
 - Preview-Fristanzeige verbessert (`docs/preview/app.js`).
 - Offene Programme ohne fixes Datum werden explizit als `rollierend` markiert.
 - Ziel: schnellere visuelle Trennung von datierten Calls vs. rollierenden Antragsfenstern.
+
+## 2026-02-12 08:17
+- Monatsbatch-Skript angelegt: `scripts/run_monthly_batch.sh`.
+- Funktion: QA-Lauf ausfuehren (`scripts/run_qa.sh`) + Eintrag in `data/update_log.csv` automatisiert schreiben.
+- `docs/update_process.md` um konkreten Monatslauf-Aufruf erweitert.

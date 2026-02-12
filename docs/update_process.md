@@ -32,6 +32,13 @@ cd "/Users/jonasweiss/Documents/New project"
 scripts/run_qa.sh
 ```
 
+## Monatslauf (inkl. Logeintrag)
+
+```bash
+cd "/Users/jonasweiss/Documents/New project"
+scripts/run_monthly_batch.sh "manueller_batch" 3 "Monatsupdate: Fristen und Richtlinien geprueft"
+```
+
 ## Aenderungsprotokoll
 Jeder Update-Lauf erzeugt Eintraege in `data/update_log.csv` mit:
 - `batch_date`
