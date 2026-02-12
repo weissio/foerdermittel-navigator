@@ -230,3 +230,8 @@
 - Neues QA-Tool angelegt: `scripts/validate_foerderprogramme.py`.
 - CSV-Validierung ausgefuehrt (`data/foerderprogramme.csv`).
 - Ergebnis: 158 Zeilen, 158 eindeutige IDs, Status/Kategorie konsistent, Validation OK.
+
+## 2026-02-12 00:50
+- Neues Reporting-Tool angelegt: `scripts/report_coverage.py`.
+- Snapshot erzeugt: `docs/coverage_snapshot.md`.
+- Ziel: transparente Abdeckung nach Status, Region, Traeger und Thema fuer Priorisierung der naechsten Erweiterungen.
