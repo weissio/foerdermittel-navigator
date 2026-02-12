@@ -287,3 +287,8 @@
 - `scripts/check_deadlines.py` unterscheidet jetzt zwischen fehlender Deadline und rollierenden/programmbedingten Fristen.
 - Ergebnis: `offen without deadline` = 0, `offen with rolling/program-dependent deadline` = 6.
 - Kombinierter QA-Lauf erfolgreich (Validation OK, Coverage aktualisiert).
+
+## 2026-02-12 06:54
+- Einheitliches QA-Runner-Skript angelegt: `scripts/run_qa.sh`.
+- Fuehrt in Reihenfolge aus: `validate_foerderprogramme.py`, `check_deadlines.py`, `report_coverage.py`.
+- Einmaliger Lauf erfolgreich abgeschlossen.
