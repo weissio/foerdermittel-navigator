@@ -251,3 +251,8 @@
 - Update-Nachweis in `data/update_log.csv` erfasst (Batch 2026-02-12).
 - Geprueft: 158 Datensaetze.
 - Dokumentiert: technische Qualitaetsaenderungen (ID-Normalisierung, EU-Felder, Validator, Preview-Hardening).
+
+## 2026-02-12 03:56
+- Coverage-Report erweitert: Erzeugungszeit + Feldqualitaetsprofil.
+- Feldqualitaet zeigt jetzt alle Ziel-Felder inkl. 0-Werte.
+- Validator-Lauf weiterhin ohne Fehler (Validation OK).

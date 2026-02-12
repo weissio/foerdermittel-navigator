@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import csv
+import datetime as dt
 from collections import Counter
 from pathlib import Path
 
@@ -26,17 +27,34 @@ def main() -> int:
     with INPUT.open(encoding="utf-8", newline="") as f:
         data = list(csv.DictReader(f))
 
+    generated_at = dt.datetime.now().strftime("%Y-%m-%d %H:%M")
+
     status = Counter((r.get("status") or "").strip() for r in data)
     kategorie = Counter((r.get("kategorie") or "").strip() for r in data)
     region = Counter((r.get("region") or "").strip() for r in data)
     traeger = Counter((r.get("traeger") or "").strip() for r in data)
     thema = Counter((r.get("thema") or "").strip() for r in data)
+    empty_counts = Counter()
+    quality_fields = [
+        "projektart",
+        "foerderart",
+        "zielgruppe",
+        "themen_schwerpunkt",
+        "thema",
+        "match_reason",
+        "foerdergegenstand",
+    ]
+    for row in data:
+        for field in quality_fields:
+            if not (row.get(field) or "").strip():
+                empty_counts[field] += 1
 
     lines: list[str] = []
     lines.append("# Coverage Snapshot")
     lines.append("")
     lines.append("Automatisch erzeugt aus `data/foerderprogramme.csv`.")
     lines.append("")
+    lines.append(f"- Erzeugt am: `{generated_at}`")
     lines.append(f"- Datensaetze: `{len(data)}`")
     lines.append(f"- Eindeutige `programm_id`: `{len({r['programm_id'] for r in data})}`")
     lines.append("")
@@ -59,6 +77,11 @@ def main() -> int:
     lines.append("## Top Themen")
     lines.append("")
     lines.append(fmt_table(top(thema, n=20), "Thema"))
+    lines.append("")
+    lines.append("## Feldqualitaet")
+    lines.append("")
+    quality_rows = [(field, empty_counts.get(field, 0)) for field in quality_fields]
+    lines.append(fmt_table(quality_rows, "Feld", "Leer"))
     lines.append("")
 
     OUTPUT.write_text("\n".join(lines), encoding="utf-8")

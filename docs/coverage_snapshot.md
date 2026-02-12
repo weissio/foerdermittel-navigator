@@ -2,6 +2,7 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
+- Erzeugt am: `2026-02-12 03:54`
 - Datensaetze: `158`
 - Eindeutige `programm_id`: `158`
 
@@ -95,3 +96,15 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Forschung und Innovation | 2 |
 | Gruendung | 2 |
 | Gruendung/Investition | 2 |
+
+## Feldqualitaet
+
+| Feld | Leer |
+|---|---:|
+| projektart | 0 |
+| foerderart | 0 |
+| zielgruppe | 0 |
+| themen_schwerpunkt | 0 |
+| thema | 0 |
+| match_reason | 0 |
+| foerdergegenstand | 4 |
