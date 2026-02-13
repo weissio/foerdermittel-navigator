@@ -342,3 +342,7 @@
 ## 2026-02-12 10:14
 - `STATUS.md` erweitert um Schnellkommandos (`make qa`, `make batch`, `make preview`).
 - Ziel: schneller operativer Einstieg ohne Doku-Suche.
+
+## 2026-02-13 02:40
+- Root-README angelegt (`README.md`).
+- Enthalten: Schnellstart Preview, QA/Batch-Kommandos, zentrale Dateien und Skriptuebersicht.
