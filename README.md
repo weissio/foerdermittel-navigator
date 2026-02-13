@@ -33,6 +33,12 @@ make batch
 - Update-Prozess: `docs/update_process.md`
 - QA-Kommandos: `docs/qa_commands.md`
 
+## Operativer Einstieg
+
+1. `STATUS.md` lesen
+2. `docs/coverage_snapshot.md` und `docs/deadline_snapshot.md` pruefen
+3. bei Bedarf `make qa` oder `make batch` ausfuehren
+
 ## Skripte
 
 - `scripts/validate_foerderprogramme.py`

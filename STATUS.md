@@ -18,6 +18,9 @@ Stand: 2026-02-12
   - `geplant with past deadline = 1` (`SA_INVESTIERT`)
 - `scripts/report_coverage.py`: aktualisiert `docs/coverage_snapshot.md`
 - `scripts/report_deadlines.py`: aktualisiert `docs/deadline_snapshot.md`
+- Snapshot-Dateien:
+  - `docs/coverage_snapshot.md`
+  - `docs/deadline_snapshot.md`
 
 ## Preview
 

@@ -346,3 +346,7 @@
 ## 2026-02-13 02:40
 - Root-README angelegt (`README.md`).
 - Enthalten: Schnellstart Preview, QA/Batch-Kommandos, zentrale Dateien und Skriptuebersicht.
+
+## 2026-02-13 02:46
+- Doku konsolidiert: `README.md` um operativen Einstieg erweitert.
+- `STATUS.md` um direkte Snapshot-Verweise (`coverage_snapshot.md`, `deadline_snapshot.md`) ergaenzt.
