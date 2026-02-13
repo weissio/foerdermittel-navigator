@@ -372,3 +372,7 @@
 - Neues Gap-Reporting angelegt: `scripts/report_gaps.py`.
 - Ausgabe: `docs/data_gaps.md` mit Unterrepraesentation nach Region/Traeger/Thema.
 - Priorisierungsregeln fuer naechsten Datenausbau integriert.
+
+## 2026-02-13 09:33
+- Gap-Report in Bedienung integriert: `make gaps` hinzugefuegt.
+- `docs/qa_commands.md` um `gaps`-Shortcut und `report_gaps.py` erweitert.

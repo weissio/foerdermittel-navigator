@@ -20,6 +20,7 @@ Weitere Shortcuts:
 cd "/Users/jonasweiss/Documents/New project"
 make status      # coverage + deadline + open_calls
 make open_calls  # nur open_calls.md
+make gaps        # data_gaps.md
 ```
 
 ## Monatsbatch (QA + update_log)
@@ -54,3 +55,4 @@ python3 scripts/report_open_calls.py
 - `report_coverage.py`: aktualisiert `/Users/jonasweiss/Documents/New project/docs/coverage_snapshot.md`
 - `report_deadlines.py`: aktualisiert `/Users/jonasweiss/Documents/New project/docs/deadline_snapshot.md`
 - `report_open_calls.py`: aktualisiert `/Users/jonasweiss/Documents/New project/docs/open_calls.md`
+- `report_gaps.py`: aktualisiert `/Users/jonasweiss/Documents/New project/docs/data_gaps.md`
