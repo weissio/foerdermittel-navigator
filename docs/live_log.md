@@ -367,3 +367,8 @@
 ## 2026-02-13 03:33
 - Statussync ausgefuehrt: `make status` (coverage, deadlines, open_calls neu erzeugt).
 - `STATUS.md` auf aktuellen Stand (`2026-02-13`) aktualisiert.
+
+## 2026-02-13 09:23
+- Neues Gap-Reporting angelegt: `scripts/report_gaps.py`.
+- Ausgabe: `docs/data_gaps.md` mit Unterrepraesentation nach Region/Traeger/Thema.
+- Priorisierungsregeln fuer naechsten Datenausbau integriert.
