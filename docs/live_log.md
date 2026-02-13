@@ -338,3 +338,7 @@
 ## 2026-02-12 10:08
 - `Makefile` hinzugefuegt mit Targets: `qa`, `batch`, `preview`.
 - QA-Doku (`docs/qa_commands.md`) um `make`-Alternativen ergaenzt.
+
+## 2026-02-12 10:14
+- `STATUS.md` erweitert um Schnellkommandos (`make qa`, `make batch`, `make preview`).
+- Ziel: schneller operativer Einstieg ohne Doku-Suche.

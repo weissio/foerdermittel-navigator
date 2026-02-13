@@ -25,3 +25,9 @@ Stand: 2026-02-12
 - Fristlogik:
   - offene Calls sortiert nach naechster zukuenftiger Frist
   - offene Programme ohne fixes Datum als `rollierend` markiert
+
+## Schnellkommandos
+
+- `make qa` -> kompletter QA-Lauf
+- `make batch` -> Monatsbatch inkl. `update_log`-Eintrag
+- `make preview` -> lokaler Preview-Server
