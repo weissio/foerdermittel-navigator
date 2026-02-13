@@ -402,3 +402,7 @@
 ## 2026-02-13 11:16
 - `README.md` auf automatischen Status-Flow abgestimmt.
 - `make status` beschreibt jetzt explizit: Snapshot-Reports + automatische Erzeugung von `STATUS.md`.
+
+## 2026-02-13 11:24
+- `scripts/run_qa.sh` erweitert: erzeugt jetzt auch `STATUS.md` via `report_status.py`.
+- QA-Standardlauf damit voll synchron: alle Snapshots + Status in einem Durchlauf.
