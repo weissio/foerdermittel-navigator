@@ -5,7 +5,10 @@
 - KfW ERP-Gruenderkredit StartGeld (067) Produktseite: https://www.kfw.de/inlandsfoerderung/Unternehmen/Gr%C3%BCnden-Nachfolgen/F%C3%B6rderprodukte/ERP-Gr%C3%BCnderkredit-Startgeld-%28067%29/
 - KfW StartGeld Erhoehung 200.000 EUR (Pressemitteilung): https://www.kfw.de/%C3%9Cber-die-KfW/Newsroom/Aktuelles/Pressemitteilungen-Details_872832.html
 - KfW ERP-Digitalisierungs- und Innovationskredit (380) Merkblatt: https://www.kfw.de/PDF/Download-Center/F%C3%B6rderprogramme-%28Inlandsf%C3%B6rderung%29/PDF-Dokumente/6000004011_M_380_390_391.pdf
+- KfW ERP-Digitalisierungs- und Innovationskredit (390/391) Merkblatt: https://www.kfw.de/PDF/Download-Center/F%C3%B6rderprogramme-%28Inlandsf%C3%B6rderung%29/PDF-Dokumente/6000004011_M_380_390_391.pdf
 - KfW ERP-Foerderkredit Digitalisierung (511/512): https://www.kfw.de/inlandsfoerderung/Unternehmen/Innovation-und-Digitalisierung/F%C3%B6rderprodukte/ERP-F%C3%B6rderkredit-Digitalisierung-%28511-512%29/
+- KfW ERP-Foerderkredit grosser Mittelstand (375/376): https://www.kfw.de/inlandsfoerderung/Unternehmen/Erweitern-Festigen/F%C3%B6rderprodukte/ERP-F%C3%B6rderkredit-gro%C3%9Fer-Mittelstand-(375-376)/
+- KfW ERP-Beteiligungsprogramm (100): https://www.kfw.de/inlandsfoerderung/Unternehmen/Erweitern-Festigen/F%C3%B6rderprodukte/ERP-Beteiligungsprogramm-%28100%29/
 - BAFA EEW Richtlinie in Kraft (Pressemitteilung): https://www.bafa.de/SharedDocs/Pressemitteilungen/DE/Energie/2024_02_eew.html
 - BAFA Energieberatung Nichtwohngebaeude/Anlagen/Systeme Modul 2: https://www.bafa.de/DE/Energie/Energieberatung/Nichtwohngebaeude_Anlagen_Systeme/Modul2_Energieberatung/modul2_energieberatung.html
 - BMF Forschungszulage: https://www.bundesfinanzministerium.de/Web/DE/Themen/Steuern/Steuerliche_Themengebiete/Forschungszulage/forschungszulage.html

@@ -430,3 +430,8 @@
 ## 2026-02-13 12:06
 - Neue Uebergabedatei `HANDOVER.md` angelegt.
 - Enthalten: aktueller Fokus, naechste Schritte und Copy/Paste-Prompt fuer neue Codex-Sessions (Mac/Pi).
+
+## 2026-02-13 23:45
+- Datenausbau im Bund-Fokus (KfW): +3 neue Programme aufgenommen.
+- Neu: `KFW_375_376`, `KFW_390_391`, `KFW_100`.
+- `docs/quellen.md` um offizielle KfW-Produktseiten/Merkblatt erweitert.

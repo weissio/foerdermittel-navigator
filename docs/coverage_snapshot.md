@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-13 20:54`
-- Datensaetze: `173`
-- Eindeutige `programm_id`: `173`
+- Erzeugt am: `2026-02-13 23:45`
+- Datensaetze: `176`
+- Eindeutige `programm_id`: `176`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 147 |
+| laufend | 150 |
 | offen | 21 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 147 |
+| laufend | 150 |
 | offen | 21 |
 | zukuenftig | 5 |
 
@@ -26,7 +26,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Region | Anzahl |
 |---|---:|
-| Deutschland | 28 |
+| Deutschland | 31 |
 | Berlin | 15 |
 | Rheinland-Pfalz | 12 |
 | EU (inkl. Deutschland) | 11 |
@@ -51,8 +51,8 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Traeger | Anzahl |
 |---|---:|
+| KfW | 13 |
 | Investitionsbank Berlin (IBB) | 12 |
-| KfW | 10 |
 | ISB (Rheinland-Pfalz) | 8 |
 | NBank | 7 |
 | BAFA | 6 |
@@ -89,10 +89,10 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Innovation/Digitalisierung | 4 |
 | Investition/Innovation | 4 |
 | Beratung/Unternehmensentwicklung | 3 |
+| Digitalisierung/Innovation | 3 |
 | Energieeffizienz/Klimaschutz | 3 |
 | Innovation/F&E | 3 |
 | Wachstum/Investition | 3 |
-| Digitalisierung/Innovation | 2 |
 | Forschung und Innovation | 2 |
 | Gruendung | 2 |
 | Gruendung/Innovation | 2 |
