@@ -350,3 +350,8 @@
 ## 2026-02-13 02:46
 - Doku konsolidiert: `README.md` um operativen Einstieg erweitert.
 - `STATUS.md` um direkte Snapshot-Verweise (`coverage_snapshot.md`, `deadline_snapshot.md`) ergaenzt.
+
+## 2026-02-13 03:01
+- QA-Workflow erweitert um `scripts/report_open_calls.py` und `docs/open_calls.md`.
+- `scripts/run_qa.sh` Schrittzaehlung konsistent auf 5 Schritte gesetzt.
+- QA-Doku (`docs/qa_commands.md`) um Open-Calls-Report ergaenzt.
