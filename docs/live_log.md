@@ -359,3 +359,7 @@
 ## 2026-02-13 03:17
 - Doku auf Open-Calls-Snapshot konsolidiert.
 - `README.md` und `STATUS.md` um `docs/open_calls.md` bzw. `report_open_calls.py` erweitert.
+
+## 2026-02-13 03:24
+- `Makefile` erweitert: Targets `open_calls` und `status` hinzugefuegt.
+- QA-Doku (`docs/qa_commands.md`) um neue `make`-Shortcuts ergaenzt.

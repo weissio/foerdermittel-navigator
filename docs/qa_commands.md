@@ -14,6 +14,14 @@ cd "/Users/jonasweiss/Documents/New project"
 make qa
 ```
 
+Weitere Shortcuts:
+
+```bash
+cd "/Users/jonasweiss/Documents/New project"
+make status      # coverage + deadline + open_calls
+make open_calls  # nur open_calls.md
+```
+
 ## Monatsbatch (QA + update_log)
 
 ```bash
