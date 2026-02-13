@@ -1,0 +1,12 @@
+SHELL := /bin/bash
+
+.PHONY: qa batch preview
+
+qa:
+	scripts/run_qa.sh
+
+batch:
+	scripts/run_monthly_batch.sh "manueller_batch" 0 "Monatslauf mit QA"
+
+preview:
+	python3 -m http.server 8000 --bind 127.0.0.1 --directory "/Users/jonasweiss/Documents/New project"

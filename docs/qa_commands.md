@@ -7,11 +7,25 @@ cd "/Users/jonasweiss/Documents/New project"
 scripts/run_qa.sh
 ```
 
+Alternative:
+
+```bash
+cd "/Users/jonasweiss/Documents/New project"
+make qa
+```
+
 ## Monatsbatch (QA + update_log)
 
 ```bash
 cd "/Users/jonasweiss/Documents/New project"
 scripts/run_monthly_batch.sh "manueller_batch" 0 "Monatslauf mit QA"
+```
+
+Alternative:
+
+```bash
+cd "/Users/jonasweiss/Documents/New project"
+make batch
 ```
 
 ## Einzelchecks

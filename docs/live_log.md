@@ -334,3 +334,7 @@
 ## 2026-02-12 10:00
 - Kompakten Projektstatus hinzugefuegt: `STATUS.md`.
 - Enthalten: Datenumfang, QA-Ergebnisse, Preview-Link und Fristlogik.
+
+## 2026-02-12 10:08
+- `Makefile` hinzugefuegt mit Targets: `qa`, `batch`, `preview`.
+- QA-Doku (`docs/qa_commands.md`) um `make`-Alternativen ergaenzt.
