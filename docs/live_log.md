@@ -388,3 +388,8 @@
 ## 2026-02-13 10:00
 - Doku-Konsistenz fuer erweiterten QA-Lauf hergestellt.
 - `docs/update_process.md` und `README.md` enthalten jetzt alle 4 Snapshot-Artefakte (coverage, deadlines, open_calls, data_gaps).
+
+## 2026-02-13 10:15
+- Vollstaendigen QA-Lauf via `make qa` ausgefuehrt.
+- Ergebnis stabil: Validation OK; keine offenen Calls mit nur abgelaufener Frist.
+- Snapshot-Dateien aktualisiert (`coverage_snapshot.md`, `data_gaps.md`).
