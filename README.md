@@ -28,6 +28,10 @@ make batch
 - `docs/open_calls.md`
 - `docs/data_gaps.md`
 
+`make status` erzeugt:
+- alle Snapshot-Reports (wie oben)
+- `STATUS.md` (automatisch aus aktuellem Datenstand)
+
 ## Wichtige Dateien
 
 - Daten: `data/foerderprogramme.csv`

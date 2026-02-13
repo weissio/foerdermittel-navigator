@@ -398,3 +398,7 @@
 - Automatische STATUS-Erzeugung eingefuehrt (`scripts/report_status.py`).
 - `make status` erweitert: erzeugt jetzt auch `STATUS.md` aus aktuellen Daten.
 - QA-Doku um `make status`-Ausgaben erweitert.
+
+## 2026-02-13 11:16
+- `README.md` auf automatischen Status-Flow abgestimmt.
+- `make status` beschreibt jetzt explizit: Snapshot-Reports + automatische Erzeugung von `STATUS.md`.
