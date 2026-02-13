@@ -161,3 +161,6 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - IBB Innovationsfachkraft: https://www.ibb.de/de/foerderprogramme/innovationsfachkraft.html
 - https://www.bafa.de/DE/Wirtschafts_Mittelstandsfoerderung/Beratung_Finanzierung/unternehmensberatung_node.html
 - https://www.bafa.de/DE/Energie/Effiziente_Gebaeude/effiziente_gebaeude_node.html
+- https://www.bmwk.de/Redaktion/DE/Artikel/Innovation/go-innovativ.html
+- https://www.exist.de/EXIST/Navigation/DE/Programm/Exist-Gruendungsstipendium/exist-gruendungsstipendium.html
+- https://www.exist.de/EXIST/Navigation/DE/Programm/Exist-Forschungstransfer/exist-forschungstransfer.html

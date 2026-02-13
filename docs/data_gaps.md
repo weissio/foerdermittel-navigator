@@ -1,14 +1,14 @@
 # Data Gaps
 
-- Erzeugt am: `2026-02-13 19:09`
-- Datensaetze: `163`
+- Erzeugt am: `2026-02-13 19:54`
+- Datensaetze: `168`
 
 ## Status-Verteilung
 
 | Status | Anzahl |
 |---|---:|
 | geplant | 5 |
-| laufend | 137 |
+| laufend | 142 |
 | offen | 21 |
 
 ## Unterrepraesentierte Regionen
@@ -35,7 +35,7 @@
 
 | Region | Anzahl |
 |---|---:|
-| Deutschland | 18 |
+| Deutschland | 23 |
 | Berlin | 15 |
 | Rheinland-Pfalz | 12 |
 | EU (inkl. Deutschland) | 11 |
@@ -57,7 +57,6 @@
 |---|---:|
 | BAB Bremen | 1 |
 | BAFA/KfW | 1 |
-| BMWK | 1 |
 | BMWK (Nationales Portal) / EU | 1 |
 | BMWK (ZIM) / Projekttraeger | 1 |
 | BMWK/ZIM (DE) + CORFO (CL) | 1 |
@@ -70,6 +69,7 @@
 | Freistaat Bayern / EFRE | 1 |
 | Freistaat Bayern / ESF+ | 1 |
 | Freistaat Sachsen / EFRE | 1 |
+| Freistaat Sachsen / ESF+ | 1 |
 
 ## Unterrepraesentierte Themen
 
@@ -86,9 +86,9 @@
 | Eigenkapital/Beteiligung | 1 |
 | Energie- und Ressourceneffizienz/Prozesswaerme | 1 |
 | Energieeffizienz/Umwelt | 1 |
+| Erneuerbare Energien | 1 |
 | Finanzierung/Buergschaften | 1 |
 | Forschung und Entwicklung/Innovation | 1 |
-| Gruendung/Innovation | 1 |
 | Gruendung/Internationalisierung | 1 |
 
 ## Priorisierungsregel

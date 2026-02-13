@@ -416,3 +416,8 @@
 - Datenausbau in stark frequentierten Bundesprogrammen: +5 neue Eintraege (KfW/BAFA).
 - Neu: ERP-Foerderkredit KMU (365/366), KfW-Umweltprogramm (240/241), BEG NWG (KfW 263), BAFA Unternehmensberatung, BAFA BEG EM.
 - Voller QA-Zyklus erfolgreich mit aktualisierten Snapshot-Dateien.
+
+## 2026-02-13 12:12
+- Datenausbau in stark frequentierten Bundesprogrammen: +5 neue Eintraege (KfW/BMWK).
+- Neu: KfW 270, KfW Klimaschutzoffensive, BMWK go-inno, EXIST-Gruendungsstipendium, EXIST-Forschungstransfer.
+- Voller QA-Zyklus erfolgreich mit aktualisierten Snapshot-Dateien.
