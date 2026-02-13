@@ -30,6 +30,7 @@ make batch
 - Live-Log: `docs/live_log.md`
 - Coverage-Snapshot: `docs/coverage_snapshot.md`
 - Deadline-Snapshot: `docs/deadline_snapshot.md`
+- Open-Calls-Snapshot: `docs/open_calls.md`
 - Update-Prozess: `docs/update_process.md`
 - QA-Kommandos: `docs/qa_commands.md`
 

@@ -355,3 +355,7 @@
 - QA-Workflow erweitert um `scripts/report_open_calls.py` und `docs/open_calls.md`.
 - `scripts/run_qa.sh` Schrittzaehlung konsistent auf 5 Schritte gesetzt.
 - QA-Doku (`docs/qa_commands.md`) um Open-Calls-Report ergaenzt.
+
+## 2026-02-13 03:17
+- Doku auf Open-Calls-Snapshot konsolidiert.
+- `README.md` und `STATUS.md` um `docs/open_calls.md` bzw. `report_open_calls.py` erweitert.
