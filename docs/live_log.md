@@ -393,3 +393,8 @@
 - Vollstaendigen QA-Lauf via `make qa` ausgefuehrt.
 - Ergebnis stabil: Validation OK; keine offenen Calls mit nur abgelaufener Frist.
 - Snapshot-Dateien aktualisiert (`coverage_snapshot.md`, `data_gaps.md`).
+
+## 2026-02-13 11:09
+- Automatische STATUS-Erzeugung eingefuehrt (`scripts/report_status.py`).
+- `make status` erweitert: erzeugt jetzt auch `STATUS.md` aus aktuellen Daten.
+- QA-Doku um `make status`-Ausgaben erweitert.

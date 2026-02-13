@@ -11,11 +11,7 @@ Stand: 2026-02-13
 ## QA
 
 - `scripts/validate_foerderprogramme.py`: OK
-- `scripts/check_deadlines.py`:
-  - `offen without deadline = 0`
-  - `offen with rolling/program-dependent deadline = 6`
-  - `offen with only past deadline = 0`
-  - `geplant with past deadline = 1` (`SA_INVESTIERT`)
+- `scripts/check_deadlines.py`: siehe `docs/deadline_snapshot.md`
 - `scripts/report_coverage.py`: aktualisiert `docs/coverage_snapshot.md`
 - `scripts/report_deadlines.py`: aktualisiert `docs/deadline_snapshot.md`
 - `scripts/report_open_calls.py`: aktualisiert `docs/open_calls.md`
@@ -37,4 +33,5 @@ Stand: 2026-02-13
 
 - `make qa` -> kompletter QA-Lauf
 - `make batch` -> Monatsbatch inkl. `update_log`-Eintrag
+- `make status` -> Snapshot-Reports + `STATUS.md`
 - `make preview` -> lokaler Preview-Server

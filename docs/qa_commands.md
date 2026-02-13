@@ -23,6 +23,13 @@ make open_calls  # nur open_calls.md
 make gaps        # data_gaps.md
 ```
 
+`make status` erzeugt:
+- `docs/coverage_snapshot.md`
+- `docs/deadline_snapshot.md`
+- `docs/open_calls.md`
+- `docs/data_gaps.md`
+- `STATUS.md`
+
 ## Monatsbatch (QA + update_log)
 
 ```bash
