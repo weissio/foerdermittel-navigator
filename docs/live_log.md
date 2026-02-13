@@ -406,3 +406,8 @@
 ## 2026-02-13 11:24
 - `scripts/run_qa.sh` erweitert: erzeugt jetzt auch `STATUS.md` via `report_status.py`.
 - QA-Standardlauf damit voll synchron: alle Snapshots + Status in einem Durchlauf.
+
+## 2026-02-13 11:35
+- QA-Lauf erneut ausgefuehrt (`make qa`).
+- Ergebnis stabil: Validation OK; keine offenen Calls mit nur abgelaufener Frist.
+- Snapshot-Updates: `docs/coverage_snapshot.md`, `docs/data_gaps.md`.
