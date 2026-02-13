@@ -380,3 +380,7 @@
 ## 2026-02-13 09:39
 - `STATUS.md` um Gap-Report (`report_gaps.py` / `docs/data_gaps.md`) erweitert.
 - Priorisierungs-Snapshot jetzt direkt im Hauptstatus sichtbar.
+
+## 2026-02-13 09:48
+- QA-Runner erweitert: `scripts/run_qa.sh` fuehrt jetzt zusaetzlich `report_gaps.py` aus.
+- Standard-QA aktualisiert damit automatisch alle vier Snapshot-Dateien (coverage, deadlines, open_calls, data_gaps).
