@@ -1,6 +1,6 @@
 # Open Calls
 
-- Erzeugt am: `2026-02-13`
+- Erzeugt am: `2026-02-14`
 - Offen gesamt: `21`
 - Mit Datumsfrist: `15`
 - Rollierend/ohne Datum: `6`

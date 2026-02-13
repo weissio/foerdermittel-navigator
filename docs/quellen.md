@@ -9,6 +9,8 @@
 - KfW ERP-Foerderkredit Digitalisierung (511/512): https://www.kfw.de/inlandsfoerderung/Unternehmen/Innovation-und-Digitalisierung/F%C3%B6rderprodukte/ERP-F%C3%B6rderkredit-Digitalisierung-%28511-512%29/
 - KfW ERP-Foerderkredit grosser Mittelstand (375/376): https://www.kfw.de/inlandsfoerderung/Unternehmen/Erweitern-Festigen/F%C3%B6rderprodukte/ERP-F%C3%B6rderkredit-gro%C3%9Fer-Mittelstand-(375-376)/
 - KfW ERP-Beteiligungsprogramm (100): https://www.kfw.de/inlandsfoerderung/Unternehmen/Erweitern-Festigen/F%C3%B6rderprodukte/ERP-Beteiligungsprogramm-%28100%29/
+- KfW ERP-Foerderkredit Gruendung und Nachfolge (077): https://www.kfw.de/inlandsfoerderung/Unternehmen/Gr%C3%BCndung-und-Nachfolge/F%C3%B6rderprodukte/ERP-F%C3%B6rderkredit-Gr%C3%BCndung-und-Nachfolge-%28077%29/
+- KfW-Energieeffizienzprogramm Produktionsanlagen/-prozesse (292): https://www.kfw.de/inlandsfoerderung/Unternehmen/Energie-Umwelt/F%C3%B6rderprodukte/EE-Produktion-292/
 - BAFA EEW Richtlinie in Kraft (Pressemitteilung): https://www.bafa.de/SharedDocs/Pressemitteilungen/DE/Energie/2024_02_eew.html
 - BAFA Energieberatung Nichtwohngebaeude/Anlagen/Systeme Modul 2: https://www.bafa.de/DE/Energie/Energieberatung/Nichtwohngebaeude_Anlagen_Systeme/Modul2_Energieberatung/modul2_energieberatung.html
 - BMF Forschungszulage: https://www.bundesfinanzministerium.de/Web/DE/Themen/Steuern/Steuerliche_Themengebiete/Forschungszulage/forschungszulage.html

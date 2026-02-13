@@ -435,3 +435,8 @@
 - Datenausbau im Bund-Fokus (KfW): +3 neue Programme aufgenommen.
 - Neu: `KFW_375_376`, `KFW_390_391`, `KFW_100`.
 - `docs/quellen.md` um offizielle KfW-Produktseiten/Merkblatt erweitert.
+
+## 2026-02-13 23:52
+- Datenausbau im Bund-Fokus (KfW): +2 neue Programme aufgenommen.
+- Neu: `KFW_077` (Gruendung und Nachfolge) und `KFW_292` (Energieeffizienz Produktion).
+- `docs/quellen.md` um beide offiziellen KfW-Produktseiten erweitert.
