@@ -18,6 +18,8 @@ Ziel: Vollstaendige, nachvollziehbare Aktualitaet der Programme und Calls.
    Artefakte:
    - `docs/coverage_snapshot.md`
    - `docs/deadline_snapshot.md`
+   - `docs/open_calls.md`
+   - `docs/data_gaps.md`
 5. Aenderungen in `data/update_log.csv` protokollieren.
 
 ## Frist-Logik

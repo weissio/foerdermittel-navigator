@@ -22,6 +22,12 @@ make qa
 make batch
 ```
 
+`make qa` erzeugt alle Snapshot-Reports:
+- `docs/coverage_snapshot.md`
+- `docs/deadline_snapshot.md`
+- `docs/open_calls.md`
+- `docs/data_gaps.md`
+
 ## Wichtige Dateien
 
 - Daten: `data/foerderprogramme.csv`

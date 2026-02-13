@@ -384,3 +384,7 @@
 ## 2026-02-13 09:48
 - QA-Runner erweitert: `scripts/run_qa.sh` fuehrt jetzt zusaetzlich `report_gaps.py` aus.
 - Standard-QA aktualisiert damit automatisch alle vier Snapshot-Dateien (coverage, deadlines, open_calls, data_gaps).
+
+## 2026-02-13 10:00
+- Doku-Konsistenz fuer erweiterten QA-Lauf hergestellt.
+- `docs/update_process.md` und `README.md` enthalten jetzt alle 4 Snapshot-Artefakte (coverage, deadlines, open_calls, data_gaps).
