@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-13 18:53`
-- Datensaetze: `158`
-- Eindeutige `programm_id`: `158`
+- Erzeugt am: `2026-02-13 19:09`
+- Datensaetze: `163`
+- Eindeutige `programm_id`: `163`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 132 |
+| laufend | 137 |
 | offen | 21 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 132 |
+| laufend | 137 |
 | offen | 21 |
 | zukuenftig | 5 |
 
@@ -26,8 +26,8 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Region | Anzahl |
 |---|---:|
+| Deutschland | 18 |
 | Berlin | 15 |
-| Deutschland | 13 |
 | Rheinland-Pfalz | 12 |
 | EU (inkl. Deutschland) | 11 |
 | Niedersachsen | 11 |
@@ -54,7 +54,9 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Investitionsbank Berlin (IBB) | 12 |
 | ISB (Rheinland-Pfalz) | 8 |
 | NBank | 7 |
+| KfW | 6 |
 | L-Bank | 6 |
+| BAFA | 5 |
 | Investitionsbank Sachsen-Anhalt (IB) | 5 |
 | NRW.BANK / Land NRW | 5 |
 | SAB (Saechsische Aufbaubank) | 5 |
@@ -63,13 +65,11 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | EIC (EU) | 4 |
 | EISMEA (EU) | 4 |
 | LfA Foerderbank Bayern | 4 |
-| BAFA | 3 |
 | Europaeische Kommission | 3 |
 | IB.SH (Investitionsbank Schleswig-Holstein) | 3 |
 | IFB Hamburg | 3 |
 | ILB | 3 |
 | ISB Rheinland-Pfalz | 3 |
-| KfW | 3 |
 | NRW.BANK | 3 |
 
 ## Top Themen
@@ -78,20 +78,20 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 |---|---:|
 | EU-Fonds ESF+ | 22 |
 | EU-Fonds EFRE | 14 |
-| Unternehmensfinanzierung | 11 |
+| Unternehmensfinanzierung | 12 |
 | Gruendung/Wachstum | 8 |
 | Digitalisierung | 7 |
 | Forschung und Entwicklung | 7 |
 | Investition/Betriebsmittel | 6 |
+| Energieeffizienz | 5 |
 | Gruendung/Nachfolge | 5 |
 | Forschung und Entwicklung/Innovation (international) | 4 |
 | Innovation/Digitalisierung | 4 |
 | Investition/Innovation | 4 |
-| Energieeffizienz | 3 |
+| Beratung/Unternehmensentwicklung | 3 |
 | Energieeffizienz/Klimaschutz | 3 |
 | Innovation/F&E | 3 |
 | Wachstum/Investition | 3 |
-| Beratung/Unternehmensentwicklung | 2 |
 | Digitalisierung/Innovation | 2 |
 | Forschung und Innovation | 2 |
 | Gruendung | 2 |

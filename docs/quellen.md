@@ -159,3 +159,5 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - IBB Coaching BONUS: https://www.ibb.de/de/foerderprogramme/coaching-bonus.html
 - IBB Akquisitionsbonus: https://www.ibb.de/de/foerderprogramme/akquisitionsbonus.html
 - IBB Innovationsfachkraft: https://www.ibb.de/de/foerderprogramme/innovationsfachkraft.html
+- https://www.bafa.de/DE/Wirtschafts_Mittelstandsfoerderung/Beratung_Finanzierung/unternehmensberatung_node.html
+- https://www.bafa.de/DE/Energie/Effiziente_Gebaeude/effiziente_gebaeude_node.html

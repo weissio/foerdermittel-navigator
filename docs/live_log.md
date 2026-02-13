@@ -411,3 +411,8 @@
 - QA-Lauf erneut ausgefuehrt (`make qa`).
 - Ergebnis stabil: Validation OK; keine offenen Calls mit nur abgelaufener Frist.
 - Snapshot-Updates: `docs/coverage_snapshot.md`, `docs/data_gaps.md`.
+
+## 2026-02-13 11:52
+- Datenausbau in stark frequentierten Bundesprogrammen: +5 neue Eintraege (KfW/BAFA).
+- Neu: ERP-Foerderkredit KMU (365/366), KfW-Umweltprogramm (240/241), BEG NWG (KfW 263), BAFA Unternehmensberatung, BAFA BEG EM.
+- Voller QA-Zyklus erfolgreich mit aktualisierten Snapshot-Dateien.
