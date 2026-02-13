@@ -421,3 +421,8 @@
 - Datenausbau in stark frequentierten Bundesprogrammen: +5 neue Eintraege (KfW/BMWK).
 - Neu: KfW 270, KfW Klimaschutzoffensive, BMWK go-inno, EXIST-Gruendungsstipendium, EXIST-Forschungstransfer.
 - Voller QA-Zyklus erfolgreich mit aktualisierten Snapshot-Dateien.
+
+## 2026-02-13 12:22
+- Datenausbau in stark frequentierten Bundesprogrammen: +5 neue Eintraege (KfW/BMWK/BAFA).
+- Neu: WIPANO, BAFA Materialeffizienz, KfW 293, KfW 261, Innovationsfoerderung Handwerk (BMWK).
+- Voller QA-Zyklus erfolgreich mit aktualisierten Snapshot-Dateien.

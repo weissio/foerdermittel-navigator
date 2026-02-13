@@ -164,3 +164,6 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - https://www.bmwk.de/Redaktion/DE/Artikel/Innovation/go-innovativ.html
 - https://www.exist.de/EXIST/Navigation/DE/Programm/Exist-Gruendungsstipendium/exist-gruendungsstipendium.html
 - https://www.exist.de/EXIST/Navigation/DE/Programm/Exist-Forschungstransfer/exist-forschungstransfer.html
+- https://www.bmwk.de/Redaktion/DE/Artikel/Technologie/wipano.html
+- https://www.bafa.de/DE/Wirtschafts_Mittelstandsfoerderung/wirtschafts_mittelstandsfoerderung_node.html
+- https://www.bmwk.de/Redaktion/DE/Artikel/Mittelstand/mittelstandspolitik.html

@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-13 19:54`
-- Datensaetze: `168`
-- Eindeutige `programm_id`: `168`
+- Erzeugt am: `2026-02-13 20:54`
+- Datensaetze: `173`
+- Eindeutige `programm_id`: `173`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 142 |
+| laufend | 147 |
 | offen | 21 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 142 |
+| laufend | 147 |
 | offen | 21 |
 | zukuenftig | 5 |
 
@@ -26,7 +26,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Region | Anzahl |
 |---|---:|
-| Deutschland | 23 |
+| Deutschland | 28 |
 | Berlin | 15 |
 | Rheinland-Pfalz | 12 |
 | EU (inkl. Deutschland) | 11 |
@@ -52,17 +52,17 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Traeger | Anzahl |
 |---|---:|
 | Investitionsbank Berlin (IBB) | 12 |
+| KfW | 10 |
 | ISB (Rheinland-Pfalz) | 8 |
-| KfW | 8 |
 | NBank | 7 |
+| BAFA | 6 |
+| BMWK | 6 |
 | L-Bank | 6 |
-| BAFA | 5 |
 | Investitionsbank Sachsen-Anhalt (IB) | 5 |
 | NRW.BANK / Land NRW | 5 |
 | SAB (Saechsische Aufbaubank) | 5 |
 | Thueringer Aufbaubank (TAB) | 5 |
 | WIBank (Hessen) | 5 |
-| BMWK | 4 |
 | EIC (EU) | 4 |
 | EISMEA (EU) | 4 |
 | LfA Foerderbank Bayern | 4 |
@@ -82,8 +82,8 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Gruendung/Wachstum | 8 |
 | Digitalisierung | 7 |
 | Forschung und Entwicklung | 7 |
+| Energieeffizienz | 6 |
 | Investition/Betriebsmittel | 6 |
-| Energieeffizienz | 5 |
 | Gruendung/Nachfolge | 5 |
 | Forschung und Entwicklung/Innovation (international) | 4 |
 | Innovation/Digitalisierung | 4 |
