@@ -363,3 +363,7 @@
 ## 2026-02-13 03:24
 - `Makefile` erweitert: Targets `open_calls` und `status` hinzugefuegt.
 - QA-Doku (`docs/qa_commands.md`) um neue `make`-Shortcuts ergaenzt.
+
+## 2026-02-13 03:33
+- Statussync ausgefuehrt: `make status` (coverage, deadlines, open_calls neu erzeugt).
+- `STATUS.md` auf aktuellen Stand (`2026-02-13`) aktualisiert.
