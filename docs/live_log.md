@@ -426,3 +426,7 @@
 - Datenausbau in stark frequentierten Bundesprogrammen: +5 neue Eintraege (KfW/BMWK/BAFA).
 - Neu: WIPANO, BAFA Materialeffizienz, KfW 293, KfW 261, Innovationsfoerderung Handwerk (BMWK).
 - Voller QA-Zyklus erfolgreich mit aktualisierten Snapshot-Dateien.
+
+## 2026-02-13 12:06
+- Neue Uebergabedatei `HANDOVER.md` angelegt.
+- Enthalten: aktueller Fokus, naechste Schritte und Copy/Paste-Prompt fuer neue Codex-Sessions (Mac/Pi).
