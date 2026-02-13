@@ -330,3 +330,7 @@
 ## 2026-02-12 09:45
 - Preview um sichtbaren Frist-Hinweis erweitert (`docs/preview/index.html`, `docs/preview/styles.css`).
 - Nutzer sieht jetzt direkt: Sortierung nach naechster Frist und Kennzeichnung rollierender Programme.
+
+## 2026-02-12 10:00
+- Kompakten Projektstatus hinzugefuegt: `STATUS.md`.
+- Enthalten: Datenumfang, QA-Ergebnisse, Preview-Link und Fristlogik.

@@ -1,0 +1,27 @@
+# Status (Live Snapshot)
+
+Stand: 2026-02-12
+
+## Datenbestand
+
+- Datensaetze: 158
+- Eindeutige `programm_id`: 158
+- Status: `laufend=132`, `offen=21`, `geplant=5`
+
+## QA
+
+- `scripts/validate_foerderprogramme.py`: OK
+- `scripts/check_deadlines.py`:
+  - `offen without deadline = 0`
+  - `offen with rolling/program-dependent deadline = 6`
+  - `offen with only past deadline = 0`
+  - `geplant with past deadline = 1` (`SA_INVESTIERT`)
+- `scripts/report_coverage.py`: aktualisiert `docs/coverage_snapshot.md`
+- `scripts/report_deadlines.py`: aktualisiert `docs/deadline_snapshot.md`
+
+## Preview
+
+- URL: `http://localhost:8000/docs/preview/`
+- Fristlogik:
+  - offene Calls sortiert nach naechster zukuenftiger Frist
+  - offene Programme ohne fixes Datum als `rollierend` markiert
