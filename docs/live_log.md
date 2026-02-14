@@ -523,3 +523,8 @@
 - Match-Granularitaet im Bund-Fokus erweitert: +2 spezifische Eintraege fuer KfW grosser Mittelstand.
 - Neu: `KFW_375` und `KFW_376` als getrennte Produktvarianten.
 - Ziel: praeziseres Filtern statt Sammel-ID `KFW_375_376`.
+
+## 2026-02-14 03:56
+- Match-Granularitaet im Bund-Fokus erweitert: +2 spezifische Eintraege fuer KfW 390/391.
+- Neu: `KFW_390` und `KFW_391` als getrennte Produktvarianten.
+- Ziel: praeziseres Filtern statt Sammel-ID `KFW_390_391`.
