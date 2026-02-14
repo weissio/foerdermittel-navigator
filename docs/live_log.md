@@ -450,3 +450,8 @@
 - Datenausbau in stark frequentierten Landesprogrammen: +2 neue Programme aufgenommen.
 - Neu: `N_BANK_INNOVATIONSFOERDERPROGRAMM` und `SAB_INNOVATION_EFRE`.
 - QA/Status-Lauf nach Datenupdate vorbereitet.
+
+## 2026-02-14 00:16
+- Datenausbau im Bund-Fokus: +2 neue Programme aufgenommen.
+- Neu: `BMWK_GO_DIGITAL` und `BMAS_UNTERNEHMENSWERT_MENSCH_PLUS`.
+- `docs/quellen.md` um die offiziellen Programmseiten ergaenzt.

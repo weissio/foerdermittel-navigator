@@ -1,14 +1,14 @@
 # Data Gaps
 
-- Erzeugt am: `2026-02-14 01:25`
-- Datensaetze: `182`
+- Erzeugt am: `2026-02-14 01:31`
+- Datensaetze: `184`
 
 ## Status-Verteilung
 
 | Status | Anzahl |
 |---|---:|
 | geplant | 5 |
-| laufend | 156 |
+| laufend | 158 |
 | offen | 21 |
 
 ## Unterrepraesentierte Regionen
@@ -35,7 +35,7 @@
 
 | Region | Anzahl |
 |---|---:|
-| Deutschland | 33 |
+| Deutschland | 35 |
 | Berlin | 15 |
 | Niedersachsen | 13 |
 | Rheinland-Pfalz | 13 |
@@ -57,6 +57,7 @@
 |---|---:|
 | BAB Bremen | 1 |
 | BAFA/KfW | 1 |
+| BMAS / INQA / ESF Plus | 1 |
 | BMWK (Nationales Portal) / EU | 1 |
 | BMWK (ZIM) / Projekttraeger | 1 |
 | BMWK/ZIM (DE) + CORFO (CL) | 1 |
@@ -69,7 +70,6 @@
 | Freistaat Bayern / EFRE | 1 |
 | Freistaat Bayern / ESF+ | 1 |
 | Freistaat Sachsen / EFRE | 1 |
-| Freistaat Sachsen / ESF+ | 1 |
 
 ## Unterrepraesentierte Themen
 
@@ -81,6 +81,7 @@
 | Biotech/DeepTech | 1 |
 | Branchenfoerderung/Unternehmensfoerderung | 1 |
 | Digitalisierung (KI, Cybersecurity, HPC, Skills) | 1 |
+| Digitalisierung/IT-Sicherheit | 1 |
 | EU-Fonds (EFRE/ESF+/u. a.) | 1 |
 | EU-Fonds EFRE/JTF | 1 |
 | Eigenkapital/Beteiligung | 1 |
@@ -89,7 +90,6 @@
 | Energieeffizienz/Umwelt | 1 |
 | Erneuerbare Energien | 1 |
 | Finanzierung/Buergschaften | 1 |
-| Gruendung/Internationalisierung | 1 |
 
 ## Priorisierungsregel
 
