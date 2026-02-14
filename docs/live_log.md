@@ -559,3 +559,8 @@
 - Datenausbau im Saarland: +2 neue SIKB-Einzelprogramme aufgenommen.
 - Neu: `SIKB_INVEST_DARLEHEN` und `SIKB_GRUENDUNG_NACHFOLGE`.
 - `docs/quellen.md` um beide offiziellen SIKB-Programmseiten erweitert.
+
+## 2026-02-14 08:34
+- Linkqualitaet fuer ISB Rheinland-Pfalz verbessert.
+- `ISB_BERATUNG_MITTELSTAND_136` und `ISB_BETRIEBSBERATUNG_158` auf direkte Programmseiten (`/foerderung/136.html`, `/foerderung/158.html`) umgestellt.
+- Ziel: 404-Fehler bei der Richtlinienverlinkung aus der A-bis-Z-Uebersicht vermeiden.

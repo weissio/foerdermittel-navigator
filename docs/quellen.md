@@ -123,6 +123,8 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - ILB Brandenburg-Kredit Unternehmen: https://www.foerderdatenbank.de/FDB/Content/DE/Foerderprogramm/Land/Brandenburg/brandenburg-kredit-unternehmen.html
 - WIBank HessenFonds (Klein-/Grossdarlehen, Innovationskredit, Beteiligung, Gründung/Wachstum): https://www.wibank.de/wibank/unternehmensfinanzierung/hessenfonds/hessenfonds-1.jsp
 - ISB Förderung A-Z (RLP): https://isb.rlp.de/foerderung/foerderung-a-bis-z.html
+- ISB Beratungsprogramm fuer den Mittelstand (Zuschuss 136): https://isb.rlp.de/foerderung/136.html
+- ISB Betriebsberatungsprogramm (Zuschuss 158): https://isb.rlp.de/foerderung/158.html
 - ISB Wachsen & Investieren (RLP): https://isb.rlp.de/foerderung/wachsen-und-investieren.html
 - L-Bank Innovationsfinanzierung: https://www.l-bank.de/produkte/wirtschaftsfoerderung/innovationsfinanzierung.html
 - SAB Sachsenkredit "Universal": https://www.sab.sachsen.de/sab-sachsenkredit-universal-neu
