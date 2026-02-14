@@ -513,3 +513,8 @@
 - Match-Granularitaet fuer ZIM 2025 erweitert: +4 spezialisierte Eintraege auf Basis der bestehenden ZIM-Richtlinie.
 - Neu: `ZIM_2025_STUDIE`, `ZIM_2025_EINZEL`, `ZIM_2025_KOOP`, `ZIM_2025_NETZWERK`.
 - Ziel: praeziseres Filtern nach Projektart (Studie / Einzel / Kooperation / Netzwerk).
+
+## 2026-02-14 03:12
+- Match-Granularitaet im Bund-Fokus erweitert: +2 spezifische Eintraege fuer KfW-Digitalisierung.
+- Neu: `KFW_511` und `KFW_512` als getrennte Produktvarianten.
+- Ziel: praeziseres Filtern statt Sammel-ID `KFW_511_512`.
