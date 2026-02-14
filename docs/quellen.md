@@ -67,6 +67,8 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - IB Sachsen-Anhalt Unternehmen (Programme inkl. IB-Gruendungsdarlehen 2021-2027): https://www.ib-sachsen-anhalt.de/de/unternehmen
 - MWL Sachsen-Anhalt GRW Unternehmensfoerderung: https://mwl.sachsen-anhalt.de/ministerium/foerderung/grw-unternehmensfoerderung
 - BAB Bremen Unternehmensfoerderung: https://www.bab-bremen.de/de/page/unternehmen
+- BAB Bremen Liquiditaetshilfen: https://www.bab-bremen.de/de/page/programm/liquiditaetshilfen
+- BAB Bremen GRW: https://www.bab-bremen.de/de/page/programm/grw
 - IFB MV Unternehmensfoerderung: https://www.lfi-mv.de/foerderprogramme/unternehmen/
 - MBB Brandenburg (Buergschaften): https://www.mbb-mittelstand.de/
 - Foerderdatenbank EFRE (Einstieg/Onlineantrag): https://www.foerderdatenbank.de/FDB/DE/Service/Onlineantrag/EFRE/efre_node.html

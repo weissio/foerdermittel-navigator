@@ -455,3 +455,8 @@
 - Datenausbau im Bund-Fokus: +2 neue Programme aufgenommen.
 - Neu: `BMWK_GO_DIGITAL` und `BMAS_UNTERNEHMENSWERT_MENSCH_PLUS`.
 - `docs/quellen.md` um die offiziellen Programmseiten ergaenzt.
+
+## 2026-02-14 00:24
+- Datenausbau in stark frequentierten Landesprogrammen: +2 neue Programme aufgenommen.
+- Neu: `BAB_LIQUIDITAETSHILFEN` und `BAB_GRW_BREMEN`.
+- `docs/quellen.md` um die offiziellen BAB-Programmseiten erweitert.

@@ -1,14 +1,14 @@
 # Data Gaps
 
-- Erzeugt am: `2026-02-14 01:31`
-- Datensaetze: `184`
+- Erzeugt am: `2026-02-14 01:38`
+- Datensaetze: `186`
 
 ## Status-Verteilung
 
 | Status | Anzahl |
 |---|---:|
 | geplant | 5 |
-| laufend | 158 |
+| laufend | 160 |
 | offen | 21 |
 
 ## Unterrepraesentierte Regionen
@@ -20,10 +20,10 @@
 | Deutschland/Polen | 1 |
 | International (IraSME) | 1 |
 | Mecklenburg-Vorpommern | 3 |
-| Bremen | 5 |
 | Hamburg | 5 |
 | Saarland | 6 |
 | Bayern | 7 |
+| Bremen | 7 |
 | Schleswig-Holstein | 7 |
 | Thueringen | 7 |
 | Baden-Wuerttemberg | 8 |
@@ -47,15 +47,14 @@
 | Hessen | 8 |
 | Sachsen-Anhalt | 8 |
 | Bayern | 7 |
+| Bremen | 7 |
 | Schleswig-Holstein | 7 |
 | Thueringen | 7 |
-| Saarland | 6 |
 
 ## Unterrepraesentierte Traeger
 
 | Traeger | Anzahl |
 |---|---:|
-| BAB Bremen | 1 |
 | BAFA/KfW | 1 |
 | BMAS / INQA / ESF Plus | 1 |
 | BMWK (Nationales Portal) / EU | 1 |
@@ -70,6 +69,7 @@
 | Freistaat Bayern / EFRE | 1 |
 | Freistaat Bayern / ESF+ | 1 |
 | Freistaat Sachsen / EFRE | 1 |
+| Freistaat Sachsen / ESF+ | 1 |
 
 ## Unterrepraesentierte Themen
 
