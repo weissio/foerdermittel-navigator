@@ -503,3 +503,8 @@
 ## 2026-02-14 01:58
 - Datenqualitaet verbessert: `IBB_BERLIN_KAPITAL` auf direkte Programmquelle umgestellt.
 - `richtlinie_url` und `quelle_url` auf `https://www.ibb.de/berlinkapital` gesetzt, `letzte_pruefung` aktualisiert.
+
+## 2026-02-14 02:20
+- Datenausbau im Bund-Fokus (KfW): +1 neues Programm aufgenommen.
+- Neu: `KFW_513_514` (ERP-Foerderkredit Innovation).
+- `docs/quellen.md` um die offizielle KfW-Produktseite erweitert.
