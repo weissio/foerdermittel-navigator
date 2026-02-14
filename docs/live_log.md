@@ -598,3 +598,8 @@
 - Datenausbau Prio I (Bund): +2 offene Bundesprogramme nachgefuehrt.
 - Neu: `BMBF_KMU_INNOVATIV` und `BMWK_IGP`.
 - Offene Programme als rollierend/wettbewerbsabhaengig markiert; Quellen in `docs/quellen.md` ergaenzt.
+
+## 2026-02-14 13:10
+- Datenausbau Prio I (Bund): +2 weitere BAFA-EEW-Module aufgenommen.
+- Neu: `BAFA_EEW_MODUL_3` und `BAFA_EEW_MODUL_5`.
+- Ziel: vollstaendigere Modulabdeckung im Bundesblock Energieeffizienz/Transformation.
