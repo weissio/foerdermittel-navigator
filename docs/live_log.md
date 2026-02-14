@@ -440,3 +440,8 @@
 - Datenausbau im Bund-Fokus (KfW): +2 neue Programme aufgenommen.
 - Neu: `KFW_077` (Gruendung und Nachfolge) und `KFW_292` (Energieeffizienz Produktion).
 - `docs/quellen.md` um beide offiziellen KfW-Produktseiten erweitert.
+
+## 2026-02-14 00:01
+- Datenausbau in stark frequentierten Landesprogrammen: +2 neue Programme aufgenommen.
+- Neu: `N_BANK_GRUENDUNGS_WACHSTUMSKREDIT` und `ISB_INNOVATION_DIGITALISIERUNG`.
+- QA/Status-Lauf nach Datenupdate vorbereitet.
