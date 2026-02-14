@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-14 02:02`
-- Datensaetze: `197`
-- Eindeutige `programm_id`: `197`
+- Erzeugt am: `2026-02-14 02:13`
+- Datensaetze: `199`
+- Eindeutige `programm_id`: `199`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 171 |
+| laufend | 173 |
 | offen | 21 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 171 |
+| laufend | 173 |
 | offen | 21 |
 | zukuenftig | 5 |
 
@@ -41,9 +41,9 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Thueringen | 8 |
 | Bayern | 7 |
 | Bremen | 7 |
+| Mecklenburg-Vorpommern | 7 |
 | Saarland | 6 |
 | Hamburg | 5 |
-| Mecklenburg-Vorpommern | 5 |
 | Deutschland/Chile | 1 |
 | Deutschland/Kanada | 1 |
 
@@ -65,12 +65,12 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | WIBank (Hessen) | 5 |
 | EIC (EU) | 4 |
 | EISMEA (EU) | 4 |
+| Landesfoerderinstitut Mecklenburg-Vorpommern (LFI M-V) | 4 |
 | LfA Foerderbank Bayern | 4 |
 | BAB Bremen | 3 |
 | Europaeische Kommission | 3 |
 | IB.SH (Investitionsbank Schleswig-Holstein) | 3 |
 | IFB Hamburg | 3 |
-| ILB | 3 |
 
 ## Top Themen
 

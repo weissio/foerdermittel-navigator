@@ -72,6 +72,8 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - IFB MV Unternehmensfoerderung: https://www.lfi-mv.de/foerderprogramme/unternehmen/
 - LFI M-V Messen und Ausstellungen: https://www.lfi-mv.de/foerderfinder/messen-und-ausstellungen/
 - LFI M-V GRW Gewerbliche Wirtschaft: https://www.lfi-mv.de/foerderfinder/gemeinschaftsaufgabe-verbesserung-der-regionalen-wirtschaftsstruktur-gewerbliche-wirtschaft/
+- LFI M-V Klimaschutz-Projekte in wirtschaftlich taetigen Organisationen: https://www.lfi-mv.de/foerderfinder/klimaschutzprojekte-in-wirtschaftlich-taetigen-organisationen/
+- LFI M-V Ersteinstellung von Personal: https://www.lfi-mv.de/foerderfinder/ersteinstellung-von-personal/
 - MBB Brandenburg (Buergschaften): https://www.mbb-mittelstand.de/
 - Foerderdatenbank EFRE (Einstieg/Onlineantrag): https://www.foerderdatenbank.de/FDB/DE/Service/Onlineantrag/EFRE/efre_node.html
 - Foerderdatenbank ESF+ (Einstieg/Onlineantrag): https://www.foerderdatenbank.de/FDB/DE/Service/Onlineantrag/ESF/esf_node.html

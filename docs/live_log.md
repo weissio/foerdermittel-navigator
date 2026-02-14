@@ -480,3 +480,8 @@
 - Datenausbau in Thueringen und Rheinland-Pfalz: +2 Eintraege aufgenommen.
 - Neu: `TAB_FORSCHUNG_ENTWICKLUNG` und `ISB_FOERDERUNG_A_Z_RLP`.
 - Ziel: bessere Abdeckung von konkreten Landesfoerderwegen und Uebersichts-Einstieg fuer ISB-Einzelprogramme.
+
+## 2026-02-14 01:08
+- Datenausbau in Mecklenburg-Vorpommern: +2 neue Programme aufgenommen.
+- Neu: `LFI_MV_KLIMASCHUTZ_WIRTSCHAFT` und `LFI_MV_ERSTEINSTELLUNG_PERSONAL`.
+- `docs/quellen.md` um beide offiziellen LFI-MV-Programmseiten erweitert.
