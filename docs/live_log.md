@@ -508,3 +508,8 @@
 - Datenausbau im Bund-Fokus (KfW): +1 neues Programm aufgenommen.
 - Neu: `KFW_513_514` (ERP-Foerderkredit Innovation).
 - `docs/quellen.md` um die offizielle KfW-Produktseite erweitert.
+
+## 2026-02-14 02:44
+- Match-Granularitaet fuer ZIM 2025 erweitert: +4 spezialisierte Eintraege auf Basis der bestehenden ZIM-Richtlinie.
+- Neu: `ZIM_2025_STUDIE`, `ZIM_2025_EINZEL`, `ZIM_2025_KOOP`, `ZIM_2025_NETZWERK`.
+- Ziel: praeziseres Filtern nach Projektart (Studie / Einzel / Kooperation / Netzwerk).

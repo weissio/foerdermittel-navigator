@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-14 03:28`
-- Datensaetze: `203`
-- Eindeutige `programm_id`: `203`
+- Erzeugt am: `2026-02-14 04:07`
+- Datensaetze: `207`
+- Eindeutige `programm_id`: `207`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 177 |
+| laufend | 181 |
 | offen | 21 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 177 |
+| laufend | 181 |
 | offen | 21 |
 | zukuenftig | 5 |
 
@@ -26,7 +26,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Region | Anzahl |
 |---|---:|
-| Deutschland | 36 |
+| Deutschland | 40 |
 | Berlin | 16 |
 | Rheinland-Pfalz | 15 |
 | Niedersachsen | 13 |
@@ -59,6 +59,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | BAFA | 6 |
 | L-Bank | 6 |
 | Thueringer Aufbaubank (TAB) | 6 |
+| BMWK (ZIM) / Projekttraeger | 5 |
 | Investitionsbank Sachsen-Anhalt (IB) | 5 |
 | Landesfoerderinstitut Mecklenburg-Vorpommern (LFI M-V) | 5 |
 | NRW.BANK / Land NRW | 5 |
@@ -70,7 +71,6 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | LfA Foerderbank Bayern | 4 |
 | BAB Bremen | 3 |
 | Europaeische Kommission | 3 |
-| IB.SH (Investitionsbank Schleswig-Holstein) | 3 |
 
 ## Top Themen
 
@@ -80,12 +80,12 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | EU-Fonds EFRE | 14 |
 | Unternehmensfinanzierung | 12 |
 | Digitalisierung | 11 |
+| Forschung und Entwicklung/Innovation | 9 |
 | Gruendung/Wachstum | 9 |
 | Forschung und Entwicklung | 7 |
 | Energieeffizienz | 6 |
 | Gruendung/Nachfolge | 6 |
 | Investition/Betriebsmittel | 6 |
-| Forschung und Entwicklung/Innovation | 5 |
 | Innovation/Digitalisierung | 5 |
 | Forschung und Entwicklung/Innovation (international) | 4 |
 | Investition/Innovation | 4 |
