@@ -543,3 +543,9 @@
 - Match-Granularitaet in Rheinland-Pfalz erweitert: +2 spezifische ISB-Eintraege.
 - Neu: `ISB_MITTELSTANDSKREDIT_665` und `ISB_MITTELSTANDSKREDIT_667`.
 - Ziel: praeziseres Filtern statt Sammel-ID `ISB_MITTELSTANDSKREDIT_665_667`.
+
+## 2026-02-14 05:43
+- Datenbereinigung fuer konsistente Match-Logik durchgefuehrt.
+- 7 redundante Sammel-IDs entfernt, nachdem entsprechende Einzelvarianten vorhanden sind:
+  `ISB_MITTELSTANDSKREDIT_665_667`, `KFW_240_241`, `KFW_365_366`, `KFW_375_376`, `KFW_390_391`, `KFW_511_512`, `KFW_513_514`.
+- Ziel: keine Doppelzaehlung und klarere Filter-/Match-Ergebnisse.

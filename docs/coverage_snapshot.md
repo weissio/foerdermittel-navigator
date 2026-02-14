@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-14 07:52`
-- Datensaetze: `221`
-- Eindeutige `programm_id`: `221`
+- Erzeugt am: `2026-02-14 08:34`
+- Datensaetze: `214`
+- Eindeutige `programm_id`: `214`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 195 |
+| laufend | 188 |
 | offen | 21 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 195 |
+| laufend | 188 |
 | offen | 21 |
 | zukuenftig | 5 |
 
@@ -26,9 +26,9 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Region | Anzahl |
 |---|---:|
-| Deutschland | 52 |
-| Rheinland-Pfalz | 17 |
+| Deutschland | 46 |
 | Berlin | 16 |
+| Rheinland-Pfalz | 16 |
 | Niedersachsen | 13 |
 | EU (inkl. Deutschland) | 11 |
 | Sachsen | 11 |
@@ -51,9 +51,9 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Traeger | Anzahl |
 |---|---:|
-| KfW | 28 |
-| ISB (Rheinland-Pfalz) | 13 |
+| KfW | 22 |
 | Investitionsbank Berlin (IBB) | 13 |
+| ISB (Rheinland-Pfalz) | 12 |
 | NBank | 9 |
 | BMWK | 7 |
 | BAFA | 6 |
@@ -77,17 +77,17 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Thema | Anzahl |
 |---|---:|
 | EU-Fonds ESF+ | 22 |
-| Unternehmensfinanzierung | 16 |
 | EU-Fonds EFRE | 14 |
-| Digitalisierung | 13 |
+| Unternehmensfinanzierung | 14 |
+| Digitalisierung | 12 |
 | Forschung und Entwicklung/Innovation | 9 |
 | Gruendung/Wachstum | 9 |
 | Forschung und Entwicklung | 7 |
 | Energieeffizienz | 6 |
 | Gruendung/Nachfolge | 6 |
 | Investition/Betriebsmittel | 6 |
-| Digitalisierung/Innovation | 5 |
 | Innovation/Digitalisierung | 5 |
+| Digitalisierung/Innovation | 4 |
 | Forschung und Entwicklung/Innovation (international) | 4 |
 | Investition/Innovation | 4 |
 | Wachstum/Investition | 4 |
@@ -95,7 +95,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Energieeffizienz/Klimaschutz | 3 |
 | Gruendung/Innovation | 3 |
 | Innovation/F&E | 3 |
-| Innovation/Forschung und Entwicklung | 3 |
+| Innovation/Personal | 3 |
 
 ## Feldqualitaet
 
