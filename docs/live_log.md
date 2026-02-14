@@ -499,3 +499,7 @@
 - Datenausbau in Hamburg: +2 neue Programme aufgenommen.
 - Neu: `IFB_HAMBURG_KREDIT_DIGITAL` und `IFB_INNORAMPUP`.
 - `docs/quellen.md` um beide offiziellen IFB-Programmseiten erweitert.
+
+## 2026-02-14 01:58
+- Datenqualitaet verbessert: `IBB_BERLIN_KAPITAL` auf direkte Programmquelle umgestellt.
+- `richtlinie_url` und `quelle_url` auf `https://www.ibb.de/berlinkapital` gesetzt, `letzte_pruefung` aktualisiert.
