@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-14 02:19`
-- Datensaetze: `199`
-- Eindeutige `programm_id`: `199`
+- Erzeugt am: `2026-02-14 02:28`
+- Datensaetze: `200`
+- Eindeutige `programm_id`: `200`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 173 |
+| laufend | 174 |
 | offen | 21 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 173 |
+| laufend | 174 |
 | offen | 21 |
 | zukuenftig | 5 |
 
@@ -37,11 +37,11 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Schleswig-Holstein | 10 |
 | Baden-Wuerttemberg | 8 |
 | Hessen | 8 |
+| Mecklenburg-Vorpommern | 8 |
 | Sachsen-Anhalt | 8 |
 | Thueringen | 8 |
 | Bayern | 7 |
 | Bremen | 7 |
-| Mecklenburg-Vorpommern | 7 |
 | Saarland | 6 |
 | Hamburg | 5 |
 | Deutschland/Chile | 1 |
@@ -60,12 +60,12 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | L-Bank | 6 |
 | Thueringer Aufbaubank (TAB) | 6 |
 | Investitionsbank Sachsen-Anhalt (IB) | 5 |
+| Landesfoerderinstitut Mecklenburg-Vorpommern (LFI M-V) | 5 |
 | NRW.BANK / Land NRW | 5 |
 | SAB (Saechsische Aufbaubank) | 5 |
 | WIBank (Hessen) | 5 |
 | EIC (EU) | 4 |
 | EISMEA (EU) | 4 |
-| Landesfoerderinstitut Mecklenburg-Vorpommern (LFI M-V) | 4 |
 | LfA Foerderbank Bayern | 4 |
 | BAB Bremen | 3 |
 | Europaeische Kommission | 3 |
@@ -79,7 +79,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | EU-Fonds ESF+ | 22 |
 | EU-Fonds EFRE | 14 |
 | Unternehmensfinanzierung | 12 |
-| Digitalisierung | 9 |
+| Digitalisierung | 10 |
 | Gruendung/Wachstum | 9 |
 | Forschung und Entwicklung | 7 |
 | Energieeffizienz | 6 |

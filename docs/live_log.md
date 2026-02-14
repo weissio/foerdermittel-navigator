@@ -489,3 +489,8 @@
 ## 2026-02-14 01:16
 - Datenqualitaet verbessert: `SA_INVESTIERT` (Status `geplant`) ohne veraltete Stichtagsfrist gefuehrt.
 - Fristlogik auf \"Termin offen / neuer Aufruf folgt\" umgestellt, Datumsfelder fuer kommenden Call geleert.
+
+## 2026-02-14 01:29
+- Datenausbau in Mecklenburg-Vorpommern: +1 neues Programm aufgenommen.
+- Neu: `LFI_MV_DIGITALISIERUNGSVORHABEN`.
+- Datenbestand damit auf 200 Datensaetze angehoben.
