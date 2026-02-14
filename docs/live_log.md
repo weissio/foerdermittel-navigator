@@ -538,3 +538,8 @@
 - Match-Granularitaet im Bund-Fokus erweitert: +2 spezifische Eintraege im KfW-Umweltprogramm.
 - Neu: `KFW_240` und `KFW_241` als getrennte Produktvarianten.
 - Ziel: praeziseres Filtern statt Sammel-ID `KFW_240_241`.
+
+## 2026-02-14 05:16
+- Match-Granularitaet in Rheinland-Pfalz erweitert: +2 spezifische ISB-Eintraege.
+- Neu: `ISB_MITTELSTANDSKREDIT_665` und `ISB_MITTELSTANDSKREDIT_667`.
+- Ziel: praeziseres Filtern statt Sammel-ID `ISB_MITTELSTANDSKREDIT_665_667`.

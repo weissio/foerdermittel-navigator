@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-14 07:19`
-- Datensaetze: `219`
-- Eindeutige `programm_id`: `219`
+- Erzeugt am: `2026-02-14 07:52`
+- Datensaetze: `221`
+- Eindeutige `programm_id`: `221`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 193 |
+| laufend | 195 |
 | offen | 21 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 193 |
+| laufend | 195 |
 | offen | 21 |
 | zukuenftig | 5 |
 
@@ -27,8 +27,8 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Region | Anzahl |
 |---|---:|
 | Deutschland | 52 |
+| Rheinland-Pfalz | 17 |
 | Berlin | 16 |
-| Rheinland-Pfalz | 15 |
 | Niedersachsen | 13 |
 | EU (inkl. Deutschland) | 11 |
 | Sachsen | 11 |
@@ -52,8 +52,8 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Traeger | Anzahl |
 |---|---:|
 | KfW | 28 |
+| ISB (Rheinland-Pfalz) | 13 |
 | Investitionsbank Berlin (IBB) | 13 |
-| ISB (Rheinland-Pfalz) | 11 |
 | NBank | 9 |
 | BMWK | 7 |
 | BAFA | 6 |
@@ -77,8 +77,8 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Thema | Anzahl |
 |---|---:|
 | EU-Fonds ESF+ | 22 |
+| Unternehmensfinanzierung | 16 |
 | EU-Fonds EFRE | 14 |
-| Unternehmensfinanzierung | 14 |
 | Digitalisierung | 13 |
 | Forschung und Entwicklung/Innovation | 9 |
 | Gruendung/Wachstum | 9 |
