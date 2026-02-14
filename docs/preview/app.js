@@ -212,7 +212,7 @@ function render() {
       <div class="row"><strong>Was wird gefoerdert?</strong> ${item.foerdergegenstand || "-"}</div>
       <div class="links">
         ${item.richtlinie_url ? `<a href="${item.richtlinie_url}" target="_blank">Informationen</a>` : ""}
-        ${item.quelle_url ? ` | <a href="${item.quelle_url}" target="_blank">Dokumente</a>` : ""}
+        ${item.quelle_url && item.quelle_url !== item.richtlinie_url ? ` | <a href="${item.quelle_url}" target="_blank">Dokumente</a>` : ""}
       </div>
     `;
     cardsEl.appendChild(card);

@@ -1,6 +1,6 @@
 # Data Gaps
 
-- Erzeugt am: `2026-02-14 11:45`
+- Erzeugt am: `2026-02-14 11:55`
 - Datensaetze: `218`
 
 ## Status-Verteilung

@@ -578,3 +578,7 @@
 - `ISB_BETRIEBSBERATUNG_158` differenziert verlinkt:
   `richtlinie_url` auf Programmseite (`/foerderung/158.html`),
   `quelle_url` auf Dokumente-Tab (`/foerderung/158.html#tab14749-1`).
+
+## 2026-02-14 11:58
+- Preview-Linklogik verschaerft: `Dokumente` wird nur noch angezeigt, wenn `quelle_url` von `richtlinie_url` abweicht.
+- Ziel: keine irrefuehrenden Doppel-Links (identische URL fuer Informationen und Dokumente) mehr anzeigen.
