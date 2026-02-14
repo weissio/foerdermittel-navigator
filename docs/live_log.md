@@ -445,3 +445,8 @@
 - Datenausbau in stark frequentierten Landesprogrammen: +2 neue Programme aufgenommen.
 - Neu: `N_BANK_GRUENDUNGS_WACHSTUMSKREDIT` und `ISB_INNOVATION_DIGITALISIERUNG`.
 - QA/Status-Lauf nach Datenupdate vorbereitet.
+
+## 2026-02-14 00:09
+- Datenausbau in stark frequentierten Landesprogrammen: +2 neue Programme aufgenommen.
+- Neu: `N_BANK_INNOVATIONSFOERDERPROGRAMM` und `SAB_INNOVATION_EFRE`.
+- QA/Status-Lauf nach Datenupdate vorbereitet.

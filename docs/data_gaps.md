@@ -1,14 +1,14 @@
 # Data Gaps
 
-- Erzeugt am: `2026-02-14 01:19`
-- Datensaetze: `180`
+- Erzeugt am: `2026-02-14 01:25`
+- Datensaetze: `182`
 
 ## Status-Verteilung
 
 | Status | Anzahl |
 |---|---:|
 | geplant | 5 |
-| laufend | 154 |
+| laufend | 156 |
 | offen | 21 |
 
 ## Unterrepraesentierte Regionen
@@ -28,8 +28,8 @@
 | Thueringen | 7 |
 | Baden-Wuerttemberg | 8 |
 | Hessen | 8 |
-| Sachsen | 8 |
 | Sachsen-Anhalt | 8 |
+| Sachsen | 9 |
 
 ## Dominierende Regionen
 
@@ -37,14 +37,14 @@
 |---|---:|
 | Deutschland | 33 |
 | Berlin | 15 |
+| Niedersachsen | 13 |
 | Rheinland-Pfalz | 13 |
-| Niedersachsen | 12 |
 | EU (inkl. Deutschland) | 11 |
 | Brandenburg | 10 |
 | Nordrhein-Westfalen | 10 |
+| Sachsen | 9 |
 | Baden-Wuerttemberg | 8 |
 | Hessen | 8 |
-| Sachsen | 8 |
 | Sachsen-Anhalt | 8 |
 | Bayern | 7 |
 | Schleswig-Holstein | 7 |
@@ -89,7 +89,7 @@
 | Energieeffizienz/Umwelt | 1 |
 | Erneuerbare Energien | 1 |
 | Finanzierung/Buergschaften | 1 |
-| Forschung und Entwicklung/Innovation | 1 |
+| Gruendung/Internationalisierung | 1 |
 
 ## Priorisierungsregel
 

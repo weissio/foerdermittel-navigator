@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-14 01:19`
-- Datensaetze: `180`
-- Eindeutige `programm_id`: `180`
+- Erzeugt am: `2026-02-14 01:25`
+- Datensaetze: `182`
+- Eindeutige `programm_id`: `182`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 154 |
+| laufend | 156 |
 | offen | 21 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 154 |
+| laufend | 156 |
 | offen | 21 |
 | zukuenftig | 5 |
 
@@ -28,14 +28,14 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 |---|---:|
 | Deutschland | 33 |
 | Berlin | 15 |
+| Niedersachsen | 13 |
 | Rheinland-Pfalz | 13 |
-| Niedersachsen | 12 |
 | EU (inkl. Deutschland) | 11 |
 | Brandenburg | 10 |
 | Nordrhein-Westfalen | 10 |
+| Sachsen | 9 |
 | Baden-Wuerttemberg | 8 |
 | Hessen | 8 |
-| Sachsen | 8 |
 | Sachsen-Anhalt | 8 |
 | Bayern | 7 |
 | Schleswig-Holstein | 7 |
@@ -54,7 +54,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | KfW | 15 |
 | Investitionsbank Berlin (IBB) | 12 |
 | ISB (Rheinland-Pfalz) | 9 |
-| NBank | 8 |
+| NBank | 9 |
 | BAFA | 6 |
 | BMWK | 6 |
 | L-Bank | 6 |
@@ -91,11 +91,11 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Beratung/Unternehmensentwicklung | 3 |
 | Digitalisierung/Innovation | 3 |
 | Energieeffizienz/Klimaschutz | 3 |
+| Forschung und Entwicklung/Innovation | 3 |
 | Innovation/F&E | 3 |
 | Wachstum/Investition | 3 |
 | Forschung und Innovation | 2 |
 | Gruendung | 2 |
-| Gruendung/Innovation | 2 |
 
 ## Feldqualitaet
 
