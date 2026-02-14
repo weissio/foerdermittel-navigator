@@ -465,3 +465,8 @@
 - Datenausbau in Landesprogrammen: +4 neue Programme aufgenommen.
 - Neu: `SAB_DIGITALISIERUNG_ZUSCHUSS_EFRE`, `SAB_TECHNOLOGIETRANSFER`, `IBB_INNOVATIONSASSISTENT`, `ISB_WACHSEN_INVESTIEREN`.
 - QA/Status-Lauf nach Datenupdate vorbereitet.
+
+## 2026-02-14 00:41
+- Datenausbau in unterrepraesentierter Region Mecklenburg-Vorpommern: +2 neue Programme aufgenommen.
+- Neu: `LFI_MV_MESSEN_AUSSTELLUNGEN` und `LFI_MV_GRW_GEWERBLICHE_WIRTSCHAFT`.
+- `docs/quellen.md` um beide offiziellen LFI-MV-Programmseiten erweitert.

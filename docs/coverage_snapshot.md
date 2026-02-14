@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-14 01:43`
-- Datensaetze: `190`
-- Eindeutige `programm_id`: `190`
+- Erzeugt am: `2026-02-14 01:49`
+- Datensaetze: `192`
+- Eindeutige `programm_id`: `192`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 164 |
+| laufend | 166 |
 | offen | 21 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 164 |
+| laufend | 166 |
 | offen | 21 |
 | zukuenftig | 5 |
 
@@ -43,7 +43,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Thueringen | 7 |
 | Saarland | 6 |
 | Hamburg | 5 |
-| Mecklenburg-Vorpommern | 3 |
+| Mecklenburg-Vorpommern | 5 |
 | Deutschland/Chile | 1 |
 | Deutschland/Kanada | 1 |
 
