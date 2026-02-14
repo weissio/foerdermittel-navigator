@@ -528,3 +528,8 @@
 - Match-Granularitaet im Bund-Fokus erweitert: +2 spezifische Eintraege fuer KfW 390/391.
 - Neu: `KFW_390` und `KFW_391` als getrennte Produktvarianten.
 - Ziel: praeziseres Filtern statt Sammel-ID `KFW_390_391`.
+
+## 2026-02-14 04:20
+- Match-Granularitaet im Bund-Fokus weiter erweitert: +4 spezifische KfW-Eintraege.
+- Neu: `KFW_513`, `KFW_514`, `KFW_365`, `KFW_366`.
+- Ziel: praeziseres Filtern statt Sammel-IDs `KFW_513_514` und `KFW_365_366`.
