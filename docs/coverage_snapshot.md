@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-14 12:06`
-- Datensaetze: `218`
-- Eindeutige `programm_id`: `218`
+- Erzeugt am: `2026-02-14 13:08`
+- Datensaetze: `221`
+- Eindeutige `programm_id`: `221`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 192 |
+| laufend | 195 |
 | offen | 21 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 192 |
+| laufend | 195 |
 | offen | 21 |
 | zukuenftig | 5 |
 
@@ -26,7 +26,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Region | Anzahl |
 |---|---:|
-| Deutschland | 46 |
+| Deutschland | 49 |
 | Berlin | 16 |
 | Rheinland-Pfalz | 16 |
 | Niedersachsen | 13 |
@@ -54,9 +54,9 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | KfW | 22 |
 | Investitionsbank Berlin (IBB) | 13 |
 | ISB (Rheinland-Pfalz) | 12 |
+| BAFA | 9 |
 | NBank | 9 |
 | BMWK | 7 |
-| BAFA | 6 |
 | IFB Hamburg | 6 |
 | L-Bank | 6 |
 | Thueringer Aufbaubank (TAB) | 6 |

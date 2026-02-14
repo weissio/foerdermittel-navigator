@@ -1,14 +1,14 @@
 # Data Gaps
 
-- Erzeugt am: `2026-02-14 12:06`
-- Datensaetze: `218`
+- Erzeugt am: `2026-02-14 13:08`
+- Datensaetze: `221`
 
 ## Status-Verteilung
 
 | Status | Anzahl |
 |---|---:|
 | geplant | 5 |
-| laufend | 192 |
+| laufend | 195 |
 | offen | 21 |
 
 ## Unterrepraesentierte Regionen
@@ -35,7 +35,7 @@
 
 | Region | Anzahl |
 |---|---:|
-| Deutschland | 46 |
+| Deutschland | 49 |
 | Berlin | 16 |
 | Rheinland-Pfalz | 16 |
 | Niedersachsen | 13 |
@@ -86,10 +86,10 @@
 | EU-Fonds EFRE/JTF | 1 |
 | Eigenkapital/Beteiligung | 1 |
 | Energie- und Ressourceneffizienz/Prozesswaerme | 1 |
+| Energie/Erneuerbare Prozesswaerme | 1 |
 | Energie/Klimaschutz | 1 |
 | Energieeffizienz/Treibhausgasminderung | 1 |
 | Energieeffizienz/Umwelt | 1 |
-| Erneuerbare Energien | 1 |
 
 ## Priorisierungsregel
 

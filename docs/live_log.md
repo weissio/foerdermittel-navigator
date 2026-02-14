@@ -588,3 +588,8 @@
 - Fuer alle ZIM-Eintraege (inkl. internationaler Calls und ZIM-2025-Projektarten) `quelle_url` auf ZIM-Formularcenter gesetzt:
   `https://www.zim.de/ZIM/Navigation/DE/Formularcenter/formularcenter.html`.
 - Ziel: konsistente Dokumentenfuehrung mit Filteroptionen nach Projektstatus und Projektform.
+
+## 2026-02-14 12:32
+- Datenausbau Prio I (Bund): +3 konkrete BAFA-EEW-Module aufgenommen.
+- Neu: `BAFA_EEW_MODUL_1`, `BAFA_EEW_MODUL_2`, `BAFA_EEW_MODUL_4`.
+- Ziel: feinere Projektart-/Themenfilter im Bundesblock Energieeffizienz.
