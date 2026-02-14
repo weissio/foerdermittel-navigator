@@ -124,7 +124,8 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - WIBank HessenFonds (Klein-/Grossdarlehen, Innovationskredit, Beteiligung, Gründung/Wachstum): https://www.wibank.de/wibank/unternehmensfinanzierung/hessenfonds/hessenfonds-1.jsp
 - ISB Foerderung (RLP, Einstieg): https://isb.rlp.de/foerderung.html
 - ISB Beratungsprogramm fuer den Mittelstand (Zuschuss 136): https://isb.rlp.de/foerderung/136.html
-- ISB Betriebsberatungsprogramm (Zuschuss 158): https://isb.rlp.de/foerderung/158.html
+- ISB Betriebsberatungsprogramm (Zuschuss 158, Informationen): https://isb.rlp.de/foerderung/158.html
+- ISB Betriebsberatungsprogramm (Zuschuss 158, Dokumente): https://isb.rlp.de/foerderung/158.html#tab14749-1
 - ISB Wachsen & Investieren (RLP): https://isb.rlp.de/foerderung/wachsen-und-investieren.html
 - ISB Bildung (RLP): https://isb.rlp.de/foerderung/bildung.html
 - L-Bank Innovationsfinanzierung: https://www.l-bank.de/produkte/wirtschaftsfoerderung/innovationsfinanzierung.html

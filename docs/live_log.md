@@ -571,3 +571,10 @@
   `ISB_FOERDERUNG_A_Z_RLP` -> `/foerderung.html`,
   `ISB_WEITERBILDUNGSKREDIT_601` und `ISB_WF_WEITERBILDUNG` -> `/foerderung/bildung.html`,
   `ISB_MITTELSTANDSKREDIT_665` und `ISB_MITTELSTANDSKREDIT_667` -> `/foerderung/wachsen-und-investieren.html`.
+
+## 2026-02-14 11:45
+- Preview-Benennung angepasst: `Richtlinie` -> `Informationen`, `Quelle` -> `Dokumente`.
+- Hinweistext in der Preview entsprechend auf \"Informationen bzw. Dokumente\" umgestellt.
+- `ISB_BETRIEBSBERATUNG_158` differenziert verlinkt:
+  `richtlinie_url` auf Programmseite (`/foerderung/158.html`),
+  `quelle_url` auf Dokumente-Tab (`/foerderung/158.html#tab14749-1`).
