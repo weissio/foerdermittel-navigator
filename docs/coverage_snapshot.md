@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-14 10:05`
-- Datensaetze: `216`
-- Eindeutige `programm_id`: `216`
+- Erzeugt am: `2026-02-14 10:49`
+- Datensaetze: `218`
+- Eindeutige `programm_id`: `218`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 190 |
+| laufend | 192 |
 | offen | 21 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 190 |
+| laufend | 192 |
 | offen | 21 |
 | zukuenftig | 5 |
 
@@ -39,11 +39,11 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Baden-Wuerttemberg | 8 |
 | Hessen | 8 |
 | Mecklenburg-Vorpommern | 8 |
+| Saarland | 8 |
 | Sachsen-Anhalt | 8 |
 | Thueringen | 8 |
 | Bayern | 7 |
 | Bremen | 7 |
-| Saarland | 6 |
 | Deutschland/Chile | 1 |
 | Deutschland/Kanada | 1 |
 
@@ -83,9 +83,9 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Forschung und Entwicklung/Innovation | 9 |
 | Gruendung/Wachstum | 9 |
 | Forschung und Entwicklung | 7 |
+| Gruendung/Nachfolge | 7 |
+| Investition/Betriebsmittel | 7 |
 | Energieeffizienz | 6 |
-| Gruendung/Nachfolge | 6 |
-| Investition/Betriebsmittel | 6 |
 | Innovation/Digitalisierung | 5 |
 | Wachstum/Investition | 5 |
 | Digitalisierung/Innovation | 4 |

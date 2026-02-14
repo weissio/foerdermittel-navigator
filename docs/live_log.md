@@ -554,3 +554,8 @@
 - Datenausbau in Hamburg: +2 neue IFB-Einzelprogramme aufgenommen.
 - Neu: `IFB_HAMBURG_KREDIT_WACHSTUM` und `IFB_HAMBURG_KREDIT_UNIVERSAL`.
 - `docs/quellen.md` um beide offiziellen IFB-Programmseiten erweitert.
+
+## 2026-02-14 08:10
+- Datenausbau im Saarland: +2 neue SIKB-Einzelprogramme aufgenommen.
+- Neu: `SIKB_INVEST_DARLEHEN` und `SIKB_GRUENDUNG_NACHFOLGE`.
+- `docs/quellen.md` um beide offiziellen SIKB-Programmseiten erweitert.
