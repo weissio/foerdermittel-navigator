@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-14 08:34`
-- Datensaetze: `214`
-- Eindeutige `programm_id`: `214`
+- Erzeugt am: `2026-02-14 10:05`
+- Datensaetze: `216`
+- Eindeutige `programm_id`: `216`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 188 |
+| laufend | 190 |
 | offen | 21 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 188 |
+| laufend | 190 |
 | offen | 21 |
 | zukuenftig | 5 |
 
@@ -35,6 +35,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Brandenburg | 10 |
 | Nordrhein-Westfalen | 10 |
 | Schleswig-Holstein | 10 |
+| Hamburg | 9 |
 | Baden-Wuerttemberg | 8 |
 | Hessen | 8 |
 | Mecklenburg-Vorpommern | 8 |
@@ -42,7 +43,6 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Thueringen | 8 |
 | Bayern | 7 |
 | Bremen | 7 |
-| Hamburg | 7 |
 | Saarland | 6 |
 | Deutschland/Chile | 1 |
 | Deutschland/Kanada | 1 |
@@ -57,6 +57,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | NBank | 9 |
 | BMWK | 7 |
 | BAFA | 6 |
+| IFB Hamburg | 6 |
 | L-Bank | 6 |
 | Thueringer Aufbaubank (TAB) | 6 |
 | BMWK (ZIM) / Projekttraeger | 5 |
@@ -67,7 +68,6 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | WIBank (Hessen) | 5 |
 | EIC (EU) | 4 |
 | EISMEA (EU) | 4 |
-| IFB Hamburg | 4 |
 | LfA Foerderbank Bayern | 4 |
 | BAB Bremen | 3 |
 | Europaeische Kommission | 3 |
@@ -77,8 +77,8 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Thema | Anzahl |
 |---|---:|
 | EU-Fonds ESF+ | 22 |
+| Unternehmensfinanzierung | 15 |
 | EU-Fonds EFRE | 14 |
-| Unternehmensfinanzierung | 14 |
 | Digitalisierung | 12 |
 | Forschung und Entwicklung/Innovation | 9 |
 | Gruendung/Wachstum | 9 |
@@ -87,10 +87,10 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Gruendung/Nachfolge | 6 |
 | Investition/Betriebsmittel | 6 |
 | Innovation/Digitalisierung | 5 |
+| Wachstum/Investition | 5 |
 | Digitalisierung/Innovation | 4 |
 | Forschung und Entwicklung/Innovation (international) | 4 |
 | Investition/Innovation | 4 |
-| Wachstum/Investition | 4 |
 | Beratung/Unternehmensentwicklung | 3 |
 | Energieeffizienz/Klimaschutz | 3 |
 | Gruendung/Innovation | 3 |

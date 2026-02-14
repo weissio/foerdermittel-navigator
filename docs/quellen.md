@@ -129,6 +129,8 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - IFB Hamburg-Kredit Gruendung und Nachfolge: https://www.ifbhh.de/ifb/foerderprogramm/hamburg-kredit-gruendung-und-nachfolge
 - IFB Hamburg-Kredit Mikro: https://www.ifbhh.de/foerderprogramm/hamburg-kredit-mikro
 - IFB Hamburg-Kredit Digital: https://www.ifbhh.de/ifb/foerderprogramm/hamburg-kredit-digital
+- IFB Hamburg-Kredit Wachstum: https://www.ifbhh.de/ifb/foerderprogramm/hamburg-kredit-wachstum
+- IFB Hamburg-Kredit Universal: https://www.ifbhh.de/ifb/foerderprogramm/hamburg-kredit-universal
 - IFB InnoRampUp: https://www.ifbhh.de/foerderprogramm/innorampup
 - IBB-Wachstumsprogramm: https://www.ibb.de/wachstumsprogramm
 - IBB Berlin Kapital: https://www.ibb.de/berlinkapital

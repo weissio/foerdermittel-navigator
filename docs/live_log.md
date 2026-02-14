@@ -549,3 +549,8 @@
 - 7 redundante Sammel-IDs entfernt, nachdem entsprechende Einzelvarianten vorhanden sind:
   `ISB_MITTELSTANDSKREDIT_665_667`, `KFW_240_241`, `KFW_365_366`, `KFW_375_376`, `KFW_390_391`, `KFW_511_512`, `KFW_513_514`.
 - Ziel: keine Doppelzaehlung und klarere Filter-/Match-Ergebnisse.
+
+## 2026-02-14 06:18
+- Datenausbau in Hamburg: +2 neue IFB-Einzelprogramme aufgenommen.
+- Neu: `IFB_HAMBURG_KREDIT_WACHSTUM` und `IFB_HAMBURG_KREDIT_UNIVERSAL`.
+- `docs/quellen.md` um beide offiziellen IFB-Programmseiten erweitert.
