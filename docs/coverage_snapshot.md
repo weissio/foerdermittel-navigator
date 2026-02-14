@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-14 01:49`
-- Datensaetze: `192`
-- Eindeutige `programm_id`: `192`
+- Erzeugt am: `2026-02-14 01:55`
+- Datensaetze: `195`
+- Eindeutige `programm_id`: `195`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 166 |
+| laufend | 169 |
 | offen | 21 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 166 |
+| laufend | 169 |
 | offen | 21 |
 | zukuenftig | 5 |
 
@@ -34,12 +34,12 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Sachsen | 11 |
 | Brandenburg | 10 |
 | Nordrhein-Westfalen | 10 |
+| Schleswig-Holstein | 10 |
 | Baden-Wuerttemberg | 8 |
 | Hessen | 8 |
 | Sachsen-Anhalt | 8 |
 | Bayern | 7 |
 | Bremen | 7 |
-| Schleswig-Holstein | 7 |
 | Thueringen | 7 |
 | Saarland | 6 |
 | Hamburg | 5 |
@@ -79,20 +79,20 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | EU-Fonds ESF+ | 22 |
 | EU-Fonds EFRE | 14 |
 | Unternehmensfinanzierung | 12 |
+| Digitalisierung | 9 |
 | Gruendung/Wachstum | 9 |
-| Digitalisierung | 8 |
 | Forschung und Entwicklung | 7 |
 | Energieeffizienz | 6 |
 | Gruendung/Nachfolge | 6 |
 | Investition/Betriebsmittel | 6 |
 | Innovation/Digitalisierung | 5 |
+| Forschung und Entwicklung/Innovation | 4 |
 | Forschung und Entwicklung/Innovation (international) | 4 |
 | Investition/Innovation | 4 |
 | Wachstum/Investition | 4 |
 | Beratung/Unternehmensentwicklung | 3 |
 | Digitalisierung/Innovation | 3 |
 | Energieeffizienz/Klimaschutz | 3 |
-| Forschung und Entwicklung/Innovation | 3 |
 | Innovation/F&E | 3 |
 | Innovation/Personal | 3 |
 | Forschung und Innovation | 2 |

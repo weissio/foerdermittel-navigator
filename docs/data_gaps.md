@@ -1,14 +1,14 @@
 # Data Gaps
 
-- Erzeugt am: `2026-02-14 01:49`
-- Datensaetze: `192`
+- Erzeugt am: `2026-02-14 01:55`
+- Datensaetze: `195`
 
 ## Status-Verteilung
 
 | Status | Anzahl |
 |---|---:|
 | geplant | 5 |
-| laufend | 166 |
+| laufend | 169 |
 | offen | 21 |
 
 ## Unterrepraesentierte Regionen
@@ -24,12 +24,12 @@
 | Saarland | 6 |
 | Bayern | 7 |
 | Bremen | 7 |
-| Schleswig-Holstein | 7 |
 | Thueringen | 7 |
 | Baden-Wuerttemberg | 8 |
 | Hessen | 8 |
 | Sachsen-Anhalt | 8 |
 | Brandenburg | 10 |
+| Nordrhein-Westfalen | 10 |
 
 ## Dominierende Regionen
 
@@ -43,12 +43,12 @@
 | Sachsen | 11 |
 | Brandenburg | 10 |
 | Nordrhein-Westfalen | 10 |
+| Schleswig-Holstein | 10 |
 | Baden-Wuerttemberg | 8 |
 | Hessen | 8 |
 | Sachsen-Anhalt | 8 |
 | Bayern | 7 |
 | Bremen | 7 |
-| Schleswig-Holstein | 7 |
 | Thueringen | 7 |
 
 ## Unterrepraesentierte Traeger
@@ -86,10 +86,10 @@
 | EU-Fonds EFRE/JTF | 1 |
 | Eigenkapital/Beteiligung | 1 |
 | Energie- und Ressourceneffizienz/Prozesswaerme | 1 |
+| Energie/Klimaschutz | 1 |
 | Energieeffizienz/Treibhausgasminderung | 1 |
 | Energieeffizienz/Umwelt | 1 |
 | Erneuerbare Energien | 1 |
-| Finanzierung/Buergschaften | 1 |
 
 ## Priorisierungsregel
 

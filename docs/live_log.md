@@ -470,3 +470,8 @@
 - Datenausbau in unterrepraesentierter Region Mecklenburg-Vorpommern: +2 neue Programme aufgenommen.
 - Neu: `LFI_MV_MESSEN_AUSSTELLUNGEN` und `LFI_MV_GRW_GEWERBLICHE_WIRTSCHAFT`.
 - `docs/quellen.md` um beide offiziellen LFI-MV-Programmseiten erweitert.
+
+## 2026-02-14 00:50
+- Datenausbau in Schleswig-Holstein: +3 neue Programme aufgenommen.
+- Neu: `IBSH_INNOVATIONSPROGRAMM`, `IBSH_DIGITALISIERUNGSPROGRAMM`, `IBSH_ENERGIEWENDE_KLIMASCHUTZ`.
+- Datensaetze auf konkrete IB.SH-Einzelprogramme erweitert (statt nur Kredit-/Portalabdeckung).
