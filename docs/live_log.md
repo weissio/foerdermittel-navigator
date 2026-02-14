@@ -533,3 +533,8 @@
 - Match-Granularitaet im Bund-Fokus weiter erweitert: +4 spezifische KfW-Eintraege.
 - Neu: `KFW_513`, `KFW_514`, `KFW_365`, `KFW_366`.
 - Ziel: praeziseres Filtern statt Sammel-IDs `KFW_513_514` und `KFW_365_366`.
+
+## 2026-02-14 04:55
+- Match-Granularitaet im Bund-Fokus erweitert: +2 spezifische Eintraege im KfW-Umweltprogramm.
+- Neu: `KFW_240` und `KFW_241` als getrennte Produktvarianten.
+- Ziel: praeziseres Filtern statt Sammel-ID `KFW_240_241`.
