@@ -564,3 +564,10 @@
 - Linkqualitaet fuer ISB Rheinland-Pfalz verbessert.
 - `ISB_BERATUNG_MITTELSTAND_136` und `ISB_BETRIEBSBERATUNG_158` auf direkte Programmseiten (`/foerderung/136.html`, `/foerderung/158.html`) umgestellt.
 - Ziel: 404-Fehler bei der Richtlinienverlinkung aus der A-bis-Z-Uebersicht vermeiden.
+
+## 2026-02-14 08:43
+- Weitere ISB-Linkkorrekturen umgesetzt, da `foerderung-a-bis-z.html` weiterhin 404 liefert.
+- 5 Datensaetze auf funktionale Zielseiten umgestellt:
+  `ISB_FOERDERUNG_A_Z_RLP` -> `/foerderung.html`,
+  `ISB_WEITERBILDUNGSKREDIT_601` und `ISB_WF_WEITERBILDUNG` -> `/foerderung/bildung.html`,
+  `ISB_MITTELSTANDSKREDIT_665` und `ISB_MITTELSTANDSKREDIT_667` -> `/foerderung/wachsen-und-investieren.html`.

@@ -122,10 +122,11 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - LfA Innovationskredit: https://www.umweltpakt.bayern.de/werkzeuge/foerderfibel/programme/12/innovationskredit
 - ILB Brandenburg-Kredit Unternehmen: https://www.foerderdatenbank.de/FDB/Content/DE/Foerderprogramm/Land/Brandenburg/brandenburg-kredit-unternehmen.html
 - WIBank HessenFonds (Klein-/Grossdarlehen, Innovationskredit, Beteiligung, Gründung/Wachstum): https://www.wibank.de/wibank/unternehmensfinanzierung/hessenfonds/hessenfonds-1.jsp
-- ISB Förderung A-Z (RLP): https://isb.rlp.de/foerderung/foerderung-a-bis-z.html
+- ISB Foerderung (RLP, Einstieg): https://isb.rlp.de/foerderung.html
 - ISB Beratungsprogramm fuer den Mittelstand (Zuschuss 136): https://isb.rlp.de/foerderung/136.html
 - ISB Betriebsberatungsprogramm (Zuschuss 158): https://isb.rlp.de/foerderung/158.html
 - ISB Wachsen & Investieren (RLP): https://isb.rlp.de/foerderung/wachsen-und-investieren.html
+- ISB Bildung (RLP): https://isb.rlp.de/foerderung/bildung.html
 - L-Bank Innovationsfinanzierung: https://www.l-bank.de/produkte/wirtschaftsfoerderung/innovationsfinanzierung.html
 - SAB Sachsenkredit "Universal": https://www.sab.sachsen.de/sab-sachsenkredit-universal-neu
 - NBank Investkredit: https://www.foerderdatenbank.de/FDB/Content/DE/Foerderprogramm/Land/Niedersachsen/nbank-investkredit.html
@@ -172,7 +173,7 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - TAB Forschung und Entwicklung: https://www.aufbaubank.de/Foerderprogramme/Forschung-Entwicklung
 - TAB Digitalisierung: https://www.aufbaubank.de/Foerderprogramme/Digitalisierung
 - TAB Energie und Klimaschutz: https://www.aufbaubank.de/Foerderprogramme/Energie-Klimaschutz
-- ISB Foerderung A-Z (RLP): https://isb.rlp.de/foerderung/foerderung-a-bis-z.html
+- ISB Foerderung (RLP, Einstieg): https://isb.rlp.de/foerderung.html
 - ISB Innovation & Digitalisierung (RLP): https://isb.rlp.de/foerderung/innovation-und-digitalisierung.html
 - ISB Energie (RLP): https://isb.rlp.de/foerderung/energie.html
 - NBank KMU-Kredit: https://www.nbank.de/Unternehmen/Gr%C3%BCnden-Wachsen/KMU-Kredit/
