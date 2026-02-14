@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-14 01:55`
-- Datensaetze: `195`
-- Eindeutige `programm_id`: `195`
+- Erzeugt am: `2026-02-14 02:02`
+- Datensaetze: `197`
+- Eindeutige `programm_id`: `197`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 169 |
+| laufend | 171 |
 | offen | 21 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 169 |
+| laufend | 171 |
 | offen | 21 |
 | zukuenftig | 5 |
 
@@ -28,7 +28,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 |---|---:|
 | Deutschland | 35 |
 | Berlin | 16 |
-| Rheinland-Pfalz | 14 |
+| Rheinland-Pfalz | 15 |
 | Niedersachsen | 13 |
 | EU (inkl. Deutschland) | 11 |
 | Sachsen | 11 |
@@ -38,9 +38,9 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Baden-Wuerttemberg | 8 |
 | Hessen | 8 |
 | Sachsen-Anhalt | 8 |
+| Thueringen | 8 |
 | Bayern | 7 |
 | Bremen | 7 |
-| Thueringen | 7 |
 | Saarland | 6 |
 | Hamburg | 5 |
 | Mecklenburg-Vorpommern | 5 |
@@ -53,15 +53,15 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 |---|---:|
 | KfW | 15 |
 | Investitionsbank Berlin (IBB) | 13 |
-| ISB (Rheinland-Pfalz) | 10 |
+| ISB (Rheinland-Pfalz) | 11 |
 | NBank | 9 |
 | BMWK | 7 |
 | BAFA | 6 |
 | L-Bank | 6 |
+| Thueringer Aufbaubank (TAB) | 6 |
 | Investitionsbank Sachsen-Anhalt (IB) | 5 |
 | NRW.BANK / Land NRW | 5 |
 | SAB (Saechsische Aufbaubank) | 5 |
-| Thueringer Aufbaubank (TAB) | 5 |
 | WIBank (Hessen) | 5 |
 | EIC (EU) | 4 |
 | EISMEA (EU) | 4 |
@@ -85,8 +85,8 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Energieeffizienz | 6 |
 | Gruendung/Nachfolge | 6 |
 | Investition/Betriebsmittel | 6 |
+| Forschung und Entwicklung/Innovation | 5 |
 | Innovation/Digitalisierung | 5 |
-| Forschung und Entwicklung/Innovation | 4 |
 | Forschung und Entwicklung/Innovation (international) | 4 |
 | Investition/Innovation | 4 |
 | Wachstum/Investition | 4 |

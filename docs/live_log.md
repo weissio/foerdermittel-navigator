@@ -475,3 +475,8 @@
 - Datenausbau in Schleswig-Holstein: +3 neue Programme aufgenommen.
 - Neu: `IBSH_INNOVATIONSPROGRAMM`, `IBSH_DIGITALISIERUNGSPROGRAMM`, `IBSH_ENERGIEWENDE_KLIMASCHUTZ`.
 - Datensaetze auf konkrete IB.SH-Einzelprogramme erweitert (statt nur Kredit-/Portalabdeckung).
+
+## 2026-02-14 00:59
+- Datenausbau in Thueringen und Rheinland-Pfalz: +2 Eintraege aufgenommen.
+- Neu: `TAB_FORSCHUNG_ENTWICKLUNG` und `ISB_FOERDERUNG_A_Z_RLP`.
+- Ziel: bessere Abdeckung von konkreten Landesfoerderwegen und Uebersichts-Einstieg fuer ISB-Einzelprogramme.
