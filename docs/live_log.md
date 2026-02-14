@@ -460,3 +460,8 @@
 - Datenausbau in stark frequentierten Landesprogrammen: +2 neue Programme aufgenommen.
 - Neu: `BAB_LIQUIDITAETSHILFEN` und `BAB_GRW_BREMEN`.
 - `docs/quellen.md` um die offiziellen BAB-Programmseiten erweitert.
+
+## 2026-02-14 00:33
+- Datenausbau in Landesprogrammen: +4 neue Programme aufgenommen.
+- Neu: `SAB_DIGITALISIERUNG_ZUSCHUSS_EFRE`, `SAB_TECHNOLOGIETRANSFER`, `IBB_INNOVATIONSASSISTENT`, `ISB_WACHSEN_INVESTIEREN`.
+- QA/Status-Lauf nach Datenupdate vorbereitet.

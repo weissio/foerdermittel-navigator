@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-14 01:38`
-- Datensaetze: `186`
-- Eindeutige `programm_id`: `186`
+- Erzeugt am: `2026-02-14 01:43`
+- Datensaetze: `190`
+- Eindeutige `programm_id`: `190`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 160 |
+| laufend | 164 |
 | offen | 21 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 160 |
+| laufend | 164 |
 | offen | 21 |
 | zukuenftig | 5 |
 
@@ -27,13 +27,13 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Region | Anzahl |
 |---|---:|
 | Deutschland | 35 |
-| Berlin | 15 |
+| Berlin | 16 |
+| Rheinland-Pfalz | 14 |
 | Niedersachsen | 13 |
-| Rheinland-Pfalz | 13 |
 | EU (inkl. Deutschland) | 11 |
+| Sachsen | 11 |
 | Brandenburg | 10 |
 | Nordrhein-Westfalen | 10 |
-| Sachsen | 9 |
 | Baden-Wuerttemberg | 8 |
 | Hessen | 8 |
 | Sachsen-Anhalt | 8 |
@@ -52,8 +52,8 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Traeger | Anzahl |
 |---|---:|
 | KfW | 15 |
-| Investitionsbank Berlin (IBB) | 12 |
-| ISB (Rheinland-Pfalz) | 9 |
+| Investitionsbank Berlin (IBB) | 13 |
+| ISB (Rheinland-Pfalz) | 10 |
 | NBank | 9 |
 | BMWK | 7 |
 | BAFA | 6 |
@@ -80,7 +80,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | EU-Fonds EFRE | 14 |
 | Unternehmensfinanzierung | 12 |
 | Gruendung/Wachstum | 9 |
-| Digitalisierung | 7 |
+| Digitalisierung | 8 |
 | Forschung und Entwicklung | 7 |
 | Energieeffizienz | 6 |
 | Gruendung/Nachfolge | 6 |
@@ -88,14 +88,14 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Innovation/Digitalisierung | 5 |
 | Forschung und Entwicklung/Innovation (international) | 4 |
 | Investition/Innovation | 4 |
+| Wachstum/Investition | 4 |
 | Beratung/Unternehmensentwicklung | 3 |
 | Digitalisierung/Innovation | 3 |
 | Energieeffizienz/Klimaschutz | 3 |
 | Forschung und Entwicklung/Innovation | 3 |
 | Innovation/F&E | 3 |
-| Wachstum/Investition | 3 |
+| Innovation/Personal | 3 |
 | Forschung und Innovation | 2 |
-| Gruendung | 2 |
 
 ## Feldqualitaet
 
