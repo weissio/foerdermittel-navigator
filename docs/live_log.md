@@ -485,3 +485,7 @@
 - Datenausbau in Mecklenburg-Vorpommern: +2 neue Programme aufgenommen.
 - Neu: `LFI_MV_KLIMASCHUTZ_WIRTSCHAFT` und `LFI_MV_ERSTEINSTELLUNG_PERSONAL`.
 - `docs/quellen.md` um beide offiziellen LFI-MV-Programmseiten erweitert.
+
+## 2026-02-14 01:16
+- Datenqualitaet verbessert: `SA_INVESTIERT` (Status `geplant`) ohne veraltete Stichtagsfrist gefuehrt.
+- Fristlogik auf \"Termin offen / neuer Aufruf folgt\" umgestellt, Datumsfelder fuer kommenden Call geleert.

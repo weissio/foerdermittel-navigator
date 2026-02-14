@@ -36,4 +36,4 @@
 
 ## Geplant Mit Vergangener Frist
 
-- `SA_INVESTIERT` | Sachsen-Anhalt INVESTIERT | letzte Frist `2025-10-20`
+- keine
