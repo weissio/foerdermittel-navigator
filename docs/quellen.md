@@ -17,6 +17,8 @@
 - BAFA EEW Richtlinie in Kraft (Pressemitteilung): https://www.bafa.de/SharedDocs/Pressemitteilungen/DE/Energie/2024_02_eew.html
 - BAFA Energieberatung Nichtwohngebaeude/Anlagen/Systeme Modul 2: https://www.bafa.de/DE/Energie/Energieberatung/Nichtwohngebaeude_Anlagen_Systeme/Modul2_Energieberatung/modul2_energieberatung.html
 - BMF Forschungszulage: https://www.bundesfinanzministerium.de/Web/DE/Themen/Steuern/Steuerliche_Themengebiete/Forschungszulage/forschungszulage.html
+- BMBF KMU-innovativ: https://www.kmu-innovativ.de/
+- BMWK IGP (Innovationsprogramm fuer Geschaeftsmodelle und Pionierloesungen): https://www.bmwk.de/Redaktion/DE/Artikel/Innovation/igp.html
 - EU Programme (Funding & Tenders):
   - Digital Europe: https://commission.europa.eu/funding-tenders/find-funding/eu-funding-programmes/digital-europe-programme_en
   - Single Market Programme: https://commission.europa.eu/funding-tenders/find-funding/eu-funding-programmes/single-market-programme_en

@@ -2,16 +2,16 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-14 13:08`
-- Datensaetze: `221`
-- Eindeutige `programm_id`: `221`
+- Erzeugt am: `2026-02-14 15:54`
+- Datensaetze: `223`
+- Eindeutige `programm_id`: `223`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
 | laufend | 195 |
-| offen | 21 |
+| offen | 23 |
 | geplant | 5 |
 
 ## Kategorie
@@ -19,14 +19,14 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Kategorie | Anzahl |
 |---|---:|
 | laufend | 195 |
-| offen | 21 |
+| offen | 23 |
 | zukuenftig | 5 |
 
 ## Top Regionen
 
 | Region | Anzahl |
 |---|---:|
-| Deutschland | 49 |
+| Deutschland | 51 |
 | Berlin | 16 |
 | Rheinland-Pfalz | 16 |
 | Niedersachsen | 13 |
@@ -56,7 +56,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | ISB (Rheinland-Pfalz) | 12 |
 | BAFA | 9 |
 | NBank | 9 |
-| BMWK | 7 |
+| BMWK | 8 |
 | IFB Hamburg | 6 |
 | L-Bank | 6 |
 | Thueringer Aufbaubank (TAB) | 6 |
@@ -80,7 +80,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Unternehmensfinanzierung | 15 |
 | EU-Fonds EFRE | 14 |
 | Digitalisierung | 12 |
-| Forschung und Entwicklung/Innovation | 9 |
+| Forschung und Entwicklung/Innovation | 10 |
 | Gruendung/Wachstum | 9 |
 | Forschung und Entwicklung | 7 |
 | Gruendung/Nachfolge | 7 |

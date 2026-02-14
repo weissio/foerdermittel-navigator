@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-14`
-- Gepruefte Datensaetze: `221`
+- Gepruefte Datensaetze: `223`
 
 ## Offen Mit Datumsfrist
 
@@ -23,6 +23,8 @@
 
 ## Offen Rollierend
 
+- `BMBF_KMU_INNOVATIV` | KMU-innovativ: Forschung fuer den Mittelstand
+- `BMWK_IGP` | Innovationsprogramm fuer Geschaeftsmodelle und Pionierloesungen (IGP)
 - `IBB_GO_BIO_INITIAL` | Go-Bio initial (Berlin)
 - `NRW_MID_ASSISTENZ` | Mittelstand Innovativ & Digital (MID) - Digitale Assistenzsysteme
 - `NRW_MID_DIGITALISIERUNG` | Mittelstand Innovativ & Digital (MID) - Digitalisierung

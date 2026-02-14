@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-14`
-- Offen gesamt: `21`
+- Offen gesamt: `23`
 - Mit Datumsfrist: `15`
-- Rollierend/ohne Datum: `6`
+- Rollierend/ohne Datum: `8`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -25,6 +25,8 @@
 
 ## Rollierend / Ohne Datum
 
+- `BMBF_KMU_INNOVATIV` | KMU-innovativ: Forschung fuer den Mittelstand | rollierend | https://www.kmu-innovativ.de/
+- `BMWK_IGP` | Innovationsprogramm fuer Geschaeftsmodelle und Pionierloesungen (IGP) | rollierend | https://www.bmwk.de/Redaktion/DE/Artikel/Innovation/igp.html
 - `IBB_GO_BIO_INITIAL` | Go-Bio initial (Berlin) | rollierend | https://www.ibb.de/de/foerderprogramme/go-bio-initial.html
 - `NRW_MID_ASSISTENZ` | Mittelstand Innovativ & Digital (MID) - Digitale Assistenzsysteme | rollierend | https://www.nrwbank.de/de/foerderung/foerderprodukte/60349/produktdetail.html
 - `NRW_MID_DIGITALISIERUNG` | Mittelstand Innovativ & Digital (MID) - Digitalisierung | rollierend | https://www.nrwbank.de/de/foerderung/foerderprodukte/60348/produktdetail.html
