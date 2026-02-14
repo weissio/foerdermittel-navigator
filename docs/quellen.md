@@ -127,6 +127,8 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - NBank MikroSTARTer Niedersachsen: https://www.nbank.de/F%C3%B6rderprogramme/Aktuelle-F%C3%B6rderprogramme/MikroSTARTer-Niedersachsen.html
 - IFB Hamburg-Kredit Gruendung und Nachfolge: https://www.ifbhh.de/ifb/foerderprogramm/hamburg-kredit-gruendung-und-nachfolge
 - IFB Hamburg-Kredit Mikro: https://www.ifbhh.de/foerderprogramm/hamburg-kredit-mikro
+- IFB Hamburg-Kredit Digital: https://www.ifbhh.de/ifb/foerderprogramm/hamburg-kredit-digital
+- IFB InnoRampUp: https://www.ifbhh.de/foerderprogramm/innorampup
 - IBB-Wachstumsprogramm: https://www.ibb.de/wachstumsprogramm
 - IBB Berlin Kapital: https://www.ibb.de/berlinkapital
 - IBB Pro FIT Fruehphasenfinanzierung: https://www.ibb.de/de/foerderprogramme/pro-fit-fruehphasenfinanzierung.html

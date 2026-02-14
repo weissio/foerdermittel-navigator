@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-14 02:28`
-- Datensaetze: `200`
-- Eindeutige `programm_id`: `200`
+- Erzeugt am: `2026-02-14 02:53`
+- Datensaetze: `202`
+- Eindeutige `programm_id`: `202`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 174 |
+| laufend | 176 |
 | offen | 21 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 174 |
+| laufend | 176 |
 | offen | 21 |
 | zukuenftig | 5 |
 
@@ -42,8 +42,8 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Thueringen | 8 |
 | Bayern | 7 |
 | Bremen | 7 |
+| Hamburg | 7 |
 | Saarland | 6 |
-| Hamburg | 5 |
 | Deutschland/Chile | 1 |
 | Deutschland/Kanada | 1 |
 
@@ -66,11 +66,11 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | WIBank (Hessen) | 5 |
 | EIC (EU) | 4 |
 | EISMEA (EU) | 4 |
+| IFB Hamburg | 4 |
 | LfA Foerderbank Bayern | 4 |
 | BAB Bremen | 3 |
 | Europaeische Kommission | 3 |
 | IB.SH (Investitionsbank Schleswig-Holstein) | 3 |
-| IFB Hamburg | 3 |
 
 ## Top Themen
 
@@ -79,7 +79,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | EU-Fonds ESF+ | 22 |
 | EU-Fonds EFRE | 14 |
 | Unternehmensfinanzierung | 12 |
-| Digitalisierung | 10 |
+| Digitalisierung | 11 |
 | Gruendung/Wachstum | 9 |
 | Forschung und Entwicklung | 7 |
 | Energieeffizienz | 6 |
@@ -93,9 +93,9 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Beratung/Unternehmensentwicklung | 3 |
 | Digitalisierung/Innovation | 3 |
 | Energieeffizienz/Klimaschutz | 3 |
+| Gruendung/Innovation | 3 |
 | Innovation/F&E | 3 |
 | Innovation/Personal | 3 |
-| Forschung und Innovation | 2 |
 
 ## Feldqualitaet
 

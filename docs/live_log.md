@@ -494,3 +494,8 @@
 - Datenausbau in Mecklenburg-Vorpommern: +1 neues Programm aufgenommen.
 - Neu: `LFI_MV_DIGITALISIERUNGSVORHABEN`.
 - Datenbestand damit auf 200 Datensaetze angehoben.
+
+## 2026-02-14 01:44
+- Datenausbau in Hamburg: +2 neue Programme aufgenommen.
+- Neu: `IFB_HAMBURG_KREDIT_DIGITAL` und `IFB_INNORAMPUP`.
+- `docs/quellen.md` um beide offiziellen IFB-Programmseiten erweitert.
