@@ -518,3 +518,8 @@
 - Match-Granularitaet im Bund-Fokus erweitert: +2 spezifische Eintraege fuer KfW-Digitalisierung.
 - Neu: `KFW_511` und `KFW_512` als getrennte Produktvarianten.
 - Ziel: praeziseres Filtern statt Sammel-ID `KFW_511_512`.
+
+## 2026-02-14 03:32
+- Match-Granularitaet im Bund-Fokus erweitert: +2 spezifische Eintraege fuer KfW grosser Mittelstand.
+- Neu: `KFW_375` und `KFW_376` als getrennte Produktvarianten.
+- Ziel: praeziseres Filtern statt Sammel-ID `KFW_375_376`.
