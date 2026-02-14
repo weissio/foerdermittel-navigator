@@ -582,3 +582,9 @@
 ## 2026-02-14 11:58
 - Preview-Linklogik verschaerft: `Dokumente` wird nur noch angezeigt, wenn `quelle_url` von `richtlinie_url` abweicht.
 - Ziel: keine irrefuehrenden Doppel-Links (identische URL fuer Informationen und Dokumente) mehr anzeigen.
+
+## 2026-02-14 12:05
+- ZIM-Dokumentenlogik vereinheitlicht.
+- Fuer alle ZIM-Eintraege (inkl. internationaler Calls und ZIM-2025-Projektarten) `quelle_url` auf ZIM-Formularcenter gesetzt:
+  `https://www.zim.de/ZIM/Navigation/DE/Formularcenter/formularcenter.html`.
+- Ziel: konsistente Dokumentenfuehrung mit Filteroptionen nach Projektstatus und Projektform.
