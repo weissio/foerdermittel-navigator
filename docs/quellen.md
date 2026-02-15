@@ -220,3 +220,5 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - https://www.developpp.de/ventures
 - https://www.coparion.vc/
 - https://dtcf.de/
+- https://www.kfw-capital.de/
+- https://www.german-pavilion.com/

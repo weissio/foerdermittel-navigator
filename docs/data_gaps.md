@@ -1,14 +1,14 @@
 # Data Gaps
 
-- Erzeugt am: `2026-02-16 00:24`
-- Datensaetze: `261`
+- Erzeugt am: `2026-02-16 00:28`
+- Datensaetze: `263`
 
 ## Status-Verteilung
 
 | Status | Anzahl |
 |---|---:|
 | geplant | 5 |
-| laufend | 233 |
+| laufend | 235 |
 | offen | 23 |
 
 ## Unterrepraesentierte Regionen
@@ -19,9 +19,9 @@
 | Deutschland/Kanada | 1 |
 | Deutschland/Polen | 1 |
 | International (IraSME) | 1 |
-| Deutschland/International | 6 |
 | Bayern | 7 |
 | Bremen | 7 |
+| Deutschland/International | 7 |
 | Baden-Wuerttemberg | 8 |
 | Hessen | 8 |
 | Mecklenburg-Vorpommern | 8 |
@@ -35,7 +35,7 @@
 
 | Region | Anzahl |
 |---|---:|
-| Deutschland | 83 |
+| Deutschland | 84 |
 | Berlin | 16 |
 | Rheinland-Pfalz | 16 |
 | Niedersachsen | 13 |
