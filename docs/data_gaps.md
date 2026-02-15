@@ -1,14 +1,14 @@
 # Data Gaps
 
-- Erzeugt am: `2026-02-16 00:20`
-- Datensaetze: `259`
+- Erzeugt am: `2026-02-16 00:24`
+- Datensaetze: `261`
 
 ## Status-Verteilung
 
 | Status | Anzahl |
 |---|---:|
 | geplant | 5 |
-| laufend | 231 |
+| laufend | 233 |
 | offen | 23 |
 
 ## Unterrepraesentierte Regionen
@@ -35,7 +35,7 @@
 
 | Region | Anzahl |
 |---|---:|
-| Deutschland | 81 |
+| Deutschland | 83 |
 | Berlin | 16 |
 | Rheinland-Pfalz | 16 |
 | Niedersachsen | 13 |
@@ -80,6 +80,7 @@
 | Binnenmarkt/Unternehmensfoerderung | 1 |
 | Biotech/DeepTech | 1 |
 | Branchenfoerderung/Unternehmensfoerderung | 1 |
+| DeepTech/Klimaschutz/Skalierung | 1 |
 | Dekarbonisierung/Transformation | 1 |
 | Digitalisierung (KI, Cybersecurity, HPC, Skills) | 1 |
 | Digitalisierung/IT-Sicherheit | 1 |
@@ -89,7 +90,6 @@
 | Energie- und Ressourceneffizienz/Prozesswaerme | 1 |
 | Energie/Erneuerbare Prozesswaerme | 1 |
 | Energie/Klimaschutz | 1 |
-| Energieeffizienz/Digitalisierung | 1 |
 
 ## Priorisierungsregel
 

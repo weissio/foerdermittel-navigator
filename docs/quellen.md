@@ -218,3 +218,5 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - https://www.inqa.de/DE/angebote/unternehmenswert-mensch/uebersicht.html
 - https://www.bmwk.de/Redaktion/DE/Dossier/markterschliessungsprogramm.html
 - https://www.developpp.de/ventures
+- https://www.coparion.vc/
+- https://dtcf.de/
