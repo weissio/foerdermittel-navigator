@@ -210,3 +210,5 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - https://www.bafa.de/DE/Energie/Effiziente_Waermenetze/effiziente_waermenetze_node.html
 - https://www.ermoeglicher.de/bob-buergschaft-ohne-bank/
 - https://www.htgf.de/de/finanzierung/
+- https://www.agaportal.de/exportkreditgarantien
+- https://www.agaportal.de/ufk-garantien
