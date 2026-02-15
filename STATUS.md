@@ -1,12 +1,12 @@
 # Status (Live Snapshot)
 
-Stand: 2026-02-14
+Stand: 2026-02-15
 
 ## Datenbestand
 
-- Datensaetze: 225
-- Eindeutige `programm_id`: 225
-- Status: `laufend=197`, `offen=23`, `geplant=5`
+- Datensaetze: 228
+- Eindeutige `programm_id`: 228
+- Status: `laufend=200`, `offen=23`, `geplant=5`
 
 ## QA
 

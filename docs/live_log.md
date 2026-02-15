@@ -603,3 +603,8 @@
 - Datenausbau Prio I (Bund): +2 weitere BAFA-EEW-Module aufgenommen.
 - Neu: `BAFA_EEW_MODUL_3` und `BAFA_EEW_MODUL_5`.
 - Ziel: vollstaendigere Modulabdeckung im Bundesblock Energieeffizienz/Transformation.
+
+## 2026-02-14 13:42
+- Datenausbau Prio I (Bund/KfW): +3 Programme nachgefuehrt.
+- Neu: `KFW_058`, `KFW_068_069`, `KFW_313_314_315`.
+- Quellen in `docs/quellen.md` um die zugehoerigen KfW-Produktseiten erweitert.

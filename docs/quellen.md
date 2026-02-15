@@ -8,6 +8,8 @@
 - KfW ERP-Digitalisierungs- und Innovationskredit (390/391) Merkblatt: https://www.kfw.de/PDF/Download-Center/F%C3%B6rderprogramme-%28Inlandsf%C3%B6rderung%29/PDF-Dokumente/6000004011_M_380_390_391.pdf
 - KfW ERP-Foerderkredit Digitalisierung (511/512): https://www.kfw.de/inlandsfoerderung/Unternehmen/Innovation-und-Digitalisierung/F%C3%B6rderprodukte/ERP-F%C3%B6rderkredit-Digitalisierung-%28511-512%29/
 - KfW ERP-Foerderkredit Innovation (513/514): https://www.kfw.de/inlandsfoerderung/Unternehmen/Innovation-und-Digitalisierung/F%C3%B6rderprodukte/ERP-F%C3%B6rderkredit-Innovation-%28513-514%29/
+- KfW-Unternehmerkredit (058/068/069): https://www.kfw.de/inlandsfoerderung/Unternehmen/Erweitern-Festigen/F%C3%B6rderprodukte/KfW-Unternehmerkredit-%28037-047-058-069-070-075-076%29/
+- KfW-Foerderkredit grosser Mittelstand (313/314/315): https://www.kfw.de/inlandsfoerderung/Unternehmen/Erweitern-Festigen/F%C3%B6rderprodukte/KfW-F%C3%B6rderkredit-gro%C3%9Fer-Mittelstand-%28290-291-293-294-295-296%29/
 - KfW ERP-Foerderkredit grosser Mittelstand (375/376): https://www.kfw.de/inlandsfoerderung/Unternehmen/Erweitern-Festigen/F%C3%B6rderprodukte/ERP-F%C3%B6rderkredit-gro%C3%9Fer-Mittelstand-(375-376)/
 - KfW ERP-Beteiligungsprogramm (100): https://www.kfw.de/inlandsfoerderung/Unternehmen/Erweitern-Festigen/F%C3%B6rderprodukte/ERP-Beteiligungsprogramm-%28100%29/
 - KfW ERP-Foerderkredit Gruendung und Nachfolge (077): https://www.kfw.de/inlandsfoerderung/Unternehmen/Gr%C3%BCndung-und-Nachfolge/F%C3%B6rderprodukte/ERP-F%C3%B6rderkredit-Gr%C3%BCndung-und-Nachfolge-%28077%29/
