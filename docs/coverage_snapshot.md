@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-16 00:28`
-- Datensaetze: `263`
-- Eindeutige `programm_id`: `263`
+- Erzeugt am: `2026-02-16 00:31`
+- Datensaetze: `265`
+- Eindeutige `programm_id`: `265`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 235 |
+| laufend | 237 |
 | offen | 23 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 235 |
+| laufend | 237 |
 | offen | 23 |
 | zukuenftig | 5 |
 
@@ -26,7 +26,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Region | Anzahl |
 |---|---:|
-| Deutschland | 84 |
+| Deutschland | 86 |
 | Berlin | 16 |
 | Rheinland-Pfalz | 16 |
 | Niedersachsen | 13 |
@@ -70,7 +70,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | EISMEA (EU) | 4 |
 | LfA Foerderbank Bayern | 4 |
 | BAB Bremen | 3 |
-| Europaeische Kommission | 3 |
+| BMAS / INQA / ESF Plus | 3 |
 
 ## Top Themen
 
@@ -92,9 +92,9 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Beratung/Unternehmensentwicklung | 4 |
 | Digitalisierung/Innovation | 4 |
 | Forschung und Entwicklung/Innovation (international) | 4 |
+| Gruendung/Innovation | 4 |
 | Investition/Innovation | 4 |
 | Energieeffizienz/Klimaschutz | 3 |
-| Gruendung/Innovation | 3 |
 | Innovation/F&E | 3 |
 
 ## Feldqualitaet
