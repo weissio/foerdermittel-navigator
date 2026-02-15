@@ -214,3 +214,5 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - https://www.agaportal.de/ufk-garantien
 - https://www.sprind.org/challenges
 - https://www.germanaccelerator.com/
+- https://www.aif.de/foerderung/igf
+- https://www.inqa.de/DE/angebote/unternehmenswert-mensch/uebersicht.html
