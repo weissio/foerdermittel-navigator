@@ -1,14 +1,14 @@
 # Data Gaps
 
-- Erzeugt am: `2026-02-15 23:40`
-- Datensaetze: `240`
+- Erzeugt am: `2026-02-15 23:44`
+- Datensaetze: `242`
 
 ## Status-Verteilung
 
 | Status | Anzahl |
 |---|---:|
 | geplant | 5 |
-| laufend | 212 |
+| laufend | 214 |
 | offen | 23 |
 
 ## Unterrepraesentierte Regionen
@@ -35,7 +35,7 @@
 
 | Region | Anzahl |
 |---|---:|
-| Deutschland | 68 |
+| Deutschland | 70 |
 | Berlin | 16 |
 | Rheinland-Pfalz | 16 |
 | Niedersachsen | 13 |
@@ -58,6 +58,7 @@
 | BAFA/KfW | 1 |
 | BMAS / INQA / ESF Plus | 1 |
 | BMBF | 1 |
+| BMUV / KfW | 1 |
 | BMWK (Nationales Portal) / EU | 1 |
 | BMWK/ZIM (DE) + CORFO (CL) | 1 |
 | BMWK/ZIM (DE) + IraSME Netzwerk | 1 |
@@ -69,7 +70,6 @@
 | Freistaat Bayern / EFRE | 1 |
 | Freistaat Bayern / ESF+ | 1 |
 | Freistaat Sachsen / EFRE | 1 |
-| Freistaat Sachsen / ESF+ | 1 |
 
 ## Unterrepraesentierte Themen
 
