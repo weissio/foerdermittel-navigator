@@ -197,3 +197,6 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - https://www.bmwk.de/Redaktion/DE/Artikel/Technologie/wipano.html
 - https://www.bafa.de/DE/Wirtschafts_Mittelstandsfoerderung/wirtschafts_mittelstandsfoerderung_node.html
 - https://www.bmwk.de/Redaktion/DE/Artikel/Mittelstand/mittelstandspolitik.html
+- https://www.kfw.de/inlandsfoerderung/Unternehmen/Erweitern-Festigen/F%C3%B6rderprodukte/KfW-Unternehmerkredit-(037-047)/
+- https://www.kfw.de/inlandsfoerderung/Unternehmen/Energie-Umwelt/F%C3%B6rderprodukte/KfW-Unternehmerkredit-Plus-(070)/
+- https://www.kfw.de/inlandsfoerderung/Unternehmen/Erweitern-Festigen/F%C3%B6rderprodukte/ERP-F%C3%B6rderkredit-KMU-(365-366-075-076)/
