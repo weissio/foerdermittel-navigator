@@ -1,14 +1,14 @@
 # Data Gaps
 
-- Erzeugt am: `2026-02-16 00:48`
-- Datensaetze: `275`
+- Erzeugt am: `2026-02-16 00:51`
+- Datensaetze: `278`
 
 ## Status-Verteilung
 
 | Status | Anzahl |
 |---|---:|
 | geplant | 5 |
-| laufend | 247 |
+| laufend | 250 |
 | offen | 23 |
 
 ## Unterrepraesentierte Regionen
@@ -21,7 +21,6 @@
 | International (IraSME) | 1 |
 | Bayern | 7 |
 | Bremen | 7 |
-| Deutschland/International | 7 |
 | Baden-Wuerttemberg | 8 |
 | Hessen | 8 |
 | Mecklenburg-Vorpommern | 8 |
@@ -30,6 +29,7 @@
 | Thueringen | 8 |
 | Hamburg | 9 |
 | Brandenburg | 10 |
+| Deutschland/International | 10 |
 
 ## Dominierende Regionen
 
@@ -42,6 +42,7 @@
 | EU (inkl. Deutschland) | 11 |
 | Sachsen | 11 |
 | Brandenburg | 10 |
+| Deutschland/International | 10 |
 | Nordrhein-Westfalen | 10 |
 | Schleswig-Holstein | 10 |
 | Hamburg | 9 |
@@ -49,7 +50,6 @@
 | Hessen | 8 |
 | Mecklenburg-Vorpommern | 8 |
 | Saarland | 8 |
-| Sachsen-Anhalt | 8 |
 
 ## Unterrepraesentierte Traeger
 

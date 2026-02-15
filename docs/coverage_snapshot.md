@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-16 00:48`
-- Datensaetze: `275`
-- Eindeutige `programm_id`: `275`
+- Erzeugt am: `2026-02-16 00:51`
+- Datensaetze: `278`
+- Eindeutige `programm_id`: `278`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 247 |
+| laufend | 250 |
 | offen | 23 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 247 |
+| laufend | 250 |
 | offen | 23 |
 | zukuenftig | 5 |
 
@@ -33,6 +33,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | EU (inkl. Deutschland) | 11 |
 | Sachsen | 11 |
 | Brandenburg | 10 |
+| Deutschland/International | 10 |
 | Nordrhein-Westfalen | 10 |
 | Schleswig-Holstein | 10 |
 | Hamburg | 9 |
@@ -44,7 +45,6 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Thueringen | 8 |
 | Bayern | 7 |
 | Bremen | 7 |
-| Deutschland/International | 7 |
 | Deutschland/Chile | 1 |
 
 ## Top Traeger
@@ -52,7 +52,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Traeger | Anzahl |
 |---|---:|
 | KfW | 37 |
-| BMWK | 18 |
+| BMWK | 21 |
 | BAFA | 16 |
 | Investitionsbank Berlin (IBB) | 13 |
 | ISB (Rheinland-Pfalz) | 12 |
@@ -90,12 +90,12 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Unternehmensfinanzierung/Innovation | 6 |
 | Innovation/Beratung | 5 |
 | Innovation/Digitalisierung | 5 |
+| Internationalisierung/Export | 5 |
 | Wachstum/Investition | 5 |
 | Digitalisierung/Innovation | 4 |
 | Forschung und Entwicklung/Innovation (international) | 4 |
 | Gruendung/Innovation | 4 |
 | Investition/Innovation | 4 |
-| Energieeffizienz/Klimaschutz | 3 |
 
 ## Feldqualitaet
 
