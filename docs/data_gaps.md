@@ -1,14 +1,14 @@
 # Data Gaps
 
-- Erzeugt am: `2026-02-15 23:44`
-- Datensaetze: `242`
+- Erzeugt am: `2026-02-15 23:48`
+- Datensaetze: `244`
 
 ## Status-Verteilung
 
 | Status | Anzahl |
 |---|---:|
 | geplant | 5 |
-| laufend | 214 |
+| laufend | 216 |
 | offen | 23 |
 
 ## Unterrepraesentierte Regionen
@@ -16,6 +16,7 @@
 | Region | Anzahl |
 |---|---:|
 | Deutschland/Chile | 1 |
+| Deutschland/International | 1 |
 | Deutschland/Kanada | 1 |
 | Deutschland/Polen | 1 |
 | International (IraSME) | 1 |
@@ -29,13 +30,12 @@
 | Thueringen | 8 |
 | Hamburg | 9 |
 | Brandenburg | 10 |
-| Nordrhein-Westfalen | 10 |
 
 ## Dominierende Regionen
 
 | Region | Anzahl |
 |---|---:|
-| Deutschland | 70 |
+| Deutschland | 71 |
 | Berlin | 16 |
 | Rheinland-Pfalz | 16 |
 | Niedersachsen | 13 |
@@ -64,12 +64,12 @@
 | BMWK/ZIM (DE) + IraSME Netzwerk | 1 |
 | BMWK/ZIM (DE) + NCBR (PL) | 1 |
 | BMWK/ZIM (DE) + NRC IRAP (CA) | 1 |
+| BMZ / DEG / GIZ | 1 |
 | Bund (BMF) / BSFZ | 1 |
 | Bund/Land (EFRE) | 1 |
 | Bund/Land (ESF+) | 1 |
 | Freistaat Bayern / EFRE | 1 |
 | Freistaat Bayern / ESF+ | 1 |
-| Freistaat Sachsen / EFRE | 1 |
 
 ## Unterrepraesentierte Themen
 

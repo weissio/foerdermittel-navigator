@@ -202,3 +202,5 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - https://www.kfw.de/inlandsfoerderung/Unternehmen/Erweitern-Festigen/F%C3%B6rderprodukte/ERP-F%C3%B6rderkredit-KMU-(365-366-075-076)/
 - https://www.umweltinnovationsprogramm.de/
 - https://www.mikromezzaninfonds-deutschland.de/
+- https://www.bmwk.de/Redaktion/DE/Artikel/Mittelstand/messen-junge-innovative-unternehmen.html
+- https://www.developpp.de/

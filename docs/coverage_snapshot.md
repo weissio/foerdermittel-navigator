@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-15 23:44`
-- Datensaetze: `242`
-- Eindeutige `programm_id`: `242`
+- Erzeugt am: `2026-02-15 23:48`
+- Datensaetze: `244`
+- Eindeutige `programm_id`: `244`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 214 |
+| laufend | 216 |
 | offen | 23 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 214 |
+| laufend | 216 |
 | offen | 23 |
 | zukuenftig | 5 |
 
@@ -26,7 +26,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Region | Anzahl |
 |---|---:|
-| Deutschland | 70 |
+| Deutschland | 71 |
 | Berlin | 16 |
 | Rheinland-Pfalz | 16 |
 | Niedersachsen | 13 |
@@ -45,7 +45,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Bayern | 7 |
 | Bremen | 7 |
 | Deutschland/Chile | 1 |
-| Deutschland/Kanada | 1 |
+| Deutschland/International | 1 |
 
 ## Top Traeger
 
@@ -55,7 +55,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Investitionsbank Berlin (IBB) | 13 |
 | BAFA | 12 |
 | ISB (Rheinland-Pfalz) | 12 |
-| BMWK | 9 |
+| BMWK | 10 |
 | NBank | 9 |
 | IFB Hamburg | 6 |
 | L-Bank | 6 |
