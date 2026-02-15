@@ -206,3 +206,4 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - https://www.developpp.de/
 - https://www.bmas.de/mikrokredit
 - https://www.bmwk.de/Redaktion/DE/Artikel/Technologie/vorwettbewerbliche-forschung-fuer-den-mittelstand.html
+- https://www.kfw.de/inlandsfoerderung/Unternehmen/Gr%C3%BCndung-und-Nachfolge/F%C3%B6rderprodukte/ERP-Gr%C3%BCnderkredit-Universell-(073-074)/
