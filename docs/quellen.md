@@ -204,3 +204,5 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - https://www.mikromezzaninfonds-deutschland.de/
 - https://www.bmwk.de/Redaktion/DE/Artikel/Mittelstand/messen-junge-innovative-unternehmen.html
 - https://www.developpp.de/
+- https://www.bmas.de/mikrokredit
+- https://www.bmwk.de/Redaktion/DE/Artikel/Technologie/vorwettbewerbliche-forschung-fuer-den-mittelstand.html
