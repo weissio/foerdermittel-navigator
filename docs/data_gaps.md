@@ -1,14 +1,14 @@
 # Data Gaps
 
-- Erzeugt am: `2026-02-16 00:07`
-- Datensaetze: `253`
+- Erzeugt am: `2026-02-16 00:12`
+- Datensaetze: `255`
 
 ## Status-Verteilung
 
 | Status | Anzahl |
 |---|---:|
 | geplant | 5 |
-| laufend | 225 |
+| laufend | 227 |
 | offen | 23 |
 
 ## Unterrepraesentierte Regionen
@@ -19,7 +19,7 @@
 | Deutschland/Kanada | 1 |
 | Deutschland/Polen | 1 |
 | International (IraSME) | 1 |
-| Deutschland/International | 3 |
+| Deutschland/International | 4 |
 | Bayern | 7 |
 | Bremen | 7 |
 | Baden-Wuerttemberg | 8 |
@@ -35,7 +35,7 @@
 
 | Region | Anzahl |
 |---|---:|
-| Deutschland | 78 |
+| Deutschland | 79 |
 | Berlin | 16 |
 | Rheinland-Pfalz | 16 |
 | Niedersachsen | 13 |
@@ -61,6 +61,7 @@
 | BMBF | 1 |
 | BMUV / KfW | 1 |
 | BMWK (Nationales Portal) / EU | 1 |
+| BMWK / German Accelerator | 1 |
 | BMWK/ZIM (DE) + CORFO (CL) | 1 |
 | BMWK/ZIM (DE) + IraSME Netzwerk | 1 |
 | BMWK/ZIM (DE) + NCBR (PL) | 1 |
@@ -69,7 +70,6 @@
 | Buergschaftsbanken Deutschland | 1 |
 | Bund (BMF) / BSFZ | 1 |
 | Bund/Land (EFRE) | 1 |
-| Bund/Land (ESF+) | 1 |
 
 ## Unterrepraesentierte Themen
 

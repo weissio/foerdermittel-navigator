@@ -212,3 +212,5 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - https://www.htgf.de/de/finanzierung/
 - https://www.agaportal.de/exportkreditgarantien
 - https://www.agaportal.de/ufk-garantien
+- https://www.sprind.org/challenges
+- https://www.germanaccelerator.com/
