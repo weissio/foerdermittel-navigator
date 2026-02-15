@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-15 04:23`
-- Datensaetze: `228`
-- Eindeutige `programm_id`: `228`
+- Erzeugt am: `2026-02-15 13:56`
+- Datensaetze: `230`
+- Eindeutige `programm_id`: `230`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 200 |
+| laufend | 202 |
 | offen | 23 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 200 |
+| laufend | 202 |
 | offen | 23 |
 | zukuenftig | 5 |
 
@@ -26,7 +26,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Region | Anzahl |
 |---|---:|
-| Deutschland | 56 |
+| Deutschland | 58 |
 | Berlin | 16 |
 | Rheinland-Pfalz | 16 |
 | Niedersachsen | 13 |
@@ -53,10 +53,10 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 |---|---:|
 | KfW | 25 |
 | Investitionsbank Berlin (IBB) | 13 |
+| BAFA | 12 |
 | ISB (Rheinland-Pfalz) | 12 |
-| BAFA | 11 |
+| BMWK | 9 |
 | NBank | 9 |
-| BMWK | 8 |
 | IFB Hamburg | 6 |
 | L-Bank | 6 |
 | Thueringer Aufbaubank (TAB) | 6 |
@@ -88,10 +88,10 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Energieeffizienz | 6 |
 | Innovation/Digitalisierung | 5 |
 | Wachstum/Investition | 5 |
+| Beratung/Unternehmensentwicklung | 4 |
 | Digitalisierung/Innovation | 4 |
 | Forschung und Entwicklung/Innovation (international) | 4 |
 | Investition/Innovation | 4 |
-| Beratung/Unternehmensentwicklung | 3 |
 | Energieeffizienz/Klimaschutz | 3 |
 | Gruendung/Innovation | 3 |
 | Innovation/F&E | 3 |

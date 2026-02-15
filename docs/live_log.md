@@ -608,3 +608,8 @@
 - Datenausbau Prio I (Bund/KfW): +3 Programme nachgefuehrt.
 - Neu: `KFW_058`, `KFW_068_069`, `KFW_313_314_315`.
 - Quellen in `docs/quellen.md` um die zugehoerigen KfW-Produktseiten erweitert.
+
+## 2026-02-15 13:58
+- Datenausbau Prio I (Bund): +2 Programme im Handwerks-/Beratungskontext aufgenommen.
+- Neu: `BAFA_UEBERBETRIEBLICHE_BERATUNG` und `BMWK_INNOVATIONSFOERDERUNG_HANDWERK`.
+- Fokus: erweiterte Bundesabdeckung fuer Handwerksunternehmen.

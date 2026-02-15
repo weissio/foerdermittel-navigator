@@ -1,14 +1,14 @@
 # Data Gaps
 
-- Erzeugt am: `2026-02-15 04:23`
-- Datensaetze: `228`
+- Erzeugt am: `2026-02-15 13:56`
+- Datensaetze: `230`
 
 ## Status-Verteilung
 
 | Status | Anzahl |
 |---|---:|
 | geplant | 5 |
-| laufend | 200 |
+| laufend | 202 |
 | offen | 23 |
 
 ## Unterrepraesentierte Regionen
@@ -35,7 +35,7 @@
 
 | Region | Anzahl |
 |---|---:|
-| Deutschland | 56 |
+| Deutschland | 58 |
 | Berlin | 16 |
 | Rheinland-Pfalz | 16 |
 | Niedersachsen | 13 |
