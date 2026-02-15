@@ -613,3 +613,8 @@
 - Datenausbau Prio I (Bund): +2 Programme im Handwerks-/Beratungskontext aufgenommen.
 - Neu: `BAFA_UEBERBETRIEBLICHE_BERATUNG` und `BMWK_INNOVATIONSFOERDERUNG_HANDWERK`.
 - Fokus: erweiterte Bundesabdeckung fuer Handwerksunternehmen.
+
+## 2026-02-15 14:12
+- Datenausbau Prio I (Bund/KfW): +5 Produktvarianten nachgefuehrt.
+- Neu: `KFW_290`, `KFW_291`, `KFW_294`, `KFW_295`, `KFW_296`.
+- Ziel: vollstaendigere Variantenabdeckung im Segment `KfW-Foerderkredit grosser Mittelstand`.
