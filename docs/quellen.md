@@ -208,3 +208,5 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - https://www.bmwk.de/Redaktion/DE/Artikel/Technologie/vorwettbewerbliche-forschung-fuer-den-mittelstand.html
 - https://www.kfw.de/inlandsfoerderung/Unternehmen/Gr%C3%BCndung-und-Nachfolge/F%C3%B6rderprodukte/ERP-Gr%C3%BCnderkredit-Universell-(073-074)/
 - https://www.bafa.de/DE/Energie/Effiziente_Waermenetze/effiziente_waermenetze_node.html
+- https://www.ermoeglicher.de/bob-buergschaft-ohne-bank/
+- https://www.htgf.de/de/finanzierung/
