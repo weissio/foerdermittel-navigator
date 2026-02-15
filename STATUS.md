@@ -4,9 +4,9 @@ Stand: 2026-02-16
 
 ## Datenbestand
 
-- Datensaetze: 273
-- Eindeutige `programm_id`: 273
-- Status: `laufend=245`, `offen=23`, `geplant=5`
+- Datensaetze: 275
+- Eindeutige `programm_id`: 275
+- Status: `laufend=247`, `offen=23`, `geplant=5`
 
 ## QA
 

@@ -224,3 +224,5 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - https://www.german-pavilion.com/
 - https://www.exist.de/EXIST/Navigation/DE/Programm/Exist-Women/exist-women.html
 - https://www.inqa.de/DE/angebote/inqa-coaching/uebersicht.html
+- https://www.exist.de/EXIST/Navigation/DE/Programm/EXIST-Potentiale/exist-potenziale.html
+- https://www.exist.de/EXIST/Navigation/DE/Programm/Startup-Factories/startup-factories.html
