@@ -216,3 +216,5 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - https://www.germanaccelerator.com/
 - https://www.aif.de/foerderung/igf
 - https://www.inqa.de/DE/angebote/unternehmenswert-mensch/uebersicht.html
+- https://www.bmwk.de/Redaktion/DE/Dossier/markterschliessungsprogramm.html
+- https://www.developpp.de/ventures
