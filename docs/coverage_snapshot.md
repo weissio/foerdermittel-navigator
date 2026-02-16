@@ -2,16 +2,16 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-16 01:43`
-- Datensaetze: `305`
-- Eindeutige `programm_id`: `305`
+- Erzeugt am: `2026-02-16 01:48`
+- Datensaetze: `307`
+- Eindeutige `programm_id`: `307`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
 | laufend | 277 |
-| offen | 23 |
+| offen | 25 |
 | geplant | 5 |
 
 ## Kategorie
@@ -19,7 +19,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Kategorie | Anzahl |
 |---|---:|
 | laufend | 277 |
-| offen | 23 |
+| offen | 25 |
 | zukuenftig | 5 |
 
 ## Top Regionen
@@ -29,12 +29,12 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Deutschland | 105 |
 | Rheinland-Pfalz | 17 |
 | Berlin | 16 |
+| EU (inkl. Deutschland) | 13 |
 | Niedersachsen | 13 |
 | Brandenburg | 12 |
 | Deutschland/International | 12 |
 | Sachsen | 12 |
 | Schleswig-Holstein | 12 |
-| EU (inkl. Deutschland) | 11 |
 | Hamburg | 11 |
 | Nordrhein-Westfalen | 11 |
 | Sachsen-Anhalt | 10 |
@@ -69,8 +69,8 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | WIBank (Hessen) | 5 |
 | EIC (EU) | 4 |
 | EISMEA (EU) | 4 |
+| Europaeische Kommission | 4 |
 | LfA Foerderbank Bayern | 4 |
-| NRW.BANK | 4 |
 
 ## Top Themen
 

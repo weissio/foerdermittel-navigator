@@ -1,7 +1,7 @@
 # Data Gaps
 
-- Erzeugt am: `2026-02-16 01:43`
-- Datensaetze: `305`
+- Erzeugt am: `2026-02-16 01:48`
+- Datensaetze: `307`
 
 ## Status-Verteilung
 
@@ -9,7 +9,7 @@
 |---|---:|
 | geplant | 5 |
 | laufend | 277 |
-| offen | 23 |
+| offen | 25 |
 
 ## Unterrepraesentierte Regionen
 
@@ -27,9 +27,9 @@
 | Bayern | 9 |
 | Saarland | 9 |
 | Sachsen-Anhalt | 10 |
-| EU (inkl. Deutschland) | 11 |
 | Hamburg | 11 |
 | Nordrhein-Westfalen | 11 |
+| Brandenburg | 12 |
 
 ## Dominierende Regionen
 
@@ -38,12 +38,12 @@
 | Deutschland | 105 |
 | Rheinland-Pfalz | 17 |
 | Berlin | 16 |
+| EU (inkl. Deutschland) | 13 |
 | Niedersachsen | 13 |
 | Brandenburg | 12 |
 | Deutschland/International | 12 |
 | Sachsen | 12 |
 | Schleswig-Holstein | 12 |
-| EU (inkl. Deutschland) | 11 |
 | Hamburg | 11 |
 | Nordrhein-Westfalen | 11 |
 | Sachsen-Anhalt | 10 |
@@ -84,12 +84,12 @@
 | DeepTech/Klimaschutz/Skalierung | 1 |
 | Dekarbonisierung/Transformation | 1 |
 | Digitalisierung (KI, Cybersecurity, HPC, Skills) | 1 |
+| Digitalisierung/Konnektivitaet/Infrastruktur | 1 |
 | EU-Fonds (EFRE/ESF+/u. a.) | 1 |
 | EU-Fonds EFRE/JTF | 1 |
 | Eigenkapital/Beteiligung | 1 |
 | Energie- und Ressourceneffizienz/Prozesswaerme | 1 |
 | Energie/Erneuerbare Prozesswaerme | 1 |
-| Energie/Klimaschutz | 1 |
 
 ## Priorisierungsregel
 
