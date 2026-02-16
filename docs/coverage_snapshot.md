@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-16 06:16`
-- Datensaetze: `442`
-- Eindeutige `programm_id`: `442`
+- Erzeugt am: `2026-02-16 06:20`
+- Datensaetze: `444`
+- Eindeutige `programm_id`: `444`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 355 |
+| laufend | 357 |
 | offen | 82 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 355 |
+| laufend | 357 |
 | offen | 82 |
 | zukuenftig | 5 |
 
@@ -28,7 +28,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 |---|---:|
 | Deutschland | 167 |
 | EU (inkl. Deutschland) | 60 |
-| Deutschland/International | 24 |
+| Deutschland/International | 26 |
 | Rheinland-Pfalz | 17 |
 | Berlin | 16 |
 | Bayern | 14 |
@@ -69,8 +69,8 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | LfA Foerderbank Bayern | 6 |
 | Saechsische Aufbaubank (SAB) | 6 |
 | Thueringer Aufbaubank (TAB) | 6 |
+| BMWK / German Accelerator | 5 |
 | Europaeische Kommission / CINEA | 5 |
-| Investitionsbank Schleswig-Holstein (IB.SH) | 5 |
 
 ## Top Themen
 
