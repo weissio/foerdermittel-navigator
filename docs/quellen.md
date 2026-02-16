@@ -258,3 +258,5 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe/research-infrastructures_en
 - https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe/eu-missions-horizon-europe_en
 - https://urbact.eu/
+- https://climate.ec.europa.eu/eu-action/social-climate-fund_en
+- https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/european-green-deal/repowereu-affordable-secure-and-sustainable-energy-europe_en
