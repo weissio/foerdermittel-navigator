@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `750`
+- Gepruefte Datensaetze: `752`
 
 ## Offen Mit Datumsfrist
 
@@ -39,6 +39,7 @@
 - `BMBF_KMU_INNOVATIV_BAUPROZESSE_DIGITAL` | KMU-innovativ - Digitale Bauprozesse und nachhaltige Bauwerke
 - `BMBF_KMU_INNOVATIV_BAUSTOFFRECYCLING` | KMU-innovativ - Baustoffrecycling und zirkulaeres Bauen
 - `BMBF_KMU_INNOVATIV_BIOBASIERTE_CHEMIE` | KMU-innovativ - Biobasierte Chemie und nachhaltige Syntheseprozesse
+- `BMBF_KMU_INNOVATIV_BIOBASIERTE_VERPACKUNGSBARRIEREN` | KMU-innovativ - Biobasierte Verpackungsbarrieren und kreislauffaehige Schutzschichten
 - `BMBF_KMU_INNOVATIV_BIOINFORMATIK` | KMU-innovativ - Bioinformatik und datengetriebene Lebenswissenschaften
 - `BMBF_KMU_INNOVATIV_BIOKATALYSE_PROZESSE` | KMU-innovativ - Biokatalyse und nachhaltige Prozesschemie
 - `BMBF_KMU_INNOVATIV_BIOOEKONOMIE` | KMU-innovativ - Biooekonomie und industrielle Biotransformation
@@ -111,6 +112,7 @@
 - `BMBF_KMU_INNOVATIV_SMARTE_AGROSYSTEME` | KMU-innovativ - Smarte Agrarsysteme und datenbasierte Landwirtschaft
 - `BMBF_KMU_INNOVATIV_SMARTE_BIOANALYTIK` | KMU-innovativ - Smarte Bioanalytik und digitale Laborplattformen
 - `BMBF_KMU_INNOVATIV_SMARTE_DIAGNOSTIKPLATTFORMEN` | KMU-innovativ - Smarte Diagnostikplattformen und Point-of-Care-Systeme
+- `BMBF_KMU_INNOVATIV_SMARTE_KUEHLSYSTEME` | KMU-innovativ - Smarte Kuehlsysteme und energieadaptive Kaelteprozesse
 - `BMBF_KMU_INNOVATIV_SMARTE_MATERIALIEN` | KMU-innovativ - Smarte Materialien und funktionale Oberflaechen
 - `BMBF_KMU_INNOVATIV_SMARTE_MEDIEN` | KMU-innovativ - Smarte Medien- und Interaktionssysteme
 - `BMBF_KMU_INNOVATIV_SMARTE_MEDTECH_PRODUKTION` | KMU-innovativ - Smarte Produktion medizintechnischer Systeme

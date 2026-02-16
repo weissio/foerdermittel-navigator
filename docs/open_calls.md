@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-16`
-- Offen gesamt: `190`
+- Offen gesamt: `192`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `174`
+- Rollierend/ohne Datum: `176`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -41,6 +41,7 @@
 - `BMBF_KMU_INNOVATIV_BAUPROZESSE_DIGITAL` | KMU-innovativ - Digitale Bauprozesse und nachhaltige Bauwerke | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_BAUSTOFFRECYCLING` | KMU-innovativ - Baustoffrecycling und zirkulaeres Bauen | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_BIOBASIERTE_CHEMIE` | KMU-innovativ - Biobasierte Chemie und nachhaltige Syntheseprozesse | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_BIOBASIERTE_VERPACKUNGSBARRIEREN` | KMU-innovativ - Biobasierte Verpackungsbarrieren und kreislauffaehige Schutzschichten | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_BIOINFORMATIK` | KMU-innovativ - Bioinformatik und datengetriebene Lebenswissenschaften | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_BIOKATALYSE_PROZESSE` | KMU-innovativ - Biokatalyse und nachhaltige Prozesschemie | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_BIOOEKONOMIE` | KMU-innovativ - Biooekonomie und industrielle Biotransformation | rollierend | https://www.kmu-innovativ.de/
@@ -113,6 +114,7 @@
 - `BMBF_KMU_INNOVATIV_SMARTE_AGROSYSTEME` | KMU-innovativ - Smarte Agrarsysteme und datenbasierte Landwirtschaft | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_SMARTE_BIOANALYTIK` | KMU-innovativ - Smarte Bioanalytik und digitale Laborplattformen | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_SMARTE_DIAGNOSTIKPLATTFORMEN` | KMU-innovativ - Smarte Diagnostikplattformen und Point-of-Care-Systeme | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_SMARTE_KUEHLSYSTEME` | KMU-innovativ - Smarte Kuehlsysteme und energieadaptive Kaelteprozesse | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_SMARTE_MATERIALIEN` | KMU-innovativ - Smarte Materialien und funktionale Oberflaechen | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_SMARTE_MEDIEN` | KMU-innovativ - Smarte Medien- und Interaktionssysteme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_SMARTE_MEDTECH_PRODUKTION` | KMU-innovativ - Smarte Produktion medizintechnischer Systeme | rollierend | https://www.kmu-innovativ.de/
