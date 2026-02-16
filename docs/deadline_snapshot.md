@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `892`
+- Gepruefte Datensaetze: `894`
 
 ## Offen Mit Datumsfrist
 
@@ -107,6 +107,7 @@
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEFORTSCHRITTSMESSUNG` | KMU-innovativ - Digitale Therapiefortschrittsmessung und adaptive Behandlungsplanung
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEINDIKATOREN` | KMU-innovativ - Digitale Therapieindikatoren und kontinuierliche Wirkungsmessung
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEINTERVALL_STEUERUNG` | KMU-innovativ - Digitale Therapieintervall-Steuerung und adaptive Behandlungsrhythmen
+- `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEKETTEN_EVIDENZ` | KMU-innovativ - Digitale Therapieketten-Evidenz und adaptive Versorgungspriorisierung
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEKETTEN_STEUERUNG` | KMU-innovativ - Digitale Therapieketten-Steuerung und adaptive Versorgungssequenzierung
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEKOHAERENZ` | KMU-innovativ - Digitale Therapiekohaerenz und adaptive Versorgungskonsistenz
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEKOHORTEN_ANALYSE` | KMU-innovativ - Digitale Therapiekohorten-Analyse und personalisierte Wirksamkeitsprofile
@@ -150,6 +151,7 @@
 - `BMBF_KMU_INNOVATIV_DIGITAL_HEALTH_DEVICES` | KMU-innovativ - Digitale Gesundheitsgeraete und vernetzte Medizinsysteme
 - `BMBF_KMU_INNOVATIV_DIGITAL_TWIN` | KMU-innovativ - Digitale Zwillinge fuer industrielle Anwendungen
 - `BMBF_KMU_INNOVATIV_DYNAMISCHE_ANLAGENVERNETZUNG` | KMU-innovativ - Dynamische Anlagenvernetzung und adaptive Produktionsorchestrierung
+- `BMBF_KMU_INNOVATIV_DYNAMISCHE_FERTIGUNGSKOPPLUNG` | KMU-innovativ - Dynamische Fertigungskopplung und adaptive Prozessausrichtung
 - `BMBF_KMU_INNOVATIV_DYNAMISCHE_FERTIGUNGSROUTEN` | KMU-innovativ - Dynamische Fertigungsrouten und adaptive Ablaufoptimierung
 - `BMBF_KMU_INNOVATIV_DYNAMISCHE_PRODUKTIONSPLANUNG` | KMU-innovativ - Dynamische Produktionsplanung und adaptive Ressourcenzuweisung
 - `BMBF_KMU_INNOVATIV_DYNAMISCHE_QUALITAETSORCHESTRIERUNG` | KMU-innovativ - Dynamische Qualitaetsorchestrierung und adaptive Prozessstabilitaet
