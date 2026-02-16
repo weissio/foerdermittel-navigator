@@ -1,14 +1,14 @@
 # Data Gaps
 
-- Erzeugt am: `2026-02-16 04:23`
-- Datensaetze: `386`
+- Erzeugt am: `2026-02-16 04:27`
+- Datensaetze: `388`
 
 ## Status-Verteilung
 
 | Status | Anzahl |
 |---|---:|
 | geplant | 5 |
-| laufend | 305 |
+| laufend | 307 |
 | offen | 76 |
 
 ## Unterrepraesentierte Regionen
@@ -35,7 +35,7 @@
 
 | Region | Anzahl |
 |---|---:|
-| Deutschland | 134 |
+| Deutschland | 136 |
 | EU (inkl. Deutschland) | 58 |
 | Rheinland-Pfalz | 17 |
 | Berlin | 16 |
@@ -59,7 +59,7 @@
 | BMAS / Mikrokreditfonds Deutschland | 1 |
 | BMBF | 1 |
 | BMDV | 1 |
-| BMUV / KfW | 1 |
+| BMUV | 1 |
 | BMWK (Nationales Portal) / EU | 1 |
 | BMWK / AiF / internationale Partner | 1 |
 | BMWK / German Accelerator | 1 |
