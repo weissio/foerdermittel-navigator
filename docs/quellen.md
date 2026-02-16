@@ -276,3 +276,5 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - https://digital-strategy.ec.europa.eu/en/activities/digital-programme
 - https://www.interregeurope.eu/
 - https://een.ec.europa.eu/
+- https://www.clean-hydrogen.europa.eu/funding-calls_en
+- https://www.cbe.europa.eu/calls-proposals_en

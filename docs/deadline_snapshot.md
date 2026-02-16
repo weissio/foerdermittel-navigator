@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `345`
+- Gepruefte Datensaetze: `347`
 
 ## Offen Mit Datumsfrist
 
@@ -27,11 +27,13 @@
 - `BMWK_IGP` | Innovationsprogramm fuer Geschaeftsmodelle und Pionierloesungen (IGP)
 - `EUIPO_SME_FUND` | Ideas Powered for Business SME Fund (EUIPO)
 - `EU_BLUEINVEST` | BlueInvest (EU)
+- `EU_CBE_JU` | Circular Bio-based Europe Joint Undertaking (CBE JU)
 - `EU_CEF_DIGITAL` | Connecting Europe Facility - Digital (CEF Digital)
 - `EU_CEF_ENERGY` | Connecting Europe Facility - Energy (CEF Energy)
 - `EU_CEF_TRANSPORT` | Connecting Europe Facility - Transport (CEF Transport)
 - `EU_CERV_PROGRAMME` | Citizens, Equality, Rights and Values (CERV)
 - `EU_CHIPS_JU` | Chips Joint Undertaking (Chips JU) Calls
+- `EU_CLEAN_HYDROGEN_JU` | Clean Hydrogen Joint Undertaking (Clean Hydrogen JU)
 - `EU_CREATIVE_EUROPE` | Creative Europe Programme
 - `EU_DIGITAL_EUROPE_CALLS` | Digital Europe Programme - Open Calls
 - `EU_EIC_PATHFINDER` | EIC Pathfinder (EU)
