@@ -246,3 +246,5 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - https://health.ec.europa.eu/funding/eu4health-programme-2021-2027-vision-healthier-european-union_en
 - https://www.eurekanetwork.org/programmes/eurostars/
 - https://www.eurekanetwork.org/programmes/globalstars/
+- https://culture.ec.europa.eu/creative-europe
+- https://commission.europa.eu/funding-tenders/find-funding/eu-funding-programmes/citizens-equality-rights-and-values-programme_en
