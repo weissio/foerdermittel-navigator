@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `728`
+- Gepruefte Datensaetze: `730`
 
 ## Offen Mit Datumsfrist
 
@@ -57,6 +57,7 @@
 - `BMBF_KMU_INNOVATIV_H2_PTK` | KMU-innovativ - Wasserstoff, Power-to-X und klimaneutrale Prozessketten
 - `BMBF_KMU_INNOVATIV_HOCHTEMPERATUR_WERKSTOFFE` | KMU-innovativ - Hochtemperatur-Werkstoffe und resiliente Prozesskomponenten
 - `BMBF_KMU_INNOVATIV_IKT` | KMU-innovativ - Informations- und Kommunikationstechnologien (IKT)
+- `BMBF_KMU_INNOVATIV_INDUS_RECYCLING_AI` | KMU-innovativ - KI-gestuetztes industrielles Recycling und Materialrueckfuehrung
 - `BMBF_KMU_INNOVATIV_INTERAKTIVE_TECH` | KMU-innovativ - Interaktive Technologien fuer Gesundheit und Lebensqualitaet
 - `BMBF_KMU_INNOVATIV_KI_DATENRAEUME` | KMU-innovativ - KI und industrielle Datenraeume
 - `BMBF_KMU_INNOVATIV_KLIMAMODELLE_AI` | KMU-innovativ - KI-gestuetzte Klimamodelle und Resilienzsysteme
@@ -93,6 +94,7 @@
 - `BMBF_KMU_INNOVATIV_SICHERE_HALBLEITER` | KMU-innovativ - Sichere Halbleiter und vertrauenswuerdige Elektronik
 - `BMBF_KMU_INNOVATIV_SICHERHEIT` | KMU-innovativ - Sicherheitsforschung
 - `BMBF_KMU_INNOVATIV_SMARTE_AGROSYSTEME` | KMU-innovativ - Smarte Agrarsysteme und datenbasierte Landwirtschaft
+- `BMBF_KMU_INNOVATIV_SMARTE_DIAGNOSTIKPLATTFORMEN` | KMU-innovativ - Smarte Diagnostikplattformen und Point-of-Care-Systeme
 - `BMBF_KMU_INNOVATIV_SMARTE_MATERIALIEN` | KMU-innovativ - Smarte Materialien und funktionale Oberflaechen
 - `BMBF_KMU_INNOVATIV_SMARTE_MEDIEN` | KMU-innovativ - Smarte Medien- und Interaktionssysteme
 - `BMBF_KMU_INNOVATIV_SMARTE_MEDTECH_PRODUKTION` | KMU-innovativ - Smarte Produktion medizintechnischer Systeme
