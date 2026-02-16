@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `347`
+- Gepruefte Datensaetze: `349`
 
 ## Offen Mit Datumsfrist
 
@@ -58,12 +58,14 @@
 - `EU_HORIZON_WIDERA` | Horizon Europe - Widening Participation and Strengthening the European Research Area (WIDERA)
 - `EU_I3_INSTRUMENT` | Interregional Innovation Investments Instrument (I3)
 - `EU_INNOVATION_FUND` | Innovation Fund (EU ETS)
+- `EU_INNOVATIVE_HEALTH_INITIATIVE` | Innovative Health Initiative (IHI) Calls
 - `EU_INTERREG_EUROPE` | Interreg Europe Programme 2021-2027
 - `EU_INTERREG` | Interreg 2021-2027
 - `EU_INVESTEU` | InvestEU Programme
 - `EU_JUST_TRANSITION_FUND` | Just Transition Fund (JTF) Programme
 - `EU_LIFE_PROGRAMME` | LIFE Programme (EU)
 - `EU_REPOWEREU` | REPowerEU (RRF-Ergaenzung)
+- `EU_SESAR_3_JU` | SESAR 3 Joint Undertaking Calls
 - `EU_SOCIAL_CLIMATE_FUND` | Social Climate Fund (SCF)
 - `EU_SPACE_PROGRAMME` | EU Space Programme (inkl. CASSINI/EUSPA Calls)
 - `EU_URBACT_IV` | URBACT IV Programme

@@ -278,3 +278,5 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - https://een.ec.europa.eu/
 - https://www.clean-hydrogen.europa.eu/funding-calls_en
 - https://www.cbe.europa.eu/calls-proposals_en
+- https://www.ihi.europa.eu/apply-funding
+- https://www.sesarju.eu/calls
