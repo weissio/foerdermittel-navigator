@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `882`
+- Gepruefte Datensaetze: `884`
 
 ## Offen Mit Datumsfrist
 
@@ -28,6 +28,7 @@
 - `BMBF_KMU_INNOVATIV_5G_6G_INDUSTRIE` | KMU-innovativ - 5G/6G und vernetzte Industrieanwendungen
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_BAUTEILINSPEKTION` | KMU-innovativ - Adaptive Bauteilinspektion und KI-gestuetzte Fehlervorhersage
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_FERTIGUNGSFLUESSE` | KMU-innovativ - Adaptive Fertigungsfluesse und resiliente Ablaufsteuerung
+- `BMBF_KMU_INNOVATIV_ADAPTIVE_FERTIGUNGSKONSISTENZ` | KMU-innovativ - Adaptive Fertigungskonsistenz und resiliente Prozessstabilisierung
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_FERTIGUNGSRESERVEN` | KMU-innovativ - Adaptive Fertigungsreserven und resiliente Kapazitaetsabsicherung
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_KAPAZITAETSORCHESTRIERUNG` | KMU-innovativ - Adaptive Kapazitaetsorchestrierung und resiliente Produktionsbalancierung
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_LIEFERNETZ_STEUERUNG` | KMU-innovativ - Adaptive Liefernetz-Steuerung und resiliente Wertschoepfungskoordination
@@ -100,6 +101,7 @@
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEEFFIZIENZ` | KMU-innovativ - Digitale Therapieeffizienz und adaptive Wirkungsoptimierung
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEFORTSCHRITTSMESSUNG` | KMU-innovativ - Digitale Therapiefortschrittsmessung und adaptive Behandlungsplanung
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEINDIKATOREN` | KMU-innovativ - Digitale Therapieindikatoren und kontinuierliche Wirkungsmessung
+- `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEINTERVALL_STEUERUNG` | KMU-innovativ - Digitale Therapieintervall-Steuerung und adaptive Behandlungsrhythmen
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEKETTEN_STEUERUNG` | KMU-innovativ - Digitale Therapieketten-Steuerung und adaptive Versorgungssequenzierung
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEKOHAERENZ` | KMU-innovativ - Digitale Therapiekohaerenz und adaptive Versorgungskonsistenz
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEKOHORTEN_ANALYSE` | KMU-innovativ - Digitale Therapiekohorten-Analyse und personalisierte Wirksamkeitsprofile
