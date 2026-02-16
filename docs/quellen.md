@@ -23,6 +23,7 @@
 - BULEplus (BMEL): https://www.bmel.de/DE/themen/laendliche-regionen/foerderung-des-laendlichen-raums/buleplus.html
 - Bundesprogramm Umbau der Tierhaltung (BMEL): https://www.bmel.de/DE/themen/tiere/tierwohl/umbau-tierhaltung.html
 - H2Global (BMWK / Hintco): https://www.h2global.org/
+- FNR Projektfoerderung Nachwachsende Rohstoffe (BMEL): https://www.fnr.de/projektfoerderung
 - BMF Forschungszulage: https://www.bundesfinanzministerium.de/Web/DE/Themen/Steuern/Steuerliche_Themengebiete/Forschungszulage/forschungszulage.html
 - BMBF KMU-innovativ: https://www.kmu-innovativ.de/
 - BMWK IGP (Innovationsprogramm fuer Geschaeftsmodelle und Pionierloesungen): https://www.bmwk.de/Redaktion/DE/Artikel/Innovation/igp.html
