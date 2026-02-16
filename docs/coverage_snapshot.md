@@ -2,16 +2,16 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-16 03:20`
-- Datensaetze: `354`
-- Eindeutige `programm_id`: `354`
+- Erzeugt am: `2026-02-16 03:25`
+- Datensaetze: `356`
+- Eindeutige `programm_id`: `356`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
 | laufend | 280 |
-| offen | 69 |
+| offen | 71 |
 | geplant | 5 |
 
 ## Kategorie
@@ -19,7 +19,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Kategorie | Anzahl |
 |---|---:|
 | laufend | 280 |
-| offen | 69 |
+| offen | 71 |
 | zukuenftig | 5 |
 
 ## Top Regionen
@@ -27,7 +27,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Region | Anzahl |
 |---|---:|
 | Deutschland | 108 |
-| EU (inkl. Deutschland) | 56 |
+| EU (inkl. Deutschland) | 58 |
 | Rheinland-Pfalz | 17 |
 | Berlin | 16 |
 | Niedersachsen | 13 |

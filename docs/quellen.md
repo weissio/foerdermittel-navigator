@@ -284,3 +284,5 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - https://smart-networks.europa.eu/calls-for-proposals/
 
 - https://www.rentenbank.de/foerderangebote/
+- https://eurohpc-ju.europa.eu/funding-calls/calls-proposals_en
+- https://www.clean-aviation.eu/calls-proposals
