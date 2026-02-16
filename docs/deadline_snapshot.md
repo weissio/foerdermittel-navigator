@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `700`
+- Gepruefte Datensaetze: `702`
 
 ## Offen Mit Datumsfrist
 
@@ -54,6 +54,7 @@
 - `BMBF_KMU_INNOVATIV_KLIMA_UMWELT` | KMU-innovativ - Klima- und Umwelttechnologien
 - `BMBF_KMU_INNOVATIV_KREBSDIAGNOSTIK` | KMU-innovativ - Onkologische Diagnostik und Praezisionsmedizin
 - `BMBF_KMU_INNOVATIV_KREISLAUFWIRTSCHAFT` | KMU-innovativ - Kreislaufwirtschaft und Ressourceneffizienz
+- `BMBF_KMU_INNOVATIV_KREISLAUF_BATTERIEN` | KMU-innovativ - Batterierecycling und geschlossene Wertstoffkreislaufe
 - `BMBF_KMU_INNOVATIV_LAB_AUTOMATION` | KMU-innovativ - Laborautomation und autonome Forschungsinfrastrukturen
 - `BMBF_KMU_INNOVATIV_LEICHTBAU` | KMU-innovativ - Leichtbau und ressourceneffiziente Konstruktion
 - `BMBF_KMU_INNOVATIV_MATERIALFORSCHUNG` | KMU-innovativ - Materialforschung
@@ -77,6 +78,7 @@
 - `BMBF_KMU_INNOVATIV_SMARTE_MEDIEN` | KMU-innovativ - Smarte Medien- und Interaktionssysteme
 - `BMBF_KMU_INNOVATIV_SMARTE_SENSORIK` | KMU-innovativ - Smarte Sensorik und Messtechnik
 - `BMBF_KMU_INNOVATIV_SMARTE_TEXTILIEN` | KMU-innovativ - Smarte Textilien und funktionale Fasersysteme
+- `BMBF_KMU_INNOVATIV_SMARTE_WASSERSTOFFE` | KMU-innovativ - Smarte Wasserstoffspeicher und Materialsysteme
 - `BMBF_KMU_INNOVATIV_SOFTWAREROBOTIK` | KMU-innovativ - Softwareintensive Systeme und Robotik
 - `BMBF_KMU_INNOVATIV_SUSTAINABLE_PACKAGING` | KMU-innovativ - Nachhaltige Verpackungs- und Materialsysteme
 - `BMBF_KMU_INNOVATIV_WASSERTECH` | KMU-innovativ - Wassertechnologien und nachhaltige Wassersysteme
