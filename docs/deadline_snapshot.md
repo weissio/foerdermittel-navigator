@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `850`
+- Gepruefte Datensaetze: `852`
 
 ## Offen Mit Datumsfrist
 
@@ -33,6 +33,7 @@
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_MIKROFABRIKEN` | KMU-innovativ - Adaptive Mikrofabriken und modulare Produktionsorchestrierung
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_MONTAGEINTELLIGENZ` | KMU-innovativ - Adaptive Montageintelligenz und autonome Prozessabstimmung
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_NETZSPEICHER` | KMU-innovativ - Adaptive Netzspeicher und intelligente Lastverschiebung
+- `BMBF_KMU_INNOVATIV_ADAPTIVE_PRODUKTIONSABSTIMMUNG` | KMU-innovativ - Adaptive Produktionsabstimmung und resiliente Prozesskopplung
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_PRODUKTIONSDIAGNOSTIK` | KMU-innovativ - Adaptive Produktionsdiagnostik und vorausschauende Prozessqualitaet
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_PRODUKTIONSLINIEN` | KMU-innovativ - Adaptive Produktionslinien und modulare Fabriksysteme
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_PROZESSPROGNOSTIK` | KMU-innovativ - Adaptive Prozessprognostik und selbstlernende Fertigungssteuerung
@@ -109,6 +110,7 @@
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEVERLAUFS_PROFILIERUNG` | KMU-innovativ - Digitale Therapieverlaufs-Profilierung und adaptive Interventionssteuerung
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEVERLAUFS_QUALITAET` | KMU-innovativ - Digitale Therapieverlaufs-Qualitaet und adaptive Versorgungsevaluation
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEWEGE_ANALYTIK` | KMU-innovativ - Digitale Therapiewege-Analytik und personalisierte Interventionspfade
+- `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEWIRKPFAD_MODELLE` | KMU-innovativ - Digitale Therapiewirkpfad-Modelle und personalisierte Steuerungslogik
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEWIRKUNG_PROGNOSTIK` | KMU-innovativ - Digitale Therapiewirkung-Prognostik und personalisierte Interventionsmodelle
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIE_COMPLIANCE` | KMU-innovativ - Digitale Therapie-Compliance und kontinuierliches Outcome-Monitoring
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIE_PRIORISIERUNG` | KMU-innovativ - Digitale Therapie-Priorisierung und personalisierte Behandlungsabfolge
