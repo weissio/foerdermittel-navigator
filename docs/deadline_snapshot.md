@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `704`
+- Gepruefte Datensaetze: `706`
 
 ## Offen Mit Datumsfrist
 
@@ -66,12 +66,14 @@
 - `BMBF_KMU_INNOVATIV_MED_ROBOTICS` | KMU-innovativ - Medizinrobotik und assistive Systeme
 - `BMBF_KMU_INNOVATIV_MIKROELEKTRONIK` | KMU-innovativ - Mikroelektronik und eingebettete Systeme
 - `BMBF_KMU_INNOVATIV_MOBILITAET` | KMU-innovativ - Intelligente Mobilitaet und Verkehrssysteme
+- `BMBF_KMU_INNOVATIV_NACHHALTIGE_PROZESSWAERME` | KMU-innovativ - Nachhaltige Prozesswaerme und industrielle Waermenutzung
 - `BMBF_KMU_INNOVATIV_NANOTECH` | KMU-innovativ - Nanotechnologie und neue Werkstoffsysteme
 - `BMBF_KMU_INNOVATIV_PHOTONIK` | KMU-innovativ - Photonik und Quantentechnologien
 - `BMBF_KMU_INNOVATIV_PRODUKTION` | KMU-innovativ - Produktionstechnologie
 - `BMBF_KMU_INNOVATIV_QUANTUM_COMMUNICATION` | KMU-innovativ - Quantenkommunikation und sichere Netze
 - `BMBF_KMU_INNOVATIV_QUANTUM_SENSORS` | KMU-innovativ - Quantensensorik und Praezisionsmesstechnik
 - `BMBF_KMU_INNOVATIV_REGENERATIVE_MED` | KMU-innovativ - Regenerative Medizin und innovative Therapieansaetze
+- `BMBF_KMU_INNOVATIV_RESILIENTE_LIEFERKETTEN` | KMU-innovativ - Resiliente Lieferketten und digitale Wertschöpfungsnetze
 - `BMBF_KMU_INNOVATIV_ROBOTIK_LOGISTIK` | KMU-innovativ - Robotik und intelligente Logistiksysteme
 - `BMBF_KMU_INNOVATIV_SATELLITENDATEN` | KMU-innovativ - Satellitendaten und geospatial analytics
 - `BMBF_KMU_INNOVATIV_SICHERHEIT` | KMU-innovativ - Sicherheitsforschung

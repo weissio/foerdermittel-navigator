@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-16`
-- Offen gesamt: `144`
+- Offen gesamt: `146`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `128`
+- Rollierend/ohne Datum: `130`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -68,12 +68,14 @@
 - `BMBF_KMU_INNOVATIV_MED_ROBOTICS` | KMU-innovativ - Medizinrobotik und assistive Systeme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_MIKROELEKTRONIK` | KMU-innovativ - Mikroelektronik und eingebettete Systeme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_MOBILITAET` | KMU-innovativ - Intelligente Mobilitaet und Verkehrssysteme | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_NACHHALTIGE_PROZESSWAERME` | KMU-innovativ - Nachhaltige Prozesswaerme und industrielle Waermenutzung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_NANOTECH` | KMU-innovativ - Nanotechnologie und neue Werkstoffsysteme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_PHOTONIK` | KMU-innovativ - Photonik und Quantentechnologien | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_PRODUKTION` | KMU-innovativ - Produktionstechnologie | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_QUANTUM_COMMUNICATION` | KMU-innovativ - Quantenkommunikation und sichere Netze | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_QUANTUM_SENSORS` | KMU-innovativ - Quantensensorik und Praezisionsmesstechnik | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_REGENERATIVE_MED` | KMU-innovativ - Regenerative Medizin und innovative Therapieansaetze | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_RESILIENTE_LIEFERKETTEN` | KMU-innovativ - Resiliente Lieferketten und digitale Wertschöpfungsnetze | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_ROBOTIK_LOGISTIK` | KMU-innovativ - Robotik und intelligente Logistiksysteme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_SATELLITENDATEN` | KMU-innovativ - Satellitendaten und geospatial analytics | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_SICHERHEIT` | KMU-innovativ - Sicherheitsforschung | rollierend | https://www.kmu-innovativ.de/
