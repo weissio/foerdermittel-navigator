@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `872`
+- Gepruefte Datensaetze: `874`
 
 ## Offen Mit Datumsfrist
 
@@ -116,6 +116,7 @@
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIESIGNAL_AUSWERTUNG` | KMU-innovativ - Digitale Therapiesignal-Auswertung und fruehzeitige Wirkungsdetektion
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIESTABILITAET` | KMU-innovativ - Digitale Therapiestabilitaet und kontinuierliche Versorgungssicherung
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIESTEUER_LOGIK` | KMU-innovativ - Digitale Therapiesteuer-Logik und adaptive Interventionssequenzen
+- `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIETAKTUNG` | KMU-innovativ - Digitale Therapietaktung und adaptive Versorgungstaktik
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEVERBESSERUNG` | KMU-innovativ - Digitale Therapieverbesserung und datengestuetzte Versorgungsanpassung
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEVERLAUFSKONTINUITAET` | KMU-innovativ - Digitale Therapieverlaufskontinuitaet und adaptive Behandlungssynchronisierung
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEVERLAUFSMODELLE` | KMU-innovativ - Digitale Therapieverlaufsmodelle und adaptive Behandlungspfade
@@ -209,6 +210,7 @@
 - `BMBF_KMU_INNOVATIV_RESILIENTE_LIEFERKETTEN` | KMU-innovativ - Resiliente Lieferketten und digitale Wertschöpfungsnetze
 - `BMBF_KMU_INNOVATIV_RESILIENTE_MATERIALBEREITSTELLUNG` | KMU-innovativ - Resiliente Materialbereitstellung und adaptive Produktionsversorgung
 - `BMBF_KMU_INNOVATIV_RESILIENTE_PRODUKTIONSKAPAZITAET` | KMU-innovativ - Resiliente Produktionskapazitaet und dynamische Lastverteilung
+- `BMBF_KMU_INNOVATIV_RESILIENTE_PROZESSINTELLIGENZ` | KMU-innovativ - Resiliente Prozessintelligenz und adaptive Fertigungssteuerung
 - `BMBF_KMU_INNOVATIV_RESILIENTE_PROZESSKETTEN` | KMU-innovativ - Resiliente Prozessketten und adaptive Produktionskontinuitaet
 - `BMBF_KMU_INNOVATIV_RESILIENTE_PROZESSSYNCHRONISATION` | KMU-innovativ - Resiliente Prozesssynchronisation und adaptive Fertigungskoordination
 - `BMBF_KMU_INNOVATIV_RESILIENTE_QUALITAETSNETZE` | KMU-innovativ - Resiliente Qualitaetsnetze und adaptive Prozessstabilisierung
