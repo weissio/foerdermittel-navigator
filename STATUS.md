@@ -4,9 +4,9 @@ Stand: 2026-02-16
 
 ## Datenbestand
 
-- Datensaetze: 301
-- Eindeutige `programm_id`: 301
-- Status: `laufend=273`, `offen=23`, `geplant=5`
+- Datensaetze: 302
+- Eindeutige `programm_id`: 302
+- Status: `laufend=274`, `offen=23`, `geplant=5`
 
 ## QA
 

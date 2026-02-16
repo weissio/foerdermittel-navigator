@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-16 01:31`
-- Datensaetze: `301`
-- Eindeutige `programm_id`: `301`
+- Erzeugt am: `2026-02-16 01:36`
+- Datensaetze: `302`
+- Eindeutige `programm_id`: `302`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 273 |
+| laufend | 274 |
 | offen | 23 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 273 |
+| laufend | 274 |
 | offen | 23 |
 | zukuenftig | 5 |
 
@@ -26,7 +26,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Region | Anzahl |
 |---|---:|
-| Deutschland | 103 |
+| Deutschland | 104 |
 | Rheinland-Pfalz | 17 |
 | Berlin | 16 |
 | Niedersachsen | 13 |
@@ -57,7 +57,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Investitionsbank Berlin (IBB) | 13 |
 | ISB (Rheinland-Pfalz) | 12 |
 | NBank | 9 |
-| BMWK (ZIM) / Projekttraeger | 7 |
+| BMWK (ZIM) / Projekttraeger | 8 |
 | IFB Hamburg | 7 |
 | Investitionsbank Sachsen-Anhalt (IB) | 6 |
 | L-Bank | 6 |
@@ -80,7 +80,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Unternehmensfinanzierung | 20 |
 | EU-Fonds EFRE | 16 |
 | Investition/Betriebsmittel | 16 |
-| Forschung und Entwicklung/Innovation | 13 |
+| Forschung und Entwicklung/Innovation | 14 |
 | Digitalisierung | 12 |
 | Gruendung/Wachstum | 9 |
 | Unternehmensfoerderung | 8 |
