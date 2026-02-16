@@ -286,3 +286,5 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - https://www.rentenbank.de/foerderangebote/
 - https://eurohpc-ju.europa.eu/funding-calls/calls-proposals_en
 - https://www.clean-aviation.eu/calls-proposals
+- https://www.mittelstand-digital.de/MD/Navigation/DE/Home/home.html
+- https://www.bmdv.bund.de/DE/Themen/Digitales/mFUND/mFUND.html

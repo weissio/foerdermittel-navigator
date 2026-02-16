@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `356`
+- Gepruefte Datensaetze: `358`
 
 ## Offen Mit Datumsfrist
 
@@ -24,6 +24,7 @@
 ## Offen Rollierend
 
 - `BMBF_KMU_INNOVATIV` | KMU-innovativ: Forschung fuer den Mittelstand
+- `BMDV_MFUND` | mFUND - Foerderprogramm fuer datenbasierte digitale Innovationen
 - `BMWK_IGP` | Innovationsprogramm fuer Geschaeftsmodelle und Pionierloesungen (IGP)
 - `EUIPO_SME_FUND` | Ideas Powered for Business SME Fund (EUIPO)
 - `EU_BLUEINVEST` | BlueInvest (EU)
