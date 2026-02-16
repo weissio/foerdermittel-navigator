@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `690`
+- Gepruefte Datensaetze: `692`
 
 ## Offen Mit Datumsfrist
 
@@ -46,6 +46,7 @@
 - `BMBF_KMU_INNOVATIV_IKT` | KMU-innovativ - Informations- und Kommunikationstechnologien (IKT)
 - `BMBF_KMU_INNOVATIV_INTERAKTIVE_TECH` | KMU-innovativ - Interaktive Technologien fuer Gesundheit und Lebensqualitaet
 - `BMBF_KMU_INNOVATIV_KI_DATENRAEUME` | KMU-innovativ - KI und industrielle Datenraeume
+- `BMBF_KMU_INNOVATIV_KLIMAMODELLE_AI` | KMU-innovativ - KI-gestuetzte Klimamodelle und Resilienzsysteme
 - `BMBF_KMU_INNOVATIV_KLIMA_UMWELT` | KMU-innovativ - Klima- und Umwelttechnologien
 - `BMBF_KMU_INNOVATIV_KREBSDIAGNOSTIK` | KMU-innovativ - Onkologische Diagnostik und Praezisionsmedizin
 - `BMBF_KMU_INNOVATIV_KREISLAUFWIRTSCHAFT` | KMU-innovativ - Kreislaufwirtschaft und Ressourceneffizienz
@@ -55,6 +56,7 @@
 - `BMBF_KMU_INNOVATIV_MEDIZIN_DX` | KMU-innovativ - Diagnostik und personalisierte Medizin
 - `BMBF_KMU_INNOVATIV_MEDTECH` | KMU-innovativ - Medizintechnik
 - `BMBF_KMU_INNOVATIV_MED_DATTENSICHERHEIT` | KMU-innovativ - Datensichere Gesundheits-IT und medizinische Dateninfrastrukturen
+- `BMBF_KMU_INNOVATIV_MED_ROBOTICS` | KMU-innovativ - Medizinrobotik und assistive Systeme
 - `BMBF_KMU_INNOVATIV_MIKROELEKTRONIK` | KMU-innovativ - Mikroelektronik und eingebettete Systeme
 - `BMBF_KMU_INNOVATIV_MOBILITAET` | KMU-innovativ - Intelligente Mobilitaet und Verkehrssysteme
 - `BMBF_KMU_INNOVATIV_NANOTECH` | KMU-innovativ - Nanotechnologie und neue Werkstoffsysteme

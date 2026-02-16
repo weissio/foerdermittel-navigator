@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-16`
-- Offen gesamt: `130`
+- Offen gesamt: `132`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `114`
+- Rollierend/ohne Datum: `116`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -48,6 +48,7 @@
 - `BMBF_KMU_INNOVATIV_IKT` | KMU-innovativ - Informations- und Kommunikationstechnologien (IKT) | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_INTERAKTIVE_TECH` | KMU-innovativ - Interaktive Technologien fuer Gesundheit und Lebensqualitaet | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_KI_DATENRAEUME` | KMU-innovativ - KI und industrielle Datenraeume | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_KLIMAMODELLE_AI` | KMU-innovativ - KI-gestuetzte Klimamodelle und Resilienzsysteme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_KLIMA_UMWELT` | KMU-innovativ - Klima- und Umwelttechnologien | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_KREBSDIAGNOSTIK` | KMU-innovativ - Onkologische Diagnostik und Praezisionsmedizin | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_KREISLAUFWIRTSCHAFT` | KMU-innovativ - Kreislaufwirtschaft und Ressourceneffizienz | rollierend | https://www.kmu-innovativ.de/
@@ -57,6 +58,7 @@
 - `BMBF_KMU_INNOVATIV_MEDIZIN_DX` | KMU-innovativ - Diagnostik und personalisierte Medizin | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_MEDTECH` | KMU-innovativ - Medizintechnik | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_MED_DATTENSICHERHEIT` | KMU-innovativ - Datensichere Gesundheits-IT und medizinische Dateninfrastrukturen | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_MED_ROBOTICS` | KMU-innovativ - Medizinrobotik und assistive Systeme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_MIKROELEKTRONIK` | KMU-innovativ - Mikroelektronik und eingebettete Systeme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_MOBILITAET` | KMU-innovativ - Intelligente Mobilitaet und Verkehrssysteme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_NANOTECH` | KMU-innovativ - Nanotechnologie und neue Werkstoffsysteme | rollierend | https://www.kmu-innovativ.de/
