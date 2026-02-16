@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-16 04:43`
-- Datensaetze: `396`
-- Eindeutige `programm_id`: `396`
+- Erzeugt am: `2026-02-16 04:48`
+- Datensaetze: `398`
+- Eindeutige `programm_id`: `398`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 315 |
+| laufend | 317 |
 | offen | 76 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 315 |
+| laufend | 317 |
 | offen | 76 |
 | zukuenftig | 5 |
 
@@ -26,7 +26,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Region | Anzahl |
 |---|---:|
-| Deutschland | 144 |
+| Deutschland | 146 |
 | EU (inkl. Deutschland) | 58 |
 | Rheinland-Pfalz | 17 |
 | Berlin | 16 |
@@ -59,8 +59,8 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | ISB (Rheinland-Pfalz) | 12 |
 | BMAS / INQA / ESF Plus | 9 |
 | BMWK (ZIM) / Projekttraeger | 9 |
+| BMWK / EXIST | 9 |
 | NBank | 9 |
-| BMWK / EXIST | 7 |
 | IFB Hamburg | 7 |
 | EIC (EU) | 6 |
 | Investitionsbank Sachsen-Anhalt (IB) | 6 |
@@ -84,12 +84,12 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Digitalisierung | 12 |
 | Forschung und Entwicklung | 9 |
 | Gruendung/Wachstum | 9 |
+| Gruendung/Innovation | 8 |
 | Unternehmensfoerderung | 8 |
 | Gruendung/Nachfolge | 7 |
 | Beratung/Unternehmensentwicklung | 6 |
 | Energieeffizienz | 6 |
 | Forschung und Entwicklung/Innovation (international) | 6 |
-| Gruendung/Innovation | 6 |
 | Internationalisierung/Export | 6 |
 | Unternehmensfinanzierung/Innovation | 6 |
 | Digitalisierung/Innovation | 5 |
