@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `782`
+- Gepruefte Datensaetze: `784`
 
 ## Offen Mit Datumsfrist
 
@@ -63,6 +63,7 @@
 - `BMBF_KMU_INNOVATIV_DIGITALE_BAUTEILRUECKVERFOLGUNG` | KMU-innovativ - Digitale Bauteilrueckverfolgung und zirkulaere Lieferketten
 - `BMBF_KMU_INNOVATIV_DIGITALE_BILDGEBUNG_DIAGNOSTIK` | KMU-innovativ - Digitale Bildgebung und KI-gestuetzte Diagnostiksysteme
 - `BMBF_KMU_INNOVATIV_DIGITALE_PATIENTENSTEUERUNG` | KMU-innovativ - Digitale Patientensteuerung und vernetzte Versorgungspfade
+- `BMBF_KMU_INNOVATIV_DIGITALE_PFLEGEPFAD_ANALYTIK` | KMU-innovativ - Digitale Pflegepfad-Analytik und vernetzte Betreuungskoordination
 - `BMBF_KMU_INNOVATIV_DIGITALE_QUALITAETSSICHERUNG` | KMU-innovativ - Digitale Qualitaetssicherung und adaptive Pruefverfahren
 - `BMBF_KMU_INNOVATIV_DIGITALE_REPARATUR_ASSISTENZ` | KMU-innovativ - Digitale Reparaturassistenz und wissensbasierte Serviceplattformen
 - `BMBF_KMU_INNOVATIV_DIGITALE_ROHSTOFFPROGNOSEN` | KMU-innovativ - Digitale Rohstoffprognosen und resiliente Beschaffungsmodelle
@@ -153,6 +154,7 @@
 - `BMBF_KMU_INNOVATIV_SMARTE_THERMOPROZESSE` | KMU-innovativ - Smarte Thermoprozesse und Waermeintegration
 - `BMBF_KMU_INNOVATIV_SMARTE_WAERMENETZE` | KMU-innovativ - Smarte Waermenetze und sektorengekoppelte Quartiersversorgung
 - `BMBF_KMU_INNOVATIV_SMARTE_WASSERSTOFFE` | KMU-innovativ - Smarte Wasserstoffspeicher und Materialsysteme
+- `BMBF_KMU_INNOVATIV_SMARTE_WERKZEUGSTANDZEIT` | KMU-innovativ - Smarte Werkzeugstandzeit und adaptive Fertigungsregelung
 - `BMBF_KMU_INNOVATIV_SMARTE_WERTSTOFFSTROEME` | KMU-innovativ - Smarte Wertstoffstroeme und industrielle Kreislaufplattformen
 - `BMBF_KMU_INNOVATIV_SOFTWAREROBOTIK` | KMU-innovativ - Softwareintensive Systeme und Robotik
 - `BMBF_KMU_INNOVATIV_SUSTAINABLE_PACKAGING` | KMU-innovativ - Nachhaltige Verpackungs- und Materialsysteme
