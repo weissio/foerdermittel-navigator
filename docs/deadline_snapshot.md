@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `768`
+- Gepruefte Datensaetze: `770`
 
 ## Offen Mit Datumsfrist
 
@@ -37,6 +37,7 @@
 - `BMBF_KMU_INNOVATIV_AUTONOME_LABORNETZE` | KMU-innovativ - Autonome Labornetze und verteilte Testinfrastrukturen
 - `BMBF_KMU_INNOVATIV_AUTONOME_MIKROFABRIK` | KMU-innovativ - Autonome Mikrofabriken und dezentrale Produktion
 - `BMBF_KMU_INNOVATIV_AUTONOME_PRUEFSTRECKEN` | KMU-innovativ - Autonome Pruefstrecken und digitale Validierungsumgebungen
+- `BMBF_KMU_INNOVATIV_AUTONOME_VERPACKUNGSLINIEN` | KMU-innovativ - Autonome Verpackungslinien und adaptive Materialeinsatzsteuerung
 - `BMBF_KMU_INNOVATIV_BATTERIETECH` | KMU-innovativ - Batterietechnologien und Energiespeicher
 - `BMBF_KMU_INNOVATIV_BAUPROZESSE_DIGITAL` | KMU-innovativ - Digitale Bauprozesse und nachhaltige Bauwerke
 - `BMBF_KMU_INNOVATIV_BAUSTOFFRECYCLING` | KMU-innovativ - Baustoffrecycling und zirkulaeres Bauen
@@ -85,6 +86,7 @@
 - `BMBF_KMU_INNOVATIV_KLIMAMODELLE_AI` | KMU-innovativ - KI-gestuetzte Klimamodelle und Resilienzsysteme
 - `BMBF_KMU_INNOVATIV_KLIMANEUTRALE_VERFAHREN` | KMU-innovativ - Klimaneutrale Verfahren und industrielle Transformation
 - `BMBF_KMU_INNOVATIV_KLIMARESILIENTE_INFRA` | KMU-innovativ - Klimaresiliente Infrastrukturen und adaptive Systeme
+- `BMBF_KMU_INNOVATIV_KLIMAROBUSTE_KUEHLKREISLAEUFE` | KMU-innovativ - Klimarobuste Kuehlkreislaufe und natuerliche Kaeltemittelsysteme
 - `BMBF_KMU_INNOVATIV_KLIMA_UMWELT` | KMU-innovativ - Klima- und Umwelttechnologien
 - `BMBF_KMU_INNOVATIV_KREBSDIAGNOSTIK` | KMU-innovativ - Onkologische Diagnostik und Praezisionsmedizin
 - `BMBF_KMU_INNOVATIV_KREISLAUFFAEHIGE_ELEKTRONIK` | KMU-innovativ - Kreislauffaehige Elektronik und reparaturfreundliche Hardwareplattformen

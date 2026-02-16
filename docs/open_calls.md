@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-16`
-- Offen gesamt: `208`
+- Offen gesamt: `210`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `192`
+- Rollierend/ohne Datum: `194`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -39,6 +39,7 @@
 - `BMBF_KMU_INNOVATIV_AUTONOME_LABORNETZE` | KMU-innovativ - Autonome Labornetze und verteilte Testinfrastrukturen | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_AUTONOME_MIKROFABRIK` | KMU-innovativ - Autonome Mikrofabriken und dezentrale Produktion | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_AUTONOME_PRUEFSTRECKEN` | KMU-innovativ - Autonome Pruefstrecken und digitale Validierungsumgebungen | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_AUTONOME_VERPACKUNGSLINIEN` | KMU-innovativ - Autonome Verpackungslinien und adaptive Materialeinsatzsteuerung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_BATTERIETECH` | KMU-innovativ - Batterietechnologien und Energiespeicher | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_BAUPROZESSE_DIGITAL` | KMU-innovativ - Digitale Bauprozesse und nachhaltige Bauwerke | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_BAUSTOFFRECYCLING` | KMU-innovativ - Baustoffrecycling und zirkulaeres Bauen | rollierend | https://www.kmu-innovativ.de/
@@ -87,6 +88,7 @@
 - `BMBF_KMU_INNOVATIV_KLIMAMODELLE_AI` | KMU-innovativ - KI-gestuetzte Klimamodelle und Resilienzsysteme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_KLIMANEUTRALE_VERFAHREN` | KMU-innovativ - Klimaneutrale Verfahren und industrielle Transformation | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_KLIMARESILIENTE_INFRA` | KMU-innovativ - Klimaresiliente Infrastrukturen und adaptive Systeme | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_KLIMAROBUSTE_KUEHLKREISLAEUFE` | KMU-innovativ - Klimarobuste Kuehlkreislaufe und natuerliche Kaeltemittelsysteme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_KLIMA_UMWELT` | KMU-innovativ - Klima- und Umwelttechnologien | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_KREBSDIAGNOSTIK` | KMU-innovativ - Onkologische Diagnostik und Praezisionsmedizin | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_KREISLAUFFAEHIGE_ELEKTRONIK` | KMU-innovativ - Kreislauffaehige Elektronik und reparaturfreundliche Hardwareplattformen | rollierend | https://www.kmu-innovativ.de/
