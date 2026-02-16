@@ -248,3 +248,5 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - https://www.eurekanetwork.org/programmes/globalstars/
 - https://culture.ec.europa.eu/creative-europe
 - https://commission.europa.eu/funding-tenders/find-funding/eu-funding-programmes/citizens-equality-rights-and-values-programme_en
+- https://ec.europa.eu/regional_policy/funding/just-transition-fund_en
+- https://interreg.eu/
