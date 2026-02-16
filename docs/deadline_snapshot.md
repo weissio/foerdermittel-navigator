@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `317`
+- Gepruefte Datensaetze: `319`
 
 ## Offen Mit Datumsfrist
 
@@ -25,10 +25,12 @@
 
 - `BMBF_KMU_INNOVATIV` | KMU-innovativ: Forschung fuer den Mittelstand
 - `BMWK_IGP` | Innovationsprogramm fuer Geschaeftsmodelle und Pionierloesungen (IGP)
+- `EUIPO_SME_FUND` | Ideas Powered for Business SME Fund (EUIPO)
 - `EU_CEF_DIGITAL` | Connecting Europe Facility - Digital (CEF Digital)
 - `EU_CERV_PROGRAMME` | Citizens, Equality, Rights and Values (CERV)
 - `EU_CREATIVE_EUROPE` | Creative Europe Programme
 - `EU_EIT_COMMUNITY` | European Institute of Innovation and Technology (EIT) - Funding & Calls
+- `EU_ERASMUS_PLUS` | Erasmus+ Programme
 - `EU_EU4HEALTH` | EU4Health Programme
 - `EU_EUREKA_GLOBALSTARS` | Globalstars (EUREKA)
 - `EU_EUROSTARS` | Eurostars (EUREKA / Innovative SMEs Partnership)

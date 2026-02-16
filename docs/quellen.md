@@ -250,3 +250,5 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - https://commission.europa.eu/funding-tenders/find-funding/eu-funding-programmes/citizens-equality-rights-and-values-programme_en
 - https://ec.europa.eu/regional_policy/funding/just-transition-fund_en
 - https://interreg.eu/
+- https://www.euipo.europa.eu/en/discover-ip/sme-fund
+- https://erasmus-plus.ec.europa.eu/
