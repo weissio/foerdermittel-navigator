@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `890`
+- Gepruefte Datensaetze: `892`
 
 ## Offen Mit Datumsfrist
 
@@ -30,6 +30,7 @@
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_FERTIGUNGSFLUESSE` | KMU-innovativ - Adaptive Fertigungsfluesse und resiliente Ablaufsteuerung
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_FERTIGUNGSKONSISTENZ` | KMU-innovativ - Adaptive Fertigungskonsistenz und resiliente Prozessstabilisierung
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_FERTIGUNGSRESERVEN` | KMU-innovativ - Adaptive Fertigungsreserven und resiliente Kapazitaetsabsicherung
+- `BMBF_KMU_INNOVATIV_ADAPTIVE_FERTIGUNGSVERNETZUNG` | KMU-innovativ - Adaptive Fertigungsvernetzung und resiliente Prozessintegration
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_KAPAZITAETSORCHESTRIERUNG` | KMU-innovativ - Adaptive Kapazitaetsorchestrierung und resiliente Produktionsbalancierung
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_LIEFERNETZ_STEUERUNG` | KMU-innovativ - Adaptive Liefernetz-Steuerung und resiliente Wertschoepfungskoordination
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_MESSKETTEN` | KMU-innovativ - Adaptive Messketten und resiliente Prozessdatenqualitaet
@@ -124,6 +125,7 @@
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEQUALITAET` | KMU-innovativ - Digitale Therapiequalitaet und kontinuierliche Versorgungsbewertung
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIESEGMENTIERUNG` | KMU-innovativ - Digitale Therapiesegmentierung und personalisierte Verlaufsstrategien
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIESEGMENT_PROGNOSEN` | KMU-innovativ - Digitale Therapiesegment-Prognosen und personalisierte Versorgungssequenzen
+- `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIESEQUENZ_KOHERENZ` | KMU-innovativ - Digitale Therapiesequenz-Kohaerenz und adaptive Versorgungssynchronisierung
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIESEQUENZ_OPTIMIERUNG` | KMU-innovativ - Digitale Therapiesequenz-Optimierung und adaptive Behandlungstaktik
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIESIGNAL_AUSWERTUNG` | KMU-innovativ - Digitale Therapiesignal-Auswertung und fruehzeitige Wirkungsdetektion
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIESTABILITAET` | KMU-innovativ - Digitale Therapiestabilitaet und kontinuierliche Versorgungssicherung
