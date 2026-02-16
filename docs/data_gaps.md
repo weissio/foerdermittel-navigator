@@ -1,14 +1,14 @@
 # Data Gaps
 
-- Erzeugt am: `2026-02-16 07:08`
-- Datensaetze: `468`
+- Erzeugt am: `2026-02-16 07:12`
+- Datensaetze: `470`
 
 ## Status-Verteilung
 
 | Status | Anzahl |
 |---|---:|
 | geplant | 5 |
-| laufend | 381 |
+| laufend | 383 |
 | offen | 82 |
 
 ## Unterrepraesentierte Regionen
@@ -35,7 +35,7 @@
 
 | Region | Anzahl |
 |---|---:|
-| Deutschland | 181 |
+| Deutschland | 183 |
 | EU (inkl. Deutschland) | 60 |
 | Deutschland/International | 36 |
 | Rheinland-Pfalz | 17 |
@@ -79,7 +79,6 @@
 | Aus- und Weiterbildung | 1 |
 | Beratung/Digitalisierung/Innovation/Existenzgruendung | 1 |
 | Beratung/Restrukturierung | 1 |
-| Betriebsmittel/Unternehmensfinanzierung | 1 |
 | Binnenmarkt/Unternehmensfoerderung | 1 |
 | Biooekonomie/Kreislaufwirtschaft/Innovation | 1 |
 | Biooekonomie/Umwelt/Agrar/Ernaehrung | 1 |
@@ -90,6 +89,7 @@
 | Dekarbonisierung/Transformation | 1 |
 | Digitalisierung (KI, Cybersecurity, Data, Skills) | 1 |
 | Digitalisierung (KI, Cybersecurity, HPC, Skills) | 1 |
+| Digitalisierung/IT-Sicherheit/Transformation | 1 |
 
 ## Priorisierungsregel
 
