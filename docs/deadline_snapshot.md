@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `848`
+- Gepruefte Datensaetze: `850`
 
 ## Offen Mit Datumsfrist
 
@@ -96,6 +96,7 @@
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEKOHORTEN_STEUERUNG` | KMU-innovativ - Digitale Therapiekohorten-Steuerung und adaptive Versorgungspfade
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEKONTEXT_MODELLE` | KMU-innovativ - Digitale Therapiekontext-Modelle und adaptive Behandlungsdynamik
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEKONTINUITAET` | KMU-innovativ - Digitale Therapiekontinuitaet und personalisierte Versorgungsbegleitung
+- `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEPFADE_EVIDENZ` | KMU-innovativ - Digitale Therapiepfade-Evidenz und datenbasierte Interventionsplanung
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEPFADE_KOORDINATION` | KMU-innovativ - Digitale Therapiepfade-Koordination und vernetzte Behandlungssteuerung
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEPFAD_PROGNOSE` | KMU-innovativ - Digitale Therapiepfad-Prognose und adaptive Versorgungsempfehlungen
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEPLAN_STEUERUNG` | KMU-innovativ - Digitale Therapieplan-Steuerung und adaptive Behandlungskoordination
@@ -118,6 +119,7 @@
 - `BMBF_KMU_INNOVATIV_DIGITAL_HEALTH_DEVICES` | KMU-innovativ - Digitale Gesundheitsgeraete und vernetzte Medizinsysteme
 - `BMBF_KMU_INNOVATIV_DIGITAL_TWIN` | KMU-innovativ - Digitale Zwillinge fuer industrielle Anwendungen
 - `BMBF_KMU_INNOVATIV_DYNAMISCHE_ANLAGENVERNETZUNG` | KMU-innovativ - Dynamische Anlagenvernetzung und adaptive Produktionsorchestrierung
+- `BMBF_KMU_INNOVATIV_DYNAMISCHE_FERTIGUNGSROUTEN` | KMU-innovativ - Dynamische Fertigungsrouten und adaptive Ablaufoptimierung
 - `BMBF_KMU_INNOVATIV_DYNAMISCHE_PRODUKTIONSPLANUNG` | KMU-innovativ - Dynamische Produktionsplanung und adaptive Ressourcenzuweisung
 - `BMBF_KMU_INNOVATIV_ECHTZEIT_ANLAGENOPTIMIERUNG` | KMU-innovativ - Echtzeit-Anlagenoptimierung und adaptive Prozessintelligenz
 - `BMBF_KMU_INNOVATIV_EDGE_FERTIGUNGSANALYTIK` | KMU-innovativ - Edge-Fertigungsanalytik und selbstoptimierende Produktionssysteme

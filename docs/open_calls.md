@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-16`
-- Offen gesamt: `288`
+- Offen gesamt: `290`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `272`
+- Rollierend/ohne Datum: `274`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -98,6 +98,7 @@
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEKOHORTEN_STEUERUNG` | KMU-innovativ - Digitale Therapiekohorten-Steuerung und adaptive Versorgungspfade | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEKONTEXT_MODELLE` | KMU-innovativ - Digitale Therapiekontext-Modelle und adaptive Behandlungsdynamik | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEKONTINUITAET` | KMU-innovativ - Digitale Therapiekontinuitaet und personalisierte Versorgungsbegleitung | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEPFADE_EVIDENZ` | KMU-innovativ - Digitale Therapiepfade-Evidenz und datenbasierte Interventionsplanung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEPFADE_KOORDINATION` | KMU-innovativ - Digitale Therapiepfade-Koordination und vernetzte Behandlungssteuerung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEPFAD_PROGNOSE` | KMU-innovativ - Digitale Therapiepfad-Prognose und adaptive Versorgungsempfehlungen | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEPLAN_STEUERUNG` | KMU-innovativ - Digitale Therapieplan-Steuerung und adaptive Behandlungskoordination | rollierend | https://www.kmu-innovativ.de/
@@ -120,6 +121,7 @@
 - `BMBF_KMU_INNOVATIV_DIGITAL_HEALTH_DEVICES` | KMU-innovativ - Digitale Gesundheitsgeraete und vernetzte Medizinsysteme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITAL_TWIN` | KMU-innovativ - Digitale Zwillinge fuer industrielle Anwendungen | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DYNAMISCHE_ANLAGENVERNETZUNG` | KMU-innovativ - Dynamische Anlagenvernetzung und adaptive Produktionsorchestrierung | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_DYNAMISCHE_FERTIGUNGSROUTEN` | KMU-innovativ - Dynamische Fertigungsrouten und adaptive Ablaufoptimierung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DYNAMISCHE_PRODUKTIONSPLANUNG` | KMU-innovativ - Dynamische Produktionsplanung und adaptive Ressourcenzuweisung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_ECHTZEIT_ANLAGENOPTIMIERUNG` | KMU-innovativ - Echtzeit-Anlagenoptimierung und adaptive Prozessintelligenz | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_EDGE_FERTIGUNGSANALYTIK` | KMU-innovativ - Edge-Fertigungsanalytik und selbstoptimierende Produktionssysteme | rollierend | https://www.kmu-innovativ.de/
