@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-16`
-- Offen gesamt: `84`
+- Offen gesamt: `86`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `68`
+- Rollierend/ohne Datum: `70`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -27,6 +27,8 @@
 ## Rollierend / Ohne Datum
 
 - `BMAS_KOMPASS_QUALIFIZIERUNGSSCHECK` | KOMPASS - Qualifizierungsscheck fuer Solo-Selbststaendige | rollierend | https://www.esfplus.de/portal/DE/ESF-Plus-2021-2027/Foerderprogramme/bmas/kompass/inhalt.html
+- `BMBF_KMU_INNOVATIV_IKT` | KMU-innovativ - Informations- und Kommunikationstechnologien (IKT) | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_MEDTECH` | KMU-innovativ - Medizintechnik | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV` | KMU-innovativ: Forschung fuer den Mittelstand | rollierend | https://www.kmu-innovativ.de/
 - `BMDV_MFUND_FU_E_PROJEKTE` | mFUND - Forschungs- und Entwicklungsprojekte | rollierend | https://www.bmdv.bund.de/DE/Themen/Digitales/mFUND/mFUND.html
 - `BMDV_MFUND_MACHBARKEITSSTUDIEN` | mFUND - Machbarkeitsstudien | rollierend | https://www.bmdv.bund.de/DE/Themen/Digitales/mFUND/mFUND.html
