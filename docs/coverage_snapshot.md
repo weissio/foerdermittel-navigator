@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-16 04:00`
-- Datensaetze: `374`
-- Eindeutige `programm_id`: `374`
+- Erzeugt am: `2026-02-16 04:03`
+- Datensaetze: `376`
+- Eindeutige `programm_id`: `376`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 294 |
+| laufend | 296 |
 | offen | 75 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 294 |
+| laufend | 296 |
 | offen | 75 |
 | zukuenftig | 5 |
 
@@ -26,7 +26,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Region | Anzahl |
 |---|---:|
-| Deutschland | 122 |
+| Deutschland | 124 |
 | EU (inkl. Deutschland) | 58 |
 | Rheinland-Pfalz | 17 |
 | Berlin | 16 |
@@ -52,7 +52,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Traeger | Anzahl |
 |---|---:|
 | KfW | 42 |
-| BMWK | 29 |
+| BMWK | 31 |
 | BAFA | 17 |
 | Europaeische Kommission | 16 |
 | Investitionsbank Berlin (IBB) | 13 |
@@ -95,7 +95,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Innovation/Beratung | 5 |
 | Innovation/Digitalisierung | 5 |
 | Wachstum/Investition | 5 |
-| Gruendung/Innovation | 4 |
+| Digitalisierung/IT-Sicherheit | 4 |
 
 ## Feldqualitaet
 
