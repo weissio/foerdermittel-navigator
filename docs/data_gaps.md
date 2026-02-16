@@ -1,7 +1,7 @@
 # Data Gaps
 
-- Erzeugt am: `2026-02-17 00:17`
-- Datensaetze: `938`
+- Erzeugt am: `2026-02-17 00:25`
+- Datensaetze: `939`
 
 ## Status-Verteilung
 
@@ -9,7 +9,7 @@
 |---|---:|
 | geplant | 5 |
 | laufend | 571 |
-| offen | 362 |
+| offen | 363 |
 
 ## Unterrepraesentierte Regionen
 
@@ -35,7 +35,7 @@
 
 | Region | Anzahl |
 |---|---:|
-| Deutschland | 646 |
+| Deutschland | 647 |
 | EU (inkl. Deutschland) | 60 |
 | Deutschland/International | 41 |
 | Rheinland-Pfalz | 17 |
@@ -87,9 +87,9 @@
 | Biooekonomie/Umwelt/Agrar/Ernaehrung | 1 |
 | Biotech/DeepTech | 1 |
 | Branchenfoerderung/Unternehmensfoerderung | 1 |
+| Cybersicherheit/Innovation/Gruendung | 1 |
 | DeepTech/Forschung/Innovation | 1 |
 | DeepTech/Technologietransfer/Validierung | 1 |
-| Digitalisierung (KI, Cybersecurity, Data, Skills) | 1 |
 
 ## Priorisierungsregel
 
