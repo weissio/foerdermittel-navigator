@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-16`
-- Offen gesamt: `272`
+- Offen gesamt: `274`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `256`
+- Rollierend/ohne Datum: `258`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -83,6 +83,7 @@
 - `BMBF_KMU_INNOVATIV_DIGITALE_ROHSTOFFPROGNOSEN` | KMU-innovativ - Digitale Rohstoffprognosen und resiliente Beschaffungsmodelle | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPEUTIKA` | KMU-innovativ - Digitale Therapeutika und evidenzbasierte Versorgungsplattformen | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEABBRUCH_PRAEVENTION` | KMU-innovativ - Digitale Therapieabbruch-Praevention und adaptive Verlaufsintervention | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEABSTIMMUNG` | KMU-innovativ - Digitale Therapieabstimmung und individualisierte Behandlungskoordination | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEADAPTATION` | KMU-innovativ - Digitale Therapieadaptation und kontinuierliche Behandlungsanpassung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEADHERENZ` | KMU-innovativ - Digitale Therapieadhaerenz und personalisierte Versorgungspfade | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEAUSWERTUNG` | KMU-innovativ - Digitale Therapieauswertung und evidenzbasierte Versorgungsanalytik | rollierend | https://www.kmu-innovativ.de/
@@ -108,6 +109,7 @@
 - `BMBF_KMU_INNOVATIV_DIGITAL_BAUSTELLEN` | KMU-innovativ - Digitale Baustellen und autonome Bauprozesse | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITAL_HEALTH_DEVICES` | KMU-innovativ - Digitale Gesundheitsgeraete und vernetzte Medizinsysteme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITAL_TWIN` | KMU-innovativ - Digitale Zwillinge fuer industrielle Anwendungen | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_DYNAMISCHE_ANLAGENVERNETZUNG` | KMU-innovativ - Dynamische Anlagenvernetzung und adaptive Produktionsorchestrierung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_ECHTZEIT_ANLAGENOPTIMIERUNG` | KMU-innovativ - Echtzeit-Anlagenoptimierung und adaptive Prozessintelligenz | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_EDGE_FERTIGUNGSANALYTIK` | KMU-innovativ - Edge-Fertigungsanalytik und selbstoptimierende Produktionssysteme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_EDGE_GESUNDHEIT` | KMU-innovativ - Edge-Computing fuer vernetzte Gesundheitssysteme | rollierend | https://www.kmu-innovativ.de/

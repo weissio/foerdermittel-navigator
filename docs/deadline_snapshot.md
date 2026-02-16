@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `832`
+- Gepruefte Datensaetze: `834`
 
 ## Offen Mit Datumsfrist
 
@@ -81,6 +81,7 @@
 - `BMBF_KMU_INNOVATIV_DIGITALE_ROHSTOFFPROGNOSEN` | KMU-innovativ - Digitale Rohstoffprognosen und resiliente Beschaffungsmodelle
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPEUTIKA` | KMU-innovativ - Digitale Therapeutika und evidenzbasierte Versorgungsplattformen
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEABBRUCH_PRAEVENTION` | KMU-innovativ - Digitale Therapieabbruch-Praevention und adaptive Verlaufsintervention
+- `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEABSTIMMUNG` | KMU-innovativ - Digitale Therapieabstimmung und individualisierte Behandlungskoordination
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEADAPTATION` | KMU-innovativ - Digitale Therapieadaptation und kontinuierliche Behandlungsanpassung
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEADHERENZ` | KMU-innovativ - Digitale Therapieadhaerenz und personalisierte Versorgungspfade
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEAUSWERTUNG` | KMU-innovativ - Digitale Therapieauswertung und evidenzbasierte Versorgungsanalytik
@@ -106,6 +107,7 @@
 - `BMBF_KMU_INNOVATIV_DIGITAL_BAUSTELLEN` | KMU-innovativ - Digitale Baustellen und autonome Bauprozesse
 - `BMBF_KMU_INNOVATIV_DIGITAL_HEALTH_DEVICES` | KMU-innovativ - Digitale Gesundheitsgeraete und vernetzte Medizinsysteme
 - `BMBF_KMU_INNOVATIV_DIGITAL_TWIN` | KMU-innovativ - Digitale Zwillinge fuer industrielle Anwendungen
+- `BMBF_KMU_INNOVATIV_DYNAMISCHE_ANLAGENVERNETZUNG` | KMU-innovativ - Dynamische Anlagenvernetzung und adaptive Produktionsorchestrierung
 - `BMBF_KMU_INNOVATIV_ECHTZEIT_ANLAGENOPTIMIERUNG` | KMU-innovativ - Echtzeit-Anlagenoptimierung und adaptive Prozessintelligenz
 - `BMBF_KMU_INNOVATIV_EDGE_FERTIGUNGSANALYTIK` | KMU-innovativ - Edge-Fertigungsanalytik und selbstoptimierende Produktionssysteme
 - `BMBF_KMU_INNOVATIV_EDGE_GESUNDHEIT` | KMU-innovativ - Edge-Computing fuer vernetzte Gesundheitssysteme

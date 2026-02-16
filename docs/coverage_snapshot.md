@@ -2,16 +2,16 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-16 19:44`
-- Datensaetze: `832`
-- Eindeutige `programm_id`: `832`
+- Erzeugt am: `2026-02-16 19:48`
+- Datensaetze: `834`
+- Eindeutige `programm_id`: `834`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
 | laufend | 555 |
-| offen | 272 |
+| offen | 274 |
 | geplant | 5 |
 
 ## Kategorie
@@ -19,14 +19,14 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Kategorie | Anzahl |
 |---|---:|
 | laufend | 555 |
-| offen | 272 |
+| offen | 274 |
 | zukuenftig | 5 |
 
 ## Top Regionen
 
 | Region | Anzahl |
 |---|---:|
-| Deutschland | 545 |
+| Deutschland | 547 |
 | EU (inkl. Deutschland) | 60 |
 | Deutschland/International | 36 |
 | Rheinland-Pfalz | 17 |
@@ -52,7 +52,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Traeger | Anzahl |
 |---|---:|
 | KfW | 204 |
-| BMBF | 189 |
+| BMBF | 191 |
 | BMWK | 49 |
 | BAFA | 33 |
 | Europaeische Kommission | 16 |
@@ -78,7 +78,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 |---|---:|
 | Energieeffizienz/Treibhausgasminderung | 64 |
 | Investition/Betriebsmittel | 30 |
-| Forschung und Entwicklung/Digital Health | 27 |
+| Forschung und Entwicklung/Digital Health | 28 |
 | EU-Fonds ESF+ | 26 |
 | Unternehmensfinanzierung | 26 |
 | Forschung und Entwicklung/Innovation | 20 |
