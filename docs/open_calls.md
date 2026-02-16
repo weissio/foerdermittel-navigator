@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-16`
-- Offen gesamt: `212`
+- Offen gesamt: `214`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `196`
+- Rollierend/ohne Datum: `198`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -28,6 +28,7 @@
 
 - `BMAS_KOMPASS_QUALIFIZIERUNGSSCHECK` | KOMPASS - Qualifizierungsscheck fuer Solo-Selbststaendige | rollierend | https://www.esfplus.de/portal/DE/ESF-Plus-2021-2027/Foerderprogramme/bmas/kompass/inhalt.html
 - `BMBF_KMU_INNOVATIV_5G_6G_INDUSTRIE` | KMU-innovativ - 5G/6G und vernetzte Industrieanwendungen | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_ADAPTIVE_NETZSPEICHER` | KMU-innovativ - Adaptive Netzspeicher und intelligente Lastverschiebung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_PRODUKTIONSLINIEN` | KMU-innovativ - Adaptive Produktionslinien und modulare Fabriksysteme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_STROMNETZREGELUNG` | KMU-innovativ - Adaptive Stromnetzregelung und netzdienliche Flexibilitaetsplattformen | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_ADDITIVE_BIOFABRICATION` | KMU-innovativ - Additive Biofabrication und personalisierte Gewebestrukturen | rollierend | https://www.kmu-innovativ.de/
@@ -62,6 +63,7 @@
 - `BMBF_KMU_INNOVATIV_DIGITALE_BAUTEILRUECKVERFOLGUNG` | KMU-innovativ - Digitale Bauteilrueckverfolgung und zirkulaere Lieferketten | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_BILDGEBUNG_DIAGNOSTIK` | KMU-innovativ - Digitale Bildgebung und KI-gestuetzte Diagnostiksysteme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_QUALITAETSSICHERUNG` | KMU-innovativ - Digitale Qualitaetssicherung und adaptive Pruefverfahren | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_DIGITALE_REPARATUR_ASSISTENZ` | KMU-innovativ - Digitale Reparaturassistenz und wissensbasierte Serviceplattformen | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPEUTIKA` | KMU-innovativ - Digitale Therapeutika und evidenzbasierte Versorgungsplattformen | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_WARTUNGSKETTEN` | KMU-innovativ - Digitale Wartungsketten und zustandsbasierte Instandhaltung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_WIRKSTOFFENTWICKLUNG` | KMU-innovativ - Digitale Wirkstoffentwicklung und molekulare Modellierung | rollierend | https://www.kmu-innovativ.de/

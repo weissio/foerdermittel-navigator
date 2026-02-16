@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `772`
+- Gepruefte Datensaetze: `774`
 
 ## Offen Mit Datumsfrist
 
@@ -26,6 +26,7 @@
 
 - `BMAS_KOMPASS_QUALIFIZIERUNGSSCHECK` | KOMPASS - Qualifizierungsscheck fuer Solo-Selbststaendige
 - `BMBF_KMU_INNOVATIV_5G_6G_INDUSTRIE` | KMU-innovativ - 5G/6G und vernetzte Industrieanwendungen
+- `BMBF_KMU_INNOVATIV_ADAPTIVE_NETZSPEICHER` | KMU-innovativ - Adaptive Netzspeicher und intelligente Lastverschiebung
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_PRODUKTIONSLINIEN` | KMU-innovativ - Adaptive Produktionslinien und modulare Fabriksysteme
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_STROMNETZREGELUNG` | KMU-innovativ - Adaptive Stromnetzregelung und netzdienliche Flexibilitaetsplattformen
 - `BMBF_KMU_INNOVATIV_ADDITIVE_BIOFABRICATION` | KMU-innovativ - Additive Biofabrication und personalisierte Gewebestrukturen
@@ -60,6 +61,7 @@
 - `BMBF_KMU_INNOVATIV_DIGITALE_BAUTEILRUECKVERFOLGUNG` | KMU-innovativ - Digitale Bauteilrueckverfolgung und zirkulaere Lieferketten
 - `BMBF_KMU_INNOVATIV_DIGITALE_BILDGEBUNG_DIAGNOSTIK` | KMU-innovativ - Digitale Bildgebung und KI-gestuetzte Diagnostiksysteme
 - `BMBF_KMU_INNOVATIV_DIGITALE_QUALITAETSSICHERUNG` | KMU-innovativ - Digitale Qualitaetssicherung und adaptive Pruefverfahren
+- `BMBF_KMU_INNOVATIV_DIGITALE_REPARATUR_ASSISTENZ` | KMU-innovativ - Digitale Reparaturassistenz und wissensbasierte Serviceplattformen
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPEUTIKA` | KMU-innovativ - Digitale Therapeutika und evidenzbasierte Versorgungsplattformen
 - `BMBF_KMU_INNOVATIV_DIGITALE_WARTUNGSKETTEN` | KMU-innovativ - Digitale Wartungsketten und zustandsbasierte Instandhaltung
 - `BMBF_KMU_INNOVATIV_DIGITALE_WIRKSTOFFENTWICKLUNG` | KMU-innovativ - Digitale Wirkstoffentwicklung und molekulare Modellierung
