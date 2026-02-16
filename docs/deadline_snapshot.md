@@ -1,10 +1,11 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `370`
+- Gepruefte Datensaetze: `372`
 
 ## Offen Mit Datumsfrist
 
+- `ESF_NIEDERSACHSEN_OPEN` | ESF+ Niedersachsen 2021-2027 (Open Call) | naechste/letzte Frist `2027-12-31` / `2027-12-31`
 - `ESF_SAARLAND_OPEN` | ESF+ Saarland 2021-2027 (Call for proposals – Open) | naechste/letzte Frist `2027-12-31` / `2027-12-31`
 - `ESF_SH_OPEN` | ESF+ Schleswig-Holstein 2021-2027 (Open Call) | naechste/letzte Frist `2027-12-31` / `2027-12-31`
 - `ESF_TH_OPEN` | ESF+ Thueringen 2021-2027 (Open Call) | naechste/letzte Frist `2027-12-31` / `2027-12-31`
@@ -26,6 +27,7 @@
 - `BMBF_KMU_INNOVATIV` | KMU-innovativ: Forschung fuer den Mittelstand
 - `BMDV_MFUND` | mFUND - Foerderprogramm fuer datenbasierte digitale Innovationen
 - `BMWK_IGP` | Innovationsprogramm fuer Geschaeftsmodelle und Pionierloesungen (IGP)
+- `ESF_HAMBURG_AUFRUFE_OFFEN` | ESF+ Hamburg - Projektaufrufe (offen/rollierend)
 - `EUIPO_SME_FUND` | Ideas Powered for Business SME Fund (EUIPO)
 - `EU_BLUEINVEST` | BlueInvest (EU)
 - `EU_CBE_JU` | Circular Bio-based Europe Joint Undertaking (CBE JU)

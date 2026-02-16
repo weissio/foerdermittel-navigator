@@ -2,16 +2,16 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-16 03:52`
-- Datensaetze: `370`
-- Eindeutige `programm_id`: `370`
+- Erzeugt am: `2026-02-16 03:57`
+- Datensaetze: `372`
+- Eindeutige `programm_id`: `372`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
 | laufend | 293 |
-| offen | 72 |
+| offen | 74 |
 | geplant | 5 |
 
 ## Kategorie
@@ -19,7 +19,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Kategorie | Anzahl |
 |---|---:|
 | laufend | 293 |
-| offen | 72 |
+| offen | 74 |
 | zukuenftig | 5 |
 
 ## Top Regionen
@@ -30,13 +30,13 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | EU (inkl. Deutschland) | 58 |
 | Rheinland-Pfalz | 17 |
 | Berlin | 16 |
-| Niedersachsen | 13 |
+| Niedersachsen | 14 |
 | Brandenburg | 12 |
 | Deutschland/International | 12 |
+| Hamburg | 12 |
 | Nordrhein-Westfalen | 12 |
 | Sachsen | 12 |
 | Schleswig-Holstein | 12 |
-| Hamburg | 11 |
 | Sachsen-Anhalt | 10 |
 | Baden-Wuerttemberg | 9 |
 | Bayern | 9 |
@@ -76,7 +76,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Thema | Anzahl |
 |---|---:|
-| EU-Fonds ESF+ | 22 |
+| EU-Fonds ESF+ | 24 |
 | Unternehmensfinanzierung | 20 |
 | EU-Fonds EFRE | 16 |
 | Forschung und Entwicklung/Innovation | 16 |
