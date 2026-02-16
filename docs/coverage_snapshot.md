@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-16 10:36`
-- Datensaetze: `572`
-- Eindeutige `programm_id`: `572`
+- Erzeugt am: `2026-02-16 10:40`
+- Datensaetze: `574`
+- Eindeutige `programm_id`: `574`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 483 |
+| laufend | 485 |
 | offen | 84 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 483 |
+| laufend | 485 |
 | offen | 84 |
 | zukuenftig | 5 |
 
@@ -26,7 +26,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Region | Anzahl |
 |---|---:|
-| Deutschland | 285 |
+| Deutschland | 287 |
 | EU (inkl. Deutschland) | 60 |
 | Deutschland/International | 36 |
 | Rheinland-Pfalz | 17 |
@@ -51,7 +51,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Traeger | Anzahl |
 |---|---:|
-| KfW | 132 |
+| KfW | 134 |
 | BMWK | 49 |
 | BAFA | 33 |
 | Europaeische Kommission | 16 |
@@ -86,7 +86,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Energieeffizienz | 14 |
 | Internationalisierung/Export | 14 |
 | Digitalisierung/Innovation | 11 |
-| Energieeffizienz/Treibhausgasminderung | 9 |
+| Energieeffizienz/Treibhausgasminderung | 11 |
 | Forschung und Entwicklung | 9 |
 | Gruendung/Nachfolge | 9 |
 | Gruendung/Wachstum | 9 |
