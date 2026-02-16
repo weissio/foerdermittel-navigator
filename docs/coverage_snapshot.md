@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-16 22:13`
-- Datensaetze: `906`
-- Eindeutige `programm_id`: `906`
+- Erzeugt am: `2026-02-16 22:16`
+- Datensaetze: `908`
+- Eindeutige `programm_id`: `908`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 558 |
+| laufend | 560 |
 | offen | 343 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 558 |
+| laufend | 560 |
 | offen | 343 |
 | zukuenftig | 5 |
 
@@ -28,7 +28,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 |---|---:|
 | Deutschland | 617 |
 | EU (inkl. Deutschland) | 60 |
-| Deutschland/International | 38 |
+| Deutschland/International | 40 |
 | Rheinland-Pfalz | 17 |
 | Berlin | 16 |
 | Bayern | 14 |
@@ -59,8 +59,8 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | BMWK (ZIM) / Projekttraeger | 13 |
 | BMWK / EXIST | 13 |
 | Investitionsbank Berlin (IBB) | 13 |
+| BMWK / Bundesrepublik Deutschland | 12 |
 | ISB (Rheinland-Pfalz) | 12 |
-| BMWK / Bundesrepublik Deutschland | 10 |
 | BMAS / INQA / ESF Plus | 9 |
 | NBank | 9 |
 | IFB Hamburg | 7 |
