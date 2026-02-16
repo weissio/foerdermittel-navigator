@@ -252,3 +252,5 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - https://interreg.eu/
 - https://www.euipo.europa.eu/en/discover-ip/sme-fund
 - https://erasmus-plus.ec.europa.eu/
+- https://defence-industry-space.ec.europa.eu/eu-defence-industry/european-defence-fund-edf_en
+- https://www.euspa.europa.eu/euspace-opportunities

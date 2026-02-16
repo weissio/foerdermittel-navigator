@@ -2,16 +2,16 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-16 02:12`
-- Datensaetze: `319`
-- Eindeutige `programm_id`: `319`
+- Erzeugt am: `2026-02-16 02:16`
+- Datensaetze: `321`
+- Eindeutige `programm_id`: `321`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
 | laufend | 277 |
-| offen | 37 |
+| offen | 39 |
 | geplant | 5 |
 
 ## Kategorie
@@ -19,7 +19,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Kategorie | Anzahl |
 |---|---:|
 | laufend | 277 |
-| offen | 37 |
+| offen | 39 |
 | zukuenftig | 5 |
 
 ## Top Regionen
@@ -27,7 +27,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Region | Anzahl |
 |---|---:|
 | Deutschland | 105 |
-| EU (inkl. Deutschland) | 24 |
+| EU (inkl. Deutschland) | 26 |
 | Rheinland-Pfalz | 17 |
 | Berlin | 16 |
 | Niedersachsen | 13 |
@@ -59,10 +59,10 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | BMWK (ZIM) / Projekttraeger | 9 |
 | NBank | 9 |
 | IFB Hamburg | 7 |
+| Europaeische Kommission | 6 |
 | Investitionsbank Sachsen-Anhalt (IB) | 6 |
 | L-Bank | 6 |
 | Thueringer Aufbaubank (TAB) | 6 |
-| Europaeische Kommission | 5 |
 | Investitionsbank Schleswig-Holstein (IB.SH) | 5 |
 | Landesfoerderinstitut Mecklenburg-Vorpommern (LFI M-V) | 5 |
 | NRW.BANK / Land NRW | 5 |

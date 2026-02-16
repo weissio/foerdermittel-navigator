@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `319`
+- Gepruefte Datensaetze: `321`
 
 ## Offen Mit Datumsfrist
 
@@ -33,12 +33,14 @@
 - `EU_ERASMUS_PLUS` | Erasmus+ Programme
 - `EU_EU4HEALTH` | EU4Health Programme
 - `EU_EUREKA_GLOBALSTARS` | Globalstars (EUREKA)
+- `EU_EUROPEAN_DEFENCE_FUND` | European Defence Fund (EDF)
 - `EU_EUROSTARS` | Eurostars (EUREKA / Innovative SMEs Partnership)
 - `EU_INNOVATION_FUND` | Innovation Fund (EU ETS)
 - `EU_INTERREG` | Interreg 2021-2027
 - `EU_INVESTEU` | InvestEU Programme
 - `EU_JUST_TRANSITION_FUND` | Just Transition Fund (JTF) Programme
 - `EU_LIFE_PROGRAMME` | LIFE Programme (EU)
+- `EU_SPACE_PROGRAMME` | EU Space Programme (inkl. CASSINI/EUSPA Calls)
 - `IBB_GO_BIO_INITIAL` | Go-Bio initial (Berlin)
 - `NRW_MID_ASSISTENZ` | Mittelstand Innovativ & Digital (MID) - Digitale Assistenzsysteme
 - `NRW_MID_DIGITALISIERUNG` | Mittelstand Innovativ & Digital (MID) - Digitalisierung
