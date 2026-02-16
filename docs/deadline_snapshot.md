@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-17`
-- Gepruefte Datensaetze: `941`
+- Gepruefte Datensaetze: `942`
 
 ## Offen Mit Datumsfrist
 
@@ -29,6 +29,7 @@
 - `BMAS_ZUKUNFTSZENTREN` | Foerderprogramm Zukunftszentren (BMAS/ESF Plus)
 - `BMBF_DATIPILOT_INNOVATIONSCOMMUNITIES` | DATIpilot - Innovationscommunities
 - `BMBF_DATIPILOT_INNOVATIONSSPRINTS` | DATIpilot - Innovationssprints
+- `BMBF_GO_BIO` | GO-Bio - Gruendungsoffensive Biotechnologie
 - `BMBF_KMU_INNOVATIV_5G_6G_INDUSTRIE` | KMU-innovativ - 5G/6G und vernetzte Industrieanwendungen
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_BAUTEILINSPEKTION` | KMU-innovativ - Adaptive Bauteilinspektion und KI-gestuetzte Fehlervorhersage
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_FERTIGUNGSFLUESSE` | KMU-innovativ - Adaptive Fertigungsfluesse und resiliente Ablaufsteuerung

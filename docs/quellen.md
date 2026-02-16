@@ -28,6 +28,7 @@
 - Aktionsprogramm Natuerlicher Klimaschutz (ANK, BMUV): https://www.aktion-natuerlicher-klimaschutz.de/
 - BMWK Dossier Wasserstoff (inkl. IPCEI-Bezug): https://www.bmwk.de/Redaktion/DE/Dossier/wasserstoff.html
 - StartUpSecure (BMBF): https://www.startupsecure.de/
+- GO-Bio (BMBF): https://www.bmbf.de/bmbf/de/forschung/lebenswissenschaften/foerderinitiativen/go-bio/go-bio.html
 - BMF Forschungszulage: https://www.bundesfinanzministerium.de/Web/DE/Themen/Steuern/Steuerliche_Themengebiete/Forschungszulage/forschungszulage.html
 - BMBF KMU-innovativ: https://www.kmu-innovativ.de/
 - BMWK IGP (Innovationsprogramm fuer Geschaeftsmodelle und Pionierloesungen): https://www.bmwk.de/Redaktion/DE/Artikel/Innovation/igp.html

@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-17`
-- Offen gesamt: `363`
+- Offen gesamt: `364`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `347`
+- Rollierend/ohne Datum: `348`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -31,6 +31,7 @@
 - `BMAS_ZUKUNFTSZENTREN` | Foerderprogramm Zukunftszentren (BMAS/ESF Plus) | rollierend | https://www.bmas.de/DE/Arbeit/Digitalisierung-der-Arbeitswelt/Foerderprogramm-Zukunftszentren/foerderprogramm-zukunftszentren.html
 - `BMBF_DATIPILOT_INNOVATIONSCOMMUNITIES` | DATIpilot - Innovationscommunities | rollierend | https://www.bmbf.de/bmbf/de/forschung/innovationen/datipilot/datipilot_node.html
 - `BMBF_DATIPILOT_INNOVATIONSSPRINTS` | DATIpilot - Innovationssprints | rollierend | https://www.bmbf.de/bmbf/de/forschung/innovationen/datipilot/datipilot_node.html
+- `BMBF_GO_BIO` | GO-Bio - Gruendungsoffensive Biotechnologie | rollierend | https://www.bmbf.de/bmbf/de/forschung/lebenswissenschaften/foerderinitiativen/go-bio/go-bio.html
 - `BMBF_KMU_INNOVATIV_5G_6G_INDUSTRIE` | KMU-innovativ - 5G/6G und vernetzte Industrieanwendungen | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_BAUTEILINSPEKTION` | KMU-innovativ - Adaptive Bauteilinspektion und KI-gestuetzte Fehlervorhersage | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_FERTIGUNGSFLUESSE` | KMU-innovativ - Adaptive Fertigungsfluesse und resiliente Ablaufsteuerung | rollierend | https://www.kmu-innovativ.de/
