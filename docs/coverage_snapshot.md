@@ -2,16 +2,16 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-16 13:08`
-- Datensaetze: `648`
-- Eindeutige `programm_id`: `648`
+- Erzeugt am: `2026-02-16 13:12`
+- Datensaetze: `650`
+- Eindeutige `programm_id`: `650`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
 | laufend | 555 |
-| offen | 88 |
+| offen | 90 |
 | geplant | 5 |
 
 ## Kategorie
@@ -19,14 +19,14 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Kategorie | Anzahl |
 |---|---:|
 | laufend | 555 |
-| offen | 88 |
+| offen | 90 |
 | zukuenftig | 5 |
 
 ## Top Regionen
 
 | Region | Anzahl |
 |---|---:|
-| Deutschland | 361 |
+| Deutschland | 363 |
 | EU (inkl. Deutschland) | 60 |
 | Deutschland/International | 36 |
 | Rheinland-Pfalz | 17 |
@@ -62,6 +62,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | BMWK / Bundesrepublik Deutschland | 10 |
 | BMAS / INQA / ESF Plus | 9 |
 | NBank | 9 |
+| BMBF | 7 |
 | IFB Hamburg | 7 |
 | EIC (EU) | 6 |
 | Investitionsbank Sachsen-Anhalt (IB) | 6 |
@@ -69,7 +70,6 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | LfA Foerderbank Bayern | 6 |
 | Saechsische Aufbaubank (SAB) | 6 |
 | Thueringer Aufbaubank (TAB) | 6 |
-| BMBF | 5 |
 | BMWK / German Accelerator | 5 |
 
 ## Top Themen
