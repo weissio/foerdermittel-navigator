@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-16`
-- Offen gesamt: `142`
+- Offen gesamt: `144`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `126`
+- Rollierend/ohne Datum: `128`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -42,6 +42,7 @@
 - `BMBF_KMU_INNOVATIV_CIRCULAR_PLASTICS` | KMU-innovativ - Circular Plastics und polymerbasierte Kreislaufsysteme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_CLEANROOM_AUTOMATION` | KMU-innovativ - Reinraumautomation und Hightech-Produktion | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_CYBERPHYSIK` | KMU-innovativ - Cyber-physische Systeme und industrielle Vernetzung | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_DIGITAL_HEALTH_DEVICES` | KMU-innovativ - Digitale Gesundheitsgeraete und vernetzte Medizinsysteme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITAL_TWIN` | KMU-innovativ - Digitale Zwillinge fuer industrielle Anwendungen | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_EDGE_IOT` | KMU-innovativ - Edge-Computing und industrielle IoT-Systeme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_ELEKTRONIK` | KMU-innovativ - Elektronik und Mikrosystemtechnik | rollierend | https://www.kmu-innovativ.de/
@@ -76,6 +77,7 @@
 - `BMBF_KMU_INNOVATIV_ROBOTIK_LOGISTIK` | KMU-innovativ - Robotik und intelligente Logistiksysteme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_SATELLITENDATEN` | KMU-innovativ - Satellitendaten und geospatial analytics | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_SICHERHEIT` | KMU-innovativ - Sicherheitsforschung | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_SMARTE_AGROSYSTEME` | KMU-innovativ - Smarte Agrarsysteme und datenbasierte Landwirtschaft | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_SMARTE_MATERIALIEN` | KMU-innovativ - Smarte Materialien und funktionale Oberflaechen | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_SMARTE_MEDIEN` | KMU-innovativ - Smarte Medien- und Interaktionssysteme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_SMARTE_SENSORIK` | KMU-innovativ - Smarte Sensorik und Messtechnik | rollierend | https://www.kmu-innovativ.de/
