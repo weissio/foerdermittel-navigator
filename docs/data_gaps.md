@@ -1,14 +1,14 @@
 # Data Gaps
 
-- Erzeugt am: `2026-02-16 05:48`
-- Datensaetze: `428`
+- Erzeugt am: `2026-02-16 05:52`
+- Datensaetze: `430`
 
 ## Status-Verteilung
 
 | Status | Anzahl |
 |---|---:|
 | geplant | 5 |
-| laufend | 345 |
+| laufend | 347 |
 | offen | 78 |
 
 ## Unterrepraesentierte Regionen
@@ -35,7 +35,7 @@
 
 | Region | Anzahl |
 |---|---:|
-| Deutschland | 159 |
+| Deutschland | 161 |
 | EU (inkl. Deutschland) | 58 |
 | Deutschland/International | 20 |
 | Rheinland-Pfalz | 17 |
@@ -68,8 +68,8 @@
 | BMZ / DEG / GIZ | 1 |
 | BMZ / DEG Impulse | 1 |
 | Bayern Kapital | 1 |
-| Buergschaftsbanken Deutschland | 1 |
 | Bund/Land (EFRE) | 1 |
+| Bund/Land (ESF+) | 1 |
 
 ## Unterrepraesentierte Themen
 
