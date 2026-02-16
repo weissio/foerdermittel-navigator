@@ -2,31 +2,31 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-16 04:07`
-- Datensaetze: `378`
-- Eindeutige `programm_id`: `378`
+- Erzeugt am: `2026-02-16 04:12`
+- Datensaetze: `380`
+- Eindeutige `programm_id`: `380`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 298 |
-| offen | 75 |
+| laufend | 299 |
+| offen | 76 |
 | geplant | 5 |
 
 ## Kategorie
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 298 |
-| offen | 75 |
+| laufend | 299 |
+| offen | 76 |
 | zukuenftig | 5 |
 
 ## Top Regionen
 
 | Region | Anzahl |
 |---|---:|
-| Deutschland | 126 |
+| Deutschland | 128 |
 | EU (inkl. Deutschland) | 58 |
 | Rheinland-Pfalz | 17 |
 | Berlin | 16 |
@@ -95,7 +95,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Innovation/Beratung | 5 |
 | Innovation/Digitalisierung | 5 |
 | Wachstum/Investition | 5 |
-| Digitalisierung/IT-Sicherheit | 4 |
+| Weiterbildung/Qualifizierung | 5 |
 
 ## Feldqualitaet
 
