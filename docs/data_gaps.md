@@ -1,7 +1,7 @@
 # Data Gaps
 
-- Erzeugt am: `2026-02-16 23:13`
-- Datensaetze: `924`
+- Erzeugt am: `2026-02-16 23:21`
+- Datensaetze: `925`
 
 ## Status-Verteilung
 
@@ -9,7 +9,7 @@
 |---|---:|
 | geplant | 5 |
 | laufend | 563 |
-| offen | 356 |
+| offen | 357 |
 
 ## Unterrepraesentierte Regionen
 
@@ -37,7 +37,7 @@
 |---|---:|
 | Deutschland | 633 |
 | EU (inkl. Deutschland) | 60 |
-| Deutschland/International | 40 |
+| Deutschland/International | 41 |
 | Rheinland-Pfalz | 17 |
 | Berlin | 16 |
 | Bayern | 14 |
@@ -61,6 +61,7 @@
 | BMDV / NOW GmbH / BAFA | 1 |
 | BMWK (Nationales Portal) / EU | 1 |
 | BMWK / AiF / internationale Partner | 1 |
+| BMWK / Hintco | 1 |
 | BMWK / VDI/VDE-IT | 1 |
 | BMWK/ZIM (DE) + CORFO (CL) | 1 |
 | BMWK/ZIM (DE) + IraSME Netzwerk | 1 |
@@ -69,7 +70,6 @@
 | BMWSB / BBSR | 1 |
 | BMZ / DEG | 1 |
 | BMZ / DEG / GIZ | 1 |
-| BMZ / GIZ | 1 |
 
 ## Unterrepraesentierte Themen
 
