@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-17`
-- Gepruefte Datensaetze: `936`
+- Gepruefte Datensaetze: `938`
 
 ## Offen Mit Datumsfrist
 
@@ -304,6 +304,8 @@
 - `BMWK_IGP_PHASE1` | IGP - Phase 1 (Ideenwettbewerb/Skizze)
 - `BMWK_IGP_PHASE2` | IGP - Phase 2 (Umsetzungsprojekt)
 - `BMWK_IGP` | Innovationsprogramm fuer Geschaeftsmodelle und Pionierloesungen (IGP)
+- `BMWK_IPCEI_HY2TECH` | IPCEI Wasserstoff - Hy2Tech (Technologiekomponenten)
+- `BMWK_IPCEI_HY2USE` | IPCEI Wasserstoff - Hy2Use (Industrielle Anwendung und Infrastruktur)
 - `BMWK_IPCEI_WASSERSTOFF` | IPCEI Wasserstoff (Hy2Tech/Hy2Use) - Bundesfoerderung
 - `BMWK_KLIMASCHUTZVERTRAEGE` | Klimaschutzvertraege (Carbon Contracts for Difference, CCfD)
 - `BMWK_REALLABORE_ENERGIEWENDE_TRANSFER` | Reallabore der Energiewende - Transfer und Skalierung

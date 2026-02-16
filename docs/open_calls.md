@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-17`
-- Offen gesamt: `360`
+- Offen gesamt: `362`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `344`
+- Rollierend/ohne Datum: `346`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -306,6 +306,8 @@
 - `BMWK_IGP_PHASE1` | IGP - Phase 1 (Ideenwettbewerb/Skizze) | rollierend | https://www.bmwk.de/Redaktion/DE/Artikel/Innovation/igp.html
 - `BMWK_IGP_PHASE2` | IGP - Phase 2 (Umsetzungsprojekt) | rollierend | https://www.bmwk.de/Redaktion/DE/Artikel/Innovation/igp.html
 - `BMWK_IGP` | Innovationsprogramm fuer Geschaeftsmodelle und Pionierloesungen (IGP) | rollierend | https://www.bmwk.de/Redaktion/DE/Artikel/Innovation/igp.html
+- `BMWK_IPCEI_HY2TECH` | IPCEI Wasserstoff - Hy2Tech (Technologiekomponenten) | rollierend | https://www.bmwk.de/Redaktion/DE/Dossier/wasserstoff.html
+- `BMWK_IPCEI_HY2USE` | IPCEI Wasserstoff - Hy2Use (Industrielle Anwendung und Infrastruktur) | rollierend | https://www.bmwk.de/Redaktion/DE/Dossier/wasserstoff.html
 - `BMWK_IPCEI_WASSERSTOFF` | IPCEI Wasserstoff (Hy2Tech/Hy2Use) - Bundesfoerderung | rollierend | https://www.bmwk.de/Redaktion/DE/Dossier/wasserstoff.html
 - `BMWK_KLIMASCHUTZVERTRAEGE` | Klimaschutzvertraege (Carbon Contracts for Difference, CCfD) | rollierend | https://www.bmwk.de/Redaktion/DE/Dossier/klimaschutzvertraege.html
 - `BMWK_REALLABORE_ENERGIEWENDE_TRANSFER` | Reallabore der Energiewende - Transfer und Skalierung | rollierend | https://www.bmwk.de/Redaktion/DE/Dossier/reallabore-der-energiewende.html
