@@ -1,15 +1,15 @@
 # Data Gaps
 
-- Erzeugt am: `2026-02-16 03:57`
-- Datensaetze: `372`
+- Erzeugt am: `2026-02-16 04:00`
+- Datensaetze: `374`
 
 ## Status-Verteilung
 
 | Status | Anzahl |
 |---|---:|
 | geplant | 5 |
-| laufend | 293 |
-| offen | 74 |
+| laufend | 294 |
+| offen | 75 |
 
 ## Unterrepraesentierte Regionen
 
@@ -29,19 +29,19 @@
 | Saarland | 9 |
 | Sachsen-Anhalt | 10 |
 | Brandenburg | 12 |
-| Deutschland/International | 12 |
+| Hamburg | 12 |
 
 ## Dominierende Regionen
 
 | Region | Anzahl |
 |---|---:|
-| Deutschland | 121 |
+| Deutschland | 122 |
 | EU (inkl. Deutschland) | 58 |
 | Rheinland-Pfalz | 17 |
 | Berlin | 16 |
 | Niedersachsen | 14 |
+| Deutschland/International | 13 |
 | Brandenburg | 12 |
-| Deutschland/International | 12 |
 | Hamburg | 12 |
 | Nordrhein-Westfalen | 12 |
 | Sachsen | 12 |
@@ -62,7 +62,7 @@
 | BMDV | 1 |
 | BMUV / KfW | 1 |
 | BMWK (Nationales Portal) / EU | 1 |
-| BMWK / AiF | 1 |
+| BMWK / AiF / internationale Partner | 1 |
 | BMWK / German Accelerator | 1 |
 | BMWK/ZIM (DE) + CORFO (CL) | 1 |
 | BMWK/ZIM (DE) + IraSME Netzwerk | 1 |
