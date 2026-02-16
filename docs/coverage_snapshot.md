@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-16 07:36`
-- Datensaetze: `482`
-- Eindeutige `programm_id`: `482`
+- Erzeugt am: `2026-02-16 07:40`
+- Datensaetze: `484`
+- Eindeutige `programm_id`: `484`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 395 |
+| laufend | 397 |
 | offen | 82 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 395 |
+| laufend | 397 |
 | offen | 82 |
 | zukuenftig | 5 |
 
@@ -26,7 +26,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Region | Anzahl |
 |---|---:|
-| Deutschland | 195 |
+| Deutschland | 197 |
 | EU (inkl. Deutschland) | 60 |
 | Deutschland/International | 36 |
 | Rheinland-Pfalz | 17 |
@@ -51,7 +51,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Traeger | Anzahl |
 |---|---:|
-| KfW | 56 |
+| KfW | 58 |
 | BMWK | 47 |
 | BAFA | 23 |
 | Europaeische Kommission | 16 |
@@ -83,11 +83,11 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Investition/Betriebsmittel | 16 |
 | Internationalisierung/Export | 14 |
 | Digitalisierung | 13 |
+| Unternehmensfinanzierung/Innovation | 10 |
 | Forschung und Entwicklung | 9 |
 | Gruendung/Nachfolge | 9 |
 | Gruendung/Wachstum | 9 |
 | Gruendung/Innovation | 8 |
-| Unternehmensfinanzierung/Innovation | 8 |
 | Unternehmensfoerderung | 8 |
 | Digitalisierung/IT-Sicherheit | 7 |
 | Beratung/Unternehmensentwicklung | 6 |
