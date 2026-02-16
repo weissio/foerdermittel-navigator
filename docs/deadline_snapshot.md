@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `706`
+- Gepruefte Datensaetze: `708`
 
 ## Offen Mit Datumsfrist
 
@@ -76,6 +76,7 @@
 - `BMBF_KMU_INNOVATIV_RESILIENTE_LIEFERKETTEN` | KMU-innovativ - Resiliente Lieferketten und digitale Wertschöpfungsnetze
 - `BMBF_KMU_INNOVATIV_ROBOTIK_LOGISTIK` | KMU-innovativ - Robotik und intelligente Logistiksysteme
 - `BMBF_KMU_INNOVATIV_SATELLITENDATEN` | KMU-innovativ - Satellitendaten und geospatial analytics
+- `BMBF_KMU_INNOVATIV_SICHERE_HALBLEITER` | KMU-innovativ - Sichere Halbleiter und vertrauenswuerdige Elektronik
 - `BMBF_KMU_INNOVATIV_SICHERHEIT` | KMU-innovativ - Sicherheitsforschung
 - `BMBF_KMU_INNOVATIV_SMARTE_AGROSYSTEME` | KMU-innovativ - Smarte Agrarsysteme und datenbasierte Landwirtschaft
 - `BMBF_KMU_INNOVATIV_SMARTE_MATERIALIEN` | KMU-innovativ - Smarte Materialien und funktionale Oberflaechen
@@ -87,6 +88,7 @@
 - `BMBF_KMU_INNOVATIV_SUSTAINABLE_PACKAGING` | KMU-innovativ - Nachhaltige Verpackungs- und Materialsysteme
 - `BMBF_KMU_INNOVATIV_WASSERTECH` | KMU-innovativ - Wassertechnologien und nachhaltige Wassersysteme
 - `BMBF_KMU_INNOVATIV_WERKSTOFFRECYCLING` | KMU-innovativ - Werkstoffrecycling und zirkulaere Materialien
+- `BMBF_KMU_INNOVATIV_ZELLTHERAPIE` | KMU-innovativ - Zelltherapien und biomedizinische Plattformtechnologien
 - `BMBF_KMU_INNOVATIV` | KMU-innovativ: Forschung fuer den Mittelstand
 - `BMDV_MFUND_FU_E_PROJEKTE` | mFUND - Forschungs- und Entwicklungsprojekte
 - `BMDV_MFUND_MACHBARKEITSSTUDIEN` | mFUND - Machbarkeitsstudien
