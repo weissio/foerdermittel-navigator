@@ -2,16 +2,16 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-16 18:36`
-- Datensaetze: `798`
-- Eindeutige `programm_id`: `798`
+- Erzeugt am: `2026-02-16 18:40`
+- Datensaetze: `800`
+- Eindeutige `programm_id`: `800`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
 | laufend | 555 |
-| offen | 238 |
+| offen | 240 |
 | geplant | 5 |
 
 ## Kategorie
@@ -19,14 +19,14 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Kategorie | Anzahl |
 |---|---:|
 | laufend | 555 |
-| offen | 238 |
+| offen | 240 |
 | zukuenftig | 5 |
 
 ## Top Regionen
 
 | Region | Anzahl |
 |---|---:|
-| Deutschland | 511 |
+| Deutschland | 513 |
 | EU (inkl. Deutschland) | 60 |
 | Deutschland/International | 36 |
 | Rheinland-Pfalz | 17 |
@@ -52,7 +52,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Traeger | Anzahl |
 |---|---:|
 | KfW | 204 |
-| BMBF | 155 |
+| BMBF | 157 |
 | BMWK | 49 |
 | BAFA | 33 |
 | Europaeische Kommission | 16 |
@@ -87,7 +87,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Energieeffizienz | 14 |
 | Internationalisierung/Export | 14 |
 | Digitalisierung/Innovation | 11 |
-| Forschung und Entwicklung/Digital Health | 10 |
+| Forschung und Entwicklung/Digital Health | 11 |
 | Energieeffizienz/Lastmanagement | 9 |
 | Forschung und Entwicklung | 9 |
 | Gruendung/Nachfolge | 9 |
