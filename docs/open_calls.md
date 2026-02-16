@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-16`
-- Offen gesamt: `294`
+- Offen gesamt: `296`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `278`
+- Rollierend/ohne Datum: `280`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -112,6 +112,7 @@
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEVERLAUFSSEGMENTE` | KMU-innovativ - Digitale Therapieverlaufssegmente und adaptive Behandlungsdifferenzierung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEVERLAUFS_PROFILIERUNG` | KMU-innovativ - Digitale Therapieverlaufs-Profilierung und adaptive Interventionssteuerung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEVERLAUFS_QUALITAET` | KMU-innovativ - Digitale Therapieverlaufs-Qualitaet und adaptive Versorgungsevaluation | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEVERNETZUNG` | KMU-innovativ - Digitale Therapievernetzung und adaptive Versorgungskontinuitaet | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEWEGE_ANALYTIK` | KMU-innovativ - Digitale Therapiewege-Analytik und personalisierte Interventionspfade | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEWIRKPFAD_MODELLE` | KMU-innovativ - Digitale Therapiewirkpfad-Modelle und personalisierte Steuerungslogik | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEWIRKUNG_PROGNOSTIK` | KMU-innovativ - Digitale Therapiewirkung-Prognostik und personalisierte Interventionsmodelle | rollierend | https://www.kmu-innovativ.de/
@@ -126,6 +127,7 @@
 - `BMBF_KMU_INNOVATIV_DYNAMISCHE_ANLAGENVERNETZUNG` | KMU-innovativ - Dynamische Anlagenvernetzung und adaptive Produktionsorchestrierung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DYNAMISCHE_FERTIGUNGSROUTEN` | KMU-innovativ - Dynamische Fertigungsrouten und adaptive Ablaufoptimierung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DYNAMISCHE_PRODUKTIONSPLANUNG` | KMU-innovativ - Dynamische Produktionsplanung und adaptive Ressourcenzuweisung | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_DYNAMISCHE_QUALITAETSORCHESTRIERUNG` | KMU-innovativ - Dynamische Qualitaetsorchestrierung und adaptive Prozessstabilitaet | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_ECHTZEIT_ANLAGENOPTIMIERUNG` | KMU-innovativ - Echtzeit-Anlagenoptimierung und adaptive Prozessintelligenz | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_EDGE_FERTIGUNGSANALYTIK` | KMU-innovativ - Edge-Fertigungsanalytik und selbstoptimierende Produktionssysteme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_EDGE_GESUNDHEIT` | KMU-innovativ - Edge-Computing fuer vernetzte Gesundheitssysteme | rollierend | https://www.kmu-innovativ.de/

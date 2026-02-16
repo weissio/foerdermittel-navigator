@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `854`
+- Gepruefte Datensaetze: `856`
 
 ## Offen Mit Datumsfrist
 
@@ -110,6 +110,7 @@
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEVERLAUFSSEGMENTE` | KMU-innovativ - Digitale Therapieverlaufssegmente und adaptive Behandlungsdifferenzierung
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEVERLAUFS_PROFILIERUNG` | KMU-innovativ - Digitale Therapieverlaufs-Profilierung und adaptive Interventionssteuerung
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEVERLAUFS_QUALITAET` | KMU-innovativ - Digitale Therapieverlaufs-Qualitaet und adaptive Versorgungsevaluation
+- `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEVERNETZUNG` | KMU-innovativ - Digitale Therapievernetzung und adaptive Versorgungskontinuitaet
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEWEGE_ANALYTIK` | KMU-innovativ - Digitale Therapiewege-Analytik und personalisierte Interventionspfade
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEWIRKPFAD_MODELLE` | KMU-innovativ - Digitale Therapiewirkpfad-Modelle und personalisierte Steuerungslogik
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEWIRKUNG_PROGNOSTIK` | KMU-innovativ - Digitale Therapiewirkung-Prognostik und personalisierte Interventionsmodelle
@@ -124,6 +125,7 @@
 - `BMBF_KMU_INNOVATIV_DYNAMISCHE_ANLAGENVERNETZUNG` | KMU-innovativ - Dynamische Anlagenvernetzung und adaptive Produktionsorchestrierung
 - `BMBF_KMU_INNOVATIV_DYNAMISCHE_FERTIGUNGSROUTEN` | KMU-innovativ - Dynamische Fertigungsrouten und adaptive Ablaufoptimierung
 - `BMBF_KMU_INNOVATIV_DYNAMISCHE_PRODUKTIONSPLANUNG` | KMU-innovativ - Dynamische Produktionsplanung und adaptive Ressourcenzuweisung
+- `BMBF_KMU_INNOVATIV_DYNAMISCHE_QUALITAETSORCHESTRIERUNG` | KMU-innovativ - Dynamische Qualitaetsorchestrierung und adaptive Prozessstabilitaet
 - `BMBF_KMU_INNOVATIV_ECHTZEIT_ANLAGENOPTIMIERUNG` | KMU-innovativ - Echtzeit-Anlagenoptimierung und adaptive Prozessintelligenz
 - `BMBF_KMU_INNOVATIV_EDGE_FERTIGUNGSANALYTIK` | KMU-innovativ - Edge-Fertigungsanalytik und selbstoptimierende Produktionssysteme
 - `BMBF_KMU_INNOVATIV_EDGE_GESUNDHEIT` | KMU-innovativ - Edge-Computing fuer vernetzte Gesundheitssysteme
