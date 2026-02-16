@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `339`
+- Gepruefte Datensaetze: `341`
 
 ## Offen Mit Datumsfrist
 
@@ -47,7 +47,9 @@
 - `EU_HORIZON_CLUSTER3` | Horizon Europe - Cluster 3 Civil Security for Society
 - `EU_HORIZON_CLUSTER4` | Horizon Europe - Cluster 4 Digital, Industry and Space
 - `EU_HORIZON_CLUSTER6` | Horizon Europe - Cluster 6 Food, Bioeconomy, Natural Resources, Agriculture and Environment
+- `EU_HORIZON_ERC` | Horizon Europe - European Research Council (ERC)
 - `EU_HORIZON_MISSIONS` | Horizon Europe Missions (Calls)
+- `EU_HORIZON_MSCA` | Horizon Europe - Marie Sklodowska-Curie Actions (MSCA)
 - `EU_HORIZON_RESEARCH_INFRASTRUCTURES` | Horizon Europe - Research Infrastructures Calls
 - `EU_HORIZON_WIDERA` | Horizon Europe - Widening Participation and Strengthening the European Research Area (WIDERA)
 - `EU_INNOVATION_FUND` | Innovation Fund (EU ETS)
