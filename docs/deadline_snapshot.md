@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `754`
+- Gepruefte Datensaetze: `756`
 
 ## Offen Mit Datumsfrist
 
@@ -36,6 +36,7 @@
 - `BMBF_KMU_INNOVATIV_AUTONOME_ENERGIEKNOTEN` | KMU-innovativ - Autonome Energieknoten und resiliente Versorgungssysteme
 - `BMBF_KMU_INNOVATIV_AUTONOME_LABORNETZE` | KMU-innovativ - Autonome Labornetze und verteilte Testinfrastrukturen
 - `BMBF_KMU_INNOVATIV_AUTONOME_MIKROFABRIK` | KMU-innovativ - Autonome Mikrofabriken und dezentrale Produktion
+- `BMBF_KMU_INNOVATIV_AUTONOME_PRUEFSTRECKEN` | KMU-innovativ - Autonome Pruefstrecken und digitale Validierungsumgebungen
 - `BMBF_KMU_INNOVATIV_BATTERIETECH` | KMU-innovativ - Batterietechnologien und Energiespeicher
 - `BMBF_KMU_INNOVATIV_BAUPROZESSE_DIGITAL` | KMU-innovativ - Digitale Bauprozesse und nachhaltige Bauwerke
 - `BMBF_KMU_INNOVATIV_BAUSTOFFRECYCLING` | KMU-innovativ - Baustoffrecycling und zirkulaeres Bauen
@@ -51,6 +52,7 @@
 - `BMBF_KMU_INNOVATIV_CIRCULAR_PLASTICS` | KMU-innovativ - Circular Plastics und polymerbasierte Kreislaufsysteme
 - `BMBF_KMU_INNOVATIV_CLEANROOM_AUTOMATION` | KMU-innovativ - Reinraumautomation und Hightech-Produktion
 - `BMBF_KMU_INNOVATIV_CO2_MATERIALKREISLAUF` | KMU-innovativ - CO2-basierte Materialkreislaufe und Kohlenstoffnutzung
+- `BMBF_KMU_INNOVATIV_CO2_NEGATIVE_PROZESSKETTEN` | KMU-innovativ - CO2-negative Prozessketten und industrielle Kohlenstoffbindung
 - `BMBF_KMU_INNOVATIV_CYBERPHYSIK` | KMU-innovativ - Cyber-physische Systeme und industrielle Vernetzung
 - `BMBF_KMU_INNOVATIV_CYBERRESILIENTE_MEDTECH` | KMU-innovativ - Cyberresiliente Medizintechnik und sichere Geraeteplattformen
 - `BMBF_KMU_INNOVATIV_DEEP_LEARNING_INDUSTRIE` | KMU-innovativ - Deep-Learning-Methoden fuer industrielle Anwendungen

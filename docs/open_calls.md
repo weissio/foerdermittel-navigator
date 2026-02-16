@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-16`
-- Offen gesamt: `194`
+- Offen gesamt: `196`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `178`
+- Rollierend/ohne Datum: `180`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -38,6 +38,7 @@
 - `BMBF_KMU_INNOVATIV_AUTONOME_ENERGIEKNOTEN` | KMU-innovativ - Autonome Energieknoten und resiliente Versorgungssysteme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_AUTONOME_LABORNETZE` | KMU-innovativ - Autonome Labornetze und verteilte Testinfrastrukturen | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_AUTONOME_MIKROFABRIK` | KMU-innovativ - Autonome Mikrofabriken und dezentrale Produktion | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_AUTONOME_PRUEFSTRECKEN` | KMU-innovativ - Autonome Pruefstrecken und digitale Validierungsumgebungen | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_BATTERIETECH` | KMU-innovativ - Batterietechnologien und Energiespeicher | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_BAUPROZESSE_DIGITAL` | KMU-innovativ - Digitale Bauprozesse und nachhaltige Bauwerke | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_BAUSTOFFRECYCLING` | KMU-innovativ - Baustoffrecycling und zirkulaeres Bauen | rollierend | https://www.kmu-innovativ.de/
@@ -53,6 +54,7 @@
 - `BMBF_KMU_INNOVATIV_CIRCULAR_PLASTICS` | KMU-innovativ - Circular Plastics und polymerbasierte Kreislaufsysteme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_CLEANROOM_AUTOMATION` | KMU-innovativ - Reinraumautomation und Hightech-Produktion | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_CO2_MATERIALKREISLAUF` | KMU-innovativ - CO2-basierte Materialkreislaufe und Kohlenstoffnutzung | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_CO2_NEGATIVE_PROZESSKETTEN` | KMU-innovativ - CO2-negative Prozessketten und industrielle Kohlenstoffbindung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_CYBERPHYSIK` | KMU-innovativ - Cyber-physische Systeme und industrielle Vernetzung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_CYBERRESILIENTE_MEDTECH` | KMU-innovativ - Cyberresiliente Medizintechnik und sichere Geraeteplattformen | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DEEP_LEARNING_INDUSTRIE` | KMU-innovativ - Deep-Learning-Methoden fuer industrielle Anwendungen | rollierend | https://www.kmu-innovativ.de/
