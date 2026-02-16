@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `804`
+- Gepruefte Datensaetze: `806`
 
 ## Offen Mit Datumsfrist
 
@@ -80,6 +80,7 @@
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEPFAD_PROGNOSE` | KMU-innovativ - Digitale Therapiepfad-Prognose und adaptive Versorgungsempfehlungen
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEPLAN_STEUERUNG` | KMU-innovativ - Digitale Therapieplan-Steuerung und adaptive Behandlungskoordination
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEQUALITAET` | KMU-innovativ - Digitale Therapiequalitaet und kontinuierliche Versorgungsbewertung
+- `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEVERLAUFS_PROFILIERUNG` | KMU-innovativ - Digitale Therapieverlaufs-Profilierung und adaptive Interventionssteuerung
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIE_COMPLIANCE` | KMU-innovativ - Digitale Therapie-Compliance und kontinuierliches Outcome-Monitoring
 - `BMBF_KMU_INNOVATIV_DIGITALE_WARTUNGSKETTEN` | KMU-innovativ - Digitale Wartungsketten und zustandsbasierte Instandhaltung
 - `BMBF_KMU_INNOVATIV_DIGITALE_WIRKSTOFFENTWICKLUNG` | KMU-innovativ - Digitale Wirkstoffentwicklung und molekulare Modellierung
@@ -165,6 +166,7 @@
 - `BMBF_KMU_INNOVATIV_SMARTE_MEDIKAMENTENLOGISTIK` | KMU-innovativ - Smarte Medikamentenlogistik und sichere Liefernetzwerke
 - `BMBF_KMU_INNOVATIV_SMARTE_MEDTECH_PRODUKTION` | KMU-innovativ - Smarte Produktion medizintechnischer Systeme
 - `BMBF_KMU_INNOVATIV_SMARTE_NETZWERKROBOTER` | KMU-innovativ - Smarte Netzwerkroboter und kooperative Automationssysteme
+- `BMBF_KMU_INNOVATIV_SMARTE_REINRAUMREGELUNG` | KMU-innovativ - Smarte Reinraumregelung und adaptive Kontaminationskontrolle
 - `BMBF_KMU_INNOVATIV_SMARTE_RUECKNAHMELOGISTIK` | KMU-innovativ - Smarte Ruecknahmelogistik und kreislauforientierte Verwertungspfade
 - `BMBF_KMU_INNOVATIV_SMARTE_SENSORFERTIGUNG` | KMU-innovativ - Smarte Sensorfertigung und inline-Qualitaetskontrolle
 - `BMBF_KMU_INNOVATIV_SMARTE_SENSORIK` | KMU-innovativ - Smarte Sensorik und Messtechnik

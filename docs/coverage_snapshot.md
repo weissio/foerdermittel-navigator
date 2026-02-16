@@ -2,16 +2,16 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-16 18:48`
-- Datensaetze: `804`
-- Eindeutige `programm_id`: `804`
+- Erzeugt am: `2026-02-16 18:52`
+- Datensaetze: `806`
+- Eindeutige `programm_id`: `806`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
 | laufend | 555 |
-| offen | 244 |
+| offen | 246 |
 | geplant | 5 |
 
 ## Kategorie
@@ -19,14 +19,14 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Kategorie | Anzahl |
 |---|---:|
 | laufend | 555 |
-| offen | 244 |
+| offen | 246 |
 | zukuenftig | 5 |
 
 ## Top Regionen
 
 | Region | Anzahl |
 |---|---:|
-| Deutschland | 517 |
+| Deutschland | 519 |
 | EU (inkl. Deutschland) | 60 |
 | Deutschland/International | 36 |
 | Rheinland-Pfalz | 17 |
@@ -52,7 +52,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Traeger | Anzahl |
 |---|---:|
 | KfW | 204 |
-| BMBF | 161 |
+| BMBF | 163 |
 | BMWK | 49 |
 | BAFA | 33 |
 | Europaeische Kommission | 16 |
@@ -85,15 +85,15 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | EU-Fonds EFRE | 16 |
 | Unternehmensfinanzierung/Innovation | 16 |
 | Energieeffizienz | 14 |
+| Forschung und Entwicklung/Digital Health | 14 |
 | Internationalisierung/Export | 14 |
-| Forschung und Entwicklung/Digital Health | 13 |
 | Digitalisierung/Innovation | 11 |
 | Energieeffizienz/Lastmanagement | 9 |
 | Forschung und Entwicklung | 9 |
+| Forschung und Entwicklung/Produktionstechnik | 9 |
 | Gruendung/Nachfolge | 9 |
 | Gruendung/Wachstum | 9 |
 | Energieeffizienz/Digitalisierung | 8 |
-| Forschung und Entwicklung/Produktionstechnik | 8 |
 | Gruendung/Innovation | 8 |
 | Unternehmensfoerderung | 8 |
 
