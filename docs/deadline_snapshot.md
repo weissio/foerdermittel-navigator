@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `818`
+- Gepruefte Datensaetze: `820`
 
 ## Offen Mit Datumsfrist
 
@@ -80,6 +80,7 @@
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEABBRUCH_PRAEVENTION` | KMU-innovativ - Digitale Therapieabbruch-Praevention und adaptive Verlaufsintervention
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEADHERENZ` | KMU-innovativ - Digitale Therapieadhaerenz und personalisierte Versorgungspfade
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEAUSWERTUNG` | KMU-innovativ - Digitale Therapieauswertung und evidenzbasierte Versorgungsanalytik
+- `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEFORTSCHRITTSMESSUNG` | KMU-innovativ - Digitale Therapiefortschrittsmessung und adaptive Behandlungsplanung
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEINDIKATOREN` | KMU-innovativ - Digitale Therapieindikatoren und kontinuierliche Wirkungsmessung
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEKONTINUITAET` | KMU-innovativ - Digitale Therapiekontinuitaet und personalisierte Versorgungsbegleitung
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEPFADE_KOORDINATION` | KMU-innovativ - Digitale Therapiepfade-Koordination und vernetzte Behandlungssteuerung
@@ -178,6 +179,7 @@
 - `BMBF_KMU_INNOVATIV_SMARTE_MEDIKAMENTENLOGISTIK` | KMU-innovativ - Smarte Medikamentenlogistik und sichere Liefernetzwerke
 - `BMBF_KMU_INNOVATIV_SMARTE_MEDTECH_PRODUKTION` | KMU-innovativ - Smarte Produktion medizintechnischer Systeme
 - `BMBF_KMU_INNOVATIV_SMARTE_NETZWERKROBOTER` | KMU-innovativ - Smarte Netzwerkroboter und kooperative Automationssysteme
+- `BMBF_KMU_INNOVATIV_SMARTE_PRODUKTIONSRESILIENZ` | KMU-innovativ - Smarte Produktionsresilienz und adaptive Stoerungsreaktion
 - `BMBF_KMU_INNOVATIV_SMARTE_REINRAUMREGELUNG` | KMU-innovativ - Smarte Reinraumregelung und adaptive Kontaminationskontrolle
 - `BMBF_KMU_INNOVATIV_SMARTE_RUECKNAHMELOGISTIK` | KMU-innovativ - Smarte Ruecknahmelogistik und kreislauforientierte Verwertungspfade
 - `BMBF_KMU_INNOVATIV_SMARTE_SENSORFERTIGUNG` | KMU-innovativ - Smarte Sensorfertigung und inline-Qualitaetskontrolle

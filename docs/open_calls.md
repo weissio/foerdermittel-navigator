@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-16`
-- Offen gesamt: `258`
+- Offen gesamt: `260`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `242`
+- Rollierend/ohne Datum: `244`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -82,6 +82,7 @@
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEABBRUCH_PRAEVENTION` | KMU-innovativ - Digitale Therapieabbruch-Praevention und adaptive Verlaufsintervention | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEADHERENZ` | KMU-innovativ - Digitale Therapieadhaerenz und personalisierte Versorgungspfade | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEAUSWERTUNG` | KMU-innovativ - Digitale Therapieauswertung und evidenzbasierte Versorgungsanalytik | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEFORTSCHRITTSMESSUNG` | KMU-innovativ - Digitale Therapiefortschrittsmessung und adaptive Behandlungsplanung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEINDIKATOREN` | KMU-innovativ - Digitale Therapieindikatoren und kontinuierliche Wirkungsmessung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEKONTINUITAET` | KMU-innovativ - Digitale Therapiekontinuitaet und personalisierte Versorgungsbegleitung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEPFADE_KOORDINATION` | KMU-innovativ - Digitale Therapiepfade-Koordination und vernetzte Behandlungssteuerung | rollierend | https://www.kmu-innovativ.de/
@@ -180,6 +181,7 @@
 - `BMBF_KMU_INNOVATIV_SMARTE_MEDIKAMENTENLOGISTIK` | KMU-innovativ - Smarte Medikamentenlogistik und sichere Liefernetzwerke | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_SMARTE_MEDTECH_PRODUKTION` | KMU-innovativ - Smarte Produktion medizintechnischer Systeme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_SMARTE_NETZWERKROBOTER` | KMU-innovativ - Smarte Netzwerkroboter und kooperative Automationssysteme | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_SMARTE_PRODUKTIONSRESILIENZ` | KMU-innovativ - Smarte Produktionsresilienz und adaptive Stoerungsreaktion | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_SMARTE_REINRAUMREGELUNG` | KMU-innovativ - Smarte Reinraumregelung und adaptive Kontaminationskontrolle | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_SMARTE_RUECKNAHMELOGISTIK` | KMU-innovativ - Smarte Ruecknahmelogistik und kreislauforientierte Verwertungspfade | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_SMARTE_SENSORFERTIGUNG` | KMU-innovativ - Smarte Sensorfertigung und inline-Qualitaetskontrolle | rollierend | https://www.kmu-innovativ.de/
