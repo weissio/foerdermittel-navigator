@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `708`
+- Gepruefte Datensaetze: `710`
 
 ## Offen Mit Datumsfrist
 
@@ -40,6 +40,7 @@
 - `BMBF_KMU_INNOVATIV_CIRCULAR_PLASTICS` | KMU-innovativ - Circular Plastics und polymerbasierte Kreislaufsysteme
 - `BMBF_KMU_INNOVATIV_CLEANROOM_AUTOMATION` | KMU-innovativ - Reinraumautomation und Hightech-Produktion
 - `BMBF_KMU_INNOVATIV_CYBERPHYSIK` | KMU-innovativ - Cyber-physische Systeme und industrielle Vernetzung
+- `BMBF_KMU_INNOVATIV_DIGITAL_BAUSTELLEN` | KMU-innovativ - Digitale Baustellen und autonome Bauprozesse
 - `BMBF_KMU_INNOVATIV_DIGITAL_HEALTH_DEVICES` | KMU-innovativ - Digitale Gesundheitsgeraete und vernetzte Medizinsysteme
 - `BMBF_KMU_INNOVATIV_DIGITAL_TWIN` | KMU-innovativ - Digitale Zwillinge fuer industrielle Anwendungen
 - `BMBF_KMU_INNOVATIV_EDGE_IOT` | KMU-innovativ - Edge-Computing und industrielle IoT-Systeme
@@ -66,6 +67,7 @@
 - `BMBF_KMU_INNOVATIV_MED_ROBOTICS` | KMU-innovativ - Medizinrobotik und assistive Systeme
 - `BMBF_KMU_INNOVATIV_MIKROELEKTRONIK` | KMU-innovativ - Mikroelektronik und eingebettete Systeme
 - `BMBF_KMU_INNOVATIV_MOBILITAET` | KMU-innovativ - Intelligente Mobilitaet und Verkehrssysteme
+- `BMBF_KMU_INNOVATIV_NACHHALTIGE_LOGISTIK_H2` | KMU-innovativ - Nachhaltige Logistik mit Wasserstoff- und E-Antrieben
 - `BMBF_KMU_INNOVATIV_NACHHALTIGE_PROZESSWAERME` | KMU-innovativ - Nachhaltige Prozesswaerme und industrielle Waermenutzung
 - `BMBF_KMU_INNOVATIV_NANOTECH` | KMU-innovativ - Nanotechnologie und neue Werkstoffsysteme
 - `BMBF_KMU_INNOVATIV_PHOTONIK` | KMU-innovativ - Photonik und Quantentechnologien

@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-16`
-- Offen gesamt: `148`
+- Offen gesamt: `150`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `132`
+- Rollierend/ohne Datum: `134`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -42,6 +42,7 @@
 - `BMBF_KMU_INNOVATIV_CIRCULAR_PLASTICS` | KMU-innovativ - Circular Plastics und polymerbasierte Kreislaufsysteme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_CLEANROOM_AUTOMATION` | KMU-innovativ - Reinraumautomation und Hightech-Produktion | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_CYBERPHYSIK` | KMU-innovativ - Cyber-physische Systeme und industrielle Vernetzung | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_DIGITAL_BAUSTELLEN` | KMU-innovativ - Digitale Baustellen und autonome Bauprozesse | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITAL_HEALTH_DEVICES` | KMU-innovativ - Digitale Gesundheitsgeraete und vernetzte Medizinsysteme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITAL_TWIN` | KMU-innovativ - Digitale Zwillinge fuer industrielle Anwendungen | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_EDGE_IOT` | KMU-innovativ - Edge-Computing und industrielle IoT-Systeme | rollierend | https://www.kmu-innovativ.de/
@@ -68,6 +69,7 @@
 - `BMBF_KMU_INNOVATIV_MED_ROBOTICS` | KMU-innovativ - Medizinrobotik und assistive Systeme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_MIKROELEKTRONIK` | KMU-innovativ - Mikroelektronik und eingebettete Systeme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_MOBILITAET` | KMU-innovativ - Intelligente Mobilitaet und Verkehrssysteme | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_NACHHALTIGE_LOGISTIK_H2` | KMU-innovativ - Nachhaltige Logistik mit Wasserstoff- und E-Antrieben | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_NACHHALTIGE_PROZESSWAERME` | KMU-innovativ - Nachhaltige Prozesswaerme und industrielle Waermenutzung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_NANOTECH` | KMU-innovativ - Nanotechnologie und neue Werkstoffsysteme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_PHOTONIK` | KMU-innovativ - Photonik und Quantentechnologien | rollierend | https://www.kmu-innovativ.de/
