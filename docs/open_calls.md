@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-16`
-- Offen gesamt: `166`
+- Offen gesamt: `168`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `150`
+- Rollierend/ohne Datum: `152`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -57,6 +57,7 @@
 - `BMBF_KMU_INNOVATIV_ENERGIE_NETZSTABILITAET` | KMU-innovativ - Energie-Netzstabilitaet und Flexibilitaetsloesungen | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_GRUENE_CHEMIE` | KMU-innovativ - Gruene Chemie und nachhaltige Verfahrenstechnik | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_H2_PTK` | KMU-innovativ - Wasserstoff, Power-to-X und klimaneutrale Prozessketten | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_HOCHTEMPERATUR_WERKSTOFFE` | KMU-innovativ - Hochtemperatur-Werkstoffe und resiliente Prozesskomponenten | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_IKT` | KMU-innovativ - Informations- und Kommunikationstechnologien (IKT) | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_INTERAKTIVE_TECH` | KMU-innovativ - Interaktive Technologien fuer Gesundheit und Lebensqualitaet | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_KI_DATENRAEUME` | KMU-innovativ - KI und industrielle Datenraeume | rollierend | https://www.kmu-innovativ.de/
@@ -106,6 +107,7 @@
 - `BMBF_KMU_INNOVATIV_SMARTE_WERTSTOFFSTROEME` | KMU-innovativ - Smarte Wertstoffstroeme und industrielle Kreislaufplattformen | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_SOFTWAREROBOTIK` | KMU-innovativ - Softwareintensive Systeme und Robotik | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_SUSTAINABLE_PACKAGING` | KMU-innovativ - Nachhaltige Verpackungs- und Materialsysteme | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_VERTRAUENSWUERDIGE_KI_SYSTEME` | KMU-innovativ - Vertrauenswuerdige KI-Systeme und auditierbare Modelle | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_WASSERTECH` | KMU-innovativ - Wassertechnologien und nachhaltige Wassersysteme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_WERKSTOFFRECYCLING` | KMU-innovativ - Werkstoffrecycling und zirkulaere Materialien | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_ZELLTHERAPIE` | KMU-innovativ - Zelltherapien und biomedizinische Plattformtechnologien | rollierend | https://www.kmu-innovativ.de/

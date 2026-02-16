@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `726`
+- Gepruefte Datensaetze: `728`
 
 ## Offen Mit Datumsfrist
 
@@ -55,6 +55,7 @@
 - `BMBF_KMU_INNOVATIV_ENERGIE_NETZSTABILITAET` | KMU-innovativ - Energie-Netzstabilitaet und Flexibilitaetsloesungen
 - `BMBF_KMU_INNOVATIV_GRUENE_CHEMIE` | KMU-innovativ - Gruene Chemie und nachhaltige Verfahrenstechnik
 - `BMBF_KMU_INNOVATIV_H2_PTK` | KMU-innovativ - Wasserstoff, Power-to-X und klimaneutrale Prozessketten
+- `BMBF_KMU_INNOVATIV_HOCHTEMPERATUR_WERKSTOFFE` | KMU-innovativ - Hochtemperatur-Werkstoffe und resiliente Prozesskomponenten
 - `BMBF_KMU_INNOVATIV_IKT` | KMU-innovativ - Informations- und Kommunikationstechnologien (IKT)
 - `BMBF_KMU_INNOVATIV_INTERAKTIVE_TECH` | KMU-innovativ - Interaktive Technologien fuer Gesundheit und Lebensqualitaet
 - `BMBF_KMU_INNOVATIV_KI_DATENRAEUME` | KMU-innovativ - KI und industrielle Datenraeume
@@ -104,6 +105,7 @@
 - `BMBF_KMU_INNOVATIV_SMARTE_WERTSTOFFSTROEME` | KMU-innovativ - Smarte Wertstoffstroeme und industrielle Kreislaufplattformen
 - `BMBF_KMU_INNOVATIV_SOFTWAREROBOTIK` | KMU-innovativ - Softwareintensive Systeme und Robotik
 - `BMBF_KMU_INNOVATIV_SUSTAINABLE_PACKAGING` | KMU-innovativ - Nachhaltige Verpackungs- und Materialsysteme
+- `BMBF_KMU_INNOVATIV_VERTRAUENSWUERDIGE_KI_SYSTEME` | KMU-innovativ - Vertrauenswuerdige KI-Systeme und auditierbare Modelle
 - `BMBF_KMU_INNOVATIV_WASSERTECH` | KMU-innovativ - Wassertechnologien und nachhaltige Wassersysteme
 - `BMBF_KMU_INNOVATIV_WERKSTOFFRECYCLING` | KMU-innovativ - Werkstoffrecycling und zirkulaere Materialien
 - `BMBF_KMU_INNOVATIV_ZELLTHERAPIE` | KMU-innovativ - Zelltherapien und biomedizinische Plattformtechnologien
