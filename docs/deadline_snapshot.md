@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `800`
+- Gepruefte Datensaetze: `802`
 
 ## Offen Mit Datumsfrist
 
@@ -78,6 +78,7 @@
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEAUSWERTUNG` | KMU-innovativ - Digitale Therapieauswertung und evidenzbasierte Versorgungsanalytik
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEPFAD_PROGNOSE` | KMU-innovativ - Digitale Therapiepfad-Prognose und adaptive Versorgungsempfehlungen
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEPLAN_STEUERUNG` | KMU-innovativ - Digitale Therapieplan-Steuerung und adaptive Behandlungskoordination
+- `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEQUALITAET` | KMU-innovativ - Digitale Therapiequalitaet und kontinuierliche Versorgungsbewertung
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIE_COMPLIANCE` | KMU-innovativ - Digitale Therapie-Compliance und kontinuierliches Outcome-Monitoring
 - `BMBF_KMU_INNOVATIV_DIGITALE_WARTUNGSKETTEN` | KMU-innovativ - Digitale Wartungsketten und zustandsbasierte Instandhaltung
 - `BMBF_KMU_INNOVATIV_DIGITALE_WIRKSTOFFENTWICKLUNG` | KMU-innovativ - Digitale Wirkstoffentwicklung und molekulare Modellierung
@@ -87,6 +88,7 @@
 - `BMBF_KMU_INNOVATIV_EDGE_FERTIGUNGSANALYTIK` | KMU-innovativ - Edge-Fertigungsanalytik und selbstoptimierende Produktionssysteme
 - `BMBF_KMU_INNOVATIV_EDGE_GESUNDHEIT` | KMU-innovativ - Edge-Computing fuer vernetzte Gesundheitssysteme
 - `BMBF_KMU_INNOVATIV_EDGE_IOT` | KMU-innovativ - Edge-Computing und industrielle IoT-Systeme
+- `BMBF_KMU_INNOVATIV_EDGE_PROZESSSICHERUNG` | KMU-innovativ - Edge-Prozesssicherung und adaptive Qualitaetsregelkreise
 - `BMBF_KMU_INNOVATIV_ELEKTRONIK` | KMU-innovativ - Elektronik und Mikrosystemtechnik
 - `BMBF_KMU_INNOVATIV_EMISSIONSARME_VERBRENNUNG` | KMU-innovativ - Emissionsarme Verbrennung und Abgasnachbehandlung
 - `BMBF_KMU_INNOVATIV_ENERGIETECH` | KMU-innovativ - Energietechnologien

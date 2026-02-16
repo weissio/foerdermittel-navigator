@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-16`
-- Offen gesamt: `240`
+- Offen gesamt: `242`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `224`
+- Rollierend/ohne Datum: `226`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -80,6 +80,7 @@
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEAUSWERTUNG` | KMU-innovativ - Digitale Therapieauswertung und evidenzbasierte Versorgungsanalytik | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEPFAD_PROGNOSE` | KMU-innovativ - Digitale Therapiepfad-Prognose und adaptive Versorgungsempfehlungen | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEPLAN_STEUERUNG` | KMU-innovativ - Digitale Therapieplan-Steuerung und adaptive Behandlungskoordination | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEQUALITAET` | KMU-innovativ - Digitale Therapiequalitaet und kontinuierliche Versorgungsbewertung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIE_COMPLIANCE` | KMU-innovativ - Digitale Therapie-Compliance und kontinuierliches Outcome-Monitoring | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_WARTUNGSKETTEN` | KMU-innovativ - Digitale Wartungsketten und zustandsbasierte Instandhaltung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_WIRKSTOFFENTWICKLUNG` | KMU-innovativ - Digitale Wirkstoffentwicklung und molekulare Modellierung | rollierend | https://www.kmu-innovativ.de/
@@ -89,6 +90,7 @@
 - `BMBF_KMU_INNOVATIV_EDGE_FERTIGUNGSANALYTIK` | KMU-innovativ - Edge-Fertigungsanalytik und selbstoptimierende Produktionssysteme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_EDGE_GESUNDHEIT` | KMU-innovativ - Edge-Computing fuer vernetzte Gesundheitssysteme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_EDGE_IOT` | KMU-innovativ - Edge-Computing und industrielle IoT-Systeme | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_EDGE_PROZESSSICHERUNG` | KMU-innovativ - Edge-Prozesssicherung und adaptive Qualitaetsregelkreise | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_ELEKTRONIK` | KMU-innovativ - Elektronik und Mikrosystemtechnik | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_EMISSIONSARME_VERBRENNUNG` | KMU-innovativ - Emissionsarme Verbrennung und Abgasnachbehandlung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_ENERGIETECH` | KMU-innovativ - Energietechnologien | rollierend | https://www.kmu-innovativ.de/
