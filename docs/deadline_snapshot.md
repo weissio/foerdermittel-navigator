@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `323`
+- Gepruefte Datensaetze: `325`
 
 ## Offen Mit Datumsfrist
 
@@ -36,6 +36,7 @@
 - `EU_EUREKA_GLOBALSTARS` | Globalstars (EUREKA)
 - `EU_EUROPEAN_DEFENCE_FUND` | European Defence Fund (EDF)
 - `EU_EUROSTARS` | Eurostars (EUREKA / Innovative SMEs Partnership)
+- `EU_HORIZON_MISSIONS` | Horizon Europe Missions (Calls)
 - `EU_HORIZON_RESEARCH_INFRASTRUCTURES` | Horizon Europe - Research Infrastructures Calls
 - `EU_INNOVATION_FUND` | Innovation Fund (EU ETS)
 - `EU_INTERREG` | Interreg 2021-2027
@@ -43,6 +44,7 @@
 - `EU_JUST_TRANSITION_FUND` | Just Transition Fund (JTF) Programme
 - `EU_LIFE_PROGRAMME` | LIFE Programme (EU)
 - `EU_SPACE_PROGRAMME` | EU Space Programme (inkl. CASSINI/EUSPA Calls)
+- `EU_URBACT_IV` | URBACT IV Programme
 - `IBB_GO_BIO_INITIAL` | Go-Bio initial (Berlin)
 - `NRW_MID_ASSISTENZ` | Mittelstand Innovativ & Digital (MID) - Digitale Assistenzsysteme
 - `NRW_MID_DIGITALISIERUNG` | Mittelstand Innovativ & Digital (MID) - Digitalisierung
