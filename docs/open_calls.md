@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-16`
-- Offen gesamt: `246`
+- Offen gesamt: `248`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `230`
+- Rollierend/ohne Datum: `232`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -79,6 +79,7 @@
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEABBRUCH_PRAEVENTION` | KMU-innovativ - Digitale Therapieabbruch-Praevention und adaptive Verlaufsintervention | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEADHERENZ` | KMU-innovativ - Digitale Therapieadhaerenz und personalisierte Versorgungspfade | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEAUSWERTUNG` | KMU-innovativ - Digitale Therapieauswertung und evidenzbasierte Versorgungsanalytik | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEPFADE_KOORDINATION` | KMU-innovativ - Digitale Therapiepfade-Koordination und vernetzte Behandlungssteuerung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEPFAD_PROGNOSE` | KMU-innovativ - Digitale Therapiepfad-Prognose und adaptive Versorgungsempfehlungen | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEPLAN_STEUERUNG` | KMU-innovativ - Digitale Therapieplan-Steuerung und adaptive Behandlungskoordination | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEQUALITAET` | KMU-innovativ - Digitale Therapiequalitaet und kontinuierliche Versorgungsbewertung | rollierend | https://www.kmu-innovativ.de/
@@ -142,6 +143,7 @@
 - `BMBF_KMU_INNOVATIV_NEUROTECH_ASSISTENZ` | KMU-innovativ - Neurotechnologie und assistive Mensch-Maschine-Schnittstellen | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_PHOTONIK` | KMU-innovativ - Photonik und Quantentechnologien | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_PRAEDIKTIVE_MATERIALFLUESSE` | KMU-innovativ - Praediktive Materialfluesse und adaptive Produktionslogistik | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_PRAEZISE_PROZESSWAERME_STEUERUNG` | KMU-innovativ - Praezise Prozesswaerme-Steuerung und adaptive Energieintegration | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_PRAEZISIONSFERMENTATION` | KMU-innovativ - Praezisionsfermentation und biobasierte Wertstoffe | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_PRAEZISIONSLANDWIRTSCHAFT_KI` | KMU-innovativ - KI-gestuetzte Praezisionslandwirtschaft und autonome Feldsysteme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_PRODUKTION` | KMU-innovativ - Produktionstechnologie | rollierend | https://www.kmu-innovativ.de/

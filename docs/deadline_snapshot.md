@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `806`
+- Gepruefte Datensaetze: `808`
 
 ## Offen Mit Datumsfrist
 
@@ -77,6 +77,7 @@
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEABBRUCH_PRAEVENTION` | KMU-innovativ - Digitale Therapieabbruch-Praevention und adaptive Verlaufsintervention
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEADHERENZ` | KMU-innovativ - Digitale Therapieadhaerenz und personalisierte Versorgungspfade
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEAUSWERTUNG` | KMU-innovativ - Digitale Therapieauswertung und evidenzbasierte Versorgungsanalytik
+- `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEPFADE_KOORDINATION` | KMU-innovativ - Digitale Therapiepfade-Koordination und vernetzte Behandlungssteuerung
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEPFAD_PROGNOSE` | KMU-innovativ - Digitale Therapiepfad-Prognose und adaptive Versorgungsempfehlungen
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEPLAN_STEUERUNG` | KMU-innovativ - Digitale Therapieplan-Steuerung und adaptive Behandlungskoordination
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEQUALITAET` | KMU-innovativ - Digitale Therapiequalitaet und kontinuierliche Versorgungsbewertung
@@ -140,6 +141,7 @@
 - `BMBF_KMU_INNOVATIV_NEUROTECH_ASSISTENZ` | KMU-innovativ - Neurotechnologie und assistive Mensch-Maschine-Schnittstellen
 - `BMBF_KMU_INNOVATIV_PHOTONIK` | KMU-innovativ - Photonik und Quantentechnologien
 - `BMBF_KMU_INNOVATIV_PRAEDIKTIVE_MATERIALFLUESSE` | KMU-innovativ - Praediktive Materialfluesse und adaptive Produktionslogistik
+- `BMBF_KMU_INNOVATIV_PRAEZISE_PROZESSWAERME_STEUERUNG` | KMU-innovativ - Praezise Prozesswaerme-Steuerung und adaptive Energieintegration
 - `BMBF_KMU_INNOVATIV_PRAEZISIONSFERMENTATION` | KMU-innovativ - Praezisionsfermentation und biobasierte Wertstoffe
 - `BMBF_KMU_INNOVATIV_PRAEZISIONSLANDWIRTSCHAFT_KI` | KMU-innovativ - KI-gestuetzte Praezisionslandwirtschaft und autonome Feldsysteme
 - `BMBF_KMU_INNOVATIV_PRODUKTION` | KMU-innovativ - Produktionstechnologie
