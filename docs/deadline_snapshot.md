@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `724`
+- Gepruefte Datensaetze: `726`
 
 ## Offen Mit Datumsfrist
 
@@ -26,6 +26,7 @@
 
 - `BMAS_KOMPASS_QUALIFIZIERUNGSSCHECK` | KOMPASS - Qualifizierungsscheck fuer Solo-Selbststaendige
 - `BMBF_KMU_INNOVATIV_5G_6G_INDUSTRIE` | KMU-innovativ - 5G/6G und vernetzte Industrieanwendungen
+- `BMBF_KMU_INNOVATIV_ADAPTIVE_PRODUKTIONSLINIEN` | KMU-innovativ - Adaptive Produktionslinien und modulare Fabriksysteme
 - `BMBF_KMU_INNOVATIV_ADDITIVE_FERTIGUNG` | KMU-innovativ - Additive Fertigung und neue Produktionsverfahren
 - `BMBF_KMU_INNOVATIV_AGRITECH` | KMU-innovativ - Agrar- und Lebensmitteltechnologien
 - `BMBF_KMU_INNOVATIV_ASSISTIVE_ROBOTIK_GESUNDHEIT` | KMU-innovativ - Assistive Robotik in Gesundheit und Pflege
@@ -80,6 +81,7 @@
 - `BMBF_KMU_INNOVATIV_NANOTECH` | KMU-innovativ - Nanotechnologie und neue Werkstoffsysteme
 - `BMBF_KMU_INNOVATIV_NEUROTECH_ASSISTENZ` | KMU-innovativ - Neurotechnologie und assistive Mensch-Maschine-Schnittstellen
 - `BMBF_KMU_INNOVATIV_PHOTONIK` | KMU-innovativ - Photonik und Quantentechnologien
+- `BMBF_KMU_INNOVATIV_PRAEZISIONSFERMENTATION` | KMU-innovativ - Praezisionsfermentation und biobasierte Wertstoffe
 - `BMBF_KMU_INNOVATIV_PRODUKTION` | KMU-innovativ - Produktionstechnologie
 - `BMBF_KMU_INNOVATIV_QUANTUM_COMMUNICATION` | KMU-innovativ - Quantenkommunikation und sichere Netze
 - `BMBF_KMU_INNOVATIV_QUANTUM_SENSORS` | KMU-innovativ - Quantensensorik und Praezisionsmesstechnik

@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-16`
-- Offen gesamt: `164`
+- Offen gesamt: `166`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `148`
+- Rollierend/ohne Datum: `150`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -28,6 +28,7 @@
 
 - `BMAS_KOMPASS_QUALIFIZIERUNGSSCHECK` | KOMPASS - Qualifizierungsscheck fuer Solo-Selbststaendige | rollierend | https://www.esfplus.de/portal/DE/ESF-Plus-2021-2027/Foerderprogramme/bmas/kompass/inhalt.html
 - `BMBF_KMU_INNOVATIV_5G_6G_INDUSTRIE` | KMU-innovativ - 5G/6G und vernetzte Industrieanwendungen | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_ADAPTIVE_PRODUKTIONSLINIEN` | KMU-innovativ - Adaptive Produktionslinien und modulare Fabriksysteme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_ADDITIVE_FERTIGUNG` | KMU-innovativ - Additive Fertigung und neue Produktionsverfahren | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_AGRITECH` | KMU-innovativ - Agrar- und Lebensmitteltechnologien | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_ASSISTIVE_ROBOTIK_GESUNDHEIT` | KMU-innovativ - Assistive Robotik in Gesundheit und Pflege | rollierend | https://www.kmu-innovativ.de/
@@ -82,6 +83,7 @@
 - `BMBF_KMU_INNOVATIV_NANOTECH` | KMU-innovativ - Nanotechnologie und neue Werkstoffsysteme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_NEUROTECH_ASSISTENZ` | KMU-innovativ - Neurotechnologie und assistive Mensch-Maschine-Schnittstellen | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_PHOTONIK` | KMU-innovativ - Photonik und Quantentechnologien | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_PRAEZISIONSFERMENTATION` | KMU-innovativ - Praezisionsfermentation und biobasierte Wertstoffe | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_PRODUKTION` | KMU-innovativ - Produktionstechnologie | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_QUANTUM_COMMUNICATION` | KMU-innovativ - Quantenkommunikation und sichere Netze | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_QUANTUM_SENSORS` | KMU-innovativ - Quantensensorik und Praezisionsmesstechnik | rollierend | https://www.kmu-innovativ.de/
