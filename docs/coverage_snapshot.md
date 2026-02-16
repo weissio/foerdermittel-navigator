@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-16 01:16`
-- Datensaetze: `293`
-- Eindeutige `programm_id`: `293`
+- Erzeugt am: `2026-02-16 01:19`
+- Datensaetze: `295`
+- Eindeutige `programm_id`: `295`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 265 |
+| laufend | 267 |
 | offen | 23 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 265 |
+| laufend | 267 |
 | offen | 23 |
 | zukuenftig | 5 |
 
@@ -34,9 +34,9 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Schleswig-Holstein | 12 |
 | Brandenburg | 11 |
 | EU (inkl. Deutschland) | 11 |
+| Nordrhein-Westfalen | 11 |
 | Sachsen | 11 |
-| Nordrhein-Westfalen | 10 |
-| Hamburg | 9 |
+| Hamburg | 10 |
 | Saarland | 9 |
 | Sachsen-Anhalt | 9 |
 | Baden-Wuerttemberg | 8 |
@@ -58,7 +58,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | ISB (Rheinland-Pfalz) | 12 |
 | NBank | 9 |
 | BMWK (ZIM) / Projekttraeger | 7 |
-| IFB Hamburg | 6 |
+| IFB Hamburg | 7 |
 | L-Bank | 6 |
 | Thueringer Aufbaubank (TAB) | 6 |
 | Investitionsbank Sachsen-Anhalt (IB) | 5 |
@@ -70,7 +70,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | EIC (EU) | 4 |
 | EISMEA (EU) | 4 |
 | LfA Foerderbank Bayern | 4 |
-| BAB - Die Foerderbank Bremen | 3 |
+| NRW.BANK | 4 |
 
 ## Top Themen
 
@@ -91,11 +91,11 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Unternehmensfinanzierung/Innovation | 6 |
 | Innovation/Beratung | 5 |
 | Innovation/Digitalisierung | 5 |
+| Unternehmensfoerderung | 5 |
 | Wachstum/Investition | 5 |
 | Digitalisierung/Innovation | 4 |
 | Forschung und Entwicklung/Innovation (international) | 4 |
 | Gruendung/Innovation | 4 |
-| Investition/Innovation | 4 |
 
 ## Feldqualitaet
 
