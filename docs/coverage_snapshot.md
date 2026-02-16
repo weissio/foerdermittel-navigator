@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-16 23:37`
-- Datensaetze: `927`
-- Eindeutige `programm_id`: `927`
+- Erzeugt am: `2026-02-16 23:45`
+- Datensaetze: `929`
+- Eindeutige `programm_id`: `929`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 563 |
+| laufend | 565 |
 | offen | 359 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 563 |
+| laufend | 565 |
 | offen | 359 |
 | zukuenftig | 5 |
 
@@ -26,7 +26,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Region | Anzahl |
 |---|---:|
-| Deutschland | 635 |
+| Deutschland | 637 |
 | EU (inkl. Deutschland) | 60 |
 | Deutschland/International | 41 |
 | Rheinland-Pfalz | 17 |
@@ -56,7 +56,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | BMWK | 54 |
 | BAFA | 33 |
 | Europaeische Kommission | 16 |
-| BMWK (ZIM) / Projekttraeger | 13 |
+| BMWK (ZIM) / Projekttraeger | 15 |
 | BMWK / EXIST | 13 |
 | Investitionsbank Berlin (IBB) | 13 |
 | BMWK / Bundesrepublik Deutschland | 12 |
@@ -82,7 +82,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Investition/Betriebsmittel | 30 |
 | EU-Fonds ESF+ | 26 |
 | Unternehmensfinanzierung | 26 |
-| Forschung und Entwicklung/Innovation | 22 |
+| Forschung und Entwicklung/Innovation | 23 |
 | Digitalisierung | 17 |
 | EU-Fonds EFRE | 16 |
 | Unternehmensfinanzierung/Innovation | 16 |
