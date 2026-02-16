@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `868`
+- Gepruefte Datensaetze: `870`
 
 ## Offen Mit Datumsfrist
 
@@ -88,6 +88,7 @@
 - `BMBF_KMU_INNOVATIV_DIGITALE_ROHSTOFFPROGNOSEN` | KMU-innovativ - Digitale Rohstoffprognosen und resiliente Beschaffungsmodelle
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPEUTIKA` | KMU-innovativ - Digitale Therapeutika und evidenzbasierte Versorgungsplattformen
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEABBRUCH_PRAEVENTION` | KMU-innovativ - Digitale Therapieabbruch-Praevention und adaptive Verlaufsintervention
+- `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEABFOLGE_INTELLIGENZ` | KMU-innovativ - Digitale Therapieabfolge-Intelligenz und adaptive Interventionsdynamik
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEABLAUF_MODELLE` | KMU-innovativ - Digitale Therapieablauf-Modelle und adaptive Versorgungsplanung
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEABSTIMMUNG` | KMU-innovativ - Digitale Therapieabstimmung und individualisierte Behandlungskoordination
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEADAPTATION` | KMU-innovativ - Digitale Therapieadaptation und kontinuierliche Behandlungsanpassung
@@ -156,6 +157,7 @@
 - `BMBF_KMU_INNOVATIV_INTELLIGENTE_FEUCHTEKONTROLLE` | KMU-innovativ - Intelligente Feuchtekontrolle und adaptive Materialtrocknung
 - `BMBF_KMU_INNOVATIV_INTELLIGENTE_KLINIK_LOGISTIK` | KMU-innovativ - Intelligente Kliniklogistik und adaptive Versorgungssteuerung
 - `BMBF_KMU_INNOVATIV_INTELLIGENTE_MATERIALSUBSTITUTION` | KMU-innovativ - Intelligente Materialsubstitution und adaptive Ressourceneffizienz
+- `BMBF_KMU_INNOVATIV_INTELLIGENTE_PRODUKTIONSADAPTATION` | KMU-innovativ - Intelligente Produktionsadaptation und resiliente Ablaufoptimierung
 - `BMBF_KMU_INNOVATIV_INTELLIGENTE_PRODUKTIONSZWILLINGE` | KMU-innovativ - Intelligente Produktionszwillinge und adaptive Anlagenoptimierung
 - `BMBF_KMU_INNOVATIV_INTELLIGENTE_PROZESSFLEXIBILITAET` | KMU-innovativ - Intelligente Prozessflexibilitaet und adaptive Fertigungsreaktion
 - `BMBF_KMU_INNOVATIV_INTELLIGENTE_WASSERANALYTIK` | KMU-innovativ - Intelligente Wasseranalytik und adaptive Aufbereitungssysteme
