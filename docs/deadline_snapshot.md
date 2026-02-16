@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `764`
+- Gepruefte Datensaetze: `766`
 
 ## Offen Mit Datumsfrist
 
@@ -86,6 +86,7 @@
 - `BMBF_KMU_INNOVATIV_KLIMARESILIENTE_INFRA` | KMU-innovativ - Klimaresiliente Infrastrukturen und adaptive Systeme
 - `BMBF_KMU_INNOVATIV_KLIMA_UMWELT` | KMU-innovativ - Klima- und Umwelttechnologien
 - `BMBF_KMU_INNOVATIV_KREBSDIAGNOSTIK` | KMU-innovativ - Onkologische Diagnostik und Praezisionsmedizin
+- `BMBF_KMU_INNOVATIV_KREISLAUFFAEHIGE_ELEKTRONIK` | KMU-innovativ - Kreislauffaehige Elektronik und reparaturfreundliche Hardwareplattformen
 - `BMBF_KMU_INNOVATIV_KREISLAUFWIRTSCHAFT` | KMU-innovativ - Kreislaufwirtschaft und Ressourceneffizienz
 - `BMBF_KMU_INNOVATIV_KREISLAUF_BATTERIEN` | KMU-innovativ - Batterierecycling und geschlossene Wertstoffkreislaufe
 - `BMBF_KMU_INNOVATIV_KREISLAUF_METALLE_DIGITAL` | KMU-innovativ - Digitale Metallkreislaufe und urbane Rohstoffrueckgewinnung
@@ -121,6 +122,7 @@
 - `BMBF_KMU_INNOVATIV_SICHERHEIT` | KMU-innovativ - Sicherheitsforschung
 - `BMBF_KMU_INNOVATIV_SMARTE_AGROSYSTEME` | KMU-innovativ - Smarte Agrarsysteme und datenbasierte Landwirtschaft
 - `BMBF_KMU_INNOVATIV_SMARTE_BIOANALYTIK` | KMU-innovativ - Smarte Bioanalytik und digitale Laborplattformen
+- `BMBF_KMU_INNOVATIV_SMARTE_BIOREAKTOREN` | KMU-innovativ - Smarte Bioreaktoren und datengetriebene Prozessskalierung
 - `BMBF_KMU_INNOVATIV_SMARTE_DIAGNOSTIKPLATTFORMEN` | KMU-innovativ - Smarte Diagnostikplattformen und Point-of-Care-Systeme
 - `BMBF_KMU_INNOVATIV_SMARTE_KATALYSEANLAGEN` | KMU-innovativ - Smarte Katalyseanlagen und adaptive Prozessfuehrung
 - `BMBF_KMU_INNOVATIV_SMARTE_KUEHLSYSTEME` | KMU-innovativ - Smarte Kuehlsysteme und energieadaptive Kaelteprozesse

@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-16`
-- Offen gesamt: `204`
+- Offen gesamt: `206`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `188`
+- Rollierend/ohne Datum: `190`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -88,6 +88,7 @@
 - `BMBF_KMU_INNOVATIV_KLIMARESILIENTE_INFRA` | KMU-innovativ - Klimaresiliente Infrastrukturen und adaptive Systeme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_KLIMA_UMWELT` | KMU-innovativ - Klima- und Umwelttechnologien | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_KREBSDIAGNOSTIK` | KMU-innovativ - Onkologische Diagnostik und Praezisionsmedizin | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_KREISLAUFFAEHIGE_ELEKTRONIK` | KMU-innovativ - Kreislauffaehige Elektronik und reparaturfreundliche Hardwareplattformen | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_KREISLAUFWIRTSCHAFT` | KMU-innovativ - Kreislaufwirtschaft und Ressourceneffizienz | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_KREISLAUF_BATTERIEN` | KMU-innovativ - Batterierecycling und geschlossene Wertstoffkreislaufe | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_KREISLAUF_METALLE_DIGITAL` | KMU-innovativ - Digitale Metallkreislaufe und urbane Rohstoffrueckgewinnung | rollierend | https://www.kmu-innovativ.de/
@@ -123,6 +124,7 @@
 - `BMBF_KMU_INNOVATIV_SICHERHEIT` | KMU-innovativ - Sicherheitsforschung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_SMARTE_AGROSYSTEME` | KMU-innovativ - Smarte Agrarsysteme und datenbasierte Landwirtschaft | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_SMARTE_BIOANALYTIK` | KMU-innovativ - Smarte Bioanalytik und digitale Laborplattformen | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_SMARTE_BIOREAKTOREN` | KMU-innovativ - Smarte Bioreaktoren und datengetriebene Prozessskalierung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_SMARTE_DIAGNOSTIKPLATTFORMEN` | KMU-innovativ - Smarte Diagnostikplattformen und Point-of-Care-Systeme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_SMARTE_KATALYSEANLAGEN` | KMU-innovativ - Smarte Katalyseanlagen und adaptive Prozessfuehrung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_SMARTE_KUEHLSYSTEME` | KMU-innovativ - Smarte Kuehlsysteme und energieadaptive Kaelteprozesse | rollierend | https://www.kmu-innovativ.de/
