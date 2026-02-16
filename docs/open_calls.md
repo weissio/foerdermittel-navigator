@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-16`
-- Offen gesamt: `343`
+- Offen gesamt: `344`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `327`
+- Rollierend/ohne Datum: `328`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -294,6 +294,7 @@
 - `BMWK_IGP_PHASE1` | IGP - Phase 1 (Ideenwettbewerb/Skizze) | rollierend | https://www.bmwk.de/Redaktion/DE/Artikel/Innovation/igp.html
 - `BMWK_IGP_PHASE2` | IGP - Phase 2 (Umsetzungsprojekt) | rollierend | https://www.bmwk.de/Redaktion/DE/Artikel/Innovation/igp.html
 - `BMWK_IGP` | Innovationsprogramm fuer Geschaeftsmodelle und Pionierloesungen (IGP) | rollierend | https://www.bmwk.de/Redaktion/DE/Artikel/Innovation/igp.html
+- `BMWK_KLIMASCHUTZVERTRAEGE` | Klimaschutzvertraege (Carbon Contracts for Difference, CCfD) | rollierend | https://www.bmwk.de/Redaktion/DE/Dossier/klimaschutzvertraege.html
 - `ESF_BAYERN_AUFRUFE_OFFEN` | ESF+ Bayern - Programmaufrufe (offen/rollierend) | rollierend | https://www.esf.bayern.de/
 - `ESF_BW_AUFRUFE_OFFEN` | ESF+ Baden-Wuerttemberg - Programmaufrufe (offen/rollierend) | rollierend | https://www.esf-bw.de/esf-plus-in-bw/programm-des-esf-plus-in-baden-wuerttemberg
 - `ESF_HAMBURG_AUFRUFE_OFFEN` | ESF+ Hamburg - Projektaufrufe (offen/rollierend) | rollierend | https://www.esf-hamburg.de/foerderung-617696

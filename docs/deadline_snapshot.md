@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `908`
+- Gepruefte Datensaetze: `910`
 
 ## Offen Mit Datumsfrist
 
@@ -292,6 +292,7 @@
 - `BMWK_IGP_PHASE1` | IGP - Phase 1 (Ideenwettbewerb/Skizze)
 - `BMWK_IGP_PHASE2` | IGP - Phase 2 (Umsetzungsprojekt)
 - `BMWK_IGP` | Innovationsprogramm fuer Geschaeftsmodelle und Pionierloesungen (IGP)
+- `BMWK_KLIMASCHUTZVERTRAEGE` | Klimaschutzvertraege (Carbon Contracts for Difference, CCfD)
 - `ESF_BAYERN_AUFRUFE_OFFEN` | ESF+ Bayern - Programmaufrufe (offen/rollierend)
 - `ESF_BW_AUFRUFE_OFFEN` | ESF+ Baden-Wuerttemberg - Programmaufrufe (offen/rollierend)
 - `ESF_HAMBURG_AUFRUFE_OFFEN` | ESF+ Hamburg - Projektaufrufe (offen/rollierend)
