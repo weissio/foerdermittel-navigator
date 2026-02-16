@@ -1,14 +1,14 @@
 # Data Gaps
 
-- Erzeugt am: `2026-02-16 07:00`
-- Datensaetze: `464`
+- Erzeugt am: `2026-02-16 07:04`
+- Datensaetze: `466`
 
 ## Status-Verteilung
 
 | Status | Anzahl |
 |---|---:|
 | geplant | 5 |
-| laufend | 377 |
+| laufend | 379 |
 | offen | 82 |
 
 ## Unterrepraesentierte Regionen
@@ -37,7 +37,7 @@
 |---|---:|
 | Deutschland | 179 |
 | EU (inkl. Deutschland) | 60 |
-| Deutschland/International | 34 |
+| Deutschland/International | 36 |
 | Rheinland-Pfalz | 17 |
 | Berlin | 16 |
 | Bayern | 14 |
@@ -66,10 +66,10 @@
 | BMWK/ZIM (DE) + NRC IRAP (CA) | 1 |
 | BMZ / DEG | 1 |
 | BMZ / DEG / GIZ | 1 |
-| BMZ / DEG Impulse | 1 |
 | BMZ / GIZ | 1 |
 | Bayern Kapital | 1 |
 | Bund/Land (EFRE) | 1 |
+| Bund/Land (ESF+) | 1 |
 
 ## Unterrepraesentierte Themen
 
