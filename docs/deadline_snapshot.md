@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `343`
+- Gepruefte Datensaetze: `345`
 
 ## Offen Mit Datumsfrist
 
@@ -37,6 +37,7 @@
 - `EU_EIC_PATHFINDER` | EIC Pathfinder (EU)
 - `EU_EIC_TRANSITION` | EIC Transition (EU)
 - `EU_EIT_COMMUNITY` | European Institute of Innovation and Technology (EIT) - Funding & Calls
+- `EU_ENTERPRISE_EUROPE_NETWORK` | Enterprise Europe Network (SMP COSME Strand)
 - `EU_ERASMUS_PLUS` | Erasmus+ Programme
 - `EU_EU4HEALTH` | EU4Health Programme
 - `EU_EUREKA_GLOBALSTARS` | Globalstars (EUREKA)
@@ -55,6 +56,7 @@
 - `EU_HORIZON_WIDERA` | Horizon Europe - Widening Participation and Strengthening the European Research Area (WIDERA)
 - `EU_I3_INSTRUMENT` | Interregional Innovation Investments Instrument (I3)
 - `EU_INNOVATION_FUND` | Innovation Fund (EU ETS)
+- `EU_INTERREG_EUROPE` | Interreg Europe Programme 2021-2027
 - `EU_INTERREG` | Interreg 2021-2027
 - `EU_INVESTEU` | InvestEU Programme
 - `EU_JUST_TRANSITION_FUND` | Just Transition Fund (JTF) Programme

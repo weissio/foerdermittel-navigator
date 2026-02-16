@@ -274,3 +274,5 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - https://marie-sklodowska-curie-actions.ec.europa.eu/
 - https://eismea.ec.europa.eu/programmes/interregional-innovation-investments_en
 - https://digital-strategy.ec.europa.eu/en/activities/digital-programme
+- https://www.interregeurope.eu/
+- https://een.ec.europa.eu/
