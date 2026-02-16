@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `810`
+- Gepruefte Datensaetze: `812`
 
 ## Offen Mit Datumsfrist
 
@@ -37,6 +37,7 @@
 - `BMBF_KMU_INNOVATIV_ASSISTIVE_ROBOTIK_GESUNDHEIT` | KMU-innovativ - Assistive Robotik in Gesundheit und Pflege
 - `BMBF_KMU_INNOVATIV_AUTOMATION_KI` | KMU-innovativ - Automatisierung, KI und autonome Produktionssysteme
 - `BMBF_KMU_INNOVATIV_AUTONOME_ENERGIEKNOTEN` | KMU-innovativ - Autonome Energieknoten und resiliente Versorgungssysteme
+- `BMBF_KMU_INNOVATIV_AUTONOME_FABRIKLOGISTIK` | KMU-innovativ - Autonome Fabriklogistik und adaptive Materialversorgung
 - `BMBF_KMU_INNOVATIV_AUTONOME_LABORNETZE` | KMU-innovativ - Autonome Labornetze und verteilte Testinfrastrukturen
 - `BMBF_KMU_INNOVATIV_AUTONOME_MATERIALPRUEFUNG` | KMU-innovativ - Autonome Materialpruefung und KI-gestuetzte Fehlerklassifikation
 - `BMBF_KMU_INNOVATIV_AUTONOME_MIKROFABRIK` | KMU-innovativ - Autonome Mikrofabriken und dezentrale Produktion
@@ -82,6 +83,7 @@
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEPFAD_PROGNOSE` | KMU-innovativ - Digitale Therapiepfad-Prognose und adaptive Versorgungsempfehlungen
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEPLAN_STEUERUNG` | KMU-innovativ - Digitale Therapieplan-Steuerung und adaptive Behandlungskoordination
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEQUALITAET` | KMU-innovativ - Digitale Therapiequalitaet und kontinuierliche Versorgungsbewertung
+- `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEVERBESSERUNG` | KMU-innovativ - Digitale Therapieverbesserung und datengestuetzte Versorgungsanpassung
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEVERLAUFS_PROFILIERUNG` | KMU-innovativ - Digitale Therapieverlaufs-Profilierung und adaptive Interventionssteuerung
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIE_COMPLIANCE` | KMU-innovativ - Digitale Therapie-Compliance und kontinuierliches Outcome-Monitoring
 - `BMBF_KMU_INNOVATIV_DIGITALE_WARTUNGSKETTEN` | KMU-innovativ - Digitale Wartungsketten und zustandsbasierte Instandhaltung

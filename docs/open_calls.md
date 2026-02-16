@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-16`
-- Offen gesamt: `250`
+- Offen gesamt: `252`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `234`
+- Rollierend/ohne Datum: `236`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -39,6 +39,7 @@
 - `BMBF_KMU_INNOVATIV_ASSISTIVE_ROBOTIK_GESUNDHEIT` | KMU-innovativ - Assistive Robotik in Gesundheit und Pflege | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_AUTOMATION_KI` | KMU-innovativ - Automatisierung, KI und autonome Produktionssysteme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_AUTONOME_ENERGIEKNOTEN` | KMU-innovativ - Autonome Energieknoten und resiliente Versorgungssysteme | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_AUTONOME_FABRIKLOGISTIK` | KMU-innovativ - Autonome Fabriklogistik und adaptive Materialversorgung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_AUTONOME_LABORNETZE` | KMU-innovativ - Autonome Labornetze und verteilte Testinfrastrukturen | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_AUTONOME_MATERIALPRUEFUNG` | KMU-innovativ - Autonome Materialpruefung und KI-gestuetzte Fehlerklassifikation | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_AUTONOME_MIKROFABRIK` | KMU-innovativ - Autonome Mikrofabriken und dezentrale Produktion | rollierend | https://www.kmu-innovativ.de/
@@ -84,6 +85,7 @@
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEPFAD_PROGNOSE` | KMU-innovativ - Digitale Therapiepfad-Prognose und adaptive Versorgungsempfehlungen | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEPLAN_STEUERUNG` | KMU-innovativ - Digitale Therapieplan-Steuerung und adaptive Behandlungskoordination | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEQUALITAET` | KMU-innovativ - Digitale Therapiequalitaet und kontinuierliche Versorgungsbewertung | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEVERBESSERUNG` | KMU-innovativ - Digitale Therapieverbesserung und datengestuetzte Versorgungsanpassung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEVERLAUFS_PROFILIERUNG` | KMU-innovativ - Digitale Therapieverlaufs-Profilierung und adaptive Interventionssteuerung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIE_COMPLIANCE` | KMU-innovativ - Digitale Therapie-Compliance und kontinuierliches Outcome-Monitoring | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_WARTUNGSKETTEN` | KMU-innovativ - Digitale Wartungsketten und zustandsbasierte Instandhaltung | rollierend | https://www.kmu-innovativ.de/
