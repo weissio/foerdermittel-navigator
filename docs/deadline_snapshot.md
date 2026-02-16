@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `852`
+- Gepruefte Datensaetze: `854`
 
 ## Offen Mit Datumsfrist
 
@@ -107,6 +107,7 @@
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIESIGNAL_AUSWERTUNG` | KMU-innovativ - Digitale Therapiesignal-Auswertung und fruehzeitige Wirkungsdetektion
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIESTABILITAET` | KMU-innovativ - Digitale Therapiestabilitaet und kontinuierliche Versorgungssicherung
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEVERBESSERUNG` | KMU-innovativ - Digitale Therapieverbesserung und datengestuetzte Versorgungsanpassung
+- `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEVERLAUFSSEGMENTE` | KMU-innovativ - Digitale Therapieverlaufssegmente und adaptive Behandlungsdifferenzierung
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEVERLAUFS_PROFILIERUNG` | KMU-innovativ - Digitale Therapieverlaufs-Profilierung und adaptive Interventionssteuerung
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEVERLAUFS_QUALITAET` | KMU-innovativ - Digitale Therapieverlaufs-Qualitaet und adaptive Versorgungsevaluation
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEWEGE_ANALYTIK` | KMU-innovativ - Digitale Therapiewege-Analytik und personalisierte Interventionspfade
@@ -189,6 +190,7 @@
 - `BMBF_KMU_INNOVATIV_RESILIENTE_HALBLEITER_TESTKETTEN` | KMU-innovativ - Resiliente Halbleiter-Testketten und adaptive Qualifizierung
 - `BMBF_KMU_INNOVATIV_RESILIENTE_KUEHLLIEFERKETTEN` | KMU-innovativ - Resiliente Kuehllieferketten und digitale Temperaturfuehrung
 - `BMBF_KMU_INNOVATIV_RESILIENTE_LIEFERKETTEN` | KMU-innovativ - Resiliente Lieferketten und digitale Wertschöpfungsnetze
+- `BMBF_KMU_INNOVATIV_RESILIENTE_MATERIALBEREITSTELLUNG` | KMU-innovativ - Resiliente Materialbereitstellung und adaptive Produktionsversorgung
 - `BMBF_KMU_INNOVATIV_RESILIENTE_PRODUKTIONSKAPAZITAET` | KMU-innovativ - Resiliente Produktionskapazitaet und dynamische Lastverteilung
 - `BMBF_KMU_INNOVATIV_RESILIENTE_PROZESSKETTEN` | KMU-innovativ - Resiliente Prozessketten und adaptive Produktionskontinuitaet
 - `BMBF_KMU_INNOVATIV_RESILIENTE_PROZESSSYNCHRONISATION` | KMU-innovativ - Resiliente Prozesssynchronisation und adaptive Fertigungskoordination

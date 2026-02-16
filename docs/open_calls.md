@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-16`
-- Offen gesamt: `292`
+- Offen gesamt: `294`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `276`
+- Rollierend/ohne Datum: `278`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -109,6 +109,7 @@
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIESIGNAL_AUSWERTUNG` | KMU-innovativ - Digitale Therapiesignal-Auswertung und fruehzeitige Wirkungsdetektion | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIESTABILITAET` | KMU-innovativ - Digitale Therapiestabilitaet und kontinuierliche Versorgungssicherung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEVERBESSERUNG` | KMU-innovativ - Digitale Therapieverbesserung und datengestuetzte Versorgungsanpassung | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEVERLAUFSSEGMENTE` | KMU-innovativ - Digitale Therapieverlaufssegmente und adaptive Behandlungsdifferenzierung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEVERLAUFS_PROFILIERUNG` | KMU-innovativ - Digitale Therapieverlaufs-Profilierung und adaptive Interventionssteuerung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEVERLAUFS_QUALITAET` | KMU-innovativ - Digitale Therapieverlaufs-Qualitaet und adaptive Versorgungsevaluation | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEWEGE_ANALYTIK` | KMU-innovativ - Digitale Therapiewege-Analytik und personalisierte Interventionspfade | rollierend | https://www.kmu-innovativ.de/
@@ -191,6 +192,7 @@
 - `BMBF_KMU_INNOVATIV_RESILIENTE_HALBLEITER_TESTKETTEN` | KMU-innovativ - Resiliente Halbleiter-Testketten und adaptive Qualifizierung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_RESILIENTE_KUEHLLIEFERKETTEN` | KMU-innovativ - Resiliente Kuehllieferketten und digitale Temperaturfuehrung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_RESILIENTE_LIEFERKETTEN` | KMU-innovativ - Resiliente Lieferketten und digitale Wertschöpfungsnetze | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_RESILIENTE_MATERIALBEREITSTELLUNG` | KMU-innovativ - Resiliente Materialbereitstellung und adaptive Produktionsversorgung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_RESILIENTE_PRODUKTIONSKAPAZITAET` | KMU-innovativ - Resiliente Produktionskapazitaet und dynamische Lastverteilung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_RESILIENTE_PROZESSKETTEN` | KMU-innovativ - Resiliente Prozessketten und adaptive Produktionskontinuitaet | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_RESILIENTE_PROZESSSYNCHRONISATION` | KMU-innovativ - Resiliente Prozesssynchronisation und adaptive Fertigungskoordination | rollierend | https://www.kmu-innovativ.de/
