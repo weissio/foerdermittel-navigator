@@ -234,3 +234,5 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - https://www.sikb.de/foerderprodukte/unternehmensfoerderung
 - https://www.ib-sachsen-anhalt.de/de/unternehmen
 - https://www.sab.sachsen.de/foerderprogramme
+- https://efre.rlp.de/
+- https://www.hamburg.de/politik-und-verwaltung/behoerden/behoerde-fuer-wirtschaft-und-innovation/themen/europa-foerdert-hamburg-efre-30506
