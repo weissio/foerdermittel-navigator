@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `876`
+- Gepruefte Datensaetze: `878`
 
 ## Offen Mit Datumsfrist
 
@@ -100,6 +100,7 @@
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEFORTSCHRITTSMESSUNG` | KMU-innovativ - Digitale Therapiefortschrittsmessung und adaptive Behandlungsplanung
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEINDIKATOREN` | KMU-innovativ - Digitale Therapieindikatoren und kontinuierliche Wirkungsmessung
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEKETTEN_STEUERUNG` | KMU-innovativ - Digitale Therapieketten-Steuerung und adaptive Versorgungssequenzierung
+- `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEKOHAERENZ` | KMU-innovativ - Digitale Therapiekohaerenz und adaptive Versorgungskonsistenz
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEKOHORTEN_ANALYSE` | KMU-innovativ - Digitale Therapiekohorten-Analyse und personalisierte Wirksamkeitsprofile
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEKOHORTEN_STEUERUNG` | KMU-innovativ - Digitale Therapiekohorten-Steuerung und adaptive Versorgungspfade
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEKONTEXT_MODELLE` | KMU-innovativ - Digitale Therapiekontext-Modelle und adaptive Behandlungsdynamik
@@ -212,6 +213,7 @@
 - `BMBF_KMU_INNOVATIV_RESILIENTE_LIEFERKETTEN` | KMU-innovativ - Resiliente Lieferketten und digitale Wertschöpfungsnetze
 - `BMBF_KMU_INNOVATIV_RESILIENTE_MATERIALBEREITSTELLUNG` | KMU-innovativ - Resiliente Materialbereitstellung und adaptive Produktionsversorgung
 - `BMBF_KMU_INNOVATIV_RESILIENTE_PRODUKTIONSKAPAZITAET` | KMU-innovativ - Resiliente Produktionskapazitaet und dynamische Lastverteilung
+- `BMBF_KMU_INNOVATIV_RESILIENTE_PRODUKTIONSVERKNUEPFUNG` | KMU-innovativ - Resiliente Produktionsverknuepfung und adaptive Ablaufkonsistenz
 - `BMBF_KMU_INNOVATIV_RESILIENTE_PROZESSINTELLIGENZ` | KMU-innovativ - Resiliente Prozessintelligenz und adaptive Fertigungssteuerung
 - `BMBF_KMU_INNOVATIV_RESILIENTE_PROZESSKETTEN` | KMU-innovativ - Resiliente Prozessketten und adaptive Produktionskontinuitaet
 - `BMBF_KMU_INNOVATIV_RESILIENTE_PROZESSSYNCHRONISATION` | KMU-innovativ - Resiliente Prozesssynchronisation und adaptive Fertigungskoordination
