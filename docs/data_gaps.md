@@ -1,14 +1,14 @@
 # Data Gaps
 
-- Erzeugt am: `2026-02-16 01:36`
-- Datensaetze: `302`
+- Erzeugt am: `2026-02-16 01:39`
+- Datensaetze: `304`
 
 ## Status-Verteilung
 
 | Status | Anzahl |
 |---|---:|
 | geplant | 5 |
-| laufend | 274 |
+| laufend | 276 |
 | offen | 23 |
 
 ## Unterrepraesentierte Regionen
@@ -19,12 +19,12 @@
 | Deutschland/Kanada | 1 |
 | Deutschland/Polen | 1 |
 | International (IraSME) | 1 |
-| Bayern | 7 |
 | Bremen | 8 |
 | Hessen | 8 |
 | Mecklenburg-Vorpommern | 8 |
 | Thueringen | 8 |
 | Baden-Wuerttemberg | 9 |
+| Bayern | 9 |
 | Saarland | 9 |
 | Sachsen-Anhalt | 10 |
 | EU (inkl. Deutschland) | 11 |
@@ -48,8 +48,8 @@
 | Nordrhein-Westfalen | 11 |
 | Sachsen-Anhalt | 10 |
 | Baden-Wuerttemberg | 9 |
+| Bayern | 9 |
 | Saarland | 9 |
-| Bremen | 8 |
 
 ## Unterrepraesentierte Traeger
 
@@ -68,8 +68,8 @@
 | BMWK/ZIM (DE) + NRC IRAP (CA) | 1 |
 | BMZ / DEG / GIZ | 1 |
 | BMZ / DEG Impulse | 1 |
+| Bayern Kapital | 1 |
 | Buergschaftsbanken Deutschland | 1 |
-| Bund (BMF) / BSFZ | 1 |
 
 ## Unterrepraesentierte Themen
 
@@ -84,12 +84,12 @@
 | DeepTech/Klimaschutz/Skalierung | 1 |
 | Dekarbonisierung/Transformation | 1 |
 | Digitalisierung (KI, Cybersecurity, HPC, Skills) | 1 |
-| Digitalisierung/IT-Sicherheit | 1 |
 | EU-Fonds (EFRE/ESF+/u. a.) | 1 |
 | EU-Fonds EFRE/JTF | 1 |
 | Eigenkapital/Beteiligung | 1 |
 | Energie- und Ressourceneffizienz/Prozesswaerme | 1 |
 | Energie/Erneuerbare Prozesswaerme | 1 |
+| Energie/Klimaschutz | 1 |
 
 ## Priorisierungsregel
 

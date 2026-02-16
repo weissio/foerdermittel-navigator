@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-16 01:36`
-- Datensaetze: `302`
-- Eindeutige `programm_id`: `302`
+- Erzeugt am: `2026-02-16 01:39`
+- Datensaetze: `304`
+- Eindeutige `programm_id`: `304`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 274 |
+| laufend | 276 |
 | offen | 23 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 274 |
+| laufend | 276 |
 | offen | 23 |
 | zukuenftig | 5 |
 
@@ -39,12 +39,12 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Nordrhein-Westfalen | 11 |
 | Sachsen-Anhalt | 10 |
 | Baden-Wuerttemberg | 9 |
+| Bayern | 9 |
 | Saarland | 9 |
 | Bremen | 8 |
 | Hessen | 8 |
 | Mecklenburg-Vorpommern | 8 |
 | Thueringen | 8 |
-| Bayern | 7 |
 | Deutschland/Chile | 1 |
 
 ## Top Traeger
