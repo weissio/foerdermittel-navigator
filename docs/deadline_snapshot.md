@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `898`
+- Gepruefte Datensaetze: `900`
 
 ## Offen Mit Datumsfrist
 
@@ -46,6 +46,7 @@
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_PRODUKTIONSQUALIFIZIERUNG` | KMU-innovativ - Adaptive Produktionsqualifizierung und datenbasierte Prozessfreigabe
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_PRODUKTIONSROBUSTHEIT` | KMU-innovativ - Adaptive Produktionsrobustheit und dynamische Stoerungsstabilisierung
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_PROZESSPROGNOSTIK` | KMU-innovativ - Adaptive Prozessprognostik und selbstlernende Fertigungssteuerung
+- `BMBF_KMU_INNOVATIV_ADAPTIVE_PROZESSVERNETZUNG_PLUS` | KMU-innovativ - Adaptive Prozessvernetzung Plus und resiliente Produktionskoordination
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_STROMNETZREGELUNG` | KMU-innovativ - Adaptive Stromnetzregelung und netzdienliche Flexibilitaetsplattformen
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_WAERMERUECKGEWINNUNG` | KMU-innovativ - Adaptive Waermerueckgewinnung und intelligente Prozesskopplung
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_WERTSCHOEPFUNGSSTEUERUNG` | KMU-innovativ - Adaptive Wertschoepfungssteuerung und resiliente Prozessvernetzung
@@ -104,6 +105,7 @@
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEADAPTATION` | KMU-innovativ - Digitale Therapieadaptation und kontinuierliche Behandlungsanpassung
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEADHERENZ` | KMU-innovativ - Digitale Therapieadhaerenz und personalisierte Versorgungspfade
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEAUSWERTUNG` | KMU-innovativ - Digitale Therapieauswertung und evidenzbasierte Versorgungsanalytik
+- `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEDYNAMIK_KONSISTENZ` | KMU-innovativ - Digitale Therapiedynamik-Konsistenz und adaptive Behandlungssynchronik
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEEFFIZIENZ` | KMU-innovativ - Digitale Therapieeffizienz und adaptive Wirkungsoptimierung
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEFORTSCHRITTSMESSUNG` | KMU-innovativ - Digitale Therapiefortschrittsmessung und adaptive Behandlungsplanung
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEINDIKATOREN` | KMU-innovativ - Digitale Therapieindikatoren und kontinuierliche Wirkungsmessung
