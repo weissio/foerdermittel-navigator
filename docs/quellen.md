@@ -230,3 +230,5 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - https://www.ib-sh.de/foerderprogramme/unternehmen/
 - https://www.bab-bremen.de/de/page/programm/liquiditaetshilfen
 - https://mwl.sachsen-anhalt.de/ministerium/foerderung/grw-unternehmensfoerderung
+- https://www.ilb.de/de/wirtschaft/
+- https://www.sikb.de/foerderprodukte/unternehmensfoerderung

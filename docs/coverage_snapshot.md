@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-16 01:08`
-- Datensaetze: `289`
-- Eindeutige `programm_id`: `289`
+- Erzeugt am: `2026-02-16 01:13`
+- Datensaetze: `291`
+- Eindeutige `programm_id`: `291`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 261 |
+| laufend | 263 |
 | offen | 23 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 261 |
+| laufend | 263 |
 | offen | 23 |
 | zukuenftig | 5 |
 
@@ -32,17 +32,17 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Niedersachsen | 13 |
 | Deutschland/International | 12 |
 | Schleswig-Holstein | 12 |
+| Brandenburg | 11 |
 | EU (inkl. Deutschland) | 11 |
 | Sachsen | 11 |
-| Brandenburg | 10 |
 | Nordrhein-Westfalen | 10 |
 | Hamburg | 9 |
+| Saarland | 9 |
 | Sachsen-Anhalt | 9 |
 | Baden-Wuerttemberg | 8 |
 | Bremen | 8 |
 | Hessen | 8 |
 | Mecklenburg-Vorpommern | 8 |
-| Saarland | 8 |
 | Thueringen | 8 |
 | Bayern | 7 |
 | Deutschland/Chile | 1 |
@@ -77,7 +77,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Thema | Anzahl |
 |---|---:|
 | EU-Fonds ESF+ | 22 |
-| Unternehmensfinanzierung | 18 |
+| Unternehmensfinanzierung | 19 |
 | Investition/Betriebsmittel | 16 |
 | EU-Fonds EFRE | 14 |
 | Digitalisierung | 12 |
