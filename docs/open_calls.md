@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-16`
-- Offen gesamt: `314`
+- Offen gesamt: `316`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `298`
+- Rollierend/ohne Datum: `300`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -31,6 +31,7 @@
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_BAUTEILINSPEKTION` | KMU-innovativ - Adaptive Bauteilinspektion und KI-gestuetzte Fehlervorhersage | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_FERTIGUNGSFLUESSE` | KMU-innovativ - Adaptive Fertigungsfluesse und resiliente Ablaufsteuerung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_FERTIGUNGSRESERVEN` | KMU-innovativ - Adaptive Fertigungsreserven und resiliente Kapazitaetsabsicherung | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_ADAPTIVE_KAPAZITAETSORCHESTRIERUNG` | KMU-innovativ - Adaptive Kapazitaetsorchestrierung und resiliente Produktionsbalancierung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_LIEFERNETZ_STEUERUNG` | KMU-innovativ - Adaptive Liefernetz-Steuerung und resiliente Wertschoepfungskoordination | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_MESSKETTEN` | KMU-innovativ - Adaptive Messketten und resiliente Prozessdatenqualitaet | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_MIKROFABRIKEN` | KMU-innovativ - Adaptive Mikrofabriken und modulare Produktionsorchestrierung | rollierend | https://www.kmu-innovativ.de/
@@ -115,6 +116,7 @@
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEQUALITAET` | KMU-innovativ - Digitale Therapiequalitaet und kontinuierliche Versorgungsbewertung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIESEGMENTIERUNG` | KMU-innovativ - Digitale Therapiesegmentierung und personalisierte Verlaufsstrategien | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIESEGMENT_PROGNOSEN` | KMU-innovativ - Digitale Therapiesegment-Prognosen und personalisierte Versorgungssequenzen | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIESEQUENZ_OPTIMIERUNG` | KMU-innovativ - Digitale Therapiesequenz-Optimierung und adaptive Behandlungstaktik | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIESIGNAL_AUSWERTUNG` | KMU-innovativ - Digitale Therapiesignal-Auswertung und fruehzeitige Wirkungsdetektion | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIESTABILITAET` | KMU-innovativ - Digitale Therapiestabilitaet und kontinuierliche Versorgungssicherung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIESTEUER_LOGIK` | KMU-innovativ - Digitale Therapiesteuer-Logik und adaptive Interventionssequenzen | rollierend | https://www.kmu-innovativ.de/
