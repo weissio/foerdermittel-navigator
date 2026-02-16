@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `518`
+- Gepruefte Datensaetze: `520`
 
 ## Offen Mit Datumsfrist
 
