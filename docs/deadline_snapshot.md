@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `674`
+- Gepruefte Datensaetze: `676`
 
 ## Offen Mit Datumsfrist
 
@@ -35,6 +35,7 @@
 - `BMBF_KMU_INNOVATIV_EDGE_IOT` | KMU-innovativ - Edge-Computing und industrielle IoT-Systeme
 - `BMBF_KMU_INNOVATIV_ELEKTRONIK` | KMU-innovativ - Elektronik und Mikrosystemtechnik
 - `BMBF_KMU_INNOVATIV_ENERGIETECH` | KMU-innovativ - Energietechnologien
+- `BMBF_KMU_INNOVATIV_GRUENE_CHEMIE` | KMU-innovativ - Gruene Chemie und nachhaltige Verfahrenstechnik
 - `BMBF_KMU_INNOVATIV_H2_PTK` | KMU-innovativ - Wasserstoff, Power-to-X und klimaneutrale Prozessketten
 - `BMBF_KMU_INNOVATIV_IKT` | KMU-innovativ - Informations- und Kommunikationstechnologien (IKT)
 - `BMBF_KMU_INNOVATIV_INTERAKTIVE_TECH` | KMU-innovativ - Interaktive Technologien fuer Gesundheit und Lebensqualitaet
@@ -50,6 +51,7 @@
 - `BMBF_KMU_INNOVATIV_PHOTONIK` | KMU-innovativ - Photonik und Quantentechnologien
 - `BMBF_KMU_INNOVATIV_PRODUKTION` | KMU-innovativ - Produktionstechnologie
 - `BMBF_KMU_INNOVATIV_QUANTUM_SENSORS` | KMU-innovativ - Quantensensorik und Praezisionsmesstechnik
+- `BMBF_KMU_INNOVATIV_ROBOTIK_LOGISTIK` | KMU-innovativ - Robotik und intelligente Logistiksysteme
 - `BMBF_KMU_INNOVATIV_SICHERHEIT` | KMU-innovativ - Sicherheitsforschung
 - `BMBF_KMU_INNOVATIV_SMARTE_SENSORIK` | KMU-innovativ - Smarte Sensorik und Messtechnik
 - `BMBF_KMU_INNOVATIV_SOFTWAREROBOTIK` | KMU-innovativ - Softwareintensive Systeme und Robotik
