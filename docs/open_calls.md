@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-16`
-- Offen gesamt: `352`
+- Offen gesamt: `353`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `336`
+- Rollierend/ohne Datum: `337`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -296,6 +296,7 @@
 - `BMDV_MFUND` | mFUND - Foerderprogramm fuer datenbasierte digitale Innovationen | rollierend | https://www.bmdv.bund.de/DE/Themen/Digitales/mFUND/mFUND.html
 - `BMDV_NIP_WASSERSTOFF_BRENNSTOFFZELLE` | Nationales Innovationsprogramm Wasserstoff- und Brennstoffzellentechnologie (NIP) | rollierend | https://www.now-gmbh.de/foerderung/foerderprogramme/nip/
 - `BMEL_BLE_INNOVATIONSFOERDERUNG` | Innovationsfoerderung des BMEL (BLE) | rollierend | https://www.ble.de/DE/Projektfoerderung/Foerderungen-Auftraege/Innovationsfoerderung/innovationsfoerderung_node.html
+- `BMWK_EEW_FOERDERWETTBEWERB` | EEW - Foerderwettbewerb Energie- und Ressourceneffizienz in der Wirtschaft | rollierend | https://www.wettbewerb-energieeffizienz.de/
 - `BMWK_IGF_CORNET` | CORNET (Collective Research Networking) im IGF-Umfeld | rollierend | https://www.aif.de/foerderung/igf
 - `BMWK_IGP_PHASE1` | IGP - Phase 1 (Ideenwettbewerb/Skizze) | rollierend | https://www.bmwk.de/Redaktion/DE/Artikel/Innovation/igp.html
 - `BMWK_IGP_PHASE2` | IGP - Phase 2 (Umsetzungsprojekt) | rollierend | https://www.bmwk.de/Redaktion/DE/Artikel/Innovation/igp.html

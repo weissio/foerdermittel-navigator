@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `920`
+- Gepruefte Datensaetze: `921`
 
 ## Offen Mit Datumsfrist
 
@@ -294,6 +294,7 @@
 - `BMDV_MFUND` | mFUND - Foerderprogramm fuer datenbasierte digitale Innovationen
 - `BMDV_NIP_WASSERSTOFF_BRENNSTOFFZELLE` | Nationales Innovationsprogramm Wasserstoff- und Brennstoffzellentechnologie (NIP)
 - `BMEL_BLE_INNOVATIONSFOERDERUNG` | Innovationsfoerderung des BMEL (BLE)
+- `BMWK_EEW_FOERDERWETTBEWERB` | EEW - Foerderwettbewerb Energie- und Ressourceneffizienz in der Wirtschaft
 - `BMWK_IGF_CORNET` | CORNET (Collective Research Networking) im IGF-Umfeld
 - `BMWK_IGP_PHASE1` | IGP - Phase 1 (Ideenwettbewerb/Skizze)
 - `BMWK_IGP_PHASE2` | IGP - Phase 2 (Umsetzungsprojekt)

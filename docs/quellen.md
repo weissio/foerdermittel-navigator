@@ -17,6 +17,7 @@
 - BMWK go-digital: https://www.bmwk.de/Redaktion/DE/Artikel/Digitale-Welt/foerderprogramm-go-digital.html
 - INQA/BMAS unternehmensWert:Mensch plus: https://www.inqa.de/DE/angebote/unternehmenswert-mensch-plus/uebersicht.html
 - BAFA EEW Richtlinie in Kraft (Pressemitteilung): https://www.bafa.de/SharedDocs/Pressemitteilungen/DE/Energie/2024_02_eew.html
+- EEW Foerderwettbewerb Energie- und Ressourceneffizienz in der Wirtschaft: https://www.wettbewerb-energieeffizienz.de/
 - BAFA Energieberatung Nichtwohngebaeude/Anlagen/Systeme Modul 2: https://www.bafa.de/DE/Energie/Energieberatung/Nichtwohngebaeude_Anlagen_Systeme/Modul2_Energieberatung/modul2_energieberatung.html
 - BMF Forschungszulage: https://www.bundesfinanzministerium.de/Web/DE/Themen/Steuern/Steuerliche_Themengebiete/Forschungszulage/forschungszulage.html
 - BMBF KMU-innovativ: https://www.kmu-innovativ.de/
