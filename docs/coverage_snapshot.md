@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-16 01:13`
-- Datensaetze: `291`
-- Eindeutige `programm_id`: `291`
+- Erzeugt am: `2026-02-16 01:16`
+- Datensaetze: `293`
+- Eindeutige `programm_id`: `293`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 263 |
+| laufend | 265 |
 | offen | 23 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 263 |
+| laufend | 265 |
 | offen | 23 |
 | zukuenftig | 5 |
 
@@ -26,7 +26,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Region | Anzahl |
 |---|---:|
-| Deutschland | 101 |
+| Deutschland | 103 |
 | Berlin | 16 |
 | Rheinland-Pfalz | 16 |
 | Niedersachsen | 13 |
@@ -57,10 +57,10 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Investitionsbank Berlin (IBB) | 13 |
 | ISB (Rheinland-Pfalz) | 12 |
 | NBank | 9 |
+| BMWK (ZIM) / Projekttraeger | 7 |
 | IFB Hamburg | 6 |
 | L-Bank | 6 |
 | Thueringer Aufbaubank (TAB) | 6 |
-| BMWK (ZIM) / Projekttraeger | 5 |
 | Investitionsbank Sachsen-Anhalt (IB) | 5 |
 | Investitionsbank Schleswig-Holstein (IB.SH) | 5 |
 | Landesfoerderinstitut Mecklenburg-Vorpommern (LFI M-V) | 5 |
@@ -80,8 +80,8 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Unternehmensfinanzierung | 19 |
 | Investition/Betriebsmittel | 16 |
 | EU-Fonds EFRE | 14 |
+| Forschung und Entwicklung/Innovation | 13 |
 | Digitalisierung | 12 |
-| Forschung und Entwicklung/Innovation | 11 |
 | Gruendung/Wachstum | 9 |
 | Forschung und Entwicklung | 7 |
 | Gruendung/Nachfolge | 7 |
