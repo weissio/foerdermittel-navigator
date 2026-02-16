@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-16 05:44`
-- Datensaetze: `426`
-- Eindeutige `programm_id`: `426`
+- Erzeugt am: `2026-02-16 05:48`
+- Datensaetze: `428`
+- Eindeutige `programm_id`: `428`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 343 |
+| laufend | 345 |
 | offen | 78 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 343 |
+| laufend | 345 |
 | offen | 78 |
 | zukuenftig | 5 |
 
@@ -28,7 +28,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 |---|---:|
 | Deutschland | 159 |
 | EU (inkl. Deutschland) | 58 |
-| Deutschland/International | 18 |
+| Deutschland/International | 20 |
 | Rheinland-Pfalz | 17 |
 | Berlin | 16 |
 | Bayern | 14 |
@@ -52,7 +52,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Traeger | Anzahl |
 |---|---:|
 | KfW | 42 |
-| BMWK | 37 |
+| BMWK | 39 |
 | BAFA | 23 |
 | Europaeische Kommission | 16 |
 | BMWK / EXIST | 13 |
@@ -85,6 +85,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Forschung und Entwicklung | 9 |
 | Gruendung/Wachstum | 9 |
 | Gruendung/Innovation | 8 |
+| Internationalisierung/Export | 8 |
 | Unternehmensfoerderung | 8 |
 | Digitalisierung/IT-Sicherheit | 7 |
 | Gruendung/Nachfolge | 7 |
@@ -92,7 +93,6 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Energieeffizienz | 6 |
 | Forschung und Entwicklung/Innovation (international) | 6 |
 | Innovation/Digitalisierung | 6 |
-| Internationalisierung/Export | 6 |
 | Unternehmensfinanzierung/Innovation | 6 |
 | Digitalisierung/Innovation | 5 |
 | Innovation/Beratung | 5 |
