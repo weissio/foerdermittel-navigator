@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `742`
+- Gepruefte Datensaetze: `744`
 
 ## Offen Mit Datumsfrist
 
@@ -32,6 +32,7 @@
 - `BMBF_KMU_INNOVATIV_AGRITECH` | KMU-innovativ - Agrar- und Lebensmitteltechnologien
 - `BMBF_KMU_INNOVATIV_ASSISTIVE_ROBOTIK_GESUNDHEIT` | KMU-innovativ - Assistive Robotik in Gesundheit und Pflege
 - `BMBF_KMU_INNOVATIV_AUTOMATION_KI` | KMU-innovativ - Automatisierung, KI und autonome Produktionssysteme
+- `BMBF_KMU_INNOVATIV_AUTONOME_ENERGIEKNOTEN` | KMU-innovativ - Autonome Energieknoten und resiliente Versorgungssysteme
 - `BMBF_KMU_INNOVATIV_AUTONOME_LABORNETZE` | KMU-innovativ - Autonome Labornetze und verteilte Testinfrastrukturen
 - `BMBF_KMU_INNOVATIV_AUTONOME_MIKROFABRIK` | KMU-innovativ - Autonome Mikrofabriken und dezentrale Produktion
 - `BMBF_KMU_INNOVATIV_BATTERIETECH` | KMU-innovativ - Batterietechnologien und Energiespeicher
@@ -52,6 +53,7 @@
 - `BMBF_KMU_INNOVATIV_DEEP_LEARNING_INDUSTRIE` | KMU-innovativ - Deep-Learning-Methoden fuer industrielle Anwendungen
 - `BMBF_KMU_INNOVATIV_DIGITALE_QUALITAETSSICHERUNG` | KMU-innovativ - Digitale Qualitaetssicherung und adaptive Pruefverfahren
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPEUTIKA` | KMU-innovativ - Digitale Therapeutika und evidenzbasierte Versorgungsplattformen
+- `BMBF_KMU_INNOVATIV_DIGITALE_WIRKSTOFFENTWICKLUNG` | KMU-innovativ - Digitale Wirkstoffentwicklung und molekulare Modellierung
 - `BMBF_KMU_INNOVATIV_DIGITAL_BAUSTELLEN` | KMU-innovativ - Digitale Baustellen und autonome Bauprozesse
 - `BMBF_KMU_INNOVATIV_DIGITAL_HEALTH_DEVICES` | KMU-innovativ - Digitale Gesundheitsgeraete und vernetzte Medizinsysteme
 - `BMBF_KMU_INNOVATIV_DIGITAL_TWIN` | KMU-innovativ - Digitale Zwillinge fuer industrielle Anwendungen
