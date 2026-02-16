@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `758`
+- Gepruefte Datensaetze: `760`
 
 ## Offen Mit Datumsfrist
 
@@ -56,6 +56,7 @@
 - `BMBF_KMU_INNOVATIV_CYBERPHYSIK` | KMU-innovativ - Cyber-physische Systeme und industrielle Vernetzung
 - `BMBF_KMU_INNOVATIV_CYBERRESILIENTE_MEDTECH` | KMU-innovativ - Cyberresiliente Medizintechnik und sichere Geraeteplattformen
 - `BMBF_KMU_INNOVATIV_DEEP_LEARNING_INDUSTRIE` | KMU-innovativ - Deep-Learning-Methoden fuer industrielle Anwendungen
+- `BMBF_KMU_INNOVATIV_DIGITALE_BAUTEILRUECKVERFOLGUNG` | KMU-innovativ - Digitale Bauteilrueckverfolgung und zirkulaere Lieferketten
 - `BMBF_KMU_INNOVATIV_DIGITALE_BILDGEBUNG_DIAGNOSTIK` | KMU-innovativ - Digitale Bildgebung und KI-gestuetzte Diagnostiksysteme
 - `BMBF_KMU_INNOVATIV_DIGITALE_QUALITAETSSICHERUNG` | KMU-innovativ - Digitale Qualitaetssicherung und adaptive Pruefverfahren
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPEUTIKA` | KMU-innovativ - Digitale Therapeutika und evidenzbasierte Versorgungsplattformen
@@ -96,6 +97,7 @@
 - `BMBF_KMU_INNOVATIV_MED_DATTENSICHERHEIT` | KMU-innovativ - Datensichere Gesundheits-IT und medizinische Dateninfrastrukturen
 - `BMBF_KMU_INNOVATIV_MED_ROBOTICS` | KMU-innovativ - Medizinrobotik und assistive Systeme
 - `BMBF_KMU_INNOVATIV_MIKROELEKTRONIK` | KMU-innovativ - Mikroelektronik und eingebettete Systeme
+- `BMBF_KMU_INNOVATIV_MIKROGRID_ORCHESTRIERUNG` | KMU-innovativ - Mikrogrid-Orchestrierung und resiliente Energiemanagementsysteme
 - `BMBF_KMU_INNOVATIV_MOBILITAET` | KMU-innovativ - Intelligente Mobilitaet und Verkehrssysteme
 - `BMBF_KMU_INNOVATIV_NACHHALTIGE_GEBUEDETECHNIK` | KMU-innovativ - Nachhaltige Gebaeudetechnik und adaptive Energiesysteme
 - `BMBF_KMU_INNOVATIV_NACHHALTIGE_LOGISTIK_H2` | KMU-innovativ - Nachhaltige Logistik mit Wasserstoff- und E-Antrieben

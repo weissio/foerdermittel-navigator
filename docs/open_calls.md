@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-16`
-- Offen gesamt: `198`
+- Offen gesamt: `200`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `182`
+- Rollierend/ohne Datum: `184`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -58,6 +58,7 @@
 - `BMBF_KMU_INNOVATIV_CYBERPHYSIK` | KMU-innovativ - Cyber-physische Systeme und industrielle Vernetzung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_CYBERRESILIENTE_MEDTECH` | KMU-innovativ - Cyberresiliente Medizintechnik und sichere Geraeteplattformen | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DEEP_LEARNING_INDUSTRIE` | KMU-innovativ - Deep-Learning-Methoden fuer industrielle Anwendungen | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_DIGITALE_BAUTEILRUECKVERFOLGUNG` | KMU-innovativ - Digitale Bauteilrueckverfolgung und zirkulaere Lieferketten | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_BILDGEBUNG_DIAGNOSTIK` | KMU-innovativ - Digitale Bildgebung und KI-gestuetzte Diagnostiksysteme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_QUALITAETSSICHERUNG` | KMU-innovativ - Digitale Qualitaetssicherung und adaptive Pruefverfahren | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPEUTIKA` | KMU-innovativ - Digitale Therapeutika und evidenzbasierte Versorgungsplattformen | rollierend | https://www.kmu-innovativ.de/
@@ -98,6 +99,7 @@
 - `BMBF_KMU_INNOVATIV_MED_DATTENSICHERHEIT` | KMU-innovativ - Datensichere Gesundheits-IT und medizinische Dateninfrastrukturen | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_MED_ROBOTICS` | KMU-innovativ - Medizinrobotik und assistive Systeme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_MIKROELEKTRONIK` | KMU-innovativ - Mikroelektronik und eingebettete Systeme | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_MIKROGRID_ORCHESTRIERUNG` | KMU-innovativ - Mikrogrid-Orchestrierung und resiliente Energiemanagementsysteme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_MOBILITAET` | KMU-innovativ - Intelligente Mobilitaet und Verkehrssysteme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_NACHHALTIGE_GEBUEDETECHNIK` | KMU-innovativ - Nachhaltige Gebaeudetechnik und adaptive Energiesysteme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_NACHHALTIGE_LOGISTIK_H2` | KMU-innovativ - Nachhaltige Logistik mit Wasserstoff- und E-Antrieben | rollierend | https://www.kmu-innovativ.de/
