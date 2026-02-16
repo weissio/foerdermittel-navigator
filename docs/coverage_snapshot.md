@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-16 04:52`
-- Datensaetze: `400`
-- Eindeutige `programm_id`: `400`
+- Erzeugt am: `2026-02-16 04:55`
+- Datensaetze: `402`
+- Eindeutige `programm_id`: `402`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 319 |
+| laufend | 321 |
 | offen | 76 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 319 |
+| laufend | 321 |
 | offen | 76 |
 | zukuenftig | 5 |
 
@@ -30,8 +30,8 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | EU (inkl. Deutschland) | 58 |
 | Rheinland-Pfalz | 17 |
 | Berlin | 16 |
+| Deutschland/International | 15 |
 | Niedersachsen | 14 |
-| Deutschland/International | 13 |
 | Brandenburg | 12 |
 | Hamburg | 12 |
 | Nordrhein-Westfalen | 12 |
