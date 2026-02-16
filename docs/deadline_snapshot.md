@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `309`
+- Gepruefte Datensaetze: `311`
 
 ## Offen Mit Datumsfrist
 
@@ -26,6 +26,8 @@
 - `BMBF_KMU_INNOVATIV` | KMU-innovativ: Forschung fuer den Mittelstand
 - `BMWK_IGP` | Innovationsprogramm fuer Geschaeftsmodelle und Pionierloesungen (IGP)
 - `EU_CEF_DIGITAL` | Connecting Europe Facility - Digital (CEF Digital)
+- `EU_EIT_COMMUNITY` | European Institute of Innovation and Technology (EIT) - Funding & Calls
+- `EU_EU4HEALTH` | EU4Health Programme
 - `EU_INNOVATION_FUND` | Innovation Fund (EU ETS)
 - `EU_INVESTEU` | InvestEU Programme
 - `EU_LIFE_PROGRAMME` | LIFE Programme (EU)

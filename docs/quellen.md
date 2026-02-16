@@ -242,3 +242,5 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - https://cinea.ec.europa.eu/programmes/connecting-europe-facility/cef-digital_en
 - https://climate.ec.europa.eu/eu-action/funding-climate-action/innovation-fund_en
 - https://investeu.europa.eu/index_en
+- https://eit.europa.eu/our-activities/opportunities
+- https://health.ec.europa.eu/funding/eu4health-programme-2021-2027-vision-healthier-european-union_en
