@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-17`
-- Offen gesamt: `366`
+- Offen gesamt: `367`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `350`
+- Rollierend/ohne Datum: `351`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -294,6 +294,7 @@
 - `BMBF_KMU_INNOVATIV_ZERO_TRUST_OT` | KMU-innovativ - Zero-Trust-Sicherheit fuer industrielle OT-Netze | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV` | KMU-innovativ: Forschung fuer den Mittelstand | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_STARTUPSECURE` | StartUpSecure (BMBF) | rollierend | https://www.startupsecure.de/
+- `BMBF_VIP_PLUS` | VIP+ - Validierung des technologischen und gesellschaftlichen Innovationspotenzials wissenschaftlicher Forschung | rollierend | https://www.bmbf.de/bmbf/de/forschung/innovationen/wissens-und-technologietransfer/vip/vip.html
 - `BMDV_KSNI` | Foerderprogramm Klimaschonende Nutzfahrzeuge und Infrastruktur (KsNI) | rollierend | https://bmdv.bund.de/SharedDocs/DE/Artikel/G/ksni-foerderung.html
 - `BMDV_MFUND_FU_E_PROJEKTE` | mFUND - Forschungs- und Entwicklungsprojekte | rollierend | https://www.bmdv.bund.de/DE/Themen/Digitales/mFUND/mFUND.html
 - `BMDV_MFUND_MACHBARKEITSSTUDIEN` | mFUND - Machbarkeitsstudien | rollierend | https://www.bmdv.bund.de/DE/Themen/Digitales/mFUND/mFUND.html

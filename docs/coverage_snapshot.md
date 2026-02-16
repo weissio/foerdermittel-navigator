@@ -2,16 +2,16 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-17 00:45`
-- Datensaetze: `944`
-- Eindeutige `programm_id`: `944`
+- Erzeugt am: `2026-02-17 00:53`
+- Datensaetze: `945`
+- Eindeutige `programm_id`: `945`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
 | laufend | 573 |
-| offen | 366 |
+| offen | 367 |
 | geplant | 5 |
 
 ## Kategorie
@@ -19,14 +19,14 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Kategorie | Anzahl |
 |---|---:|
 | laufend | 573 |
-| offen | 366 |
+| offen | 367 |
 | zukuenftig | 5 |
 
 ## Top Regionen
 
 | Region | Anzahl |
 |---|---:|
-| Deutschland | 652 |
+| Deutschland | 653 |
 | EU (inkl. Deutschland) | 60 |
 | Deutschland/International | 41 |
 | Rheinland-Pfalz | 17 |
@@ -51,7 +51,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Traeger | Anzahl |
 |---|---:|
-| BMBF | 263 |
+| BMBF | 264 |
 | KfW | 212 |
 | BMWK | 57 |
 | BAFA | 33 |

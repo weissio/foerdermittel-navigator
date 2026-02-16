@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-17`
-- Gepruefte Datensaetze: `944`
+- Gepruefte Datensaetze: `945`
 
 ## Offen Mit Datumsfrist
 
@@ -292,6 +292,7 @@
 - `BMBF_KMU_INNOVATIV_ZERO_TRUST_OT` | KMU-innovativ - Zero-Trust-Sicherheit fuer industrielle OT-Netze
 - `BMBF_KMU_INNOVATIV` | KMU-innovativ: Forschung fuer den Mittelstand
 - `BMBF_STARTUPSECURE` | StartUpSecure (BMBF)
+- `BMBF_VIP_PLUS` | VIP+ - Validierung des technologischen und gesellschaftlichen Innovationspotenzials wissenschaftlicher Forschung
 - `BMDV_KSNI` | Foerderprogramm Klimaschonende Nutzfahrzeuge und Infrastruktur (KsNI)
 - `BMDV_MFUND_FU_E_PROJEKTE` | mFUND - Forschungs- und Entwicklungsprojekte
 - `BMDV_MFUND_MACHBARKEITSSTUDIEN` | mFUND - Machbarkeitsstudien
