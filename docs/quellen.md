@@ -293,3 +293,5 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - https://www.bmwk.de/Redaktion/DE/Artikel/Technologie/go-cluster.html
 
 - https://www.bafa.de/DE/Energie/Energieberatung_Mittelstand/energieberatung_mittelstand_node.html
+- LfA Energie und Umwelt (Programmuebersicht): https://lfa.de/website/de/foerderangebote/energie-und-umwelt/index.php
+- LfA Foerderbank Bayern Unternehmen (Einstieg): https://lfa.de/unternehmen/

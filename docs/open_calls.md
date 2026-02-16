@@ -1,9 +1,9 @@
 # Open Calls
 
-- Erzeugt am: `2026-02-15`
-- Offen gesamt: `23`
-- Mit Datumsfrist: `15`
-- Rollierend/ohne Datum: `8`
+- Erzeugt am: `2026-02-16`
+- Offen gesamt: `78`
+- Mit Datumsfrist: `16`
+- Rollierend/ohne Datum: `62`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -22,11 +22,66 @@
 - `ESF_SAARLAND_OPEN` | ESF+ Saarland 2021-2027 (Call for proposals – Open) | Frist `2027-12-31` | https://pact-for-skills.ec.europa.eu/stakeholders-and-business/funding-opportunities/european-social-fund-plus-esf-germany-saarland_en
 - `ESF_SH_OPEN` | ESF+ Schleswig-Holstein 2021-2027 (Open Call) | Frist `2027-12-31` | https://pact-for-skills.ec.europa.eu/stakeholders-and-business/funding-opportunities/european-social-fund-plus-esf-germany-schleswig-holstein_en
 - `ESF_TH_OPEN` | ESF+ Thueringen 2021-2027 (Open Call) | Frist `2027-12-31` | https://pact-for-skills.ec.europa.eu/stakeholders-and-business/funding-opportunities/european-social-fund-plus-esf-germany-thuringiathuringen_en
+- `ESF_NIEDERSACHSEN_OPEN` | ESF+ Niedersachsen 2021-2027 (Open Call) | Frist `2027-12-31` | https://pact-for-skills.ec.europa.eu/stakeholders-and-business/funding-opportunities/european-social-fund-plus-esf-germany-lower-saxonyniedersachsen_en
 
 ## Rollierend / Ohne Datum
 
+- `BMAS_KOMPASS_QUALIFIZIERUNGSSCHECK` | KOMPASS - Qualifizierungsscheck fuer Solo-Selbststaendige | rollierend | https://www.esfplus.de/portal/DE/ESF-Plus-2021-2027/Foerderprogramme/bmas/kompass/inhalt.html
 - `BMBF_KMU_INNOVATIV` | KMU-innovativ: Forschung fuer den Mittelstand | rollierend | https://www.kmu-innovativ.de/
+- `BMDV_MFUND` | mFUND - Foerderprogramm fuer datenbasierte digitale Innovationen | rollierend | https://www.bmdv.bund.de/DE/Themen/Digitales/mFUND/mFUND.html
+- `BMWK_IGF_CORNET` | CORNET (Collective Research Networking) im IGF-Umfeld | rollierend | https://www.aif.de/foerderung/igf
 - `BMWK_IGP` | Innovationsprogramm fuer Geschaeftsmodelle und Pionierloesungen (IGP) | rollierend | https://www.bmwk.de/Redaktion/DE/Artikel/Innovation/igp.html
+- `ESF_BAYERN_AUFRUFE_OFFEN` | ESF+ Bayern - Programmaufrufe (offen/rollierend) | rollierend | https://www.esf.bayern.de/
+- `ESF_BW_AUFRUFE_OFFEN` | ESF+ Baden-Wuerttemberg - Programmaufrufe (offen/rollierend) | rollierend | https://www.esf-bw.de/esf-plus-in-bw/programm-des-esf-plus-in-baden-wuerttemberg
+- `ESF_HAMBURG_AUFRUFE_OFFEN` | ESF+ Hamburg - Projektaufrufe (offen/rollierend) | rollierend | https://www.esf-hamburg.de/foerderung-617696
+- `EUIPO_SME_FUND` | Ideas Powered for Business SME Fund (EUIPO) | rollierend | https://www.euipo.europa.eu/en/discover-ip/sme-fund
+- `EU_BLUEINVEST` | BlueInvest (EU) | rollierend | https://blueinvest-community.converve.io/
+- `EU_CBE_JU` | Circular Bio-based Europe Joint Undertaking (CBE JU) | rollierend | https://www.cbe.europa.eu/calls-proposals_en
+- `EU_CEF_DIGITAL` | Connecting Europe Facility - Digital (CEF Digital) | rollierend | https://cinea.ec.europa.eu/programmes/connecting-europe-facility/cef-digital_en
+- `EU_CEF_ENERGY` | Connecting Europe Facility - Energy (CEF Energy) | rollierend | https://cinea.ec.europa.eu/programmes/connecting-europe-facility/energy_en
+- `EU_CEF_TRANSPORT` | Connecting Europe Facility - Transport (CEF Transport) | rollierend | https://cinea.ec.europa.eu/programmes/connecting-europe-facility/transport_en
+- `EU_CERV_PROGRAMME` | Citizens, Equality, Rights and Values (CERV) | rollierend | https://commission.europa.eu/funding-tenders/find-funding/eu-funding-programmes/citizens-equality-rights-and-values-programme_en
+- `EU_CHIPS_JU` | Chips Joint Undertaking (Chips JU) Calls | rollierend | https://www.chips-ju.europa.eu/calls-information_en
+- `EU_CLEAN_AVIATION_JU` | Clean Aviation Joint Undertaking Calls | rollierend | https://www.clean-aviation.eu/calls-proposals
+- `EU_CLEAN_HYDROGEN_JU` | Clean Hydrogen Joint Undertaking (Clean Hydrogen JU) | rollierend | https://www.clean-hydrogen.europa.eu/funding-calls_en
+- `EU_CREATIVE_EUROPE` | Creative Europe Programme | rollierend | https://culture.ec.europa.eu/creative-europe
+- `EU_DIGITAL_EUROPE_CALLS` | Digital Europe Programme - Open Calls | rollierend | https://digital-strategy.ec.europa.eu/en/activities/digital-programme
+- `EU_EIC_PATHFINDER` | EIC Pathfinder (EU) | rollierend | https://eic.ec.europa.eu/funding-opportunities_en
+- `EU_EIC_TRANSITION` | EIC Transition (EU) | rollierend | https://eic.ec.europa.eu/funding-opportunities_en
+- `EU_EIT_COMMUNITY` | European Institute of Innovation and Technology (EIT) - Funding & Calls | rollierend | https://eit.europa.eu/our-activities/opportunities
+- `EU_ENTERPRISE_EUROPE_NETWORK` | Enterprise Europe Network (SMP COSME Strand) | rollierend | https://een.ec.europa.eu/
+- `EU_ERASMUS_PLUS` | Erasmus+ Programme | rollierend | https://erasmus-plus.ec.europa.eu/
+- `EU_EU4HEALTH` | EU4Health Programme | rollierend | https://health.ec.europa.eu/funding/eu4health-programme-2021-2027-vision-healthier-european-union_en
+- `EU_EUREKA_GLOBALSTARS` | Globalstars (EUREKA) | rollierend | https://www.eurekanetwork.org/programmes/globalstars/
+- `EU_EUROHPC_JU` | EuroHPC Joint Undertaking Calls | rollierend | https://eurohpc-ju.europa.eu/funding-calls/calls-proposals_en
+- `EU_EUROPEAN_DEFENCE_FUND` | European Defence Fund (EDF) | rollierend | https://defence-industry-space.ec.europa.eu/eu-defence-industry/european-defence-fund-edf_en
+- `EU_EUROSTARS` | Eurostars (EUREKA / Innovative SMEs Partnership) | rollierend | https://www.eurekanetwork.org/programmes/eurostars/
+- `EU_HORIZON_CLIMATE_ENERGY` | Horizon Europe - Cluster 5 Climate, Energy and Mobility | rollierend | https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe/cluster-5-climate-energy-and-mobility_en
+- `EU_HORIZON_CLUSTER1` | Horizon Europe - Cluster 1 Health | rollierend | https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe/cluster-1-health_en
+- `EU_HORIZON_CLUSTER2` | Horizon Europe - Cluster 2 Culture, Creativity and Inclusive Society | rollierend | https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe/cluster-2-culture-creativity-and-inclusive-society_en
+- `EU_HORIZON_CLUSTER3` | Horizon Europe - Cluster 3 Civil Security for Society | rollierend | https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe/cluster-3-civil-security-society_en
+- `EU_HORIZON_CLUSTER4` | Horizon Europe - Cluster 4 Digital, Industry and Space | rollierend | https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe/cluster-4-digital-industry-and-space_en
+- `EU_HORIZON_CLUSTER6` | Horizon Europe - Cluster 6 Food, Bioeconomy, Natural Resources, Agriculture and Environment | rollierend | https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe/cluster-6-food-bioeconomy-natural-resources-agriculture-and-environment_en
+- `EU_HORIZON_ERC` | Horizon Europe - European Research Council (ERC) | rollierend | https://erc.europa.eu/
+- `EU_HORIZON_MISSIONS` | Horizon Europe Missions (Calls) | rollierend | https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe/eu-missions-horizon-europe_en
+- `EU_HORIZON_MSCA` | Horizon Europe - Marie Sklodowska-Curie Actions (MSCA) | rollierend | https://marie-sklodowska-curie-actions.ec.europa.eu/
+- `EU_HORIZON_RESEARCH_INFRASTRUCTURES` | Horizon Europe - Research Infrastructures Calls | rollierend | https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe/research-infrastructures_en
+- `EU_HORIZON_WIDERA` | Horizon Europe - Widening Participation and Strengthening the European Research Area (WIDERA) | rollierend | https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe/widening-participation-and-strengthening-european-research-area_en
+- `EU_I3_INSTRUMENT` | Interregional Innovation Investments Instrument (I3) | rollierend | https://eismea.ec.europa.eu/programmes/interregional-innovation-investments_en
+- `EU_INNOVATION_FUND` | Innovation Fund (EU ETS) | rollierend | https://climate.ec.europa.eu/eu-action/funding-climate-action/innovation-fund_en
+- `EU_INNOVATIVE_HEALTH_INITIATIVE` | Innovative Health Initiative (IHI) Calls | rollierend | https://www.ihi.europa.eu/apply-funding
+- `EU_INTERREG_EUROPE` | Interreg Europe Programme 2021-2027 | rollierend | https://www.interregeurope.eu/
+- `EU_INTERREG` | Interreg 2021-2027 | rollierend | https://interreg.eu/
+- `EU_INVESTEU` | InvestEU Programme | rollierend | https://investeu.europa.eu/index_en
+- `EU_JUST_TRANSITION_FUND` | Just Transition Fund (JTF) Programme | rollierend | https://ec.europa.eu/regional_policy/funding/just-transition-fund_en
+- `EU_LIFE_PROGRAMME` | LIFE Programme (EU) | rollierend | https://cinea.ec.europa.eu/life_en
+- `EU_RAIL_JU` | Europe's Rail Joint Undertaking Calls | rollierend | https://rail-research.europa.eu/get-involved/calls-for-proposals/
+- `EU_REPOWEREU` | REPowerEU (RRF-Ergaenzung) | rollierend | https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/european-green-deal/repowereu-affordable-secure-and-sustainable-energy-europe_en
+- `EU_SESAR_3_JU` | SESAR 3 Joint Undertaking Calls | rollierend | https://www.sesarju.eu/calls
+- `EU_SNS_JU` | Smart Networks and Services Joint Undertaking (SNS JU) Calls | rollierend | https://smart-networks.europa.eu/calls-for-proposals/
+- `EU_SOCIAL_CLIMATE_FUND` | Social Climate Fund (SCF) | rollierend | https://climate.ec.europa.eu/eu-action/social-climate-fund_en
+- `EU_SPACE_PROGRAMME` | EU Space Programme (inkl. CASSINI/EUSPA Calls) | rollierend | https://www.euspa.europa.eu/euspace-opportunities
+- `EU_URBACT_IV` | URBACT IV Programme | rollierend | https://urbact.eu/
 - `IBB_GO_BIO_INITIAL` | Go-Bio initial (Berlin) | rollierend | https://www.ibb.de/de/foerderprogramme/go-bio-initial.html
 - `NRW_MID_ASSISTENZ` | Mittelstand Innovativ & Digital (MID) - Digitale Assistenzsysteme | rollierend | https://www.nrwbank.de/de/foerderung/foerderprodukte/60349/produktdetail.html
 - `NRW_MID_DIGITALISIERUNG` | Mittelstand Innovativ & Digital (MID) - Digitalisierung | rollierend | https://www.nrwbank.de/de/foerderung/foerderprodukte/60348/produktdetail.html

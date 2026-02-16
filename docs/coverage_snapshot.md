@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-16 05:16`
-- Datensaetze: `412`
-- Eindeutige `programm_id`: `412`
+- Erzeugt am: `2026-02-16 05:21`
+- Datensaetze: `414`
+- Eindeutige `programm_id`: `414`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 329 |
+| laufend | 331 |
 | offen | 78 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 329 |
+| laufend | 331 |
 | offen | 78 |
 | zukuenftig | 5 |
 
@@ -32,13 +32,13 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Berlin | 16 |
 | Deutschland/International | 15 |
 | Niedersachsen | 14 |
+| Bayern | 12 |
 | Brandenburg | 12 |
 | Hamburg | 12 |
 | Nordrhein-Westfalen | 12 |
 | Sachsen | 12 |
 | Schleswig-Holstein | 12 |
 | Baden-Wuerttemberg | 10 |
-| Bayern | 10 |
 | Sachsen-Anhalt | 10 |
 | Saarland | 9 |
 | Bremen | 8 |
@@ -65,12 +65,12 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | EIC (EU) | 6 |
 | Investitionsbank Sachsen-Anhalt (IB) | 6 |
 | L-Bank | 6 |
+| LfA Foerderbank Bayern | 6 |
 | Thueringer Aufbaubank (TAB) | 6 |
 | Europaeische Kommission / CINEA | 5 |
 | Investitionsbank Schleswig-Holstein (IB.SH) | 5 |
 | Landesfoerderinstitut Mecklenburg-Vorpommern (LFI M-V) | 5 |
 | NRW.BANK | 5 |
-| NRW.BANK / Land NRW | 5 |
 
 ## Top Themen
 
