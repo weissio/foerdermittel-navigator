@@ -280,3 +280,5 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - https://www.cbe.europa.eu/calls-proposals_en
 - https://www.ihi.europa.eu/apply-funding
 - https://www.sesarju.eu/calls
+- https://rail-research.europa.eu/get-involved/calls-for-proposals/
+- https://smart-networks.europa.eu/calls-for-proposals/

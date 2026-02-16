@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `349`
+- Gepruefte Datensaetze: `351`
 
 ## Offen Mit Datumsfrist
 
@@ -64,8 +64,10 @@
 - `EU_INVESTEU` | InvestEU Programme
 - `EU_JUST_TRANSITION_FUND` | Just Transition Fund (JTF) Programme
 - `EU_LIFE_PROGRAMME` | LIFE Programme (EU)
+- `EU_RAIL_JU` | Europe's Rail Joint Undertaking Calls
 - `EU_REPOWEREU` | REPowerEU (RRF-Ergaenzung)
 - `EU_SESAR_3_JU` | SESAR 3 Joint Undertaking Calls
+- `EU_SNS_JU` | Smart Networks and Services Joint Undertaking (SNS JU) Calls
 - `EU_SOCIAL_CLIMATE_FUND` | Social Climate Fund (SCF)
 - `EU_SPACE_PROGRAMME` | EU Space Programme (inkl. CASSINI/EUSPA Calls)
 - `EU_URBACT_IV` | URBACT IV Programme
