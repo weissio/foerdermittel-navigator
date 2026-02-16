@@ -262,3 +262,5 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/european-green-deal/repowereu-affordable-secure-and-sustainable-energy-europe_en
 - https://cinea.ec.europa.eu/programmes/connecting-europe-facility/transport_en
 - https://cinea.ec.europa.eu/programmes/connecting-europe-facility/energy_en
+- https://www.chips-ju.europa.eu/calls-information_en
+- https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe/cluster-5-climate-energy-and-mobility_en

@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `329`
+- Gepruefte Datensaetze: `331`
 
 ## Offen Mit Datumsfrist
 
@@ -31,6 +31,7 @@
 - `EU_CEF_ENERGY` | Connecting Europe Facility - Energy (CEF Energy)
 - `EU_CEF_TRANSPORT` | Connecting Europe Facility - Transport (CEF Transport)
 - `EU_CERV_PROGRAMME` | Citizens, Equality, Rights and Values (CERV)
+- `EU_CHIPS_JU` | Chips Joint Undertaking (Chips JU) Calls
 - `EU_CREATIVE_EUROPE` | Creative Europe Programme
 - `EU_EIT_COMMUNITY` | European Institute of Innovation and Technology (EIT) - Funding & Calls
 - `EU_ERASMUS_PLUS` | Erasmus+ Programme
@@ -38,6 +39,7 @@
 - `EU_EUREKA_GLOBALSTARS` | Globalstars (EUREKA)
 - `EU_EUROPEAN_DEFENCE_FUND` | European Defence Fund (EDF)
 - `EU_EUROSTARS` | Eurostars (EUREKA / Innovative SMEs Partnership)
+- `EU_HORIZON_CLIMATE_ENERGY` | Horizon Europe - Cluster 5 Climate, Energy and Mobility
 - `EU_HORIZON_MISSIONS` | Horizon Europe Missions (Calls)
 - `EU_HORIZON_RESEARCH_INFRASTRUCTURES` | Horizon Europe - Research Infrastructures Calls
 - `EU_INNOVATION_FUND` | Innovation Fund (EU ETS)

@@ -2,16 +2,16 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-16 02:32`
-- Datensaetze: `329`
-- Eindeutige `programm_id`: `329`
+- Erzeugt am: `2026-02-16 02:36`
+- Datensaetze: `331`
+- Eindeutige `programm_id`: `331`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
 | laufend | 277 |
-| offen | 47 |
+| offen | 49 |
 | geplant | 5 |
 
 ## Kategorie
@@ -19,7 +19,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Kategorie | Anzahl |
 |---|---:|
 | laufend | 277 |
-| offen | 47 |
+| offen | 49 |
 | zukuenftig | 5 |
 
 ## Top Regionen
@@ -27,7 +27,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Region | Anzahl |
 |---|---:|
 | Deutschland | 105 |
-| EU (inkl. Deutschland) | 34 |
+| EU (inkl. Deutschland) | 36 |
 | Rheinland-Pfalz | 17 |
 | Berlin | 16 |
 | Niedersachsen | 13 |
@@ -57,8 +57,8 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Investitionsbank Berlin (IBB) | 13 |
 | ISB (Rheinland-Pfalz) | 12 |
 | BMWK (ZIM) / Projekttraeger | 9 |
+| Europaeische Kommission | 9 |
 | NBank | 9 |
-| Europaeische Kommission | 8 |
 | IFB Hamburg | 7 |
 | Investitionsbank Sachsen-Anhalt (IB) | 6 |
 | L-Bank | 6 |
