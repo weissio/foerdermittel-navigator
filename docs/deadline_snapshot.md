@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `918`
+- Gepruefte Datensaetze: `920`
 
 ## Offen Mit Datumsfrist
 
@@ -288,9 +288,11 @@
 - `BMBF_KMU_INNOVATIV_ZELLTHERAPIE` | KMU-innovativ - Zelltherapien und biomedizinische Plattformtechnologien
 - `BMBF_KMU_INNOVATIV_ZERO_TRUST_OT` | KMU-innovativ - Zero-Trust-Sicherheit fuer industrielle OT-Netze
 - `BMBF_KMU_INNOVATIV` | KMU-innovativ: Forschung fuer den Mittelstand
+- `BMDV_KSNI` | Foerderprogramm Klimaschonende Nutzfahrzeuge und Infrastruktur (KsNI)
 - `BMDV_MFUND_FU_E_PROJEKTE` | mFUND - Forschungs- und Entwicklungsprojekte
 - `BMDV_MFUND_MACHBARKEITSSTUDIEN` | mFUND - Machbarkeitsstudien
 - `BMDV_MFUND` | mFUND - Foerderprogramm fuer datenbasierte digitale Innovationen
+- `BMDV_NIP_WASSERSTOFF_BRENNSTOFFZELLE` | Nationales Innovationsprogramm Wasserstoff- und Brennstoffzellentechnologie (NIP)
 - `BMEL_BLE_INNOVATIONSFOERDERUNG` | Innovationsfoerderung des BMEL (BLE)
 - `BMWK_IGF_CORNET` | CORNET (Collective Research Networking) im IGF-Umfeld
 - `BMWK_IGP_PHASE1` | IGP - Phase 1 (Ideenwettbewerb/Skizze)
