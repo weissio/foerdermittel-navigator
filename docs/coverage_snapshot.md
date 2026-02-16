@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-16 12:28`
-- Datensaetze: `628`
-- Eindeutige `programm_id`: `628`
+- Erzeugt am: `2026-02-16 12:32`
+- Datensaetze: `630`
+- Eindeutige `programm_id`: `630`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 539 |
+| laufend | 541 |
 | offen | 84 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 539 |
+| laufend | 541 |
 | offen | 84 |
 | zukuenftig | 5 |
 
@@ -26,7 +26,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Region | Anzahl |
 |---|---:|
-| Deutschland | 341 |
+| Deutschland | 343 |
 | EU (inkl. Deutschland) | 60 |
 | Deutschland/International | 36 |
 | Rheinland-Pfalz | 17 |
@@ -51,7 +51,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Traeger | Anzahl |
 |---|---:|
-| KfW | 188 |
+| KfW | 190 |
 | BMWK | 49 |
 | BAFA | 33 |
 | Europaeische Kommission | 16 |
@@ -94,8 +94,8 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Unternehmensfoerderung | 8 |
 | Digitalisierung/IT-Sicherheit | 7 |
 | Beratung/Unternehmensentwicklung | 6 |
+| Energieeffizienz/Digitalisierung | 6 |
 | Forschung und Entwicklung/Innovation (international) | 6 |
-| Gruendung/Nachfolge/Wachstum | 6 |
 
 ## Feldqualitaet
 
