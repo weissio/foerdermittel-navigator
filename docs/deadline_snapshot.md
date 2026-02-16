@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `776`
+- Gepruefte Datensaetze: `778`
 
 ## Offen Mit Datumsfrist
 
@@ -62,6 +62,7 @@
 - `BMBF_KMU_INNOVATIV_DIGITALE_BILDGEBUNG_DIAGNOSTIK` | KMU-innovativ - Digitale Bildgebung und KI-gestuetzte Diagnostiksysteme
 - `BMBF_KMU_INNOVATIV_DIGITALE_QUALITAETSSICHERUNG` | KMU-innovativ - Digitale Qualitaetssicherung und adaptive Pruefverfahren
 - `BMBF_KMU_INNOVATIV_DIGITALE_REPARATUR_ASSISTENZ` | KMU-innovativ - Digitale Reparaturassistenz und wissensbasierte Serviceplattformen
+- `BMBF_KMU_INNOVATIV_DIGITALE_ROHSTOFFPROGNOSEN` | KMU-innovativ - Digitale Rohstoffprognosen und resiliente Beschaffungsmodelle
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPEUTIKA` | KMU-innovativ - Digitale Therapeutika und evidenzbasierte Versorgungsplattformen
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEADHERENZ` | KMU-innovativ - Digitale Therapieadhaerenz und personalisierte Versorgungspfade
 - `BMBF_KMU_INNOVATIV_DIGITALE_WARTUNGSKETTEN` | KMU-innovativ - Digitale Wartungsketten und zustandsbasierte Instandhaltung
@@ -144,6 +145,7 @@
 - `BMBF_KMU_INNOVATIV_SMARTE_SENSORIK` | KMU-innovativ - Smarte Sensorik und Messtechnik
 - `BMBF_KMU_INNOVATIV_SMARTE_SPEICHER_NETZE` | KMU-innovativ - Smarte Speicher- und Energienetzsysteme
 - `BMBF_KMU_INNOVATIV_SMARTE_TEXTILIEN` | KMU-innovativ - Smarte Textilien und funktionale Fasersysteme
+- `BMBF_KMU_INNOVATIV_SMARTE_THERMISCHE_SPEICHER` | KMU-innovativ - Smarte thermische Speicher und adaptive Waermeverteilung
 - `BMBF_KMU_INNOVATIV_SMARTE_THERMOPROZESSE` | KMU-innovativ - Smarte Thermoprozesse und Waermeintegration
 - `BMBF_KMU_INNOVATIV_SMARTE_WAERMENETZE` | KMU-innovativ - Smarte Waermenetze und sektorengekoppelte Quartiersversorgung
 - `BMBF_KMU_INNOVATIV_SMARTE_WASSERSTOFFE` | KMU-innovativ - Smarte Wasserstoffspeicher und Materialsysteme
