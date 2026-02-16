@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-16 04:31`
-- Datensaetze: `390`
-- Eindeutige `programm_id`: `390`
+- Erzeugt am: `2026-02-16 04:35`
+- Datensaetze: `392`
+- Eindeutige `programm_id`: `392`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 309 |
+| laufend | 311 |
 | offen | 76 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 309 |
+| laufend | 311 |
 | offen | 76 |
 | zukuenftig | 5 |
 
@@ -26,7 +26,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Region | Anzahl |
 |---|---:|
-| Deutschland | 138 |
+| Deutschland | 140 |
 | EU (inkl. Deutschland) | 58 |
 | Rheinland-Pfalz | 17 |
 | Berlin | 16 |
@@ -82,9 +82,9 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Forschung und Entwicklung/Innovation | 16 |
 | Investition/Betriebsmittel | 16 |
 | Digitalisierung | 12 |
+| Forschung und Entwicklung | 9 |
 | Gruendung/Wachstum | 9 |
 | Unternehmensfoerderung | 8 |
-| Forschung und Entwicklung | 7 |
 | Gruendung/Nachfolge | 7 |
 | Beratung/Unternehmensentwicklung | 6 |
 | Energieeffizienz | 6 |
