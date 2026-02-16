@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-16 07:24`
-- Datensaetze: `476`
-- Eindeutige `programm_id`: `476`
+- Erzeugt am: `2026-02-16 07:28`
+- Datensaetze: `478`
+- Eindeutige `programm_id`: `478`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 389 |
+| laufend | 391 |
 | offen | 82 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 389 |
+| laufend | 391 |
 | offen | 82 |
 | zukuenftig | 5 |
 
@@ -26,7 +26,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Region | Anzahl |
 |---|---:|
-| Deutschland | 189 |
+| Deutschland | 191 |
 | EU (inkl. Deutschland) | 60 |
 | Deutschland/International | 36 |
 | Rheinland-Pfalz | 17 |
@@ -51,7 +51,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Traeger | Anzahl |
 |---|---:|
-| KfW | 50 |
+| KfW | 52 |
 | BMWK | 47 |
 | BAFA | 23 |
 | Europaeische Kommission | 16 |
@@ -92,10 +92,10 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Beratung/Unternehmensentwicklung | 6 |
 | Energieeffizienz | 6 |
 | Forschung und Entwicklung/Innovation (international) | 6 |
+| Gruendung/Nachfolge/Wachstum | 6 |
 | Innovation/Digitalisierung | 6 |
 | Unternehmensfinanzierung/Innovation | 6 |
 | Digitalisierung/Innovation | 5 |
-| Energieeffizienz/Klimaschutz | 5 |
 
 ## Feldqualitaet
 
