@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-16 04:55`
-- Datensaetze: `402`
-- Eindeutige `programm_id`: `402`
+- Erzeugt am: `2026-02-16 05:00`
+- Datensaetze: `404`
+- Eindeutige `programm_id`: `404`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 321 |
+| laufend | 323 |
 | offen | 76 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 321 |
+| laufend | 323 |
 | offen | 76 |
 | zukuenftig | 5 |
 
@@ -26,7 +26,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Region | Anzahl |
 |---|---:|
-| Deutschland | 148 |
+| Deutschland | 150 |
 | EU (inkl. Deutschland) | 58 |
 | Rheinland-Pfalz | 17 |
 | Berlin | 16 |
@@ -55,9 +55,9 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | BMWK | 33 |
 | BAFA | 21 |
 | Europaeische Kommission | 16 |
+| BMWK / EXIST | 13 |
 | Investitionsbank Berlin (IBB) | 13 |
 | ISB (Rheinland-Pfalz) | 12 |
-| BMWK / EXIST | 11 |
 | BMAS / INQA / ESF Plus | 9 |
 | BMWK (ZIM) / Projekttraeger | 9 |
 | NBank | 9 |
