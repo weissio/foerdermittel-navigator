@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `710`
+- Gepruefte Datensaetze: `712`
 
 ## Offen Mit Datumsfrist
 
@@ -29,6 +29,7 @@
 - `BMBF_KMU_INNOVATIV_ADDITIVE_FERTIGUNG` | KMU-innovativ - Additive Fertigung und neue Produktionsverfahren
 - `BMBF_KMU_INNOVATIV_AGRITECH` | KMU-innovativ - Agrar- und Lebensmitteltechnologien
 - `BMBF_KMU_INNOVATIV_AUTOMATION_KI` | KMU-innovativ - Automatisierung, KI und autonome Produktionssysteme
+- `BMBF_KMU_INNOVATIV_AUTONOME_LABORNETZE` | KMU-innovativ - Autonome Labornetze und verteilte Testinfrastrukturen
 - `BMBF_KMU_INNOVATIV_BATTERIETECH` | KMU-innovativ - Batterietechnologien und Energiespeicher
 - `BMBF_KMU_INNOVATIV_BAUPROZESSE_DIGITAL` | KMU-innovativ - Digitale Bauprozesse und nachhaltige Bauwerke
 - `BMBF_KMU_INNOVATIV_BAUSTOFFRECYCLING` | KMU-innovativ - Baustoffrecycling und zirkulaeres Bauen
@@ -53,6 +54,7 @@
 - `BMBF_KMU_INNOVATIV_INTERAKTIVE_TECH` | KMU-innovativ - Interaktive Technologien fuer Gesundheit und Lebensqualitaet
 - `BMBF_KMU_INNOVATIV_KI_DATENRAEUME` | KMU-innovativ - KI und industrielle Datenraeume
 - `BMBF_KMU_INNOVATIV_KLIMAMODELLE_AI` | KMU-innovativ - KI-gestuetzte Klimamodelle und Resilienzsysteme
+- `BMBF_KMU_INNOVATIV_KLIMARESILIENTE_INFRA` | KMU-innovativ - Klimaresiliente Infrastrukturen und adaptive Systeme
 - `BMBF_KMU_INNOVATIV_KLIMA_UMWELT` | KMU-innovativ - Klima- und Umwelttechnologien
 - `BMBF_KMU_INNOVATIV_KREBSDIAGNOSTIK` | KMU-innovativ - Onkologische Diagnostik und Praezisionsmedizin
 - `BMBF_KMU_INNOVATIV_KREISLAUFWIRTSCHAFT` | KMU-innovativ - Kreislaufwirtschaft und Ressourceneffizienz

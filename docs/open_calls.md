@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-16`
-- Offen gesamt: `150`
+- Offen gesamt: `152`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `134`
+- Rollierend/ohne Datum: `136`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -31,6 +31,7 @@
 - `BMBF_KMU_INNOVATIV_ADDITIVE_FERTIGUNG` | KMU-innovativ - Additive Fertigung und neue Produktionsverfahren | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_AGRITECH` | KMU-innovativ - Agrar- und Lebensmitteltechnologien | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_AUTOMATION_KI` | KMU-innovativ - Automatisierung, KI und autonome Produktionssysteme | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_AUTONOME_LABORNETZE` | KMU-innovativ - Autonome Labornetze und verteilte Testinfrastrukturen | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_BATTERIETECH` | KMU-innovativ - Batterietechnologien und Energiespeicher | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_BAUPROZESSE_DIGITAL` | KMU-innovativ - Digitale Bauprozesse und nachhaltige Bauwerke | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_BAUSTOFFRECYCLING` | KMU-innovativ - Baustoffrecycling und zirkulaeres Bauen | rollierend | https://www.kmu-innovativ.de/
@@ -55,6 +56,7 @@
 - `BMBF_KMU_INNOVATIV_INTERAKTIVE_TECH` | KMU-innovativ - Interaktive Technologien fuer Gesundheit und Lebensqualitaet | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_KI_DATENRAEUME` | KMU-innovativ - KI und industrielle Datenraeume | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_KLIMAMODELLE_AI` | KMU-innovativ - KI-gestuetzte Klimamodelle und Resilienzsysteme | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_KLIMARESILIENTE_INFRA` | KMU-innovativ - Klimaresiliente Infrastrukturen und adaptive Systeme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_KLIMA_UMWELT` | KMU-innovativ - Klima- und Umwelttechnologien | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_KREBSDIAGNOSTIK` | KMU-innovativ - Onkologische Diagnostik und Praezisionsmedizin | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_KREISLAUFWIRTSCHAFT` | KMU-innovativ - Kreislaufwirtschaft und Ressourceneffizienz | rollierend | https://www.kmu-innovativ.de/
