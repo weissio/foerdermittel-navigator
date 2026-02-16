@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-16`
-- Offen gesamt: `188`
+- Offen gesamt: `190`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `172`
+- Rollierend/ohne Datum: `174`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -52,6 +52,7 @@
 - `BMBF_KMU_INNOVATIV_CLEANROOM_AUTOMATION` | KMU-innovativ - Reinraumautomation und Hightech-Produktion | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_CO2_MATERIALKREISLAUF` | KMU-innovativ - CO2-basierte Materialkreislaufe und Kohlenstoffnutzung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_CYBERPHYSIK` | KMU-innovativ - Cyber-physische Systeme und industrielle Vernetzung | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_CYBERRESILIENTE_MEDTECH` | KMU-innovativ - Cyberresiliente Medizintechnik und sichere Geraeteplattformen | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DEEP_LEARNING_INDUSTRIE` | KMU-innovativ - Deep-Learning-Methoden fuer industrielle Anwendungen | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_QUALITAETSSICHERUNG` | KMU-innovativ - Digitale Qualitaetssicherung und adaptive Pruefverfahren | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPEUTIKA` | KMU-innovativ - Digitale Therapeutika und evidenzbasierte Versorgungsplattformen | rollierend | https://www.kmu-innovativ.de/
@@ -127,6 +128,7 @@
 - `BMBF_KMU_INNOVATIV_SOFTWAREROBOTIK` | KMU-innovativ - Softwareintensive Systeme und Robotik | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_SUSTAINABLE_PACKAGING` | KMU-innovativ - Nachhaltige Verpackungs- und Materialsysteme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_VERTRAUENSWUERDIGE_KI_SYSTEME` | KMU-innovativ - Vertrauenswuerdige KI-Systeme und auditierbare Modelle | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_WASSERSTOFF_SICHERHEIT` | KMU-innovativ - Wasserstoffsicherheit und industrielle Schutzkonzepte | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_WASSERTECH` | KMU-innovativ - Wassertechnologien und nachhaltige Wassersysteme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_WERKSTOFFRECYCLING` | KMU-innovativ - Werkstoffrecycling und zirkulaere Materialien | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_ZELLTHERAPIE` | KMU-innovativ - Zelltherapien und biomedizinische Plattformtechnologien | rollierend | https://www.kmu-innovativ.de/

@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `748`
+- Gepruefte Datensaetze: `750`
 
 ## Offen Mit Datumsfrist
 
@@ -50,6 +50,7 @@
 - `BMBF_KMU_INNOVATIV_CLEANROOM_AUTOMATION` | KMU-innovativ - Reinraumautomation und Hightech-Produktion
 - `BMBF_KMU_INNOVATIV_CO2_MATERIALKREISLAUF` | KMU-innovativ - CO2-basierte Materialkreislaufe und Kohlenstoffnutzung
 - `BMBF_KMU_INNOVATIV_CYBERPHYSIK` | KMU-innovativ - Cyber-physische Systeme und industrielle Vernetzung
+- `BMBF_KMU_INNOVATIV_CYBERRESILIENTE_MEDTECH` | KMU-innovativ - Cyberresiliente Medizintechnik und sichere Geraeteplattformen
 - `BMBF_KMU_INNOVATIV_DEEP_LEARNING_INDUSTRIE` | KMU-innovativ - Deep-Learning-Methoden fuer industrielle Anwendungen
 - `BMBF_KMU_INNOVATIV_DIGITALE_QUALITAETSSICHERUNG` | KMU-innovativ - Digitale Qualitaetssicherung und adaptive Pruefverfahren
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPEUTIKA` | KMU-innovativ - Digitale Therapeutika und evidenzbasierte Versorgungsplattformen
@@ -125,6 +126,7 @@
 - `BMBF_KMU_INNOVATIV_SOFTWAREROBOTIK` | KMU-innovativ - Softwareintensive Systeme und Robotik
 - `BMBF_KMU_INNOVATIV_SUSTAINABLE_PACKAGING` | KMU-innovativ - Nachhaltige Verpackungs- und Materialsysteme
 - `BMBF_KMU_INNOVATIV_VERTRAUENSWUERDIGE_KI_SYSTEME` | KMU-innovativ - Vertrauenswuerdige KI-Systeme und auditierbare Modelle
+- `BMBF_KMU_INNOVATIV_WASSERSTOFF_SICHERHEIT` | KMU-innovativ - Wasserstoffsicherheit und industrielle Schutzkonzepte
 - `BMBF_KMU_INNOVATIV_WASSERTECH` | KMU-innovativ - Wassertechnologien und nachhaltige Wassersysteme
 - `BMBF_KMU_INNOVATIV_WERKSTOFFRECYCLING` | KMU-innovativ - Werkstoffrecycling und zirkulaere Materialien
 - `BMBF_KMU_INNOVATIV_ZELLTHERAPIE` | KMU-innovativ - Zelltherapien und biomedizinische Plattformtechnologien
