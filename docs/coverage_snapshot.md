@@ -2,16 +2,16 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-16 01:56`
-- Datensaetze: `311`
-- Eindeutige `programm_id`: `311`
+- Erzeugt am: `2026-02-16 02:00`
+- Datensaetze: `313`
+- Eindeutige `programm_id`: `313`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
 | laufend | 277 |
-| offen | 29 |
+| offen | 31 |
 | geplant | 5 |
 
 ## Kategorie
@@ -19,7 +19,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Kategorie | Anzahl |
 |---|---:|
 | laufend | 277 |
-| offen | 29 |
+| offen | 31 |
 | zukuenftig | 5 |
 
 ## Top Regionen
@@ -27,7 +27,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Region | Anzahl |
 |---|---:|
 | Deutschland | 105 |
-| EU (inkl. Deutschland) | 17 |
+| EU (inkl. Deutschland) | 18 |
 | Rheinland-Pfalz | 17 |
 | Berlin | 16 |
 | Niedersachsen | 13 |
@@ -88,13 +88,13 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Gruendung/Nachfolge | 7 |
 | Beratung/Unternehmensentwicklung | 6 |
 | Energieeffizienz | 6 |
+| Forschung und Entwicklung/Innovation (international) | 6 |
 | Internationalisierung/Export | 6 |
 | Unternehmensfinanzierung/Innovation | 6 |
 | Innovation/Beratung | 5 |
 | Innovation/Digitalisierung | 5 |
 | Wachstum/Investition | 5 |
 | Digitalisierung/Innovation | 4 |
-| Forschung und Entwicklung/Innovation (international) | 4 |
 | Gruendung/Innovation | 4 |
 
 ## Feldqualitaet

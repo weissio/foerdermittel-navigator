@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `311`
+- Gepruefte Datensaetze: `313`
 
 ## Offen Mit Datumsfrist
 
@@ -28,6 +28,8 @@
 - `EU_CEF_DIGITAL` | Connecting Europe Facility - Digital (CEF Digital)
 - `EU_EIT_COMMUNITY` | European Institute of Innovation and Technology (EIT) - Funding & Calls
 - `EU_EU4HEALTH` | EU4Health Programme
+- `EU_EUREKA_GLOBALSTARS` | Globalstars (EUREKA)
+- `EU_EUROSTARS` | Eurostars (EUREKA / Innovative SMEs Partnership)
 - `EU_INNOVATION_FUND` | Innovation Fund (EU ETS)
 - `EU_INVESTEU` | InvestEU Programme
 - `EU_LIFE_PROGRAMME` | LIFE Programme (EU)
