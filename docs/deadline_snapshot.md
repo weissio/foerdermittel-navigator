@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `884`
+- Gepruefte Datensaetze: `886`
 
 ## Offen Mit Datumsfrist
 
@@ -93,6 +93,7 @@
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPEUTIKA` | KMU-innovativ - Digitale Therapeutika und evidenzbasierte Versorgungsplattformen
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEABBRUCH_PRAEVENTION` | KMU-innovativ - Digitale Therapieabbruch-Praevention und adaptive Verlaufsintervention
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEABFOLGE_INTELLIGENZ` | KMU-innovativ - Digitale Therapieabfolge-Intelligenz und adaptive Interventionsdynamik
+- `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEABLAUF_KOHERENZ` | KMU-innovativ - Digitale Therapieablauf-Kohaerenz und adaptive Behandlungskonsistenz
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEABLAUF_MODELLE` | KMU-innovativ - Digitale Therapieablauf-Modelle und adaptive Versorgungsplanung
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEABSTIMMUNG` | KMU-innovativ - Digitale Therapieabstimmung und individualisierte Behandlungskoordination
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEADAPTATION` | KMU-innovativ - Digitale Therapieadaptation und kontinuierliche Behandlungsanpassung
@@ -213,6 +214,7 @@
 - `BMBF_KMU_INNOVATIV_QUANTUM_COMMUNICATION` | KMU-innovativ - Quantenkommunikation und sichere Netze
 - `BMBF_KMU_INNOVATIV_QUANTUM_SENSORS` | KMU-innovativ - Quantensensorik und Praezisionsmesstechnik
 - `BMBF_KMU_INNOVATIV_REGENERATIVE_MED` | KMU-innovativ - Regenerative Medizin und innovative Therapieansaetze
+- `BMBF_KMU_INNOVATIV_RESILIENTE_FERTIGUNGSAUSLASTUNG` | KMU-innovativ - Resiliente Fertigungsauslastung und adaptive Laststeuerung
 - `BMBF_KMU_INNOVATIV_RESILIENTE_HALBLEITER_TESTKETTEN` | KMU-innovativ - Resiliente Halbleiter-Testketten und adaptive Qualifizierung
 - `BMBF_KMU_INNOVATIV_RESILIENTE_KUEHLLIEFERKETTEN` | KMU-innovativ - Resiliente Kuehllieferketten und digitale Temperaturfuehrung
 - `BMBF_KMU_INNOVATIV_RESILIENTE_LIEFERKETTEN` | KMU-innovativ - Resiliente Lieferketten und digitale Wertschöpfungsnetze
