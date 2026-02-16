@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-16`
-- Offen gesamt: `278`
+- Offen gesamt: `280`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `262`
+- Rollierend/ohne Datum: `264`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -35,6 +35,7 @@
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_MONTAGEINTELLIGENZ` | KMU-innovativ - Adaptive Montageintelligenz und autonome Prozessabstimmung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_NETZSPEICHER` | KMU-innovativ - Adaptive Netzspeicher und intelligente Lastverschiebung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_PRODUKTIONSLINIEN` | KMU-innovativ - Adaptive Produktionslinien und modulare Fabriksysteme | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_ADAPTIVE_PROZESSPROGNOSTIK` | KMU-innovativ - Adaptive Prozessprognostik und selbstlernende Fertigungssteuerung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_STROMNETZREGELUNG` | KMU-innovativ - Adaptive Stromnetzregelung und netzdienliche Flexibilitaetsplattformen | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_WAERMERUECKGEWINNUNG` | KMU-innovativ - Adaptive Waermerueckgewinnung und intelligente Prozesskopplung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_ADDITIVE_BIOFABRICATION` | KMU-innovativ - Additive Biofabrication und personalisierte Gewebestrukturen | rollierend | https://www.kmu-innovativ.de/
@@ -91,6 +92,7 @@
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEFORTSCHRITTSMESSUNG` | KMU-innovativ - Digitale Therapiefortschrittsmessung und adaptive Behandlungsplanung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEINDIKATOREN` | KMU-innovativ - Digitale Therapieindikatoren und kontinuierliche Wirkungsmessung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEKOHORTEN_ANALYSE` | KMU-innovativ - Digitale Therapiekohorten-Analyse und personalisierte Wirksamkeitsprofile | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEKONTEXT_MODELLE` | KMU-innovativ - Digitale Therapiekontext-Modelle und adaptive Behandlungsdynamik | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEKONTINUITAET` | KMU-innovativ - Digitale Therapiekontinuitaet und personalisierte Versorgungsbegleitung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEPFADE_KOORDINATION` | KMU-innovativ - Digitale Therapiepfade-Koordination und vernetzte Behandlungssteuerung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEPFAD_PROGNOSE` | KMU-innovativ - Digitale Therapiepfad-Prognose und adaptive Versorgungsempfehlungen | rollierend | https://www.kmu-innovativ.de/

@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `838`
+- Gepruefte Datensaetze: `840`
 
 ## Offen Mit Datumsfrist
 
@@ -33,6 +33,7 @@
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_MONTAGEINTELLIGENZ` | KMU-innovativ - Adaptive Montageintelligenz und autonome Prozessabstimmung
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_NETZSPEICHER` | KMU-innovativ - Adaptive Netzspeicher und intelligente Lastverschiebung
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_PRODUKTIONSLINIEN` | KMU-innovativ - Adaptive Produktionslinien und modulare Fabriksysteme
+- `BMBF_KMU_INNOVATIV_ADAPTIVE_PROZESSPROGNOSTIK` | KMU-innovativ - Adaptive Prozessprognostik und selbstlernende Fertigungssteuerung
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_STROMNETZREGELUNG` | KMU-innovativ - Adaptive Stromnetzregelung und netzdienliche Flexibilitaetsplattformen
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_WAERMERUECKGEWINNUNG` | KMU-innovativ - Adaptive Waermerueckgewinnung und intelligente Prozesskopplung
 - `BMBF_KMU_INNOVATIV_ADDITIVE_BIOFABRICATION` | KMU-innovativ - Additive Biofabrication und personalisierte Gewebestrukturen
@@ -89,6 +90,7 @@
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEFORTSCHRITTSMESSUNG` | KMU-innovativ - Digitale Therapiefortschrittsmessung und adaptive Behandlungsplanung
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEINDIKATOREN` | KMU-innovativ - Digitale Therapieindikatoren und kontinuierliche Wirkungsmessung
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEKOHORTEN_ANALYSE` | KMU-innovativ - Digitale Therapiekohorten-Analyse und personalisierte Wirksamkeitsprofile
+- `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEKONTEXT_MODELLE` | KMU-innovativ - Digitale Therapiekontext-Modelle und adaptive Behandlungsdynamik
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEKONTINUITAET` | KMU-innovativ - Digitale Therapiekontinuitaet und personalisierte Versorgungsbegleitung
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEPFADE_KOORDINATION` | KMU-innovativ - Digitale Therapiepfade-Koordination und vernetzte Behandlungssteuerung
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEPFAD_PROGNOSE` | KMU-innovativ - Digitale Therapiepfad-Prognose und adaptive Versorgungsempfehlungen
