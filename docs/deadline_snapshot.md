@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `307`
+- Gepruefte Datensaetze: `309`
 
 ## Offen Mit Datumsfrist
 
@@ -26,6 +26,8 @@
 - `BMBF_KMU_INNOVATIV` | KMU-innovativ: Forschung fuer den Mittelstand
 - `BMWK_IGP` | Innovationsprogramm fuer Geschaeftsmodelle und Pionierloesungen (IGP)
 - `EU_CEF_DIGITAL` | Connecting Europe Facility - Digital (CEF Digital)
+- `EU_INNOVATION_FUND` | Innovation Fund (EU ETS)
+- `EU_INVESTEU` | InvestEU Programme
 - `EU_LIFE_PROGRAMME` | LIFE Programme (EU)
 - `IBB_GO_BIO_INITIAL` | Go-Bio initial (Berlin)
 - `NRW_MID_ASSISTENZ` | Mittelstand Innovativ & Digital (MID) - Digitale Assistenzsysteme

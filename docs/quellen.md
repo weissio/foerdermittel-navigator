@@ -240,3 +240,5 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - https://www.bayernkapital.de/
 - https://cinea.ec.europa.eu/life_en
 - https://cinea.ec.europa.eu/programmes/connecting-europe-facility/cef-digital_en
+- https://climate.ec.europa.eu/eu-action/funding-climate-action/innovation-fund_en
+- https://investeu.europa.eu/index_en
