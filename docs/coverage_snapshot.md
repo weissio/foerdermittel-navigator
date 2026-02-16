@@ -2,16 +2,16 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-16 13:04`
-- Datensaetze: `646`
-- Eindeutige `programm_id`: `646`
+- Erzeugt am: `2026-02-16 13:08`
+- Datensaetze: `648`
+- Eindeutige `programm_id`: `648`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
 | laufend | 555 |
-| offen | 86 |
+| offen | 88 |
 | geplant | 5 |
 
 ## Kategorie
@@ -19,14 +19,14 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Kategorie | Anzahl |
 |---|---:|
 | laufend | 555 |
-| offen | 86 |
+| offen | 88 |
 | zukuenftig | 5 |
 
 ## Top Regionen
 
 | Region | Anzahl |
 |---|---:|
-| Deutschland | 359 |
+| Deutschland | 361 |
 | EU (inkl. Deutschland) | 60 |
 | Deutschland/International | 36 |
 | Rheinland-Pfalz | 17 |
@@ -69,8 +69,8 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | LfA Foerderbank Bayern | 6 |
 | Saechsische Aufbaubank (SAB) | 6 |
 | Thueringer Aufbaubank (TAB) | 6 |
+| BMBF | 5 |
 | BMWK / German Accelerator | 5 |
-| Europaeische Kommission / CINEA | 5 |
 
 ## Top Themen
 
