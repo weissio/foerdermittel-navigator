@@ -1,7 +1,7 @@
 # Data Gaps
 
-- Erzeugt am: `2026-02-16 02:48`
-- Datensaetze: `337`
+- Erzeugt am: `2026-02-16 02:51`
+- Datensaetze: `339`
 
 ## Status-Verteilung
 
@@ -9,7 +9,7 @@
 |---|---:|
 | geplant | 5 |
 | laufend | 277 |
-| offen | 55 |
+| offen | 57 |
 
 ## Unterrepraesentierte Regionen
 
@@ -36,7 +36,7 @@
 | Region | Anzahl |
 |---|---:|
 | Deutschland | 105 |
-| EU (inkl. Deutschland) | 42 |
+| EU (inkl. Deutschland) | 44 |
 | Rheinland-Pfalz | 17 |
 | Berlin | 16 |
 | Niedersachsen | 13 |
@@ -82,14 +82,14 @@
 | Biooekonomie/Umwelt/Agrar/Ernaehrung | 1 |
 | Biotech/DeepTech | 1 |
 | Branchenfoerderung/Unternehmensfoerderung | 1 |
+| DeepTech/Forschung/Innovation | 1 |
 | DeepTech/Klimaschutz/Skalierung | 1 |
+| DeepTech/Technologietransfer/Validierung | 1 |
 | Dekarbonisierung/Transformation | 1 |
 | Digitalisierung (KI, Cybersecurity, HPC, Skills) | 1 |
 | Digitalisierung/Industrie/DeepTech/Space | 1 |
 | Digitalisierung/Konnektivitaet/Infrastruktur | 1 |
 | EU-Fonds (EFRE/ESF+/u. a.) | 1 |
-| EU-Fonds EFRE/JTF | 1 |
-| Eigenkapital/Beteiligung | 1 |
 
 ## Priorisierungsregel
 

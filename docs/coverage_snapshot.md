@@ -2,16 +2,16 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-16 02:48`
-- Datensaetze: `337`
-- Eindeutige `programm_id`: `337`
+- Erzeugt am: `2026-02-16 02:51`
+- Datensaetze: `339`
+- Eindeutige `programm_id`: `339`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
 | laufend | 277 |
-| offen | 55 |
+| offen | 57 |
 | geplant | 5 |
 
 ## Kategorie
@@ -19,7 +19,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Kategorie | Anzahl |
 |---|---:|
 | laufend | 277 |
-| offen | 55 |
+| offen | 57 |
 | zukuenftig | 5 |
 
 ## Top Regionen
@@ -27,7 +27,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Region | Anzahl |
 |---|---:|
 | Deutschland | 105 |
-| EU (inkl. Deutschland) | 42 |
+| EU (inkl. Deutschland) | 44 |
 | Rheinland-Pfalz | 17 |
 | Berlin | 16 |
 | Niedersachsen | 13 |
@@ -60,6 +60,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | BMWK (ZIM) / Projekttraeger | 9 |
 | NBank | 9 |
 | IFB Hamburg | 7 |
+| EIC (EU) | 6 |
 | Investitionsbank Sachsen-Anhalt (IB) | 6 |
 | L-Bank | 6 |
 | Thueringer Aufbaubank (TAB) | 6 |
@@ -69,7 +70,6 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | NRW.BANK / Land NRW | 5 |
 | SAB (Saechsische Aufbaubank) | 5 |
 | WIBank (Hessen) | 5 |
-| EIC (EU) | 4 |
 | EISMEA (EU) | 4 |
 
 ## Top Themen

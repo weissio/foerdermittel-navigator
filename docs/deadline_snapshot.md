@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `337`
+- Gepruefte Datensaetze: `339`
 
 ## Offen Mit Datumsfrist
 
@@ -33,6 +33,8 @@
 - `EU_CERV_PROGRAMME` | Citizens, Equality, Rights and Values (CERV)
 - `EU_CHIPS_JU` | Chips Joint Undertaking (Chips JU) Calls
 - `EU_CREATIVE_EUROPE` | Creative Europe Programme
+- `EU_EIC_PATHFINDER` | EIC Pathfinder (EU)
+- `EU_EIC_TRANSITION` | EIC Transition (EU)
 - `EU_EIT_COMMUNITY` | European Institute of Innovation and Technology (EIT) - Funding & Calls
 - `EU_ERASMUS_PLUS` | Erasmus+ Programme
 - `EU_EU4HEALTH` | EU4Health Programme
