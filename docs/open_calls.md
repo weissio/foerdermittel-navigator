@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-16`
-- Offen gesamt: `270`
+- Offen gesamt: `272`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `254`
+- Rollierend/ohne Datum: `256`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -86,6 +86,7 @@
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEADAPTATION` | KMU-innovativ - Digitale Therapieadaptation und kontinuierliche Behandlungsanpassung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEADHERENZ` | KMU-innovativ - Digitale Therapieadhaerenz und personalisierte Versorgungspfade | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEAUSWERTUNG` | KMU-innovativ - Digitale Therapieauswertung und evidenzbasierte Versorgungsanalytik | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEEFFIZIENZ` | KMU-innovativ - Digitale Therapieeffizienz und adaptive Wirkungsoptimierung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEFORTSCHRITTSMESSUNG` | KMU-innovativ - Digitale Therapiefortschrittsmessung und adaptive Behandlungsplanung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEINDIKATOREN` | KMU-innovativ - Digitale Therapieindikatoren und kontinuierliche Wirkungsmessung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEKONTINUITAET` | KMU-innovativ - Digitale Therapiekontinuitaet und personalisierte Versorgungsbegleitung | rollierend | https://www.kmu-innovativ.de/
@@ -172,6 +173,7 @@
 - `BMBF_KMU_INNOVATIV_RESILIENTE_HALBLEITER_TESTKETTEN` | KMU-innovativ - Resiliente Halbleiter-Testketten und adaptive Qualifizierung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_RESILIENTE_KUEHLLIEFERKETTEN` | KMU-innovativ - Resiliente Kuehllieferketten und digitale Temperaturfuehrung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_RESILIENTE_LIEFERKETTEN` | KMU-innovativ - Resiliente Lieferketten und digitale Wertschöpfungsnetze | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_RESILIENTE_PRODUKTIONSKAPAZITAET` | KMU-innovativ - Resiliente Produktionskapazitaet und dynamische Lastverteilung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_RESILIENTE_PROZESSKETTEN` | KMU-innovativ - Resiliente Prozessketten und adaptive Produktionskontinuitaet | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_RESILIENTE_ROBOTIKZELLEN` | KMU-innovativ - Resiliente Robotikzellen und adaptive Produktionskoordination | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_ROBOTIK_LOGISTIK` | KMU-innovativ - Robotik und intelligente Logistiksysteme | rollierend | https://www.kmu-innovativ.de/
