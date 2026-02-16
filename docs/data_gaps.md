@@ -1,7 +1,7 @@
 # Data Gaps
 
-- Erzeugt am: `2026-02-16 22:24`
-- Datensaetze: `912`
+- Erzeugt am: `2026-02-16 22:29`
+- Datensaetze: `914`
 
 ## Status-Verteilung
 
@@ -9,7 +9,7 @@
 |---|---:|
 | geplant | 5 |
 | laufend | 563 |
-| offen | 344 |
+| offen | 346 |
 
 ## Unterrepraesentierte Regionen
 
@@ -35,7 +35,7 @@
 
 | Region | Anzahl |
 |---|---:|
-| Deutschland | 621 |
+| Deutschland | 623 |
 | EU (inkl. Deutschland) | 60 |
 | Deutschland/International | 40 |
 | Rheinland-Pfalz | 17 |
@@ -56,6 +56,7 @@
 | Traeger | Anzahl |
 |---|---:|
 | BAFA/KfW | 1 |
+| BMAS / INQA | 1 |
 | BMWK (Nationales Portal) / EU | 1 |
 | BMWK / AiF / internationale Partner | 1 |
 | BMWK/ZIM (DE) + CORFO (CL) | 1 |
@@ -69,13 +70,13 @@
 | Bund/Land (EFRE) | 1 |
 | Bund/Land (ESF+) | 1 |
 | CBE JU (EU) | 1 |
-| Chips Joint Undertaking (EU) | 1 |
 
 ## Unterrepraesentierte Themen
 
 | Thema | Anzahl |
 |---|---:|
 | Agrar/Ernaehrung/Investition | 1 |
+| Arbeitsweltinnovation/Digitalisierung/Organisation | 1 |
 | Aus- und Weiterbildung | 1 |
 | Beratung/Digitalisierung/Innovation/Existenzgruendung | 1 |
 | Beratung/Restrukturierung | 1 |
@@ -89,7 +90,6 @@
 | Digitalisierung (KI, Cybersecurity, Data, Skills) | 1 |
 | Digitalisierung (KI, Cybersecurity, HPC, Skills) | 1 |
 | Digitalisierung/IT-Sicherheit/Transformation | 1 |
-| Digitalisierung/Industrie/DeepTech/Space | 1 |
 
 ## Priorisierungsregel
 

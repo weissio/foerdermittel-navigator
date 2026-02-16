@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `912`
+- Gepruefte Datensaetze: `914`
 
 ## Offen Mit Datumsfrist
 
@@ -24,7 +24,9 @@
 
 ## Offen Rollierend
 
+- `BMAS_INQA_EXPERIMENTIERRAEUME` | INQA-Experimentierräume (BMAS/INQA)
 - `BMAS_KOMPASS_QUALIFIZIERUNGSSCHECK` | KOMPASS - Qualifizierungsscheck fuer Solo-Selbststaendige
+- `BMAS_ZUKUNFTSZENTREN` | Foerderprogramm Zukunftszentren (BMAS/ESF Plus)
 - `BMBF_KMU_INNOVATIV_5G_6G_INDUSTRIE` | KMU-innovativ - 5G/6G und vernetzte Industrieanwendungen
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_BAUTEILINSPEKTION` | KMU-innovativ - Adaptive Bauteilinspektion und KI-gestuetzte Fehlervorhersage
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_FERTIGUNGSFLUESSE` | KMU-innovativ - Adaptive Fertigungsfluesse und resiliente Ablaufsteuerung
