@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-16 07:12`
-- Datensaetze: `470`
-- Eindeutige `programm_id`: `470`
+- Erzeugt am: `2026-02-16 07:16`
+- Datensaetze: `472`
+- Eindeutige `programm_id`: `472`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 383 |
+| laufend | 385 |
 | offen | 82 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 383 |
+| laufend | 385 |
 | offen | 82 |
 | zukuenftig | 5 |
 
@@ -26,7 +26,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Region | Anzahl |
 |---|---:|
-| Deutschland | 183 |
+| Deutschland | 185 |
 | EU (inkl. Deutschland) | 60 |
 | Deutschland/International | 36 |
 | Rheinland-Pfalz | 17 |
@@ -95,7 +95,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Innovation/Digitalisierung | 6 |
 | Unternehmensfinanzierung/Innovation | 6 |
 | Digitalisierung/Innovation | 5 |
-| Innovation/Beratung | 5 |
+| Energieeffizienz/Klimaschutz | 5 |
 
 ## Feldqualitaet
 
