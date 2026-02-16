@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-16 04:27`
-- Datensaetze: `388`
-- Eindeutige `programm_id`: `388`
+- Erzeugt am: `2026-02-16 04:31`
+- Datensaetze: `390`
+- Eindeutige `programm_id`: `390`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 307 |
+| laufend | 309 |
 | offen | 76 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 307 |
+| laufend | 309 |
 | offen | 76 |
 | zukuenftig | 5 |
 
@@ -26,7 +26,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Region | Anzahl |
 |---|---:|
-| Deutschland | 136 |
+| Deutschland | 138 |
 | EU (inkl. Deutschland) | 58 |
 | Rheinland-Pfalz | 17 |
 | Berlin | 16 |
@@ -59,12 +59,12 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | ISB (Rheinland-Pfalz) | 12 |
 | BMWK (ZIM) / Projekttraeger | 9 |
 | NBank | 9 |
+| BMAS / INQA / ESF Plus | 7 |
 | IFB Hamburg | 7 |
 | EIC (EU) | 6 |
 | Investitionsbank Sachsen-Anhalt (IB) | 6 |
 | L-Bank | 6 |
 | Thueringer Aufbaubank (TAB) | 6 |
-| BMAS / INQA / ESF Plus | 5 |
 | BMWK / EXIST | 5 |
 | Europaeische Kommission / CINEA | 5 |
 | Investitionsbank Schleswig-Holstein (IB.SH) | 5 |
