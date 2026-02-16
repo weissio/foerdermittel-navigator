@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `432`
+- Gepruefte Datensaetze: `434`
 
 ## Offen Mit Datumsfrist
 
@@ -26,6 +26,8 @@
 
 - `BMAS_KOMPASS_QUALIFIZIERUNGSSCHECK` | KOMPASS - Qualifizierungsscheck fuer Solo-Selbststaendige
 - `BMBF_KMU_INNOVATIV` | KMU-innovativ: Forschung fuer den Mittelstand
+- `BMDV_MFUND_FU_E_PROJEKTE` | mFUND - Forschungs- und Entwicklungsprojekte
+- `BMDV_MFUND_MACHBARKEITSSTUDIEN` | mFUND - Machbarkeitsstudien
 - `BMDV_MFUND` | mFUND - Foerderprogramm fuer datenbasierte digitale Innovationen
 - `BMWK_IGF_CORNET` | CORNET (Collective Research Networking) im IGF-Umfeld
 - `BMWK_IGP` | Innovationsprogramm fuer Geschaeftsmodelle und Pionierloesungen (IGP)

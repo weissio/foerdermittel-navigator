@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-16`
-- Offen gesamt: `78`
+- Offen gesamt: `80`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `62`
+- Rollierend/ohne Datum: `64`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -28,6 +28,8 @@
 
 - `BMAS_KOMPASS_QUALIFIZIERUNGSSCHECK` | KOMPASS - Qualifizierungsscheck fuer Solo-Selbststaendige | rollierend | https://www.esfplus.de/portal/DE/ESF-Plus-2021-2027/Foerderprogramme/bmas/kompass/inhalt.html
 - `BMBF_KMU_INNOVATIV` | KMU-innovativ: Forschung fuer den Mittelstand | rollierend | https://www.kmu-innovativ.de/
+- `BMDV_MFUND_FU_E_PROJEKTE` | mFUND - Forschungs- und Entwicklungsprojekte | rollierend | https://www.bmdv.bund.de/DE/Themen/Digitales/mFUND/mFUND.html
+- `BMDV_MFUND_MACHBARKEITSSTUDIEN` | mFUND - Machbarkeitsstudien | rollierend | https://www.bmdv.bund.de/DE/Themen/Digitales/mFUND/mFUND.html
 - `BMDV_MFUND` | mFUND - Foerderprogramm fuer datenbasierte digitale Innovationen | rollierend | https://www.bmdv.bund.de/DE/Themen/Digitales/mFUND/mFUND.html
 - `BMWK_IGF_CORNET` | CORNET (Collective Research Networking) im IGF-Umfeld | rollierend | https://www.aif.de/foerderung/igf
 - `BMWK_IGP` | Innovationsprogramm fuer Geschaeftsmodelle und Pionierloesungen (IGP) | rollierend | https://www.bmwk.de/Redaktion/DE/Artikel/Innovation/igp.html

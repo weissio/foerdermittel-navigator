@@ -1,7 +1,7 @@
 # Data Gaps
 
-- Erzeugt am: `2026-02-16 05:56`
-- Datensaetze: `432`
+- Erzeugt am: `2026-02-16 06:00`
+- Datensaetze: `434`
 
 ## Status-Verteilung
 
@@ -9,7 +9,7 @@
 |---|---:|
 | geplant | 5 |
 | laufend | 349 |
-| offen | 78 |
+| offen | 80 |
 
 ## Unterrepraesentierte Regionen
 
@@ -35,7 +35,7 @@
 
 | Region | Anzahl |
 |---|---:|
-| Deutschland | 161 |
+| Deutschland | 163 |
 | EU (inkl. Deutschland) | 58 |
 | Deutschland/International | 22 |
 | Rheinland-Pfalz | 17 |
@@ -57,7 +57,6 @@
 |---|---:|
 | BAFA/KfW | 1 |
 | BMBF | 1 |
-| BMDV | 1 |
 | BMUV | 1 |
 | BMWK (Nationales Portal) / EU | 1 |
 | BMWK / AiF / internationale Partner | 1 |
@@ -70,6 +69,7 @@
 | Bayern Kapital | 1 |
 | Bund/Land (EFRE) | 1 |
 | Bund/Land (ESF+) | 1 |
+| CBE JU (EU) | 1 |
 
 ## Unterrepraesentierte Themen
 
