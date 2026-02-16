@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `766`
+- Gepruefte Datensaetze: `768`
 
 ## Offen Mit Datumsfrist
 
@@ -78,6 +78,7 @@
 - `BMBF_KMU_INNOVATIV_IKT` | KMU-innovativ - Informations- und Kommunikationstechnologien (IKT)
 - `BMBF_KMU_INNOVATIV_INDUS_RECYCLING_AI` | KMU-innovativ - KI-gestuetztes industrielles Recycling und Materialrueckfuehrung
 - `BMBF_KMU_INNOVATIV_INTELLIGENTE_ABFALLSTROEME` | KMU-innovativ - Intelligente Abfallstroeme und automatisierte Sortiersysteme
+- `BMBF_KMU_INNOVATIV_INTELLIGENTE_FEUCHTEKONTROLLE` | KMU-innovativ - Intelligente Feuchtekontrolle und adaptive Materialtrocknung
 - `BMBF_KMU_INNOVATIV_INTELLIGENTE_WASSERANALYTIK` | KMU-innovativ - Intelligente Wasseranalytik und adaptive Aufbereitungssysteme
 - `BMBF_KMU_INNOVATIV_INTERAKTIVE_TECH` | KMU-innovativ - Interaktive Technologien fuer Gesundheit und Lebensqualitaet
 - `BMBF_KMU_INNOVATIV_KI_DATENRAEUME` | KMU-innovativ - KI und industrielle Datenraeume
@@ -102,6 +103,7 @@
 - `BMBF_KMU_INNOVATIV_MIKROELEKTRONIK` | KMU-innovativ - Mikroelektronik und eingebettete Systeme
 - `BMBF_KMU_INNOVATIV_MIKROGRID_ORCHESTRIERUNG` | KMU-innovativ - Mikrogrid-Orchestrierung und resiliente Energiemanagementsysteme
 - `BMBF_KMU_INNOVATIV_MOBILITAET` | KMU-innovativ - Intelligente Mobilitaet und Verkehrssysteme
+- `BMBF_KMU_INNOVATIV_MODULARE_MEDIZINSCHNITTSTELLEN` | KMU-innovativ - Modulare Medizinschnittstellen und interoperable Geraeteoekosysteme
 - `BMBF_KMU_INNOVATIV_NACHHALTIGE_GEBUEDETECHNIK` | KMU-innovativ - Nachhaltige Gebaeudetechnik und adaptive Energiesysteme
 - `BMBF_KMU_INNOVATIV_NACHHALTIGE_LOGISTIK_H2` | KMU-innovativ - Nachhaltige Logistik mit Wasserstoff- und E-Antrieben
 - `BMBF_KMU_INNOVATIV_NACHHALTIGE_PROZESSWAERME` | KMU-innovativ - Nachhaltige Prozesswaerme und industrielle Waermenutzung

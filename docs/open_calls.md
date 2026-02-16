@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-16`
-- Offen gesamt: `206`
+- Offen gesamt: `208`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `190`
+- Rollierend/ohne Datum: `192`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -80,6 +80,7 @@
 - `BMBF_KMU_INNOVATIV_IKT` | KMU-innovativ - Informations- und Kommunikationstechnologien (IKT) | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_INDUS_RECYCLING_AI` | KMU-innovativ - KI-gestuetztes industrielles Recycling und Materialrueckfuehrung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_INTELLIGENTE_ABFALLSTROEME` | KMU-innovativ - Intelligente Abfallstroeme und automatisierte Sortiersysteme | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_INTELLIGENTE_FEUCHTEKONTROLLE` | KMU-innovativ - Intelligente Feuchtekontrolle und adaptive Materialtrocknung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_INTELLIGENTE_WASSERANALYTIK` | KMU-innovativ - Intelligente Wasseranalytik und adaptive Aufbereitungssysteme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_INTERAKTIVE_TECH` | KMU-innovativ - Interaktive Technologien fuer Gesundheit und Lebensqualitaet | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_KI_DATENRAEUME` | KMU-innovativ - KI und industrielle Datenraeume | rollierend | https://www.kmu-innovativ.de/
@@ -104,6 +105,7 @@
 - `BMBF_KMU_INNOVATIV_MIKROELEKTRONIK` | KMU-innovativ - Mikroelektronik und eingebettete Systeme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_MIKROGRID_ORCHESTRIERUNG` | KMU-innovativ - Mikrogrid-Orchestrierung und resiliente Energiemanagementsysteme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_MOBILITAET` | KMU-innovativ - Intelligente Mobilitaet und Verkehrssysteme | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_MODULARE_MEDIZINSCHNITTSTELLEN` | KMU-innovativ - Modulare Medizinschnittstellen und interoperable Geraeteoekosysteme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_NACHHALTIGE_GEBUEDETECHNIK` | KMU-innovativ - Nachhaltige Gebaeudetechnik und adaptive Energiesysteme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_NACHHALTIGE_LOGISTIK_H2` | KMU-innovativ - Nachhaltige Logistik mit Wasserstoff- und E-Antrieben | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_NACHHALTIGE_PROZESSWAERME` | KMU-innovativ - Nachhaltige Prozesswaerme und industrielle Waermenutzung | rollierend | https://www.kmu-innovativ.de/
