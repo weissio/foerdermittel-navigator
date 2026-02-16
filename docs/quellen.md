@@ -228,3 +228,5 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - https://www.exist.de/EXIST/Navigation/DE/Programm/Startup-Factories/startup-factories.html
 - https://www.ib-sh.de/produkt/ibsh-mittelstandskredit/
 - https://www.ib-sh.de/foerderprogramme/unternehmen/
+- https://www.bab-bremen.de/de/page/programm/liquiditaetshilfen
+- https://mwl.sachsen-anhalt.de/ministerium/foerderung/grw-unternehmensfoerderung

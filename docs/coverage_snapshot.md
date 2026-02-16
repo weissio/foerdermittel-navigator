@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-16 01:05`
-- Datensaetze: `287`
-- Eindeutige `programm_id`: `287`
+- Erzeugt am: `2026-02-16 01:08`
+- Datensaetze: `289`
+- Eindeutige `programm_id`: `289`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 259 |
+| laufend | 261 |
 | offen | 23 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 259 |
+| laufend | 261 |
 | offen | 23 |
 | zukuenftig | 5 |
 
@@ -37,14 +37,14 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Brandenburg | 10 |
 | Nordrhein-Westfalen | 10 |
 | Hamburg | 9 |
+| Sachsen-Anhalt | 9 |
 | Baden-Wuerttemberg | 8 |
+| Bremen | 8 |
 | Hessen | 8 |
 | Mecklenburg-Vorpommern | 8 |
 | Saarland | 8 |
-| Sachsen-Anhalt | 8 |
 | Thueringen | 8 |
 | Bayern | 7 |
-| Bremen | 7 |
 | Deutschland/Chile | 1 |
 
 ## Top Traeger
@@ -70,7 +70,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | EIC (EU) | 4 |
 | EISMEA (EU) | 4 |
 | LfA Foerderbank Bayern | 4 |
-| BAB Bremen | 3 |
+| BAB - Die Foerderbank Bremen | 3 |
 
 ## Top Themen
 
