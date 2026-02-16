@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `672`
+- Gepruefte Datensaetze: `674`
 
 ## Offen Mit Datumsfrist
 
@@ -27,6 +27,7 @@
 - `BMAS_KOMPASS_QUALIFIZIERUNGSSCHECK` | KOMPASS - Qualifizierungsscheck fuer Solo-Selbststaendige
 - `BMBF_KMU_INNOVATIV_ADDITIVE_FERTIGUNG` | KMU-innovativ - Additive Fertigung und neue Produktionsverfahren
 - `BMBF_KMU_INNOVATIV_AGRITECH` | KMU-innovativ - Agrar- und Lebensmitteltechnologien
+- `BMBF_KMU_INNOVATIV_AUTOMATION_KI` | KMU-innovativ - Automatisierung, KI und autonome Produktionssysteme
 - `BMBF_KMU_INNOVATIV_BATTERIETECH` | KMU-innovativ - Batterietechnologien und Energiespeicher
 - `BMBF_KMU_INNOVATIV_BIOPROZESS` | KMU-innovativ - Bioprozess- und Bioproduktionstechnologien
 - `BMBF_KMU_INNOVATIV_BIOTECH` | KMU-innovativ - Biotechnologie
@@ -34,6 +35,7 @@
 - `BMBF_KMU_INNOVATIV_EDGE_IOT` | KMU-innovativ - Edge-Computing und industrielle IoT-Systeme
 - `BMBF_KMU_INNOVATIV_ELEKTRONIK` | KMU-innovativ - Elektronik und Mikrosystemtechnik
 - `BMBF_KMU_INNOVATIV_ENERGIETECH` | KMU-innovativ - Energietechnologien
+- `BMBF_KMU_INNOVATIV_H2_PTK` | KMU-innovativ - Wasserstoff, Power-to-X und klimaneutrale Prozessketten
 - `BMBF_KMU_INNOVATIV_IKT` | KMU-innovativ - Informations- und Kommunikationstechnologien (IKT)
 - `BMBF_KMU_INNOVATIV_INTERAKTIVE_TECH` | KMU-innovativ - Interaktive Technologien fuer Gesundheit und Lebensqualitaet
 - `BMBF_KMU_INNOVATIV_KI_DATENRAEUME` | KMU-innovativ - KI und industrielle Datenraeume

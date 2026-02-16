@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-16`
-- Offen gesamt: `112`
+- Offen gesamt: `114`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `96`
+- Rollierend/ohne Datum: `98`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -29,6 +29,7 @@
 - `BMAS_KOMPASS_QUALIFIZIERUNGSSCHECK` | KOMPASS - Qualifizierungsscheck fuer Solo-Selbststaendige | rollierend | https://www.esfplus.de/portal/DE/ESF-Plus-2021-2027/Foerderprogramme/bmas/kompass/inhalt.html
 - `BMBF_KMU_INNOVATIV_ADDITIVE_FERTIGUNG` | KMU-innovativ - Additive Fertigung und neue Produktionsverfahren | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_AGRITECH` | KMU-innovativ - Agrar- und Lebensmitteltechnologien | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_AUTOMATION_KI` | KMU-innovativ - Automatisierung, KI und autonome Produktionssysteme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_BATTERIETECH` | KMU-innovativ - Batterietechnologien und Energiespeicher | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_BIOPROZESS` | KMU-innovativ - Bioprozess- und Bioproduktionstechnologien | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_BIOTECH` | KMU-innovativ - Biotechnologie | rollierend | https://www.kmu-innovativ.de/
@@ -36,6 +37,7 @@
 - `BMBF_KMU_INNOVATIV_EDGE_IOT` | KMU-innovativ - Edge-Computing und industrielle IoT-Systeme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_ELEKTRONIK` | KMU-innovativ - Elektronik und Mikrosystemtechnik | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_ENERGIETECH` | KMU-innovativ - Energietechnologien | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_H2_PTK` | KMU-innovativ - Wasserstoff, Power-to-X und klimaneutrale Prozessketten | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_IKT` | KMU-innovativ - Informations- und Kommunikationstechnologien (IKT) | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_INTERAKTIVE_TECH` | KMU-innovativ - Interaktive Technologien fuer Gesundheit und Lebensqualitaet | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_KI_DATENRAEUME` | KMU-innovativ - KI und industrielle Datenraeume | rollierend | https://www.kmu-innovativ.de/
