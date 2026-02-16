@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `756`
+- Gepruefte Datensaetze: `758`
 
 ## Offen Mit Datumsfrist
 
@@ -71,6 +71,7 @@
 - `BMBF_KMU_INNOVATIV_ENERGIE_NETZSTABILITAET` | KMU-innovativ - Energie-Netzstabilitaet und Flexibilitaetsloesungen
 - `BMBF_KMU_INNOVATIV_GRUENE_CHEMIE` | KMU-innovativ - Gruene Chemie und nachhaltige Verfahrenstechnik
 - `BMBF_KMU_INNOVATIV_H2_PTK` | KMU-innovativ - Wasserstoff, Power-to-X und klimaneutrale Prozessketten
+- `BMBF_KMU_INNOVATIV_HOCHLEISTUNGSBATTERIE_RECYCLING` | KMU-innovativ - Hochleistungsbatterie-Recycling und materialeffiziente Rueckgewinnung
 - `BMBF_KMU_INNOVATIV_HOCHTEMPERATUR_WERKSTOFFE` | KMU-innovativ - Hochtemperatur-Werkstoffe und resiliente Prozesskomponenten
 - `BMBF_KMU_INNOVATIV_IKT` | KMU-innovativ - Informations- und Kommunikationstechnologien (IKT)
 - `BMBF_KMU_INNOVATIV_INDUS_RECYCLING_AI` | KMU-innovativ - KI-gestuetztes industrielles Recycling und Materialrueckfuehrung
@@ -131,6 +132,7 @@
 - `BMBF_KMU_INNOVATIV_SMARTE_WERTSTOFFSTROEME` | KMU-innovativ - Smarte Wertstoffstroeme und industrielle Kreislaufplattformen
 - `BMBF_KMU_INNOVATIV_SOFTWAREROBOTIK` | KMU-innovativ - Softwareintensive Systeme und Robotik
 - `BMBF_KMU_INNOVATIV_SUSTAINABLE_PACKAGING` | KMU-innovativ - Nachhaltige Verpackungs- und Materialsysteme
+- `BMBF_KMU_INNOVATIV_VERNETZTE_PFLEGEASSISTENZ` | KMU-innovativ - Vernetzte Pflegeassistenz und intelligente Versorgungssysteme
 - `BMBF_KMU_INNOVATIV_VERTRAUENSWUERDIGE_KI_SYSTEME` | KMU-innovativ - Vertrauenswuerdige KI-Systeme und auditierbare Modelle
 - `BMBF_KMU_INNOVATIV_WASSERSTOFF_SICHERHEIT` | KMU-innovativ - Wasserstoffsicherheit und industrielle Schutzkonzepte
 - `BMBF_KMU_INNOVATIV_WASSERTECH` | KMU-innovativ - Wassertechnologien und nachhaltige Wassersysteme
