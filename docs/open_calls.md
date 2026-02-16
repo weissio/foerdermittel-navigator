@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-16`
-- Offen gesamt: `176`
+- Offen gesamt: `178`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `160`
+- Rollierend/ohne Datum: `162`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -40,6 +40,7 @@
 - `BMBF_KMU_INNOVATIV_BAUSTOFFRECYCLING` | KMU-innovativ - Baustoffrecycling und zirkulaeres Bauen | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_BIOBASIERTE_CHEMIE` | KMU-innovativ - Biobasierte Chemie und nachhaltige Syntheseprozesse | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_BIOINFORMATIK` | KMU-innovativ - Bioinformatik und datengetriebene Lebenswissenschaften | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_BIOKATALYSE_PROZESSE` | KMU-innovativ - Biokatalyse und nachhaltige Prozesschemie | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_BIOOEKONOMIE` | KMU-innovativ - Biooekonomie und industrielle Biotransformation | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_BIOPROZESS` | KMU-innovativ - Bioprozess- und Bioproduktionstechnologien | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_BIOTECH` | KMU-innovativ - Biotechnologie | rollierend | https://www.kmu-innovativ.de/
@@ -50,6 +51,7 @@
 - `BMBF_KMU_INNOVATIV_CO2_MATERIALKREISLAUF` | KMU-innovativ - CO2-basierte Materialkreislaufe und Kohlenstoffnutzung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_CYBERPHYSIK` | KMU-innovativ - Cyber-physische Systeme und industrielle Vernetzung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DEEP_LEARNING_INDUSTRIE` | KMU-innovativ - Deep-Learning-Methoden fuer industrielle Anwendungen | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_DIGITALE_QUALITAETSSICHERUNG` | KMU-innovativ - Digitale Qualitaetssicherung und adaptive Pruefverfahren | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPEUTIKA` | KMU-innovativ - Digitale Therapeutika und evidenzbasierte Versorgungsplattformen | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITAL_BAUSTELLEN` | KMU-innovativ - Digitale Baustellen und autonome Bauprozesse | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITAL_HEALTH_DEVICES` | KMU-innovativ - Digitale Gesundheitsgeraete und vernetzte Medizinsysteme | rollierend | https://www.kmu-innovativ.de/

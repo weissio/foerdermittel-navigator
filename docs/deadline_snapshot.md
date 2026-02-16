@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `736`
+- Gepruefte Datensaetze: `738`
 
 ## Offen Mit Datumsfrist
 
@@ -38,6 +38,7 @@
 - `BMBF_KMU_INNOVATIV_BAUSTOFFRECYCLING` | KMU-innovativ - Baustoffrecycling und zirkulaeres Bauen
 - `BMBF_KMU_INNOVATIV_BIOBASIERTE_CHEMIE` | KMU-innovativ - Biobasierte Chemie und nachhaltige Syntheseprozesse
 - `BMBF_KMU_INNOVATIV_BIOINFORMATIK` | KMU-innovativ - Bioinformatik und datengetriebene Lebenswissenschaften
+- `BMBF_KMU_INNOVATIV_BIOKATALYSE_PROZESSE` | KMU-innovativ - Biokatalyse und nachhaltige Prozesschemie
 - `BMBF_KMU_INNOVATIV_BIOOEKONOMIE` | KMU-innovativ - Biooekonomie und industrielle Biotransformation
 - `BMBF_KMU_INNOVATIV_BIOPROZESS` | KMU-innovativ - Bioprozess- und Bioproduktionstechnologien
 - `BMBF_KMU_INNOVATIV_BIOTECH` | KMU-innovativ - Biotechnologie
@@ -48,6 +49,7 @@
 - `BMBF_KMU_INNOVATIV_CO2_MATERIALKREISLAUF` | KMU-innovativ - CO2-basierte Materialkreislaufe und Kohlenstoffnutzung
 - `BMBF_KMU_INNOVATIV_CYBERPHYSIK` | KMU-innovativ - Cyber-physische Systeme und industrielle Vernetzung
 - `BMBF_KMU_INNOVATIV_DEEP_LEARNING_INDUSTRIE` | KMU-innovativ - Deep-Learning-Methoden fuer industrielle Anwendungen
+- `BMBF_KMU_INNOVATIV_DIGITALE_QUALITAETSSICHERUNG` | KMU-innovativ - Digitale Qualitaetssicherung und adaptive Pruefverfahren
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPEUTIKA` | KMU-innovativ - Digitale Therapeutika und evidenzbasierte Versorgungsplattformen
 - `BMBF_KMU_INNOVATIV_DIGITAL_BAUSTELLEN` | KMU-innovativ - Digitale Baustellen und autonome Bauprozesse
 - `BMBF_KMU_INNOVATIV_DIGITAL_HEALTH_DEVICES` | KMU-innovativ - Digitale Gesundheitsgeraete und vernetzte Medizinsysteme
