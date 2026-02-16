@@ -254,3 +254,5 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - https://erasmus-plus.ec.europa.eu/
 - https://defence-industry-space.ec.europa.eu/eu-defence-industry/european-defence-fund-edf_en
 - https://www.euspa.europa.eu/euspace-opportunities
+- https://blueinvest-community.converve.io/
+- https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe/research-infrastructures_en
