@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `880`
+- Gepruefte Datensaetze: `882`
 
 ## Offen Mit Datumsfrist
 
@@ -113,6 +113,7 @@
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEPFADE_KOORDINATION` | KMU-innovativ - Digitale Therapiepfade-Koordination und vernetzte Behandlungssteuerung
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEPFAD_KONTINUITAET` | KMU-innovativ - Digitale Therapiepfad-Kontinuitaet und adaptive Versorgungssynchronisierung
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEPFAD_PROGNOSE` | KMU-innovativ - Digitale Therapiepfad-Prognose und adaptive Versorgungsempfehlungen
+- `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEPFAD_STABILISIERUNG` | KMU-innovativ - Digitale Therapiepfad-Stabilisierung und adaptive Versorgungsabfolge
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEPLAN_STEUERUNG` | KMU-innovativ - Digitale Therapieplan-Steuerung und adaptive Behandlungskoordination
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEQUALITAET` | KMU-innovativ - Digitale Therapiequalitaet und kontinuierliche Versorgungsbewertung
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIESEGMENTIERUNG` | KMU-innovativ - Digitale Therapiesegmentierung und personalisierte Verlaufsstrategien
@@ -215,6 +216,7 @@
 - `BMBF_KMU_INNOVATIV_RESILIENTE_LIEFERKETTEN` | KMU-innovativ - Resiliente Lieferketten und digitale Wertschöpfungsnetze
 - `BMBF_KMU_INNOVATIV_RESILIENTE_MATERIALBEREITSTELLUNG` | KMU-innovativ - Resiliente Materialbereitstellung und adaptive Produktionsversorgung
 - `BMBF_KMU_INNOVATIV_RESILIENTE_PRODUKTIONSKAPAZITAET` | KMU-innovativ - Resiliente Produktionskapazitaet und dynamische Lastverteilung
+- `BMBF_KMU_INNOVATIV_RESILIENTE_PRODUKTIONSSEQUENZEN` | KMU-innovativ - Resiliente Produktionssequenzen und adaptive Ablaufpriorisierung
 - `BMBF_KMU_INNOVATIV_RESILIENTE_PRODUKTIONSVERKNUEPFUNG` | KMU-innovativ - Resiliente Produktionsverknuepfung und adaptive Ablaufkonsistenz
 - `BMBF_KMU_INNOVATIV_RESILIENTE_PROZESSINTELLIGENZ` | KMU-innovativ - Resiliente Prozessintelligenz und adaptive Fertigungssteuerung
 - `BMBF_KMU_INNOVATIV_RESILIENTE_PROZESSKETTEN` | KMU-innovativ - Resiliente Prozessketten und adaptive Produktionskontinuitaet
