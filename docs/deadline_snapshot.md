@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `544`
+- Gepruefte Datensaetze: `546`
 
 ## Offen Mit Datumsfrist
 
@@ -30,6 +30,8 @@
 - `BMDV_MFUND_MACHBARKEITSSTUDIEN` | mFUND - Machbarkeitsstudien
 - `BMDV_MFUND` | mFUND - Foerderprogramm fuer datenbasierte digitale Innovationen
 - `BMWK_IGF_CORNET` | CORNET (Collective Research Networking) im IGF-Umfeld
+- `BMWK_IGP_PHASE1` | IGP - Phase 1 (Ideenwettbewerb/Skizze)
+- `BMWK_IGP_PHASE2` | IGP - Phase 2 (Umsetzungsprojekt)
 - `BMWK_IGP` | Innovationsprogramm fuer Geschaeftsmodelle und Pionierloesungen (IGP)
 - `ESF_BAYERN_AUFRUFE_OFFEN` | ESF+ Bayern - Programmaufrufe (offen/rollierend)
 - `ESF_BW_AUFRUFE_OFFEN` | ESF+ Baden-Wuerttemberg - Programmaufrufe (offen/rollierend)

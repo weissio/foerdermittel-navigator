@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-16`
-- Offen gesamt: `82`
+- Offen gesamt: `84`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `66`
+- Rollierend/ohne Datum: `68`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -32,6 +32,8 @@
 - `BMDV_MFUND_MACHBARKEITSSTUDIEN` | mFUND - Machbarkeitsstudien | rollierend | https://www.bmdv.bund.de/DE/Themen/Digitales/mFUND/mFUND.html
 - `BMDV_MFUND` | mFUND - Foerderprogramm fuer datenbasierte digitale Innovationen | rollierend | https://www.bmdv.bund.de/DE/Themen/Digitales/mFUND/mFUND.html
 - `BMWK_IGF_CORNET` | CORNET (Collective Research Networking) im IGF-Umfeld | rollierend | https://www.aif.de/foerderung/igf
+- `BMWK_IGP_PHASE1` | IGP - Phase 1 (Ideenwettbewerb/Skizze) | rollierend | https://www.bmwk.de/Redaktion/DE/Artikel/Innovation/igp.html
+- `BMWK_IGP_PHASE2` | IGP - Phase 2 (Umsetzungsprojekt) | rollierend | https://www.bmwk.de/Redaktion/DE/Artikel/Innovation/igp.html
 - `BMWK_IGP` | Innovationsprogramm fuer Geschaeftsmodelle und Pionierloesungen (IGP) | rollierend | https://www.bmwk.de/Redaktion/DE/Artikel/Innovation/igp.html
 - `ESF_BAYERN_AUFRUFE_OFFEN` | ESF+ Bayern - Programmaufrufe (offen/rollierend) | rollierend | https://www.esf.bayern.de/
 - `ESF_BW_AUFRUFE_OFFEN` | ESF+ Baden-Wuerttemberg - Programmaufrufe (offen/rollierend) | rollierend | https://www.esf-bw.de/esf-plus-in-bw/programm-des-esf-plus-in-baden-wuerttemberg
