@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `866`
+- Gepruefte Datensaetze: `868`
 
 ## Offen Mit Datumsfrist
 
@@ -36,6 +36,7 @@
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_NETZSPEICHER` | KMU-innovativ - Adaptive Netzspeicher und intelligente Lastverschiebung
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_PRODUKTIONSABSTIMMUNG` | KMU-innovativ - Adaptive Produktionsabstimmung und resiliente Prozesskopplung
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_PRODUKTIONSDIAGNOSTIK` | KMU-innovativ - Adaptive Produktionsdiagnostik und vorausschauende Prozessqualitaet
+- `BMBF_KMU_INNOVATIV_ADAPTIVE_PRODUKTIONSDYNAMIK` | KMU-innovativ - Adaptive Produktionsdynamik und resiliente Ablaufreaktion
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_PRODUKTIONSLINIEN` | KMU-innovativ - Adaptive Produktionslinien und modulare Fabriksysteme
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_PRODUKTIONSQUALIFIZIERUNG` | KMU-innovativ - Adaptive Produktionsqualifizierung und datenbasierte Prozessfreigabe
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_PROZESSPROGNOSTIK` | KMU-innovativ - Adaptive Prozessprognostik und selbstlernende Fertigungssteuerung
@@ -111,6 +112,7 @@
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIESEGMENT_PROGNOSEN` | KMU-innovativ - Digitale Therapiesegment-Prognosen und personalisierte Versorgungssequenzen
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIESIGNAL_AUSWERTUNG` | KMU-innovativ - Digitale Therapiesignal-Auswertung und fruehzeitige Wirkungsdetektion
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIESTABILITAET` | KMU-innovativ - Digitale Therapiestabilitaet und kontinuierliche Versorgungssicherung
+- `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIESTEUER_LOGIK` | KMU-innovativ - Digitale Therapiesteuer-Logik und adaptive Interventionssequenzen
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEVERBESSERUNG` | KMU-innovativ - Digitale Therapieverbesserung und datengestuetzte Versorgungsanpassung
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEVERLAUFSKONTINUITAET` | KMU-innovativ - Digitale Therapieverlaufskontinuitaet und adaptive Behandlungssynchronisierung
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEVERLAUFSMODELLE` | KMU-innovativ - Digitale Therapieverlaufsmodelle und adaptive Behandlungspfade

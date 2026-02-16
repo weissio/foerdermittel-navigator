@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-16`
-- Offen gesamt: `306`
+- Offen gesamt: `308`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `290`
+- Rollierend/ohne Datum: `292`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -38,6 +38,7 @@
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_NETZSPEICHER` | KMU-innovativ - Adaptive Netzspeicher und intelligente Lastverschiebung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_PRODUKTIONSABSTIMMUNG` | KMU-innovativ - Adaptive Produktionsabstimmung und resiliente Prozesskopplung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_PRODUKTIONSDIAGNOSTIK` | KMU-innovativ - Adaptive Produktionsdiagnostik und vorausschauende Prozessqualitaet | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_ADAPTIVE_PRODUKTIONSDYNAMIK` | KMU-innovativ - Adaptive Produktionsdynamik und resiliente Ablaufreaktion | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_PRODUKTIONSLINIEN` | KMU-innovativ - Adaptive Produktionslinien und modulare Fabriksysteme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_PRODUKTIONSQUALIFIZIERUNG` | KMU-innovativ - Adaptive Produktionsqualifizierung und datenbasierte Prozessfreigabe | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_PROZESSPROGNOSTIK` | KMU-innovativ - Adaptive Prozessprognostik und selbstlernende Fertigungssteuerung | rollierend | https://www.kmu-innovativ.de/
@@ -113,6 +114,7 @@
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIESEGMENT_PROGNOSEN` | KMU-innovativ - Digitale Therapiesegment-Prognosen und personalisierte Versorgungssequenzen | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIESIGNAL_AUSWERTUNG` | KMU-innovativ - Digitale Therapiesignal-Auswertung und fruehzeitige Wirkungsdetektion | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIESTABILITAET` | KMU-innovativ - Digitale Therapiestabilitaet und kontinuierliche Versorgungssicherung | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIESTEUER_LOGIK` | KMU-innovativ - Digitale Therapiesteuer-Logik und adaptive Interventionssequenzen | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEVERBESSERUNG` | KMU-innovativ - Digitale Therapieverbesserung und datengestuetzte Versorgungsanpassung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEVERLAUFSKONTINUITAET` | KMU-innovativ - Digitale Therapieverlaufskontinuitaet und adaptive Behandlungssynchronisierung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEVERLAUFSMODELLE` | KMU-innovativ - Digitale Therapieverlaufsmodelle und adaptive Behandlungspfade | rollierend | https://www.kmu-innovativ.de/
