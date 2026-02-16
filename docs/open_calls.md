@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-16`
-- Offen gesamt: `234`
+- Offen gesamt: `236`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `218`
+- Rollierend/ohne Datum: `220`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -63,6 +63,7 @@
 - `BMBF_KMU_INNOVATIV_CYBERRESILIENTE_MEDTECH` | KMU-innovativ - Cyberresiliente Medizintechnik und sichere Geraeteplattformen | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DEEP_LEARNING_INDUSTRIE` | KMU-innovativ - Deep-Learning-Methoden fuer industrielle Anwendungen | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DEZENTRALE_QUALITAETSNETZE` | KMU-innovativ - Dezentrale Qualitaetsnetze und selbstlernende Produktionskontrolle | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_DIGITALES_THERAPIECOACHING` | KMU-innovativ - Digitales Therapiecoaching und kontinuierliche Patienteneinbindung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_BAUTEILRUECKVERFOLGUNG` | KMU-innovativ - Digitale Bauteilrueckverfolgung und zirkulaere Lieferketten | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_BILDGEBUNG_DIAGNOSTIK` | KMU-innovativ - Digitale Bildgebung und KI-gestuetzte Diagnostiksysteme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_DIAGNOSEPFAD_OPTIMIERUNG` | KMU-innovativ - Digitale Diagnosepfad-Optimierung und interoperable Befundplattformen | rollierend | https://www.kmu-innovativ.de/
@@ -132,6 +133,7 @@
 - `BMBF_KMU_INNOVATIV_NANOTECH` | KMU-innovativ - Nanotechnologie und neue Werkstoffsysteme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_NEUROTECH_ASSISTENZ` | KMU-innovativ - Neurotechnologie und assistive Mensch-Maschine-Schnittstellen | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_PHOTONIK` | KMU-innovativ - Photonik und Quantentechnologien | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_PRAEDIKTIVE_MATERIALFLUESSE` | KMU-innovativ - Praediktive Materialfluesse und adaptive Produktionslogistik | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_PRAEZISIONSFERMENTATION` | KMU-innovativ - Praezisionsfermentation und biobasierte Wertstoffe | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_PRAEZISIONSLANDWIRTSCHAFT_KI` | KMU-innovativ - KI-gestuetzte Praezisionslandwirtschaft und autonome Feldsysteme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_PRODUKTION` | KMU-innovativ - Produktionstechnologie | rollierend | https://www.kmu-innovativ.de/

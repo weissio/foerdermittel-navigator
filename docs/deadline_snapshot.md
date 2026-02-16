@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `794`
+- Gepruefte Datensaetze: `796`
 
 ## Offen Mit Datumsfrist
 
@@ -61,6 +61,7 @@
 - `BMBF_KMU_INNOVATIV_CYBERRESILIENTE_MEDTECH` | KMU-innovativ - Cyberresiliente Medizintechnik und sichere Geraeteplattformen
 - `BMBF_KMU_INNOVATIV_DEEP_LEARNING_INDUSTRIE` | KMU-innovativ - Deep-Learning-Methoden fuer industrielle Anwendungen
 - `BMBF_KMU_INNOVATIV_DEZENTRALE_QUALITAETSNETZE` | KMU-innovativ - Dezentrale Qualitaetsnetze und selbstlernende Produktionskontrolle
+- `BMBF_KMU_INNOVATIV_DIGITALES_THERAPIECOACHING` | KMU-innovativ - Digitales Therapiecoaching und kontinuierliche Patienteneinbindung
 - `BMBF_KMU_INNOVATIV_DIGITALE_BAUTEILRUECKVERFOLGUNG` | KMU-innovativ - Digitale Bauteilrueckverfolgung und zirkulaere Lieferketten
 - `BMBF_KMU_INNOVATIV_DIGITALE_BILDGEBUNG_DIAGNOSTIK` | KMU-innovativ - Digitale Bildgebung und KI-gestuetzte Diagnostiksysteme
 - `BMBF_KMU_INNOVATIV_DIGITALE_DIAGNOSEPFAD_OPTIMIERUNG` | KMU-innovativ - Digitale Diagnosepfad-Optimierung und interoperable Befundplattformen
@@ -130,6 +131,7 @@
 - `BMBF_KMU_INNOVATIV_NANOTECH` | KMU-innovativ - Nanotechnologie und neue Werkstoffsysteme
 - `BMBF_KMU_INNOVATIV_NEUROTECH_ASSISTENZ` | KMU-innovativ - Neurotechnologie und assistive Mensch-Maschine-Schnittstellen
 - `BMBF_KMU_INNOVATIV_PHOTONIK` | KMU-innovativ - Photonik und Quantentechnologien
+- `BMBF_KMU_INNOVATIV_PRAEDIKTIVE_MATERIALFLUESSE` | KMU-innovativ - Praediktive Materialfluesse und adaptive Produktionslogistik
 - `BMBF_KMU_INNOVATIV_PRAEZISIONSFERMENTATION` | KMU-innovativ - Praezisionsfermentation und biobasierte Wertstoffe
 - `BMBF_KMU_INNOVATIV_PRAEZISIONSLANDWIRTSCHAFT_KI` | KMU-innovativ - KI-gestuetzte Praezisionslandwirtschaft und autonome Feldsysteme
 - `BMBF_KMU_INNOVATIV_PRODUKTION` | KMU-innovativ - Produktionstechnologie
