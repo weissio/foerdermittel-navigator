@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-16`
-- Offen gesamt: `300`
+- Offen gesamt: `302`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `284`
+- Rollierend/ohne Datum: `286`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -112,6 +112,7 @@
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIESTABILITAET` | KMU-innovativ - Digitale Therapiestabilitaet und kontinuierliche Versorgungssicherung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEVERBESSERUNG` | KMU-innovativ - Digitale Therapieverbesserung und datengestuetzte Versorgungsanpassung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEVERLAUFSKONTINUITAET` | KMU-innovativ - Digitale Therapieverlaufskontinuitaet und adaptive Behandlungssynchronisierung | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEVERLAUFSMODELLE` | KMU-innovativ - Digitale Therapieverlaufsmodelle und adaptive Behandlungspfade | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEVERLAUFSSEGMENTE` | KMU-innovativ - Digitale Therapieverlaufssegmente und adaptive Behandlungsdifferenzierung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEVERLAUFS_PROFILIERUNG` | KMU-innovativ - Digitale Therapieverlaufs-Profilierung und adaptive Interventionssteuerung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEVERLAUFS_QUALITAET` | KMU-innovativ - Digitale Therapieverlaufs-Qualitaet und adaptive Versorgungsevaluation | rollierend | https://www.kmu-innovativ.de/
@@ -202,6 +203,7 @@
 - `BMBF_KMU_INNOVATIV_RESILIENTE_PRODUKTIONSKAPAZITAET` | KMU-innovativ - Resiliente Produktionskapazitaet und dynamische Lastverteilung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_RESILIENTE_PROZESSKETTEN` | KMU-innovativ - Resiliente Prozessketten und adaptive Produktionskontinuitaet | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_RESILIENTE_PROZESSSYNCHRONISATION` | KMU-innovativ - Resiliente Prozesssynchronisation und adaptive Fertigungskoordination | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_RESILIENTE_QUALITAETSNETZE` | KMU-innovativ - Resiliente Qualitaetsnetze und adaptive Prozessstabilisierung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_RESILIENTE_ROBOTIKZELLEN` | KMU-innovativ - Resiliente Robotikzellen und adaptive Produktionskoordination | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_ROBOTIK_LOGISTIK` | KMU-innovativ - Robotik und intelligente Logistiksysteme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_SATELLITENDATEN` | KMU-innovativ - Satellitendaten und geospatial analytics | rollierend | https://www.kmu-innovativ.de/

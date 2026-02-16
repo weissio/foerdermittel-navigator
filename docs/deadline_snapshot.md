@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `860`
+- Gepruefte Datensaetze: `862`
 
 ## Offen Mit Datumsfrist
 
@@ -110,6 +110,7 @@
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIESTABILITAET` | KMU-innovativ - Digitale Therapiestabilitaet und kontinuierliche Versorgungssicherung
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEVERBESSERUNG` | KMU-innovativ - Digitale Therapieverbesserung und datengestuetzte Versorgungsanpassung
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEVERLAUFSKONTINUITAET` | KMU-innovativ - Digitale Therapieverlaufskontinuitaet und adaptive Behandlungssynchronisierung
+- `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEVERLAUFSMODELLE` | KMU-innovativ - Digitale Therapieverlaufsmodelle und adaptive Behandlungspfade
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEVERLAUFSSEGMENTE` | KMU-innovativ - Digitale Therapieverlaufssegmente und adaptive Behandlungsdifferenzierung
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEVERLAUFS_PROFILIERUNG` | KMU-innovativ - Digitale Therapieverlaufs-Profilierung und adaptive Interventionssteuerung
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEVERLAUFS_QUALITAET` | KMU-innovativ - Digitale Therapieverlaufs-Qualitaet und adaptive Versorgungsevaluation
@@ -200,6 +201,7 @@
 - `BMBF_KMU_INNOVATIV_RESILIENTE_PRODUKTIONSKAPAZITAET` | KMU-innovativ - Resiliente Produktionskapazitaet und dynamische Lastverteilung
 - `BMBF_KMU_INNOVATIV_RESILIENTE_PROZESSKETTEN` | KMU-innovativ - Resiliente Prozessketten und adaptive Produktionskontinuitaet
 - `BMBF_KMU_INNOVATIV_RESILIENTE_PROZESSSYNCHRONISATION` | KMU-innovativ - Resiliente Prozesssynchronisation und adaptive Fertigungskoordination
+- `BMBF_KMU_INNOVATIV_RESILIENTE_QUALITAETSNETZE` | KMU-innovativ - Resiliente Qualitaetsnetze und adaptive Prozessstabilisierung
 - `BMBF_KMU_INNOVATIV_RESILIENTE_ROBOTIKZELLEN` | KMU-innovativ - Resiliente Robotikzellen und adaptive Produktionskoordination
 - `BMBF_KMU_INNOVATIV_ROBOTIK_LOGISTIK` | KMU-innovativ - Robotik und intelligente Logistiksysteme
 - `BMBF_KMU_INNOVATIV_SATELLITENDATEN` | KMU-innovativ - Satellitendaten und geospatial analytics
