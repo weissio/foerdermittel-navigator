@@ -1,7 +1,7 @@
 # Data Gaps
 
-- Erzeugt am: `2026-02-16 22:50`
-- Datensaetze: `921`
+- Erzeugt am: `2026-02-16 22:57`
+- Datensaetze: `922`
 
 ## Status-Verteilung
 
@@ -9,7 +9,7 @@
 |---|---:|
 | geplant | 5 |
 | laufend | 563 |
-| offen | 353 |
+| offen | 354 |
 
 ## Unterrepraesentierte Regionen
 
@@ -35,7 +35,7 @@
 
 | Region | Anzahl |
 |---|---:|
-| Deutschland | 630 |
+| Deutschland | 631 |
 | EU (inkl. Deutschland) | 60 |
 | Deutschland/International | 40 |
 | Rheinland-Pfalz | 17 |
@@ -66,10 +66,10 @@
 | BMWK/ZIM (DE) + IraSME Netzwerk | 1 |
 | BMWK/ZIM (DE) + NCBR (PL) | 1 |
 | BMWK/ZIM (DE) + NRC IRAP (CA) | 1 |
+| BMWSB / BBSR | 1 |
 | BMZ / DEG | 1 |
 | BMZ / DEG / GIZ | 1 |
 | BMZ / GIZ | 1 |
-| Bayern Kapital | 1 |
 
 ## Unterrepraesentierte Themen
 
@@ -78,6 +78,7 @@
 | Agrar/Ernaehrung/Investition | 1 |
 | Arbeitsweltinnovation/Digitalisierung/Organisation | 1 |
 | Aus- und Weiterbildung | 1 |
+| Bauwesen/Innovation/Nachhaltigkeit | 1 |
 | Beratung/Digitalisierung/Innovation/Existenzgruendung | 1 |
 | Beratung/Restrukturierung | 1 |
 | Binnenmarkt/Unternehmensfoerderung | 1 |
@@ -89,7 +90,6 @@
 | DeepTech/Technologietransfer/Validierung | 1 |
 | Digitalisierung (KI, Cybersecurity, Data, Skills) | 1 |
 | Digitalisierung (KI, Cybersecurity, HPC, Skills) | 1 |
-| Digitalisierung/IT-Sicherheit/Transformation | 1 |
 
 ## Priorisierungsregel
 

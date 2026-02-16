@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-16`
-- Offen gesamt: `353`
+- Offen gesamt: `354`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `337`
+- Rollierend/ohne Datum: `338`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -304,6 +304,7 @@
 - `BMWK_KLIMASCHUTZVERTRAEGE` | Klimaschutzvertraege (Carbon Contracts for Difference, CCfD) | rollierend | https://www.bmwk.de/Redaktion/DE/Dossier/klimaschutzvertraege.html
 - `BMWK_REALLABORE_ENERGIEWENDE_TRANSFER` | Reallabore der Energiewende - Transfer und Skalierung | rollierend | https://www.bmwk.de/Redaktion/DE/Dossier/reallabore-der-energiewende.html
 - `BMWK_REALLABORE_ENERGIEWENDE` | Reallabore der Energiewende (BMWK) | rollierend | https://www.bmwk.de/Redaktion/DE/Dossier/reallabore-der-energiewende.html
+- `BMWSB_ZUKUNFT_BAU` | Zukunft Bau - Forschungsfoerderung im Bauwesen | rollierend | https://www.zukunftbau.de/
 - `ESF_BAYERN_AUFRUFE_OFFEN` | ESF+ Bayern - Programmaufrufe (offen/rollierend) | rollierend | https://www.esf.bayern.de/
 - `ESF_BW_AUFRUFE_OFFEN` | ESF+ Baden-Wuerttemberg - Programmaufrufe (offen/rollierend) | rollierend | https://www.esf-bw.de/esf-plus-in-bw/programm-des-esf-plus-in-baden-wuerttemberg
 - `ESF_HAMBURG_AUFRUFE_OFFEN` | ESF+ Hamburg - Projektaufrufe (offen/rollierend) | rollierend | https://www.esf-hamburg.de/foerderung-617696
