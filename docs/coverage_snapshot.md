@@ -2,16 +2,16 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-16 18:24`
-- Datensaetze: `792`
-- Eindeutige `programm_id`: `792`
+- Erzeugt am: `2026-02-16 18:28`
+- Datensaetze: `794`
+- Eindeutige `programm_id`: `794`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
 | laufend | 555 |
-| offen | 232 |
+| offen | 234 |
 | geplant | 5 |
 
 ## Kategorie
@@ -19,14 +19,14 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Kategorie | Anzahl |
 |---|---:|
 | laufend | 555 |
-| offen | 232 |
+| offen | 234 |
 | zukuenftig | 5 |
 
 ## Top Regionen
 
 | Region | Anzahl |
 |---|---:|
-| Deutschland | 505 |
+| Deutschland | 507 |
 | EU (inkl. Deutschland) | 60 |
 | Deutschland/International | 36 |
 | Rheinland-Pfalz | 17 |
@@ -52,7 +52,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Traeger | Anzahl |
 |---|---:|
 | KfW | 204 |
-| BMBF | 149 |
+| BMBF | 151 |
 | BMWK | 49 |
 | BAFA | 33 |
 | Europaeische Kommission | 16 |
@@ -92,10 +92,10 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Gruendung/Nachfolge | 9 |
 | Gruendung/Wachstum | 9 |
 | Energieeffizienz/Digitalisierung | 8 |
+| Forschung und Entwicklung/Digital Health | 8 |
 | Gruendung/Innovation | 8 |
 | Unternehmensfoerderung | 8 |
 | Digitalisierung/IT-Sicherheit | 7 |
-| Forschung und Entwicklung/Digital Health | 7 |
 
 ## Feldqualitaet
 
