@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-16 04:35`
-- Datensaetze: `392`
-- Eindeutige `programm_id`: `392`
+- Erzeugt am: `2026-02-16 04:39`
+- Datensaetze: `394`
+- Eindeutige `programm_id`: `394`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 311 |
+| laufend | 313 |
 | offen | 76 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 311 |
+| laufend | 313 |
 | offen | 76 |
 | zukuenftig | 5 |
 
@@ -26,7 +26,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Region | Anzahl |
 |---|---:|
-| Deutschland | 140 |
+| Deutschland | 142 |
 | EU (inkl. Deutschland) | 58 |
 | Rheinland-Pfalz | 17 |
 | Berlin | 16 |
@@ -60,12 +60,12 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | BMWK (ZIM) / Projekttraeger | 9 |
 | NBank | 9 |
 | BMAS / INQA / ESF Plus | 7 |
+| BMWK / EXIST | 7 |
 | IFB Hamburg | 7 |
 | EIC (EU) | 6 |
 | Investitionsbank Sachsen-Anhalt (IB) | 6 |
 | L-Bank | 6 |
 | Thueringer Aufbaubank (TAB) | 6 |
-| BMWK / EXIST | 5 |
 | Europaeische Kommission / CINEA | 5 |
 | Investitionsbank Schleswig-Holstein (IB.SH) | 5 |
 | Landesfoerderinstitut Mecklenburg-Vorpommern (LFI M-V) | 5 |
@@ -89,13 +89,13 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Beratung/Unternehmensentwicklung | 6 |
 | Energieeffizienz | 6 |
 | Forschung und Entwicklung/Innovation (international) | 6 |
+| Gruendung/Innovation | 6 |
 | Internationalisierung/Export | 6 |
 | Unternehmensfinanzierung/Innovation | 6 |
 | Digitalisierung/Innovation | 5 |
 | Innovation/Beratung | 5 |
 | Innovation/Digitalisierung | 5 |
 | Wachstum/Investition | 5 |
-| Weiterbildung/Qualifizierung | 5 |
 
 ## Feldqualitaet
 
