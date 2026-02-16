@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-16 07:48`
-- Datensaetze: `488`
-- Eindeutige `programm_id`: `488`
+- Erzeugt am: `2026-02-16 07:52`
+- Datensaetze: `490`
+- Eindeutige `programm_id`: `490`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 401 |
+| laufend | 403 |
 | offen | 82 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 401 |
+| laufend | 403 |
 | offen | 82 |
 | zukuenftig | 5 |
 
@@ -26,7 +26,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Region | Anzahl |
 |---|---:|
-| Deutschland | 201 |
+| Deutschland | 203 |
 | EU (inkl. Deutschland) | 60 |
 | Deutschland/International | 36 |
 | Rheinland-Pfalz | 17 |
@@ -51,7 +51,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Traeger | Anzahl |
 |---|---:|
-| KfW | 62 |
+| KfW | 64 |
 | BMWK | 47 |
 | BAFA | 23 |
 | Europaeische Kommission | 16 |
@@ -81,8 +81,8 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Forschung und Entwicklung/Innovation | 18 |
 | EU-Fonds EFRE | 16 |
 | Investition/Betriebsmittel | 16 |
+| Unternehmensfinanzierung/Innovation | 16 |
 | Internationalisierung/Export | 14 |
-| Unternehmensfinanzierung/Innovation | 14 |
 | Digitalisierung | 13 |
 | Forschung und Entwicklung | 9 |
 | Gruendung/Nachfolge | 9 |
