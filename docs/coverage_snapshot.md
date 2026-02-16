@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-16 04:19`
-- Datensaetze: `384`
-- Eindeutige `programm_id`: `384`
+- Erzeugt am: `2026-02-16 04:23`
+- Datensaetze: `386`
+- Eindeutige `programm_id`: `386`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 303 |
+| laufend | 305 |
 | offen | 76 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 303 |
+| laufend | 305 |
 | offen | 76 |
 | zukuenftig | 5 |
 
@@ -26,7 +26,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Region | Anzahl |
 |---|---:|
-| Deutschland | 132 |
+| Deutschland | 134 |
 | EU (inkl. Deutschland) | 58 |
 | Rheinland-Pfalz | 17 |
 | Berlin | 16 |
@@ -64,13 +64,13 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Investitionsbank Sachsen-Anhalt (IB) | 6 |
 | L-Bank | 6 |
 | Thueringer Aufbaubank (TAB) | 6 |
+| BMAS / INQA / ESF Plus | 5 |
 | BMWK / EXIST | 5 |
 | Europaeische Kommission / CINEA | 5 |
 | Investitionsbank Schleswig-Holstein (IB.SH) | 5 |
 | Landesfoerderinstitut Mecklenburg-Vorpommern (LFI M-V) | 5 |
 | NRW.BANK | 5 |
 | NRW.BANK / Land NRW | 5 |
-| SAB (Saechsische Aufbaubank) | 5 |
 
 ## Top Themen
 
