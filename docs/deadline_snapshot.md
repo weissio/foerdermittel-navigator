@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `878`
+- Gepruefte Datensaetze: `880`
 
 ## Offen Mit Datumsfrist
 
@@ -44,6 +44,7 @@
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_PROZESSPROGNOSTIK` | KMU-innovativ - Adaptive Prozessprognostik und selbstlernende Fertigungssteuerung
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_STROMNETZREGELUNG` | KMU-innovativ - Adaptive Stromnetzregelung und netzdienliche Flexibilitaetsplattformen
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_WAERMERUECKGEWINNUNG` | KMU-innovativ - Adaptive Waermerueckgewinnung und intelligente Prozesskopplung
+- `BMBF_KMU_INNOVATIV_ADAPTIVE_WERTSCHOEPFUNGSSTEUERUNG` | KMU-innovativ - Adaptive Wertschoepfungssteuerung und resiliente Prozessvernetzung
 - `BMBF_KMU_INNOVATIV_ADDITIVE_BIOFABRICATION` | KMU-innovativ - Additive Biofabrication und personalisierte Gewebestrukturen
 - `BMBF_KMU_INNOVATIV_ADDITIVE_FERTIGUNG` | KMU-innovativ - Additive Fertigung und neue Produktionsverfahren
 - `BMBF_KMU_INNOVATIV_AGRITECH` | KMU-innovativ - Agrar- und Lebensmitteltechnologien
@@ -104,6 +105,7 @@
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEKOHORTEN_ANALYSE` | KMU-innovativ - Digitale Therapiekohorten-Analyse und personalisierte Wirksamkeitsprofile
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEKOHORTEN_STEUERUNG` | KMU-innovativ - Digitale Therapiekohorten-Steuerung und adaptive Versorgungspfade
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEKONTEXT_MODELLE` | KMU-innovativ - Digitale Therapiekontext-Modelle und adaptive Behandlungsdynamik
+- `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEKONTEXT_STEUERUNG` | KMU-innovativ - Digitale Therapiekontext-Steuerung und adaptive Versorgungskaskaden
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEKONTINUITAETSANALYSE` | KMU-innovativ - Digitale Therapiekontinuitaetsanalyse und adaptive Verlaufssteuerung
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEKONTINUITAET` | KMU-innovativ - Digitale Therapiekontinuitaet und personalisierte Versorgungsbegleitung
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEKOORDINATION_PLUS` | KMU-innovativ - Digitale Therapiekoordination Plus und adaptive Versorgungstaktung
