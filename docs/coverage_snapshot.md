@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-16 12:48`
-- Datensaetze: `638`
-- Eindeutige `programm_id`: `638`
+- Erzeugt am: `2026-02-16 12:52`
+- Datensaetze: `640`
+- Eindeutige `programm_id`: `640`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 549 |
+| laufend | 551 |
 | offen | 84 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 549 |
+| laufend | 551 |
 | offen | 84 |
 | zukuenftig | 5 |
 
@@ -26,7 +26,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Region | Anzahl |
 |---|---:|
-| Deutschland | 351 |
+| Deutschland | 353 |
 | EU (inkl. Deutschland) | 60 |
 | Deutschland/International | 36 |
 | Rheinland-Pfalz | 17 |
@@ -51,7 +51,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Traeger | Anzahl |
 |---|---:|
-| KfW | 198 |
+| KfW | 200 |
 | BMWK | 49 |
 | BAFA | 33 |
 | Europaeische Kommission | 16 |
@@ -76,7 +76,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Thema | Anzahl |
 |---|---:|
-| Energieeffizienz/Treibhausgasminderung | 61 |
+| Energieeffizienz/Treibhausgasminderung | 62 |
 | Investition/Betriebsmittel | 30 |
 | EU-Fonds ESF+ | 26 |
 | Unternehmensfinanzierung | 26 |
@@ -94,8 +94,8 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Gruendung/Innovation | 8 |
 | Unternehmensfoerderung | 8 |
 | Digitalisierung/IT-Sicherheit | 7 |
+| Energieeffizienz/Lastmanagement | 7 |
 | Beratung/Unternehmensentwicklung | 6 |
-| Energieeffizienz/Lastmanagement | 6 |
 
 ## Feldqualitaet
 
