@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-16 23:45`
-- Datensaetze: `929`
-- Eindeutige `programm_id`: `929`
+- Erzeugt am: `2026-02-16 23:53`
+- Datensaetze: `931`
+- Eindeutige `programm_id`: `931`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 565 |
+| laufend | 567 |
 | offen | 359 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 565 |
+| laufend | 567 |
 | offen | 359 |
 | zukuenftig | 5 |
 
@@ -26,7 +26,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Region | Anzahl |
 |---|---:|
-| Deutschland | 637 |
+| Deutschland | 639 |
 | EU (inkl. Deutschland) | 60 |
 | Deutschland/International | 41 |
 | Rheinland-Pfalz | 17 |
@@ -52,7 +52,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Traeger | Anzahl |
 |---|---:|
 | BMBF | 259 |
-| KfW | 204 |
+| KfW | 206 |
 | BMWK | 54 |
 | BAFA | 33 |
 | Europaeische Kommission | 16 |
@@ -89,9 +89,9 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Energieeffizienz | 14 |
 | Internationalisierung/Export | 14 |
 | Digitalisierung/Innovation | 11 |
+| Gruendung/Nachfolge | 11 |
 | Energieeffizienz/Lastmanagement | 9 |
 | Forschung und Entwicklung | 9 |
-| Gruendung/Nachfolge | 9 |
 | Gruendung/Wachstum | 9 |
 | Energieeffizienz/Digitalisierung | 8 |
 | Gruendung/Innovation | 8 |
