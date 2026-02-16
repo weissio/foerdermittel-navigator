@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-16`
-- Offen gesamt: `98`
+- Offen gesamt: `100`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `82`
+- Rollierend/ohne Datum: `84`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -32,6 +32,7 @@
 - `BMBF_KMU_INNOVATIV_ENERGIETECH` | KMU-innovativ - Energietechnologien | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_IKT` | KMU-innovativ - Informations- und Kommunikationstechnologien (IKT) | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_INTERAKTIVE_TECH` | KMU-innovativ - Interaktive Technologien fuer Gesundheit und Lebensqualitaet | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_KI_DATENRAEUME` | KMU-innovativ - KI und industrielle Datenraeume | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_KLIMA_UMWELT` | KMU-innovativ - Klima- und Umwelttechnologien | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_KREISLAUFWIRTSCHAFT` | KMU-innovativ - Kreislaufwirtschaft und Ressourceneffizienz | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_MATERIALFORSCHUNG` | KMU-innovativ - Materialforschung | rollierend | https://www.kmu-innovativ.de/
@@ -39,6 +40,7 @@
 - `BMBF_KMU_INNOVATIV_NANOTECH` | KMU-innovativ - Nanotechnologie und neue Werkstoffsysteme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_PHOTONIK` | KMU-innovativ - Photonik und Quantentechnologien | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_PRODUKTION` | KMU-innovativ - Produktionstechnologie | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_QUANTUM_SENSORS` | KMU-innovativ - Quantensensorik und Praezisionsmesstechnik | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_SICHERHEIT` | KMU-innovativ - Sicherheitsforschung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_SOFTWAREROBOTIK` | KMU-innovativ - Softwareintensive Systeme und Robotik | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV` | KMU-innovativ: Forschung fuer den Mittelstand | rollierend | https://www.kmu-innovativ.de/
