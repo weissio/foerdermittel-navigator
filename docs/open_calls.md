@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-16`
-- Offen gesamt: `184`
+- Offen gesamt: `186`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `168`
+- Rollierend/ohne Datum: `170`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -59,6 +59,7 @@
 - `BMBF_KMU_INNOVATIV_DIGITAL_BAUSTELLEN` | KMU-innovativ - Digitale Baustellen und autonome Bauprozesse | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITAL_HEALTH_DEVICES` | KMU-innovativ - Digitale Gesundheitsgeraete und vernetzte Medizinsysteme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITAL_TWIN` | KMU-innovativ - Digitale Zwillinge fuer industrielle Anwendungen | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_EDGE_GESUNDHEIT` | KMU-innovativ - Edge-Computing fuer vernetzte Gesundheitssysteme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_EDGE_IOT` | KMU-innovativ - Edge-Computing und industrielle IoT-Systeme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_ELEKTRONIK` | KMU-innovativ - Elektronik und Mikrosystemtechnik | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_EMISSIONSARME_VERBRENNUNG` | KMU-innovativ - Emissionsarme Verbrennung und Abgasnachbehandlung | rollierend | https://www.kmu-innovativ.de/
@@ -119,6 +120,7 @@
 - `BMBF_KMU_INNOVATIV_SMARTE_SPEICHER_NETZE` | KMU-innovativ - Smarte Speicher- und Energienetzsysteme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_SMARTE_TEXTILIEN` | KMU-innovativ - Smarte Textilien und funktionale Fasersysteme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_SMARTE_THERMOPROZESSE` | KMU-innovativ - Smarte Thermoprozesse und Waermeintegration | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_SMARTE_WAERMENETZE` | KMU-innovativ - Smarte Waermenetze und sektorengekoppelte Quartiersversorgung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_SMARTE_WASSERSTOFFE` | KMU-innovativ - Smarte Wasserstoffspeicher und Materialsysteme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_SMARTE_WERTSTOFFSTROEME` | KMU-innovativ - Smarte Wertstoffstroeme und industrielle Kreislaufplattformen | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_SOFTWAREROBOTIK` | KMU-innovativ - Softwareintensive Systeme und Robotik | rollierend | https://www.kmu-innovativ.de/
