@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-16`
-- Offen gesamt: `346`
+- Offen gesamt: `348`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `330`
+- Rollierend/ohne Datum: `332`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -29,6 +29,8 @@
 - `BMAS_INQA_EXPERIMENTIERRAEUME` | INQA-Experimentierräume (BMAS/INQA) | rollierend | https://www.inqa.de/DE/angebote/experimentierraeume/uebersicht.html
 - `BMAS_KOMPASS_QUALIFIZIERUNGSSCHECK` | KOMPASS - Qualifizierungsscheck fuer Solo-Selbststaendige | rollierend | https://www.esfplus.de/portal/DE/ESF-Plus-2021-2027/Foerderprogramme/bmas/kompass/inhalt.html
 - `BMAS_ZUKUNFTSZENTREN` | Foerderprogramm Zukunftszentren (BMAS/ESF Plus) | rollierend | https://www.bmas.de/DE/Arbeit/Digitalisierung-der-Arbeitswelt/Foerderprogramm-Zukunftszentren/foerderprogramm-zukunftszentren.html
+- `BMBF_DATIPILOT_INNOVATIONSCOMMUNITIES` | DATIpilot - Innovationscommunities | rollierend | https://www.bmbf.de/bmbf/de/forschung/innovationen/datipilot/datipilot_node.html
+- `BMBF_DATIPILOT_INNOVATIONSSPRINTS` | DATIpilot - Innovationssprints | rollierend | https://www.bmbf.de/bmbf/de/forschung/innovationen/datipilot/datipilot_node.html
 - `BMBF_KMU_INNOVATIV_5G_6G_INDUSTRIE` | KMU-innovativ - 5G/6G und vernetzte Industrieanwendungen | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_BAUTEILINSPEKTION` | KMU-innovativ - Adaptive Bauteilinspektion und KI-gestuetzte Fehlervorhersage | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_FERTIGUNGSFLUESSE` | KMU-innovativ - Adaptive Fertigungsfluesse und resiliente Ablaufsteuerung | rollierend | https://www.kmu-innovativ.de/
