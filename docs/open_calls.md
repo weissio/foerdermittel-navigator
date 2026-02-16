@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-16`
-- Offen gesamt: `236`
+- Offen gesamt: `238`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `220`
+- Rollierend/ohne Datum: `222`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -70,6 +70,7 @@
 - `BMBF_KMU_INNOVATIV_DIGITALE_PATIENTENSTEUERUNG` | KMU-innovativ - Digitale Patientensteuerung und vernetzte Versorgungspfade | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_PFLEGEPFAD_ANALYTIK` | KMU-innovativ - Digitale Pflegepfad-Analytik und vernetzte Betreuungskoordination | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_QUALITAETSSICHERUNG` | KMU-innovativ - Digitale Qualitaetssicherung und adaptive Pruefverfahren | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_DIGITALE_REHA_VERLAUFSANALYTIK` | KMU-innovativ - Digitale Reha-Verlaufsanalytik und personalisierte Nachsorgepfade | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_REPARATUR_ASSISTENZ` | KMU-innovativ - Digitale Reparaturassistenz und wissensbasierte Serviceplattformen | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_ROHSTOFFPROGNOSEN` | KMU-innovativ - Digitale Rohstoffprognosen und resiliente Beschaffungsmodelle | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPEUTIKA` | KMU-innovativ - Digitale Therapeutika und evidenzbasierte Versorgungsplattformen | rollierend | https://www.kmu-innovativ.de/
@@ -146,6 +147,7 @@
 - `BMBF_KMU_INNOVATIV_ROBOTIK_LOGISTIK` | KMU-innovativ - Robotik und intelligente Logistiksysteme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_SATELLITENDATEN` | KMU-innovativ - Satellitendaten und geospatial analytics | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_SELBSTHEILENDE_BESCHICHTUNGEN` | KMU-innovativ - Selbstheilende Beschichtungen und langlebige Oberflaechensysteme | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_SELBSTOPTIMIERENDE_FERTIGUNGSZELLEN` | KMU-innovativ - Selbstoptimierende Fertigungszellen und adaptive Prozessregelung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_SICHERE_HALBLEITER` | KMU-innovativ - Sichere Halbleiter und vertrauenswuerdige Elektronik | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_SICHERHEIT` | KMU-innovativ - Sicherheitsforschung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_SMARTE_AGROSYSTEME` | KMU-innovativ - Smarte Agrarsysteme und datenbasierte Landwirtschaft | rollierend | https://www.kmu-innovativ.de/

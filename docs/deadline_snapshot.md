@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `796`
+- Gepruefte Datensaetze: `798`
 
 ## Offen Mit Datumsfrist
 
@@ -68,6 +68,7 @@
 - `BMBF_KMU_INNOVATIV_DIGITALE_PATIENTENSTEUERUNG` | KMU-innovativ - Digitale Patientensteuerung und vernetzte Versorgungspfade
 - `BMBF_KMU_INNOVATIV_DIGITALE_PFLEGEPFAD_ANALYTIK` | KMU-innovativ - Digitale Pflegepfad-Analytik und vernetzte Betreuungskoordination
 - `BMBF_KMU_INNOVATIV_DIGITALE_QUALITAETSSICHERUNG` | KMU-innovativ - Digitale Qualitaetssicherung und adaptive Pruefverfahren
+- `BMBF_KMU_INNOVATIV_DIGITALE_REHA_VERLAUFSANALYTIK` | KMU-innovativ - Digitale Reha-Verlaufsanalytik und personalisierte Nachsorgepfade
 - `BMBF_KMU_INNOVATIV_DIGITALE_REPARATUR_ASSISTENZ` | KMU-innovativ - Digitale Reparaturassistenz und wissensbasierte Serviceplattformen
 - `BMBF_KMU_INNOVATIV_DIGITALE_ROHSTOFFPROGNOSEN` | KMU-innovativ - Digitale Rohstoffprognosen und resiliente Beschaffungsmodelle
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPEUTIKA` | KMU-innovativ - Digitale Therapeutika und evidenzbasierte Versorgungsplattformen
@@ -144,6 +145,7 @@
 - `BMBF_KMU_INNOVATIV_ROBOTIK_LOGISTIK` | KMU-innovativ - Robotik und intelligente Logistiksysteme
 - `BMBF_KMU_INNOVATIV_SATELLITENDATEN` | KMU-innovativ - Satellitendaten und geospatial analytics
 - `BMBF_KMU_INNOVATIV_SELBSTHEILENDE_BESCHICHTUNGEN` | KMU-innovativ - Selbstheilende Beschichtungen und langlebige Oberflaechensysteme
+- `BMBF_KMU_INNOVATIV_SELBSTOPTIMIERENDE_FERTIGUNGSZELLEN` | KMU-innovativ - Selbstoptimierende Fertigungszellen und adaptive Prozessregelung
 - `BMBF_KMU_INNOVATIV_SICHERE_HALBLEITER` | KMU-innovativ - Sichere Halbleiter und vertrauenswuerdige Elektronik
 - `BMBF_KMU_INNOVATIV_SICHERHEIT` | KMU-innovativ - Sicherheitsforschung
 - `BMBF_KMU_INNOVATIV_SMARTE_AGROSYSTEME` | KMU-innovativ - Smarte Agrarsysteme und datenbasierte Landwirtschaft
