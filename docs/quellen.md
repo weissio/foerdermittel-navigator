@@ -260,3 +260,5 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - https://urbact.eu/
 - https://climate.ec.europa.eu/eu-action/social-climate-fund_en
 - https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/european-green-deal/repowereu-affordable-secure-and-sustainable-energy-europe_en
+- https://cinea.ec.europa.eu/programmes/connecting-europe-facility/transport_en
+- https://cinea.ec.europa.eu/programmes/connecting-europe-facility/energy_en
