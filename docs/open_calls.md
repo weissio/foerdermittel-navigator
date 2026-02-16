@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-16`
-- Offen gesamt: `80`
+- Offen gesamt: `82`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `64`
+- Rollierend/ohne Datum: `66`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -36,6 +36,8 @@
 - `ESF_BAYERN_AUFRUFE_OFFEN` | ESF+ Bayern - Programmaufrufe (offen/rollierend) | rollierend | https://www.esf.bayern.de/
 - `ESF_BW_AUFRUFE_OFFEN` | ESF+ Baden-Wuerttemberg - Programmaufrufe (offen/rollierend) | rollierend | https://www.esf-bw.de/esf-plus-in-bw/programm-des-esf-plus-in-baden-wuerttemberg
 - `ESF_HAMBURG_AUFRUFE_OFFEN` | ESF+ Hamburg - Projektaufrufe (offen/rollierend) | rollierend | https://www.esf-hamburg.de/foerderung-617696
+- `EUIPO_SME_FUND_MARKEN_DESIGNS` | EUIPO SME Fund - Marken und Designs (Voucher) | rollierend | https://www.euipo.europa.eu/en/discover-ip/sme-fund
+- `EUIPO_SME_FUND_PATENTE` | EUIPO SME Fund - Patente (Voucher) | rollierend | https://www.euipo.europa.eu/en/discover-ip/sme-fund
 - `EUIPO_SME_FUND` | Ideas Powered for Business SME Fund (EUIPO) | rollierend | https://www.euipo.europa.eu/en/discover-ip/sme-fund
 - `EU_BLUEINVEST` | BlueInvest (EU) | rollierend | https://blueinvest-community.converve.io/
 - `EU_CBE_JU` | Circular Bio-based Europe Joint Undertaking (CBE JU) | rollierend | https://www.cbe.europa.eu/calls-proposals_en

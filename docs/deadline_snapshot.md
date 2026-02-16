@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `438`
+- Gepruefte Datensaetze: `440`
 
 ## Offen Mit Datumsfrist
 
@@ -34,6 +34,8 @@
 - `ESF_BAYERN_AUFRUFE_OFFEN` | ESF+ Bayern - Programmaufrufe (offen/rollierend)
 - `ESF_BW_AUFRUFE_OFFEN` | ESF+ Baden-Wuerttemberg - Programmaufrufe (offen/rollierend)
 - `ESF_HAMBURG_AUFRUFE_OFFEN` | ESF+ Hamburg - Projektaufrufe (offen/rollierend)
+- `EUIPO_SME_FUND_MARKEN_DESIGNS` | EUIPO SME Fund - Marken und Designs (Voucher)
+- `EUIPO_SME_FUND_PATENTE` | EUIPO SME Fund - Patente (Voucher)
 - `EUIPO_SME_FUND` | Ideas Powered for Business SME Fund (EUIPO)
 - `EU_BLUEINVEST` | BlueInvest (EU)
 - `EU_CBE_JU` | Circular Bio-based Europe Joint Undertaking (CBE JU)
