@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-16 05:40`
-- Datensaetze: `424`
-- Eindeutige `programm_id`: `424`
+- Erzeugt am: `2026-02-16 05:44`
+- Datensaetze: `426`
+- Eindeutige `programm_id`: `426`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 341 |
+| laufend | 343 |
 | offen | 78 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 341 |
+| laufend | 343 |
 | offen | 78 |
 | zukuenftig | 5 |
 
@@ -31,10 +31,10 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Deutschland/International | 18 |
 | Rheinland-Pfalz | 17 |
 | Berlin | 16 |
+| Bayern | 14 |
 | Niedersachsen | 14 |
 | Sachsen | 14 |
 | Baden-Wuerttemberg | 12 |
-| Bayern | 12 |
 | Brandenburg | 12 |
 | Hamburg | 12 |
 | Nordrhein-Westfalen | 12 |
@@ -86,6 +86,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Gruendung/Wachstum | 9 |
 | Gruendung/Innovation | 8 |
 | Unternehmensfoerderung | 8 |
+| Digitalisierung/IT-Sicherheit | 7 |
 | Gruendung/Nachfolge | 7 |
 | Beratung/Unternehmensentwicklung | 6 |
 | Energieeffizienz | 6 |
@@ -93,7 +94,6 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Innovation/Digitalisierung | 6 |
 | Internationalisierung/Export | 6 |
 | Unternehmensfinanzierung/Innovation | 6 |
-| Digitalisierung/IT-Sicherheit | 5 |
 | Digitalisierung/Innovation | 5 |
 | Innovation/Beratung | 5 |
 
