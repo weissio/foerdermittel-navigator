@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-16 05:52`
-- Datensaetze: `430`
-- Eindeutige `programm_id`: `430`
+- Erzeugt am: `2026-02-16 05:56`
+- Datensaetze: `432`
+- Eindeutige `programm_id`: `432`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 347 |
+| laufend | 349 |
 | offen | 78 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 347 |
+| laufend | 349 |
 | offen | 78 |
 | zukuenftig | 5 |
 
@@ -28,7 +28,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 |---|---:|
 | Deutschland | 161 |
 | EU (inkl. Deutschland) | 58 |
-| Deutschland/International | 20 |
+| Deutschland/International | 22 |
 | Rheinland-Pfalz | 17 |
 | Berlin | 16 |
 | Bayern | 14 |
@@ -52,7 +52,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Traeger | Anzahl |
 |---|---:|
 | KfW | 42 |
-| BMWK | 39 |
+| BMWK | 41 |
 | BAFA | 23 |
 | Europaeische Kommission | 16 |
 | BMWK / EXIST | 13 |
@@ -82,10 +82,10 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Forschung und Entwicklung/Innovation | 16 |
 | Investition/Betriebsmittel | 16 |
 | Digitalisierung | 13 |
+| Internationalisierung/Export | 10 |
 | Forschung und Entwicklung | 9 |
 | Gruendung/Wachstum | 9 |
 | Gruendung/Innovation | 8 |
-| Internationalisierung/Export | 8 |
 | Unternehmensfoerderung | 8 |
 | Digitalisierung/IT-Sicherheit | 7 |
 | Gruendung/Nachfolge | 7 |
