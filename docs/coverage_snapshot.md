@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-16 05:36`
-- Datensaetze: `422`
-- Eindeutige `programm_id`: `422`
+- Erzeugt am: `2026-02-16 05:40`
+- Datensaetze: `424`
+- Eindeutige `programm_id`: `424`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 339 |
+| laufend | 341 |
 | offen | 78 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 339 |
+| laufend | 341 |
 | offen | 78 |
 | zukuenftig | 5 |
 
@@ -26,9 +26,9 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Region | Anzahl |
 |---|---:|
-| Deutschland | 158 |
+| Deutschland | 159 |
 | EU (inkl. Deutschland) | 58 |
-| Deutschland/International | 17 |
+| Deutschland/International | 18 |
 | Rheinland-Pfalz | 17 |
 | Berlin | 16 |
 | Niedersachsen | 14 |
@@ -62,6 +62,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | BMWK (ZIM) / Projekttraeger | 9 |
 | NBank | 9 |
 | IFB Hamburg | 7 |
+| BMWK / Bundesrepublik Deutschland | 6 |
 | EIC (EU) | 6 |
 | Investitionsbank Sachsen-Anhalt (IB) | 6 |
 | L-Bank | 6 |
@@ -70,7 +71,6 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Thueringer Aufbaubank (TAB) | 6 |
 | Europaeische Kommission / CINEA | 5 |
 | Investitionsbank Schleswig-Holstein (IB.SH) | 5 |
-| Landesfoerderinstitut Mecklenburg-Vorpommern (LFI M-V) | 5 |
 
 ## Top Themen
 
