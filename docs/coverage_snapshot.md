@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-16 03:33`
-- Datensaetze: `360`
-- Eindeutige `programm_id`: `360`
+- Erzeugt am: `2026-02-16 03:36`
+- Datensaetze: `362`
+- Eindeutige `programm_id`: `362`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 283 |
+| laufend | 285 |
 | offen | 72 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 283 |
+| laufend | 285 |
 | offen | 72 |
 | zukuenftig | 5 |
 
@@ -26,7 +26,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Region | Anzahl |
 |---|---:|
-| Deutschland | 112 |
+| Deutschland | 114 |
 | EU (inkl. Deutschland) | 58 |
 | Rheinland-Pfalz | 17 |
 | Berlin | 16 |
@@ -52,7 +52,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Traeger | Anzahl |
 |---|---:|
 | KfW | 42 |
-| BMWK | 25 |
+| BMWK | 27 |
 | BAFA | 16 |
 | Europaeische Kommission | 16 |
 | Investitionsbank Berlin (IBB) | 13 |
