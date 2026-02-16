@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-16 01:19`
-- Datensaetze: `295`
-- Eindeutige `programm_id`: `295`
+- Erzeugt am: `2026-02-16 01:24`
+- Datensaetze: `297`
+- Eindeutige `programm_id`: `297`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 267 |
+| laufend | 269 |
 | offen | 23 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 267 |
+| laufend | 269 |
 | offen | 23 |
 | zukuenftig | 5 |
 
@@ -31,14 +31,14 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Rheinland-Pfalz | 16 |
 | Niedersachsen | 13 |
 | Deutschland/International | 12 |
+| Sachsen | 12 |
 | Schleswig-Holstein | 12 |
 | Brandenburg | 11 |
 | EU (inkl. Deutschland) | 11 |
 | Nordrhein-Westfalen | 11 |
-| Sachsen | 11 |
 | Hamburg | 10 |
+| Sachsen-Anhalt | 10 |
 | Saarland | 9 |
-| Sachsen-Anhalt | 9 |
 | Baden-Wuerttemberg | 8 |
 | Bremen | 8 |
 | Hessen | 8 |
@@ -59,9 +59,9 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | NBank | 9 |
 | BMWK (ZIM) / Projekttraeger | 7 |
 | IFB Hamburg | 7 |
+| Investitionsbank Sachsen-Anhalt (IB) | 6 |
 | L-Bank | 6 |
 | Thueringer Aufbaubank (TAB) | 6 |
-| Investitionsbank Sachsen-Anhalt (IB) | 5 |
 | Investitionsbank Schleswig-Holstein (IB.SH) | 5 |
 | Landesfoerderinstitut Mecklenburg-Vorpommern (LFI M-V) | 5 |
 | NRW.BANK / Land NRW | 5 |
@@ -85,13 +85,13 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Gruendung/Wachstum | 9 |
 | Forschung und Entwicklung | 7 |
 | Gruendung/Nachfolge | 7 |
+| Unternehmensfoerderung | 7 |
 | Beratung/Unternehmensentwicklung | 6 |
 | Energieeffizienz | 6 |
 | Internationalisierung/Export | 6 |
 | Unternehmensfinanzierung/Innovation | 6 |
 | Innovation/Beratung | 5 |
 | Innovation/Digitalisierung | 5 |
-| Unternehmensfoerderung | 5 |
 | Wachstum/Investition | 5 |
 | Digitalisierung/Innovation | 4 |
 | Forschung und Entwicklung/Innovation (international) | 4 |

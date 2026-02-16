@@ -232,3 +232,5 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - https://mwl.sachsen-anhalt.de/ministerium/foerderung/grw-unternehmensfoerderung
 - https://www.ilb.de/de/wirtschaft/
 - https://www.sikb.de/foerderprodukte/unternehmensfoerderung
+- https://www.ib-sachsen-anhalt.de/de/unternehmen
+- https://www.sab.sachsen.de/foerderprogramme
