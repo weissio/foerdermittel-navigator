@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-16`
-- Offen gesamt: `328`
+- Offen gesamt: `330`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `312`
+- Rollierend/ohne Datum: `314`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -95,6 +95,7 @@
 - `BMBF_KMU_INNOVATIV_DIGITALE_ROHSTOFFPROGNOSEN` | KMU-innovativ - Digitale Rohstoffprognosen und resiliente Beschaffungsmodelle | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPEUTIKA` | KMU-innovativ - Digitale Therapeutika und evidenzbasierte Versorgungsplattformen | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEABBRUCH_PRAEVENTION` | KMU-innovativ - Digitale Therapieabbruch-Praevention und adaptive Verlaufsintervention | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEABFOLGE_ANALYTIK` | KMU-innovativ - Digitale Therapieabfolge-Analytik und adaptive Versorgungstaktung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEABFOLGE_INTELLIGENZ` | KMU-innovativ - Digitale Therapieabfolge-Intelligenz und adaptive Interventionsdynamik | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEABFOLGE_KOHORTEN` | KMU-innovativ - Digitale Therapieabfolge-Kohorten und adaptive Versorgungsmuster | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEABLAUF_KOHERENZ` | KMU-innovativ - Digitale Therapieablauf-Kohaerenz und adaptive Behandlungskonsistenz | rollierend | https://www.kmu-innovativ.de/
@@ -174,6 +175,7 @@
 - `BMBF_KMU_INNOVATIV_INTELLIGENTE_KLINIK_LOGISTIK` | KMU-innovativ - Intelligente Kliniklogistik und adaptive Versorgungssteuerung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_INTELLIGENTE_MATERIALSUBSTITUTION` | KMU-innovativ - Intelligente Materialsubstitution und adaptive Ressourceneffizienz | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_INTELLIGENTE_PRODUKTIONSADAPTATION` | KMU-innovativ - Intelligente Produktionsadaptation und resiliente Ablaufoptimierung | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_INTELLIGENTE_PRODUKTIONSKASKADEN` | KMU-innovativ - Intelligente Produktionskaskaden und adaptive Ablaufverdichtung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_INTELLIGENTE_PRODUKTIONSZWILLINGE` | KMU-innovativ - Intelligente Produktionszwillinge und adaptive Anlagenoptimierung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_INTELLIGENTE_PROZESSFLEXIBILITAET` | KMU-innovativ - Intelligente Prozessflexibilitaet und adaptive Fertigungsreaktion | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_INTELLIGENTE_WASSERANALYTIK` | KMU-innovativ - Intelligente Wasseranalytik und adaptive Aufbereitungssysteme | rollierend | https://www.kmu-innovativ.de/
