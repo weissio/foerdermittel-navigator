@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-16`
-- Offen gesamt: `136`
+- Offen gesamt: `138`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `120`
+- Rollierend/ohne Datum: `122`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -38,6 +38,7 @@
 - `BMBF_KMU_INNOVATIV_BIOOEKONOMIE` | KMU-innovativ - Biooekonomie und industrielle Biotransformation | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_BIOPROZESS` | KMU-innovativ - Bioprozess- und Bioproduktionstechnologien | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_BIOTECH` | KMU-innovativ - Biotechnologie | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_CARBON_MANAGEMENT` | KMU-innovativ - Carbon Management und industrielle CO2-Nutzung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_CLEANROOM_AUTOMATION` | KMU-innovativ - Reinraumautomation und Hightech-Produktion | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_CYBERPHYSIK` | KMU-innovativ - Cyber-physische Systeme und industrielle Vernetzung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITAL_TWIN` | KMU-innovativ - Digitale Zwillinge fuer industrielle Anwendungen | rollierend | https://www.kmu-innovativ.de/
@@ -75,6 +76,7 @@
 - `BMBF_KMU_INNOVATIV_SMARTE_MATERIALIEN` | KMU-innovativ - Smarte Materialien und funktionale Oberflaechen | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_SMARTE_MEDIEN` | KMU-innovativ - Smarte Medien- und Interaktionssysteme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_SMARTE_SENSORIK` | KMU-innovativ - Smarte Sensorik und Messtechnik | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_SMARTE_TEXTILIEN` | KMU-innovativ - Smarte Textilien und funktionale Fasersysteme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_SOFTWAREROBOTIK` | KMU-innovativ - Softwareintensive Systeme und Robotik | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_SUSTAINABLE_PACKAGING` | KMU-innovativ - Nachhaltige Verpackungs- und Materialsysteme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_WASSERTECH` | KMU-innovativ - Wassertechnologien und nachhaltige Wassersysteme | rollierend | https://www.kmu-innovativ.de/
