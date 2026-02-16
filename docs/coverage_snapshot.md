@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-16 08:56`
-- Datensaetze: `522`
-- Eindeutige `programm_id`: `522`
+- Erzeugt am: `2026-02-16 09:00`
+- Datensaetze: `524`
+- Eindeutige `programm_id`: `524`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 435 |
+| laufend | 437 |
 | offen | 82 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 435 |
+| laufend | 437 |
 | offen | 82 |
 | zukuenftig | 5 |
 
@@ -26,7 +26,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Region | Anzahl |
 |---|---:|
-| Deutschland | 235 |
+| Deutschland | 237 |
 | EU (inkl. Deutschland) | 60 |
 | Deutschland/International | 36 |
 | Rheinland-Pfalz | 17 |
@@ -51,7 +51,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Traeger | Anzahl |
 |---|---:|
-| KfW | 96 |
+| KfW | 98 |
 | BMWK | 47 |
 | BAFA | 23 |
 | Europaeische Kommission | 16 |
@@ -76,8 +76,8 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Thema | Anzahl |
 |---|---:|
+| Investition/Betriebsmittel | 28 |
 | EU-Fonds ESF+ | 26 |
-| Investition/Betriebsmittel | 26 |
 | Unternehmensfinanzierung | 24 |
 | Forschung und Entwicklung/Innovation | 18 |
 | EU-Fonds EFRE | 16 |
