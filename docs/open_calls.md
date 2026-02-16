@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-16`
-- Offen gesamt: `172`
+- Offen gesamt: `174`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `156`
+- Rollierend/ohne Datum: `158`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -55,6 +55,7 @@
 - `BMBF_KMU_INNOVATIV_DIGITAL_TWIN` | KMU-innovativ - Digitale Zwillinge fuer industrielle Anwendungen | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_EDGE_IOT` | KMU-innovativ - Edge-Computing und industrielle IoT-Systeme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_ELEKTRONIK` | KMU-innovativ - Elektronik und Mikrosystemtechnik | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_EMISSIONSARME_VERBRENNUNG` | KMU-innovativ - Emissionsarme Verbrennung und Abgasnachbehandlung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_ENERGIETECH` | KMU-innovativ - Energietechnologien | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_ENERGIE_NETZSTABILITAET` | KMU-innovativ - Energie-Netzstabilitaet und Flexibilitaetsloesungen | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_GRUENE_CHEMIE` | KMU-innovativ - Gruene Chemie und nachhaltige Verfahrenstechnik | rollierend | https://www.kmu-innovativ.de/
@@ -98,6 +99,7 @@
 - `BMBF_KMU_INNOVATIV_SICHERE_HALBLEITER` | KMU-innovativ - Sichere Halbleiter und vertrauenswuerdige Elektronik | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_SICHERHEIT` | KMU-innovativ - Sicherheitsforschung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_SMARTE_AGROSYSTEME` | KMU-innovativ - Smarte Agrarsysteme und datenbasierte Landwirtschaft | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_SMARTE_BIOANALYTIK` | KMU-innovativ - Smarte Bioanalytik und digitale Laborplattformen | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_SMARTE_DIAGNOSTIKPLATTFORMEN` | KMU-innovativ - Smarte Diagnostikplattformen und Point-of-Care-Systeme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_SMARTE_MATERIALIEN` | KMU-innovativ - Smarte Materialien und funktionale Oberflaechen | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_SMARTE_MEDIEN` | KMU-innovativ - Smarte Medien- und Interaktionssysteme | rollierend | https://www.kmu-innovativ.de/
