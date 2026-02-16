@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-16 10:52`
-- Datensaetze: `580`
-- Eindeutige `programm_id`: `580`
+- Erzeugt am: `2026-02-16 10:56`
+- Datensaetze: `582`
+- Eindeutige `programm_id`: `582`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 491 |
+| laufend | 493 |
 | offen | 84 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 491 |
+| laufend | 493 |
 | offen | 84 |
 | zukuenftig | 5 |
 
@@ -26,7 +26,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Region | Anzahl |
 |---|---:|
-| Deutschland | 293 |
+| Deutschland | 295 |
 | EU (inkl. Deutschland) | 60 |
 | Deutschland/International | 36 |
 | Rheinland-Pfalz | 17 |
@@ -51,7 +51,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Traeger | Anzahl |
 |---|---:|
-| KfW | 140 |
+| KfW | 142 |
 | BMWK | 49 |
 | BAFA | 33 |
 | Europaeische Kommission | 16 |
@@ -80,8 +80,8 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | EU-Fonds ESF+ | 26 |
 | Unternehmensfinanzierung | 26 |
 | Forschung und Entwicklung/Innovation | 20 |
+| Energieeffizienz/Treibhausgasminderung | 19 |
 | Digitalisierung | 17 |
-| Energieeffizienz/Treibhausgasminderung | 17 |
 | EU-Fonds EFRE | 16 |
 | Unternehmensfinanzierung/Innovation | 16 |
 | Energieeffizienz | 14 |
