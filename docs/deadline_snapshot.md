@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `840`
+- Gepruefte Datensaetze: `842`
 
 ## Offen Mit Datumsfrist
 
@@ -102,6 +102,7 @@
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEVERBESSERUNG` | KMU-innovativ - Digitale Therapieverbesserung und datengestuetzte Versorgungsanpassung
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEVERLAUFS_PROFILIERUNG` | KMU-innovativ - Digitale Therapieverlaufs-Profilierung und adaptive Interventionssteuerung
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEVERLAUFS_QUALITAET` | KMU-innovativ - Digitale Therapieverlaufs-Qualitaet und adaptive Versorgungsevaluation
+- `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEWEGE_ANALYTIK` | KMU-innovativ - Digitale Therapiewege-Analytik und personalisierte Interventionspfade
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEWIRKUNG_PROGNOSTIK` | KMU-innovativ - Digitale Therapiewirkung-Prognostik und personalisierte Interventionsmodelle
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIE_COMPLIANCE` | KMU-innovativ - Digitale Therapie-Compliance und kontinuierliches Outcome-Monitoring
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIE_PRIORISIERUNG` | KMU-innovativ - Digitale Therapie-Priorisierung und personalisierte Behandlungsabfolge
@@ -136,6 +137,7 @@
 - `BMBF_KMU_INNOVATIV_INTELLIGENTE_PRODUKTIONSZWILLINGE` | KMU-innovativ - Intelligente Produktionszwillinge und adaptive Anlagenoptimierung
 - `BMBF_KMU_INNOVATIV_INTELLIGENTE_WASSERANALYTIK` | KMU-innovativ - Intelligente Wasseranalytik und adaptive Aufbereitungssysteme
 - `BMBF_KMU_INNOVATIV_INTELLIGENTE_WERKSTOFFALTERUNG` | KMU-innovativ - Intelligente Werkstoffalterung und vorausschauende Lebensdauerbewertung
+- `BMBF_KMU_INNOVATIV_INTELLIGENTE_WERTSTROMREGELUNG` | KMU-innovativ - Intelligente Wertstromregelung und adaptive Prozesskopplung
 - `BMBF_KMU_INNOVATIV_INTERAKTIVE_TECH` | KMU-innovativ - Interaktive Technologien fuer Gesundheit und Lebensqualitaet
 - `BMBF_KMU_INNOVATIV_KI_DATENRAEUME` | KMU-innovativ - KI und industrielle Datenraeume
 - `BMBF_KMU_INNOVATIV_KLIMAMODELLE_AI` | KMU-innovativ - KI-gestuetzte Klimamodelle und Resilienzsysteme

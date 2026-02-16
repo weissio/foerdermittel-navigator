@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-16`
-- Offen gesamt: `280`
+- Offen gesamt: `282`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `264`
+- Rollierend/ohne Datum: `266`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -104,6 +104,7 @@
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEVERBESSERUNG` | KMU-innovativ - Digitale Therapieverbesserung und datengestuetzte Versorgungsanpassung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEVERLAUFS_PROFILIERUNG` | KMU-innovativ - Digitale Therapieverlaufs-Profilierung und adaptive Interventionssteuerung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEVERLAUFS_QUALITAET` | KMU-innovativ - Digitale Therapieverlaufs-Qualitaet und adaptive Versorgungsevaluation | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEWEGE_ANALYTIK` | KMU-innovativ - Digitale Therapiewege-Analytik und personalisierte Interventionspfade | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEWIRKUNG_PROGNOSTIK` | KMU-innovativ - Digitale Therapiewirkung-Prognostik und personalisierte Interventionsmodelle | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIE_COMPLIANCE` | KMU-innovativ - Digitale Therapie-Compliance und kontinuierliches Outcome-Monitoring | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIE_PRIORISIERUNG` | KMU-innovativ - Digitale Therapie-Priorisierung und personalisierte Behandlungsabfolge | rollierend | https://www.kmu-innovativ.de/
@@ -138,6 +139,7 @@
 - `BMBF_KMU_INNOVATIV_INTELLIGENTE_PRODUKTIONSZWILLINGE` | KMU-innovativ - Intelligente Produktionszwillinge und adaptive Anlagenoptimierung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_INTELLIGENTE_WASSERANALYTIK` | KMU-innovativ - Intelligente Wasseranalytik und adaptive Aufbereitungssysteme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_INTELLIGENTE_WERKSTOFFALTERUNG` | KMU-innovativ - Intelligente Werkstoffalterung und vorausschauende Lebensdauerbewertung | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_INTELLIGENTE_WERTSTROMREGELUNG` | KMU-innovativ - Intelligente Wertstromregelung und adaptive Prozesskopplung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_INTERAKTIVE_TECH` | KMU-innovativ - Interaktive Technologien fuer Gesundheit und Lebensqualitaet | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_KI_DATENRAEUME` | KMU-innovativ - KI und industrielle Datenraeume | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_KLIMAMODELLE_AI` | KMU-innovativ - KI-gestuetzte Klimamodelle und Resilienzsysteme | rollierend | https://www.kmu-innovativ.de/
