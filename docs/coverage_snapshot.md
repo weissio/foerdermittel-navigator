@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-16 03:40`
-- Datensaetze: `364`
-- Eindeutige `programm_id`: `364`
+- Erzeugt am: `2026-02-16 03:45`
+- Datensaetze: `366`
+- Eindeutige `programm_id`: `366`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 287 |
+| laufend | 289 |
 | offen | 72 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 287 |
+| laufend | 289 |
 | offen | 72 |
 | zukuenftig | 5 |
 
@@ -26,7 +26,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Region | Anzahl |
 |---|---:|
-| Deutschland | 115 |
+| Deutschland | 117 |
 | EU (inkl. Deutschland) | 58 |
 | Rheinland-Pfalz | 17 |
 | Berlin | 16 |
@@ -64,13 +64,13 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Investitionsbank Sachsen-Anhalt (IB) | 6 |
 | L-Bank | 6 |
 | Thueringer Aufbaubank (TAB) | 6 |
+| BMWK / EXIST | 5 |
 | Europaeische Kommission / CINEA | 5 |
 | Investitionsbank Schleswig-Holstein (IB.SH) | 5 |
 | Landesfoerderinstitut Mecklenburg-Vorpommern (LFI M-V) | 5 |
 | NRW.BANK | 5 |
 | NRW.BANK / Land NRW | 5 |
 | SAB (Saechsische Aufbaubank) | 5 |
-| WIBank (Hessen) | 5 |
 
 ## Top Themen
 
