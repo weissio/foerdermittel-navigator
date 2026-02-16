@@ -1,14 +1,14 @@
 # Data Gaps
 
-- Erzeugt am: `2026-02-16 03:28`
-- Datensaetze: `358`
+- Erzeugt am: `2026-02-16 03:33`
+- Datensaetze: `360`
 
 ## Status-Verteilung
 
 | Status | Anzahl |
 |---|---:|
 | geplant | 5 |
-| laufend | 281 |
+| laufend | 283 |
 | offen | 72 |
 
 ## Unterrepraesentierte Regionen
@@ -35,7 +35,7 @@
 
 | Region | Anzahl |
 |---|---:|
-| Deutschland | 110 |
+| Deutschland | 112 |
 | EU (inkl. Deutschland) | 58 |
 | Rheinland-Pfalz | 17 |
 | Berlin | 16 |
@@ -56,6 +56,7 @@
 | Traeger | Anzahl |
 |---|---:|
 | BAFA/KfW | 1 |
+| BMAS / ESF Plus | 1 |
 | BMAS / Mikrokreditfonds Deutschland | 1 |
 | BMBF | 1 |
 | BMDV | 1 |
@@ -69,7 +70,6 @@
 | BMWK/ZIM (DE) + NRC IRAP (CA) | 1 |
 | BMZ / DEG / GIZ | 1 |
 | BMZ / DEG Impulse | 1 |
-| Bayern Kapital | 1 |
 
 ## Unterrepraesentierte Themen
 

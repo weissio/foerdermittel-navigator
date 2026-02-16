@@ -288,3 +288,6 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - https://www.clean-aviation.eu/calls-proposals
 - https://www.mittelstand-digital.de/MD/Navigation/DE/Home/home.html
 - https://www.bmdv.bund.de/DE/Themen/Digitales/mFUND/mFUND.html
+
+- https://www.esfplus.de/portal/DE/ESF-Plus-2021-2027/Foerderprogramme/bmas/kompass/inhalt.html
+- https://www.bmwk.de/Redaktion/DE/Artikel/Technologie/go-cluster.html
