@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-16`
-- Offen gesamt: `102`
+- Offen gesamt: `104`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `86`
+- Rollierend/ohne Datum: `88`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -37,7 +37,9 @@
 - `BMBF_KMU_INNOVATIV_KLIMA_UMWELT` | KMU-innovativ - Klima- und Umwelttechnologien | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_KREISLAUFWIRTSCHAFT` | KMU-innovativ - Kreislaufwirtschaft und Ressourceneffizienz | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_MATERIALFORSCHUNG` | KMU-innovativ - Materialforschung | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_MEDIZIN_DX` | KMU-innovativ - Diagnostik und personalisierte Medizin | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_MEDTECH` | KMU-innovativ - Medizintechnik | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_MOBILITAET` | KMU-innovativ - Intelligente Mobilitaet und Verkehrssysteme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_NANOTECH` | KMU-innovativ - Nanotechnologie und neue Werkstoffsysteme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_PHOTONIK` | KMU-innovativ - Photonik und Quantentechnologien | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_PRODUKTION` | KMU-innovativ - Produktionstechnologie | rollierend | https://www.kmu-innovativ.de/

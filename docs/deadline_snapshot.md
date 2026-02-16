@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `662`
+- Gepruefte Datensaetze: `664`
 
 ## Offen Mit Datumsfrist
 
@@ -35,7 +35,9 @@
 - `BMBF_KMU_INNOVATIV_KLIMA_UMWELT` | KMU-innovativ - Klima- und Umwelttechnologien
 - `BMBF_KMU_INNOVATIV_KREISLAUFWIRTSCHAFT` | KMU-innovativ - Kreislaufwirtschaft und Ressourceneffizienz
 - `BMBF_KMU_INNOVATIV_MATERIALFORSCHUNG` | KMU-innovativ - Materialforschung
+- `BMBF_KMU_INNOVATIV_MEDIZIN_DX` | KMU-innovativ - Diagnostik und personalisierte Medizin
 - `BMBF_KMU_INNOVATIV_MEDTECH` | KMU-innovativ - Medizintechnik
+- `BMBF_KMU_INNOVATIV_MOBILITAET` | KMU-innovativ - Intelligente Mobilitaet und Verkehrssysteme
 - `BMBF_KMU_INNOVATIV_NANOTECH` | KMU-innovativ - Nanotechnologie und neue Werkstoffsysteme
 - `BMBF_KMU_INNOVATIV_PHOTONIK` | KMU-innovativ - Photonik und Quantentechnologien
 - `BMBF_KMU_INNOVATIV_PRODUKTION` | KMU-innovativ - Produktionstechnologie
