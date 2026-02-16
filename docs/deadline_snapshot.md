@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `864`
+- Gepruefte Datensaetze: `866`
 
 ## Offen Mit Datumsfrist
 
@@ -87,6 +87,7 @@
 - `BMBF_KMU_INNOVATIV_DIGITALE_ROHSTOFFPROGNOSEN` | KMU-innovativ - Digitale Rohstoffprognosen und resiliente Beschaffungsmodelle
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPEUTIKA` | KMU-innovativ - Digitale Therapeutika und evidenzbasierte Versorgungsplattformen
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEABBRUCH_PRAEVENTION` | KMU-innovativ - Digitale Therapieabbruch-Praevention und adaptive Verlaufsintervention
+- `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEABLAUF_MODELLE` | KMU-innovativ - Digitale Therapieablauf-Modelle und adaptive Versorgungsplanung
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEABSTIMMUNG` | KMU-innovativ - Digitale Therapieabstimmung und individualisierte Behandlungskoordination
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEADAPTATION` | KMU-innovativ - Digitale Therapieadaptation und kontinuierliche Behandlungsanpassung
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEADHERENZ` | KMU-innovativ - Digitale Therapieadhaerenz und personalisierte Versorgungspfade
@@ -154,6 +155,7 @@
 - `BMBF_KMU_INNOVATIV_INTELLIGENTE_KLINIK_LOGISTIK` | KMU-innovativ - Intelligente Kliniklogistik und adaptive Versorgungssteuerung
 - `BMBF_KMU_INNOVATIV_INTELLIGENTE_MATERIALSUBSTITUTION` | KMU-innovativ - Intelligente Materialsubstitution und adaptive Ressourceneffizienz
 - `BMBF_KMU_INNOVATIV_INTELLIGENTE_PRODUKTIONSZWILLINGE` | KMU-innovativ - Intelligente Produktionszwillinge und adaptive Anlagenoptimierung
+- `BMBF_KMU_INNOVATIV_INTELLIGENTE_PROZESSFLEXIBILITAET` | KMU-innovativ - Intelligente Prozessflexibilitaet und adaptive Fertigungsreaktion
 - `BMBF_KMU_INNOVATIV_INTELLIGENTE_WASSERANALYTIK` | KMU-innovativ - Intelligente Wasseranalytik und adaptive Aufbereitungssysteme
 - `BMBF_KMU_INNOVATIV_INTELLIGENTE_WERKSTOFFALTERUNG` | KMU-innovativ - Intelligente Werkstoffalterung und vorausschauende Lebensdauerbewertung
 - `BMBF_KMU_INNOVATIV_INTELLIGENTE_WERTSTROMREGELUNG` | KMU-innovativ - Intelligente Wertstromregelung und adaptive Prozesskopplung
