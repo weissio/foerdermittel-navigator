@@ -291,3 +291,5 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 
 - https://www.esfplus.de/portal/DE/ESF-Plus-2021-2027/Foerderprogramme/bmas/kompass/inhalt.html
 - https://www.bmwk.de/Redaktion/DE/Artikel/Technologie/go-cluster.html
+
+- https://www.bafa.de/DE/Energie/Energieberatung_Mittelstand/energieberatung_mittelstand_node.html

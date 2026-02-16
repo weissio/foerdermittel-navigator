@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-16 03:36`
-- Datensaetze: `362`
-- Eindeutige `programm_id`: `362`
+- Erzeugt am: `2026-02-16 03:40`
+- Datensaetze: `364`
+- Eindeutige `programm_id`: `364`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 285 |
+| laufend | 287 |
 | offen | 72 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 285 |
+| laufend | 287 |
 | offen | 72 |
 | zukuenftig | 5 |
 
@@ -26,17 +26,17 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Region | Anzahl |
 |---|---:|
-| Deutschland | 114 |
+| Deutschland | 115 |
 | EU (inkl. Deutschland) | 58 |
 | Rheinland-Pfalz | 17 |
 | Berlin | 16 |
 | Niedersachsen | 13 |
 | Brandenburg | 12 |
 | Deutschland/International | 12 |
+| Nordrhein-Westfalen | 12 |
 | Sachsen | 12 |
 | Schleswig-Holstein | 12 |
 | Hamburg | 11 |
-| Nordrhein-Westfalen | 11 |
 | Sachsen-Anhalt | 10 |
 | Baden-Wuerttemberg | 9 |
 | Bayern | 9 |
@@ -53,7 +53,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 |---|---:|
 | KfW | 42 |
 | BMWK | 27 |
-| BAFA | 16 |
+| BAFA | 17 |
 | Europaeische Kommission | 16 |
 | Investitionsbank Berlin (IBB) | 13 |
 | ISB (Rheinland-Pfalz) | 12 |
@@ -67,10 +67,10 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Europaeische Kommission / CINEA | 5 |
 | Investitionsbank Schleswig-Holstein (IB.SH) | 5 |
 | Landesfoerderinstitut Mecklenburg-Vorpommern (LFI M-V) | 5 |
+| NRW.BANK | 5 |
 | NRW.BANK / Land NRW | 5 |
 | SAB (Saechsische Aufbaubank) | 5 |
 | WIBank (Hessen) | 5 |
-| EISMEA (EU) | 4 |
 
 ## Top Themen
 
@@ -91,10 +91,10 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Forschung und Entwicklung/Innovation (international) | 6 |
 | Internationalisierung/Export | 6 |
 | Unternehmensfinanzierung/Innovation | 6 |
+| Digitalisierung/Innovation | 5 |
 | Innovation/Beratung | 5 |
 | Innovation/Digitalisierung | 5 |
 | Wachstum/Investition | 5 |
-| Digitalisierung/Innovation | 4 |
 | Gruendung/Innovation | 4 |
 
 ## Feldqualitaet
