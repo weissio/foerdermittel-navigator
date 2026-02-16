@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `341`
+- Gepruefte Datensaetze: `343`
 
 ## Offen Mit Datumsfrist
 
@@ -33,6 +33,7 @@
 - `EU_CERV_PROGRAMME` | Citizens, Equality, Rights and Values (CERV)
 - `EU_CHIPS_JU` | Chips Joint Undertaking (Chips JU) Calls
 - `EU_CREATIVE_EUROPE` | Creative Europe Programme
+- `EU_DIGITAL_EUROPE_CALLS` | Digital Europe Programme - Open Calls
 - `EU_EIC_PATHFINDER` | EIC Pathfinder (EU)
 - `EU_EIC_TRANSITION` | EIC Transition (EU)
 - `EU_EIT_COMMUNITY` | European Institute of Innovation and Technology (EIT) - Funding & Calls
@@ -52,6 +53,7 @@
 - `EU_HORIZON_MSCA` | Horizon Europe - Marie Sklodowska-Curie Actions (MSCA)
 - `EU_HORIZON_RESEARCH_INFRASTRUCTURES` | Horizon Europe - Research Infrastructures Calls
 - `EU_HORIZON_WIDERA` | Horizon Europe - Widening Participation and Strengthening the European Research Area (WIDERA)
+- `EU_I3_INSTRUMENT` | Interregional Innovation Investments Instrument (I3)
 - `EU_INNOVATION_FUND` | Innovation Fund (EU ETS)
 - `EU_INTERREG` | Interreg 2021-2027
 - `EU_INVESTEU` | InvestEU Programme

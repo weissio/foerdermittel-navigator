@@ -272,3 +272,5 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe/widening-participation-and-strengthening-european-research-area_en
 - https://erc.europa.eu/
 - https://marie-sklodowska-curie-actions.ec.europa.eu/
+- https://eismea.ec.europa.eu/programmes/interregional-innovation-investments_en
+- https://digital-strategy.ec.europa.eu/en/activities/digital-programme
