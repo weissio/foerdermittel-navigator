@@ -297,3 +297,4 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - LfA Foerderbank Bayern Unternehmen (Einstieg): https://lfa.de/unternehmen/
 - L-Bank Digitalisierungspraemie Plus: https://www.l-bank.de/produkte/wirtschaftsfoerderung/digitalisierungspraemie-plus.html
 - L-Bank Innovationsfinanzierung 4.0: https://www.l-bank.de/produkte/wirtschaftsfoerderung/innovationsfinanzierung-4-0.html
+- SAB Foerderprogramme Unternehmen (Einstieg): https://www.sab.sachsen.de/foerderprogramme
