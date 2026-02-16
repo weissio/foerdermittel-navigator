@@ -2,16 +2,16 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-16 21:52`
-- Datensaetze: `896`
-- Eindeutige `programm_id`: `896`
+- Erzeugt am: `2026-02-16 21:56`
+- Datensaetze: `898`
+- Eindeutige `programm_id`: `898`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
 | laufend | 555 |
-| offen | 336 |
+| offen | 338 |
 | geplant | 5 |
 
 ## Kategorie
@@ -19,14 +19,14 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Kategorie | Anzahl |
 |---|---:|
 | laufend | 555 |
-| offen | 336 |
+| offen | 338 |
 | zukuenftig | 5 |
 
 ## Top Regionen
 
 | Region | Anzahl |
 |---|---:|
-| Deutschland | 609 |
+| Deutschland | 611 |
 | EU (inkl. Deutschland) | 60 |
 | Deutschland/International | 36 |
 | Rheinland-Pfalz | 17 |
@@ -51,7 +51,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Traeger | Anzahl |
 |---|---:|
-| BMBF | 253 |
+| BMBF | 255 |
 | KfW | 204 |
 | BMWK | 49 |
 | BAFA | 33 |
@@ -77,8 +77,8 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Thema | Anzahl |
 |---|---:|
 | Energieeffizienz/Treibhausgasminderung | 64 |
-| Forschung und Entwicklung/Digital Health | 59 |
-| Forschung und Entwicklung/Produktionstechnik | 46 |
+| Forschung und Entwicklung/Digital Health | 60 |
+| Forschung und Entwicklung/Produktionstechnik | 47 |
 | Investition/Betriebsmittel | 30 |
 | EU-Fonds ESF+ | 26 |
 | Unternehmensfinanzierung | 26 |

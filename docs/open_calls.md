@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-16`
-- Offen gesamt: `336`
+- Offen gesamt: `338`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `320`
+- Rollierend/ohne Datum: `322`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -143,6 +143,7 @@
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEVERLAUFS_PROFILIERUNG` | KMU-innovativ - Digitale Therapieverlaufs-Profilierung und adaptive Interventionssteuerung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEVERLAUFS_QUALITAET` | KMU-innovativ - Digitale Therapieverlaufs-Qualitaet und adaptive Versorgungsevaluation | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEVERNETZUNG` | KMU-innovativ - Digitale Therapievernetzung und adaptive Versorgungskontinuitaet | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEVERSORGUNGSTAKTUNG` | KMU-innovativ - Digitale Therapieversorgungstaktung und adaptive Interventionsabfolge | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEWEGE_ANALYTIK` | KMU-innovativ - Digitale Therapiewege-Analytik und personalisierte Interventionspfade | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEWIRKPFAD_MODELLE` | KMU-innovativ - Digitale Therapiewirkpfad-Modelle und personalisierte Steuerungslogik | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEWIRKUNG_PROGNOSTIK` | KMU-innovativ - Digitale Therapiewirkung-Prognostik und personalisierte Interventionsmodelle | rollierend | https://www.kmu-innovativ.de/
@@ -227,6 +228,7 @@
 - `BMBF_KMU_INNOVATIV_QUANTUM_SENSORS` | KMU-innovativ - Quantensensorik und Praezisionsmesstechnik | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_REGENERATIVE_MED` | KMU-innovativ - Regenerative Medizin und innovative Therapieansaetze | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_RESILIENTE_FERTIGUNGSAUSLASTUNG` | KMU-innovativ - Resiliente Fertigungsauslastung und adaptive Laststeuerung | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_RESILIENTE_FERTIGUNGSPRIORISIERUNG` | KMU-innovativ - Resiliente Fertigungspriorisierung und adaptive Auftragsabwicklung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_RESILIENTE_HALBLEITER_TESTKETTEN` | KMU-innovativ - Resiliente Halbleiter-Testketten und adaptive Qualifizierung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_RESILIENTE_KUEHLLIEFERKETTEN` | KMU-innovativ - Resiliente Kuehllieferketten und digitale Temperaturfuehrung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_RESILIENTE_LIEFERKETTEN` | KMU-innovativ - Resiliente Lieferketten und digitale Wertschöpfungsnetze | rollierend | https://www.kmu-innovativ.de/

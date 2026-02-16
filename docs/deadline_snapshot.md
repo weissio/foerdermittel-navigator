@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `896`
+- Gepruefte Datensaetze: `898`
 
 ## Offen Mit Datumsfrist
 
@@ -141,6 +141,7 @@
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEVERLAUFS_PROFILIERUNG` | KMU-innovativ - Digitale Therapieverlaufs-Profilierung und adaptive Interventionssteuerung
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEVERLAUFS_QUALITAET` | KMU-innovativ - Digitale Therapieverlaufs-Qualitaet und adaptive Versorgungsevaluation
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEVERNETZUNG` | KMU-innovativ - Digitale Therapievernetzung und adaptive Versorgungskontinuitaet
+- `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEVERSORGUNGSTAKTUNG` | KMU-innovativ - Digitale Therapieversorgungstaktung und adaptive Interventionsabfolge
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEWEGE_ANALYTIK` | KMU-innovativ - Digitale Therapiewege-Analytik und personalisierte Interventionspfade
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEWIRKPFAD_MODELLE` | KMU-innovativ - Digitale Therapiewirkpfad-Modelle und personalisierte Steuerungslogik
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEWIRKUNG_PROGNOSTIK` | KMU-innovativ - Digitale Therapiewirkung-Prognostik und personalisierte Interventionsmodelle
@@ -225,6 +226,7 @@
 - `BMBF_KMU_INNOVATIV_QUANTUM_SENSORS` | KMU-innovativ - Quantensensorik und Praezisionsmesstechnik
 - `BMBF_KMU_INNOVATIV_REGENERATIVE_MED` | KMU-innovativ - Regenerative Medizin und innovative Therapieansaetze
 - `BMBF_KMU_INNOVATIV_RESILIENTE_FERTIGUNGSAUSLASTUNG` | KMU-innovativ - Resiliente Fertigungsauslastung und adaptive Laststeuerung
+- `BMBF_KMU_INNOVATIV_RESILIENTE_FERTIGUNGSPRIORISIERUNG` | KMU-innovativ - Resiliente Fertigungspriorisierung und adaptive Auftragsabwicklung
 - `BMBF_KMU_INNOVATIV_RESILIENTE_HALBLEITER_TESTKETTEN` | KMU-innovativ - Resiliente Halbleiter-Testketten und adaptive Qualifizierung
 - `BMBF_KMU_INNOVATIV_RESILIENTE_KUEHLLIEFERKETTEN` | KMU-innovativ - Resiliente Kuehllieferketten und digitale Temperaturfuehrung
 - `BMBF_KMU_INNOVATIV_RESILIENTE_LIEFERKETTEN` | KMU-innovativ - Resiliente Lieferketten und digitale Wertschöpfungsnetze
