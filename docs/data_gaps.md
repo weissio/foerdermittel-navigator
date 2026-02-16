@@ -1,14 +1,14 @@
 # Data Gaps
 
-- Erzeugt am: `2026-02-16 22:05`
-- Datensaetze: `902`
+- Erzeugt am: `2026-02-16 22:09`
+- Datensaetze: `904`
 
 ## Status-Verteilung
 
 | Status | Anzahl |
 |---|---:|
 | geplant | 5 |
-| laufend | 555 |
+| laufend | 557 |
 | offen | 342 |
 
 ## Unterrepraesentierte Regionen
@@ -37,7 +37,7 @@
 |---|---:|
 | Deutschland | 615 |
 | EU (inkl. Deutschland) | 60 |
-| Deutschland/International | 36 |
+| Deutschland/International | 38 |
 | Rheinland-Pfalz | 17 |
 | Berlin | 16 |
 | Bayern | 14 |
@@ -56,7 +56,6 @@
 | Traeger | Anzahl |
 |---|---:|
 | BAFA/KfW | 1 |
-| BMUV | 1 |
 | BMWK (Nationales Portal) / EU | 1 |
 | BMWK / AiF / internationale Partner | 1 |
 | BMWK/ZIM (DE) + CORFO (CL) | 1 |
@@ -70,6 +69,7 @@
 | Bund/Land (EFRE) | 1 |
 | Bund/Land (ESF+) | 1 |
 | CBE JU (EU) | 1 |
+| Chips Joint Undertaking (EU) | 1 |
 
 ## Unterrepraesentierte Themen
 
