@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `886`
+- Gepruefte Datensaetze: `888`
 
 ## Offen Mit Datumsfrist
 
@@ -42,6 +42,7 @@
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_PRODUKTIONSKOHERENZ` | KMU-innovativ - Adaptive Produktionskoherenz und resiliente Prozessharmonisierung
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_PRODUKTIONSLINIEN` | KMU-innovativ - Adaptive Produktionslinien und modulare Fabriksysteme
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_PRODUKTIONSQUALIFIZIERUNG` | KMU-innovativ - Adaptive Produktionsqualifizierung und datenbasierte Prozessfreigabe
+- `BMBF_KMU_INNOVATIV_ADAPTIVE_PRODUKTIONSROBUSTHEIT` | KMU-innovativ - Adaptive Produktionsrobustheit und dynamische Stoerungsstabilisierung
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_PROZESSPROGNOSTIK` | KMU-innovativ - Adaptive Prozessprognostik und selbstlernende Fertigungssteuerung
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_STROMNETZREGELUNG` | KMU-innovativ - Adaptive Stromnetzregelung und netzdienliche Flexibilitaetsplattformen
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_WAERMERUECKGEWINNUNG` | KMU-innovativ - Adaptive Waermerueckgewinnung und intelligente Prozesskopplung
@@ -93,6 +94,7 @@
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPEUTIKA` | KMU-innovativ - Digitale Therapeutika und evidenzbasierte Versorgungsplattformen
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEABBRUCH_PRAEVENTION` | KMU-innovativ - Digitale Therapieabbruch-Praevention und adaptive Verlaufsintervention
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEABFOLGE_INTELLIGENZ` | KMU-innovativ - Digitale Therapieabfolge-Intelligenz und adaptive Interventionsdynamik
+- `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEABFOLGE_KOHORTEN` | KMU-innovativ - Digitale Therapieabfolge-Kohorten und adaptive Versorgungsmuster
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEABLAUF_KOHERENZ` | KMU-innovativ - Digitale Therapieablauf-Kohaerenz und adaptive Behandlungskonsistenz
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEABLAUF_MODELLE` | KMU-innovativ - Digitale Therapieablauf-Modelle und adaptive Versorgungsplanung
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEABSTIMMUNG` | KMU-innovativ - Digitale Therapieabstimmung und individualisierte Behandlungskoordination

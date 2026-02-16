@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-16`
-- Offen gesamt: `326`
+- Offen gesamt: `328`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `310`
+- Rollierend/ohne Datum: `312`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -44,6 +44,7 @@
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_PRODUKTIONSKOHERENZ` | KMU-innovativ - Adaptive Produktionskoherenz und resiliente Prozessharmonisierung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_PRODUKTIONSLINIEN` | KMU-innovativ - Adaptive Produktionslinien und modulare Fabriksysteme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_PRODUKTIONSQUALIFIZIERUNG` | KMU-innovativ - Adaptive Produktionsqualifizierung und datenbasierte Prozessfreigabe | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_ADAPTIVE_PRODUKTIONSROBUSTHEIT` | KMU-innovativ - Adaptive Produktionsrobustheit und dynamische Stoerungsstabilisierung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_PROZESSPROGNOSTIK` | KMU-innovativ - Adaptive Prozessprognostik und selbstlernende Fertigungssteuerung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_STROMNETZREGELUNG` | KMU-innovativ - Adaptive Stromnetzregelung und netzdienliche Flexibilitaetsplattformen | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_WAERMERUECKGEWINNUNG` | KMU-innovativ - Adaptive Waermerueckgewinnung und intelligente Prozesskopplung | rollierend | https://www.kmu-innovativ.de/
@@ -95,6 +96,7 @@
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPEUTIKA` | KMU-innovativ - Digitale Therapeutika und evidenzbasierte Versorgungsplattformen | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEABBRUCH_PRAEVENTION` | KMU-innovativ - Digitale Therapieabbruch-Praevention und adaptive Verlaufsintervention | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEABFOLGE_INTELLIGENZ` | KMU-innovativ - Digitale Therapieabfolge-Intelligenz und adaptive Interventionsdynamik | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEABFOLGE_KOHORTEN` | KMU-innovativ - Digitale Therapieabfolge-Kohorten und adaptive Versorgungsmuster | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEABLAUF_KOHERENZ` | KMU-innovativ - Digitale Therapieablauf-Kohaerenz und adaptive Behandlungskonsistenz | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEABLAUF_MODELLE` | KMU-innovativ - Digitale Therapieablauf-Modelle und adaptive Versorgungsplanung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEABSTIMMUNG` | KMU-innovativ - Digitale Therapieabstimmung und individualisierte Behandlungskoordination | rollierend | https://www.kmu-innovativ.de/
