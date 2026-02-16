@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-16`
-- Offen gesamt: `340`
+- Offen gesamt: `342`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `324`
+- Rollierend/ohne Datum: `326`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -167,6 +167,7 @@
 - `BMBF_KMU_INNOVATIV_EDGE_GESUNDHEIT` | KMU-innovativ - Edge-Computing fuer vernetzte Gesundheitssysteme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_EDGE_IOT` | KMU-innovativ - Edge-Computing und industrielle IoT-Systeme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_EDGE_PROZESSSICHERUNG` | KMU-innovativ - Edge-Prozesssicherung und adaptive Qualitaetsregelkreise | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_EINSTIEGSMODUL` | KMU-innovativ - Einstiegsmodul (Machbarkeit und Vorbereitung) | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_ELEKTRONIK` | KMU-innovativ - Elektronik und Mikrosystemtechnik | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_EMISSIONSARME_VERBRENNUNG` | KMU-innovativ - Emissionsarme Verbrennung und Abgasnachbehandlung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_ENERGIETECH` | KMU-innovativ - Energietechnologien | rollierend | https://www.kmu-innovativ.de/
@@ -276,6 +277,7 @@
 - `BMBF_KMU_INNOVATIV_SMARTE_WERTSTOFFSTROEME` | KMU-innovativ - Smarte Wertstoffstroeme und industrielle Kreislaufplattformen | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_SOFTWAREROBOTIK` | KMU-innovativ - Softwareintensive Systeme und Robotik | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_SUSTAINABLE_PACKAGING` | KMU-innovativ - Nachhaltige Verpackungs- und Materialsysteme | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_VERBUNDPROJEKT` | KMU-innovativ - Verbundprojekt mit Forschungspartnern | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_VERNETZTE_PFLEGEASSISTENZ` | KMU-innovativ - Vernetzte Pflegeassistenz und intelligente Versorgungssysteme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_VERTRAUENSWUERDIGE_KI_SYSTEME` | KMU-innovativ - Vertrauenswuerdige KI-Systeme und auditierbare Modelle | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_WASSERSTOFF_SICHERHEIT` | KMU-innovativ - Wasserstoffsicherheit und industrielle Schutzkonzepte | rollierend | https://www.kmu-innovativ.de/

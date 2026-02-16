@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `900`
+- Gepruefte Datensaetze: `902`
 
 ## Offen Mit Datumsfrist
 
@@ -165,6 +165,7 @@
 - `BMBF_KMU_INNOVATIV_EDGE_GESUNDHEIT` | KMU-innovativ - Edge-Computing fuer vernetzte Gesundheitssysteme
 - `BMBF_KMU_INNOVATIV_EDGE_IOT` | KMU-innovativ - Edge-Computing und industrielle IoT-Systeme
 - `BMBF_KMU_INNOVATIV_EDGE_PROZESSSICHERUNG` | KMU-innovativ - Edge-Prozesssicherung und adaptive Qualitaetsregelkreise
+- `BMBF_KMU_INNOVATIV_EINSTIEGSMODUL` | KMU-innovativ - Einstiegsmodul (Machbarkeit und Vorbereitung)
 - `BMBF_KMU_INNOVATIV_ELEKTRONIK` | KMU-innovativ - Elektronik und Mikrosystemtechnik
 - `BMBF_KMU_INNOVATIV_EMISSIONSARME_VERBRENNUNG` | KMU-innovativ - Emissionsarme Verbrennung und Abgasnachbehandlung
 - `BMBF_KMU_INNOVATIV_ENERGIETECH` | KMU-innovativ - Energietechnologien
@@ -274,6 +275,7 @@
 - `BMBF_KMU_INNOVATIV_SMARTE_WERTSTOFFSTROEME` | KMU-innovativ - Smarte Wertstoffstroeme und industrielle Kreislaufplattformen
 - `BMBF_KMU_INNOVATIV_SOFTWAREROBOTIK` | KMU-innovativ - Softwareintensive Systeme und Robotik
 - `BMBF_KMU_INNOVATIV_SUSTAINABLE_PACKAGING` | KMU-innovativ - Nachhaltige Verpackungs- und Materialsysteme
+- `BMBF_KMU_INNOVATIV_VERBUNDPROJEKT` | KMU-innovativ - Verbundprojekt mit Forschungspartnern
 - `BMBF_KMU_INNOVATIV_VERNETZTE_PFLEGEASSISTENZ` | KMU-innovativ - Vernetzte Pflegeassistenz und intelligente Versorgungssysteme
 - `BMBF_KMU_INNOVATIV_VERTRAUENSWUERDIGE_KI_SYSTEME` | KMU-innovativ - Vertrauenswuerdige KI-Systeme und auditierbare Modelle
 - `BMBF_KMU_INNOVATIV_WASSERSTOFF_SICHERHEIT` | KMU-innovativ - Wasserstoffsicherheit und industrielle Schutzkonzepte
