@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-16`
-- Offen gesamt: `358`
+- Offen gesamt: `359`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `342`
+- Rollierend/ohne Datum: `343`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -299,6 +299,7 @@
 - `BMEL_BULEPLUS` | BULEplus - Bundesprogramm Laendliche Entwicklung und Regionale Wertschoepfung | rollierend | https://www.bmel.de/DE/themen/laendliche-regionen/foerderung-des-laendlichen-raums/buleplus.html
 - `BMEL_BUNDESPROGRAMM_UMBAU_TIERHALTUNG` | Bundesprogramm Umbau der Tierhaltung | rollierend | https://www.bmel.de/DE/themen/tiere/tierwohl/umbau-tierhaltung.html
 - `BMEL_FNR_NACHWACHSENDE_ROHSTOFFE` | Projektfoerderung Nachwachsende Rohstoffe (FNR/BMEL) | rollierend | https://www.fnr.de/projektfoerderung
+- `BMUV_ANK_AKTIONSPROGRAMM_NATUERLICHER_KLIMASCHUTZ` | Aktionsprogramm Natuerlicher Klimaschutz (ANK) | rollierend | https://www.aktion-natuerlicher-klimaschutz.de/
 - `BMWK_EEW_FOERDERWETTBEWERB` | EEW - Foerderwettbewerb Energie- und Ressourceneffizienz in der Wirtschaft | rollierend | https://www.wettbewerb-energieeffizienz.de/
 - `BMWK_H2GLOBAL` | H2Global - Foerdermechanismus fuer klimafreundliche Wasserstoffderivate | rollierend | https://www.h2global.org/
 - `BMWK_IGF_CORNET` | CORNET (Collective Research Networking) im IGF-Umfeld | rollierend | https://www.aif.de/foerderung/igf
