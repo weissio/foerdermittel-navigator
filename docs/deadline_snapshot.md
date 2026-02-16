@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `894`
+- Gepruefte Datensaetze: `896`
 
 ## Offen Mit Datumsfrist
 
@@ -28,6 +28,7 @@
 - `BMBF_KMU_INNOVATIV_5G_6G_INDUSTRIE` | KMU-innovativ - 5G/6G und vernetzte Industrieanwendungen
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_BAUTEILINSPEKTION` | KMU-innovativ - Adaptive Bauteilinspektion und KI-gestuetzte Fehlervorhersage
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_FERTIGUNGSFLUESSE` | KMU-innovativ - Adaptive Fertigungsfluesse und resiliente Ablaufsteuerung
+- `BMBF_KMU_INNOVATIV_ADAPTIVE_FERTIGUNGSKAPAZITAETSPFADE` | KMU-innovativ - Adaptive Fertigungskapazitaetspfade und resiliente Produktionsausrichtung
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_FERTIGUNGSKONSISTENZ` | KMU-innovativ - Adaptive Fertigungskonsistenz und resiliente Prozessstabilisierung
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_FERTIGUNGSRESERVEN` | KMU-innovativ - Adaptive Fertigungsreserven und resiliente Kapazitaetsabsicherung
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_FERTIGUNGSVERNETZUNG` | KMU-innovativ - Adaptive Fertigungsvernetzung und resiliente Prozessintegration
@@ -117,6 +118,7 @@
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEKONTINUITAETSANALYSE` | KMU-innovativ - Digitale Therapiekontinuitaetsanalyse und adaptive Verlaufssteuerung
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEKONTINUITAET` | KMU-innovativ - Digitale Therapiekontinuitaet und personalisierte Versorgungsbegleitung
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEKOORDINATION_PLUS` | KMU-innovativ - Digitale Therapiekoordination Plus und adaptive Versorgungstaktung
+- `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEORCHESTRIERUNG` | KMU-innovativ - Digitale Therapieorchestrierung und adaptive Versorgungssynchronik
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEPFADE_EVIDENZ` | KMU-innovativ - Digitale Therapiepfade-Evidenz und datenbasierte Interventionsplanung
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEPFADE_KOORDINATION` | KMU-innovativ - Digitale Therapiepfade-Koordination und vernetzte Behandlungssteuerung
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEPFAD_KONTINUITAET` | KMU-innovativ - Digitale Therapiepfad-Kontinuitaet und adaptive Versorgungssynchronisierung
