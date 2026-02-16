@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `333`
+- Gepruefte Datensaetze: `335`
 
 ## Offen Mit Datumsfrist
 
@@ -40,6 +40,8 @@
 - `EU_EUROPEAN_DEFENCE_FUND` | European Defence Fund (EDF)
 - `EU_EUROSTARS` | Eurostars (EUREKA / Innovative SMEs Partnership)
 - `EU_HORIZON_CLIMATE_ENERGY` | Horizon Europe - Cluster 5 Climate, Energy and Mobility
+- `EU_HORIZON_CLUSTER1` | Horizon Europe - Cluster 1 Health
+- `EU_HORIZON_CLUSTER2` | Horizon Europe - Cluster 2 Culture, Creativity and Inclusive Society
 - `EU_HORIZON_CLUSTER4` | Horizon Europe - Cluster 4 Digital, Industry and Space
 - `EU_HORIZON_CLUSTER6` | Horizon Europe - Cluster 6 Food, Bioeconomy, Natural Resources, Agriculture and Environment
 - `EU_HORIZON_MISSIONS` | Horizon Europe Missions (Calls)
