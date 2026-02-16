@@ -226,3 +226,5 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - https://www.inqa.de/DE/angebote/inqa-coaching/uebersicht.html
 - https://www.exist.de/EXIST/Navigation/DE/Programm/EXIST-Potentiale/exist-potenziale.html
 - https://www.exist.de/EXIST/Navigation/DE/Programm/Startup-Factories/startup-factories.html
+- https://www.ib-sh.de/produkt/ibsh-mittelstandskredit/
+- https://www.ib-sh.de/foerderprogramme/unternehmen/

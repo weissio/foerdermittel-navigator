@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-16 01:00`
-- Datensaetze: `285`
-- Eindeutige `programm_id`: `285`
+- Erzeugt am: `2026-02-16 01:05`
+- Datensaetze: `287`
+- Eindeutige `programm_id`: `287`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 257 |
+| laufend | 259 |
 | offen | 23 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 257 |
+| laufend | 259 |
 | offen | 23 |
 | zukuenftig | 5 |
 
@@ -31,11 +31,11 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Rheinland-Pfalz | 16 |
 | Niedersachsen | 13 |
 | Deutschland/International | 12 |
+| Schleswig-Holstein | 12 |
 | EU (inkl. Deutschland) | 11 |
 | Sachsen | 11 |
 | Brandenburg | 10 |
 | Nordrhein-Westfalen | 10 |
-| Schleswig-Holstein | 10 |
 | Hamburg | 9 |
 | Baden-Wuerttemberg | 8 |
 | Hessen | 8 |
@@ -62,6 +62,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Thueringer Aufbaubank (TAB) | 6 |
 | BMWK (ZIM) / Projekttraeger | 5 |
 | Investitionsbank Sachsen-Anhalt (IB) | 5 |
+| Investitionsbank Schleswig-Holstein (IB.SH) | 5 |
 | Landesfoerderinstitut Mecklenburg-Vorpommern (LFI M-V) | 5 |
 | NRW.BANK / Land NRW | 5 |
 | SAB (Saechsische Aufbaubank) | 5 |
@@ -70,14 +71,13 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | EISMEA (EU) | 4 |
 | LfA Foerderbank Bayern | 4 |
 | BAB Bremen | 3 |
-| BMAS / INQA / ESF Plus | 3 |
 
 ## Top Themen
 
 | Thema | Anzahl |
 |---|---:|
 | EU-Fonds ESF+ | 22 |
-| Unternehmensfinanzierung | 17 |
+| Unternehmensfinanzierung | 18 |
 | Investition/Betriebsmittel | 16 |
 | EU-Fonds EFRE | 14 |
 | Digitalisierung | 12 |
