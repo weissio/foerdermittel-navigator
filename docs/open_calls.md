@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-16`
-- Offen gesamt: `156`
+- Offen gesamt: `158`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `140`
+- Rollierend/ohne Datum: `142`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -45,6 +45,7 @@
 - `BMBF_KMU_INNOVATIV_CLEANROOM_AUTOMATION` | KMU-innovativ - Reinraumautomation und Hightech-Produktion | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_CYBERPHYSIK` | KMU-innovativ - Cyber-physische Systeme und industrielle Vernetzung | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DEEP_LEARNING_INDUSTRIE` | KMU-innovativ - Deep-Learning-Methoden fuer industrielle Anwendungen | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_DIGITALE_THERAPEUTIKA` | KMU-innovativ - Digitale Therapeutika und evidenzbasierte Versorgungsplattformen | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITAL_BAUSTELLEN` | KMU-innovativ - Digitale Baustellen und autonome Bauprozesse | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITAL_HEALTH_DEVICES` | KMU-innovativ - Digitale Gesundheitsgeraete und vernetzte Medizinsysteme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_DIGITAL_TWIN` | KMU-innovativ - Digitale Zwillinge fuer industrielle Anwendungen | rollierend | https://www.kmu-innovativ.de/
@@ -58,6 +59,7 @@
 - `BMBF_KMU_INNOVATIV_INTERAKTIVE_TECH` | KMU-innovativ - Interaktive Technologien fuer Gesundheit und Lebensqualitaet | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_KI_DATENRAEUME` | KMU-innovativ - KI und industrielle Datenraeume | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_KLIMAMODELLE_AI` | KMU-innovativ - KI-gestuetzte Klimamodelle und Resilienzsysteme | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_KMU_INNOVATIV_KLIMANEUTRALE_VERFAHREN` | KMU-innovativ - Klimaneutrale Verfahren und industrielle Transformation | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_KLIMARESILIENTE_INFRA` | KMU-innovativ - Klimaresiliente Infrastrukturen und adaptive Systeme | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_KLIMA_UMWELT` | KMU-innovativ - Klima- und Umwelttechnologien | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_KREBSDIAGNOSTIK` | KMU-innovativ - Onkologische Diagnostik und Praezisionsmedizin | rollierend | https://www.kmu-innovativ.de/

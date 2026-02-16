@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `716`
+- Gepruefte Datensaetze: `718`
 
 ## Offen Mit Datumsfrist
 
@@ -43,6 +43,7 @@
 - `BMBF_KMU_INNOVATIV_CLEANROOM_AUTOMATION` | KMU-innovativ - Reinraumautomation und Hightech-Produktion
 - `BMBF_KMU_INNOVATIV_CYBERPHYSIK` | KMU-innovativ - Cyber-physische Systeme und industrielle Vernetzung
 - `BMBF_KMU_INNOVATIV_DEEP_LEARNING_INDUSTRIE` | KMU-innovativ - Deep-Learning-Methoden fuer industrielle Anwendungen
+- `BMBF_KMU_INNOVATIV_DIGITALE_THERAPEUTIKA` | KMU-innovativ - Digitale Therapeutika und evidenzbasierte Versorgungsplattformen
 - `BMBF_KMU_INNOVATIV_DIGITAL_BAUSTELLEN` | KMU-innovativ - Digitale Baustellen und autonome Bauprozesse
 - `BMBF_KMU_INNOVATIV_DIGITAL_HEALTH_DEVICES` | KMU-innovativ - Digitale Gesundheitsgeraete und vernetzte Medizinsysteme
 - `BMBF_KMU_INNOVATIV_DIGITAL_TWIN` | KMU-innovativ - Digitale Zwillinge fuer industrielle Anwendungen
@@ -56,6 +57,7 @@
 - `BMBF_KMU_INNOVATIV_INTERAKTIVE_TECH` | KMU-innovativ - Interaktive Technologien fuer Gesundheit und Lebensqualitaet
 - `BMBF_KMU_INNOVATIV_KI_DATENRAEUME` | KMU-innovativ - KI und industrielle Datenraeume
 - `BMBF_KMU_INNOVATIV_KLIMAMODELLE_AI` | KMU-innovativ - KI-gestuetzte Klimamodelle und Resilienzsysteme
+- `BMBF_KMU_INNOVATIV_KLIMANEUTRALE_VERFAHREN` | KMU-innovativ - Klimaneutrale Verfahren und industrielle Transformation
 - `BMBF_KMU_INNOVATIV_KLIMARESILIENTE_INFRA` | KMU-innovativ - Klimaresiliente Infrastrukturen und adaptive Systeme
 - `BMBF_KMU_INNOVATIV_KLIMA_UMWELT` | KMU-innovativ - Klima- und Umwelttechnologien
 - `BMBF_KMU_INNOVATIV_KREBSDIAGNOSTIK` | KMU-innovativ - Onkologische Diagnostik und Praezisionsmedizin
