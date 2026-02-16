@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `774`
+- Gepruefte Datensaetze: `776`
 
 ## Offen Mit Datumsfrist
 
@@ -63,6 +63,7 @@
 - `BMBF_KMU_INNOVATIV_DIGITALE_QUALITAETSSICHERUNG` | KMU-innovativ - Digitale Qualitaetssicherung und adaptive Pruefverfahren
 - `BMBF_KMU_INNOVATIV_DIGITALE_REPARATUR_ASSISTENZ` | KMU-innovativ - Digitale Reparaturassistenz und wissensbasierte Serviceplattformen
 - `BMBF_KMU_INNOVATIV_DIGITALE_THERAPEUTIKA` | KMU-innovativ - Digitale Therapeutika und evidenzbasierte Versorgungsplattformen
+- `BMBF_KMU_INNOVATIV_DIGITALE_THERAPIEADHERENZ` | KMU-innovativ - Digitale Therapieadhaerenz und personalisierte Versorgungspfade
 - `BMBF_KMU_INNOVATIV_DIGITALE_WARTUNGSKETTEN` | KMU-innovativ - Digitale Wartungsketten und zustandsbasierte Instandhaltung
 - `BMBF_KMU_INNOVATIV_DIGITALE_WIRKSTOFFENTWICKLUNG` | KMU-innovativ - Digitale Wirkstoffentwicklung und molekulare Modellierung
 - `BMBF_KMU_INNOVATIV_DIGITAL_BAUSTELLEN` | KMU-innovativ - Digitale Baustellen und autonome Bauprozesse
@@ -138,6 +139,7 @@
 - `BMBF_KMU_INNOVATIV_SMARTE_MEDIKAMENTENLOGISTIK` | KMU-innovativ - Smarte Medikamentenlogistik und sichere Liefernetzwerke
 - `BMBF_KMU_INNOVATIV_SMARTE_MEDTECH_PRODUKTION` | KMU-innovativ - Smarte Produktion medizintechnischer Systeme
 - `BMBF_KMU_INNOVATIV_SMARTE_NETZWERKROBOTER` | KMU-innovativ - Smarte Netzwerkroboter und kooperative Automationssysteme
+- `BMBF_KMU_INNOVATIV_SMARTE_RUECKNAHMELOGISTIK` | KMU-innovativ - Smarte Ruecknahmelogistik und kreislauforientierte Verwertungspfade
 - `BMBF_KMU_INNOVATIV_SMARTE_SENSORFERTIGUNG` | KMU-innovativ - Smarte Sensorfertigung und inline-Qualitaetskontrolle
 - `BMBF_KMU_INNOVATIV_SMARTE_SENSORIK` | KMU-innovativ - Smarte Sensorik und Messtechnik
 - `BMBF_KMU_INNOVATIV_SMARTE_SPEICHER_NETZE` | KMU-innovativ - Smarte Speicher- und Energienetzsysteme
