@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-16`
-- Gepruefte Datensaetze: `712`
+- Gepruefte Datensaetze: `714`
 
 ## Offen Mit Datumsfrist
 
@@ -65,6 +65,7 @@
 - `BMBF_KMU_INNOVATIV_MEDIZINPRODUKTE` | KMU-innovativ - Digitale Medizintechnik und Medizinprodukte
 - `BMBF_KMU_INNOVATIV_MEDIZIN_DX` | KMU-innovativ - Diagnostik und personalisierte Medizin
 - `BMBF_KMU_INNOVATIV_MEDTECH` | KMU-innovativ - Medizintechnik
+- `BMBF_KMU_INNOVATIV_MED_BIOMARKER_KI` | KMU-innovativ - KI-gestuetzte Biomarker und Praeventionsdiagnostik
 - `BMBF_KMU_INNOVATIV_MED_DATTENSICHERHEIT` | KMU-innovativ - Datensichere Gesundheits-IT und medizinische Dateninfrastrukturen
 - `BMBF_KMU_INNOVATIV_MED_ROBOTICS` | KMU-innovativ - Medizinrobotik und assistive Systeme
 - `BMBF_KMU_INNOVATIV_MIKROELEKTRONIK` | KMU-innovativ - Mikroelektronik und eingebettete Systeme
@@ -85,6 +86,7 @@
 - `BMBF_KMU_INNOVATIV_SMARTE_AGROSYSTEME` | KMU-innovativ - Smarte Agrarsysteme und datenbasierte Landwirtschaft
 - `BMBF_KMU_INNOVATIV_SMARTE_MATERIALIEN` | KMU-innovativ - Smarte Materialien und funktionale Oberflaechen
 - `BMBF_KMU_INNOVATIV_SMARTE_MEDIEN` | KMU-innovativ - Smarte Medien- und Interaktionssysteme
+- `BMBF_KMU_INNOVATIV_SMARTE_NETZWERKROBOTER` | KMU-innovativ - Smarte Netzwerkroboter und kooperative Automationssysteme
 - `BMBF_KMU_INNOVATIV_SMARTE_SENSORIK` | KMU-innovativ - Smarte Sensorik und Messtechnik
 - `BMBF_KMU_INNOVATIV_SMARTE_TEXTILIEN` | KMU-innovativ - Smarte Textilien und funktionale Fasersysteme
 - `BMBF_KMU_INNOVATIV_SMARTE_WASSERSTOFFE` | KMU-innovativ - Smarte Wasserstoffspeicher und Materialsysteme
