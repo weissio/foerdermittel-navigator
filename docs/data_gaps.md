@@ -1,7 +1,7 @@
 # Data Gaps
 
-- Erzeugt am: `2026-02-17 04:17`
-- Datensaetze: `950`
+- Erzeugt am: `2026-02-17 05:53`
+- Datensaetze: `952`
 
 ## Status-Verteilung
 
@@ -9,12 +9,13 @@
 |---|---:|
 | geplant | 5 |
 | laufend | 576 |
-| offen | 369 |
+| offen | 371 |
 
 ## Unterrepraesentierte Regionen
 
 | Region | Anzahl |
 |---|---:|
+| Deutschland (Revierregionen) | 1 |
 | Deutschland/Chile | 1 |
 | Deutschland/Kanada | 1 |
 | Deutschland/Polen | 1 |
@@ -29,13 +30,12 @@
 | Baden-Wuerttemberg | 12 |
 | Brandenburg | 12 |
 | Hamburg | 12 |
-| Nordrhein-Westfalen | 12 |
 
 ## Dominierende Regionen
 
 | Region | Anzahl |
 |---|---:|
-| Deutschland | 658 |
+| Deutschland | 659 |
 | EU (inkl. Deutschland) | 60 |
 | Deutschland/International | 41 |
 | Rheinland-Pfalz | 17 |

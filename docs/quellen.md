@@ -315,3 +315,6 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 
 - https://www.dbu.de/foerderung/
 - https://www.dbu.de/foerderung/green-start-up/
+
+- https://www.unternehmen-revier.de/
+- https://www.wandel-durch-innovation-in-der-region.de/

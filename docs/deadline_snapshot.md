@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-17`
-- Gepruefte Datensaetze: `950`
+- Gepruefte Datensaetze: `952`
 
 ## Offen Mit Datumsfrist
 
@@ -294,6 +294,7 @@
 - `BMBF_KMU_INNOVATIV` | KMU-innovativ: Forschung fuer den Mittelstand
 - `BMBF_STARTUPSECURE` | StartUpSecure (BMBF)
 - `BMBF_VIP_PLUS` | VIP+ - Validierung des technologischen und gesellschaftlichen Innovationspotenzials wissenschaftlicher Forschung
+- `BMBF_WIR` | WIR! - Wandel durch Innovation in der Region (BMBF)
 - `BMDV_KSNI` | Foerderprogramm Klimaschonende Nutzfahrzeuge und Infrastruktur (KsNI)
 - `BMDV_MFUND_FU_E_PROJEKTE` | mFUND - Forschungs- und Entwicklungsprojekte
 - `BMDV_MFUND_MACHBARKEITSSTUDIEN` | mFUND - Machbarkeitsstudien
@@ -317,6 +318,7 @@
 - `BMWK_KLIMASCHUTZVERTRAEGE` | Klimaschutzvertraege (Carbon Contracts for Difference, CCfD)
 - `BMWK_REALLABORE_ENERGIEWENDE_TRANSFER` | Reallabore der Energiewende - Transfer und Skalierung
 - `BMWK_REALLABORE_ENERGIEWENDE` | Reallabore der Energiewende (BMWK)
+- `BMWK_UNTERNEHMEN_REVIER` | Unternehmen Revier (BMWK)
 - `BMWSB_ZUKUNFT_BAU` | Zukunft Bau - Forschungsfoerderung im Bauwesen
 - `ESF_BAYERN_AUFRUFE_OFFEN` | ESF+ Bayern - Programmaufrufe (offen/rollierend)
 - `ESF_BW_AUFRUFE_OFFEN` | ESF+ Baden-Wuerttemberg - Programmaufrufe (offen/rollierend)

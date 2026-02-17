@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-17`
-- Offen gesamt: `369`
+- Offen gesamt: `371`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `353`
+- Rollierend/ohne Datum: `355`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -296,6 +296,7 @@
 - `BMBF_KMU_INNOVATIV` | KMU-innovativ: Forschung fuer den Mittelstand | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_STARTUPSECURE` | StartUpSecure (BMBF) | rollierend | https://www.startupsecure.de/
 - `BMBF_VIP_PLUS` | VIP+ - Validierung des technologischen und gesellschaftlichen Innovationspotenzials wissenschaftlicher Forschung | rollierend | https://www.bmbf.de/bmbf/de/forschung/innovationen/wissens-und-technologietransfer/vip/vip.html
+- `BMBF_WIR` | WIR! - Wandel durch Innovation in der Region (BMBF) | rollierend | https://www.wandel-durch-innovation-in-der-region.de/
 - `BMDV_KSNI` | Foerderprogramm Klimaschonende Nutzfahrzeuge und Infrastruktur (KsNI) | rollierend | https://bmdv.bund.de/SharedDocs/DE/Artikel/G/ksni-foerderung.html
 - `BMDV_MFUND_FU_E_PROJEKTE` | mFUND - Forschungs- und Entwicklungsprojekte | rollierend | https://www.bmdv.bund.de/DE/Themen/Digitales/mFUND/mFUND.html
 - `BMDV_MFUND_MACHBARKEITSSTUDIEN` | mFUND - Machbarkeitsstudien | rollierend | https://www.bmdv.bund.de/DE/Themen/Digitales/mFUND/mFUND.html
@@ -319,6 +320,7 @@
 - `BMWK_KLIMASCHUTZVERTRAEGE` | Klimaschutzvertraege (Carbon Contracts for Difference, CCfD) | rollierend | https://www.bmwk.de/Redaktion/DE/Dossier/klimaschutzvertraege.html
 - `BMWK_REALLABORE_ENERGIEWENDE_TRANSFER` | Reallabore der Energiewende - Transfer und Skalierung | rollierend | https://www.bmwk.de/Redaktion/DE/Dossier/reallabore-der-energiewende.html
 - `BMWK_REALLABORE_ENERGIEWENDE` | Reallabore der Energiewende (BMWK) | rollierend | https://www.bmwk.de/Redaktion/DE/Dossier/reallabore-der-energiewende.html
+- `BMWK_UNTERNEHMEN_REVIER` | Unternehmen Revier (BMWK) | rollierend | https://www.unternehmen-revier.de/
 - `BMWSB_ZUKUNFT_BAU` | Zukunft Bau - Forschungsfoerderung im Bauwesen | rollierend | https://www.zukunftbau.de/
 - `ESF_BAYERN_AUFRUFE_OFFEN` | ESF+ Bayern - Programmaufrufe (offen/rollierend) | rollierend | https://www.esf.bayern.de/
 - `ESF_BW_AUFRUFE_OFFEN` | ESF+ Baden-Wuerttemberg - Programmaufrufe (offen/rollierend) | rollierend | https://www.esf-bw.de/esf-plus-in-bw/programm-des-esf-plus-in-baden-wuerttemberg
