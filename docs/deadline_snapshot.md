@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-17`
-- Gepruefte Datensaetze: `982`
+- Gepruefte Datensaetze: `984`
 
 ## Offen Mit Datumsfrist
 
@@ -322,6 +322,8 @@
 - `BMEL_BUNDESPROGRAMM_UMBAU_TIERHALTUNG` | Bundesprogramm Umbau der Tierhaltung
 - `BMEL_FNR_NACHWACHSENDE_ROHSTOFFE` | Projektfoerderung Nachwachsende Rohstoffe (FNR/BMEL)
 - `BMUV_ANK_AKTIONSPROGRAMM_NATUERLICHER_KLIMASCHUTZ` | Aktionsprogramm Natuerlicher Klimaschutz (ANK)
+- `BMUV_EXPORTINITIATIVE_UMWELTSCHUTZ_MARKTERSCHLIESSUNG` | Exportinitiative Umweltschutz - Markterschliessung und Internationalisierung
+- `BMUV_EXPORTINITIATIVE_UMWELTSCHUTZ_PROJEKTANBAHNUNG` | Exportinitiative Umweltschutz - Projektanbahnung und Partnerschaften
 - `BMUV_NKI_NATIONALE_KLIMASCHUTZINITIATIVE` | Nationale Klimaschutzinitiative (NKI)
 - `BMUV_NKI_UNTERNEHMEN_ENERGIEEFFIZIENZ` | NKI - Unternehmensprojekte Energieeffizienz und Emissionsminderung
 - `BMUV_NKI_UNTERNEHMEN_TRANSFORMATION` | NKI - Unternehmensprojekte Transformationskonzepte und Klimastrategien

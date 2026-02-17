@@ -653,3 +653,8 @@
 - Datenausbau Prio I (Bund/BMBF DATIpilot): +2 Programmlinien zur Innovationscommunity-Logik aufgenommen.
 - Neu: `BMBF_DATIPILOT_INNOVATIONSCOMMUNITIES_AUFBAU` und `BMBF_DATIPILOT_INNOVATIONSCOMMUNITIES_UMSETZUNG`.
 - Fokus: Aufbau- und Umsetzungsphase fuer transferorientierte Verbundstrukturen mit KMU-Beteiligung.
+
+## 2026-02-17 16:52
+- Datenausbau Prio I (Bund/BMUV): +2 Linien zur Exportinitiative Umweltschutz erfasst.
+- Neu: `BMUV_EXPORTINITIATIVE_UMWELTSCHUTZ_MARKTERSCHLIESSUNG` und `BMUV_EXPORTINITIATIVE_UMWELTSCHUTZ_PROJEKTANBAHNUNG`.
+- Fokus: internationale Markterschliessung und Projektanbahnung fuer GreenTech-Unternehmen.

@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-17`
-- Offen gesamt: `395`
+- Offen gesamt: `397`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `379`
+- Rollierend/ohne Datum: `381`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -324,6 +324,8 @@
 - `BMEL_BUNDESPROGRAMM_UMBAU_TIERHALTUNG` | Bundesprogramm Umbau der Tierhaltung | rollierend | https://www.bmel.de/DE/themen/tiere/tierwohl/umbau-tierhaltung.html
 - `BMEL_FNR_NACHWACHSENDE_ROHSTOFFE` | Projektfoerderung Nachwachsende Rohstoffe (FNR/BMEL) | rollierend | https://www.fnr.de/projektfoerderung
 - `BMUV_ANK_AKTIONSPROGRAMM_NATUERLICHER_KLIMASCHUTZ` | Aktionsprogramm Natuerlicher Klimaschutz (ANK) | rollierend | https://www.aktion-natuerlicher-klimaschutz.de/
+- `BMUV_EXPORTINITIATIVE_UMWELTSCHUTZ_MARKTERSCHLIESSUNG` | Exportinitiative Umweltschutz - Markterschliessung und Internationalisierung | rollierend | https://www.exportinitiative-umweltschutz.de/
+- `BMUV_EXPORTINITIATIVE_UMWELTSCHUTZ_PROJEKTANBAHNUNG` | Exportinitiative Umweltschutz - Projektanbahnung und Partnerschaften | rollierend | https://www.exportinitiative-umweltschutz.de/
 - `BMUV_NKI_NATIONALE_KLIMASCHUTZINITIATIVE` | Nationale Klimaschutzinitiative (NKI) | rollierend | https://www.klimaschutz.de/de/foerderung
 - `BMUV_NKI_UNTERNEHMEN_ENERGIEEFFIZIENZ` | NKI - Unternehmensprojekte Energieeffizienz und Emissionsminderung | rollierend | https://www.klimaschutz.de/de/foerderung
 - `BMUV_NKI_UNTERNEHMEN_TRANSFORMATION` | NKI - Unternehmensprojekte Transformationskonzepte und Klimastrategien | rollierend | https://www.klimaschutz.de/de/foerderung
