@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-17`
-- Gepruefte Datensaetze: `958`
+- Gepruefte Datensaetze: `960`
 
 ## Offen Mit Datumsfrist
 
@@ -310,6 +310,8 @@
 - `BMUV_NKI_NATIONALE_KLIMASCHUTZINITIATIVE` | Nationale Klimaschutzinitiative (NKI)
 - `BMWE_GEMEINNUETZIGE_GRUENDUNGSVORHABEN_KREDIT` | Foerderung gemeinnuetziger Gruendungsvorhaben (Kredite bis 125.000 EUR)
 - `BMWE_NACHHALTIG_WIRKEN` | NACHHALTIG WIRKEN – Foerderung gemeinwohlorientierter Unternehmen
+- `BMWE_REACT_WITH_IMPACT` | REACT with impact – Wachstumsfinanzierung fuer Sozialunternehmen
+- `BMWE_SOZIALUNTERNEHMEN_FINANZIERUNGSINSTRUMENTE` | Finanzierungsinstrumente fuer gemeinwohlorientierte Unternehmen (BMWE)
 - `BMWK_EEW_FOERDERWETTBEWERB` | EEW - Foerderwettbewerb Energie- und Ressourceneffizienz in der Wirtschaft
 - `BMWK_H2GLOBAL` | H2Global - Foerdermechanismus fuer klimafreundliche Wasserstoffderivate
 - `BMWK_IGF_CORNET` | CORNET (Collective Research Networking) im IGF-Umfeld

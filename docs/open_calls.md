@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-17`
-- Offen gesamt: `376`
+- Offen gesamt: `378`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `360`
+- Rollierend/ohne Datum: `362`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -312,6 +312,8 @@
 - `BMUV_NKI_NATIONALE_KLIMASCHUTZINITIATIVE` | Nationale Klimaschutzinitiative (NKI) | rollierend | https://www.klimaschutz.de/de/foerderung
 - `BMWE_GEMEINNUETZIGE_GRUENDUNGSVORHABEN_KREDIT` | Foerderung gemeinnuetziger Gruendungsvorhaben (Kredite bis 125.000 EUR) | rollierend | https://www.bmwe.de/Redaktion/DE/Pressemitteilungen/2025/11/20251117-neue-finanzierungsinstrumente-fuer-gemeinwohlorientierte-unternehmen-und-sozialunternehmerinnen-starten.html
 - `BMWE_NACHHALTIG_WIRKEN` | NACHHALTIG WIRKEN – Foerderung gemeinwohlorientierter Unternehmen | rollierend | https://www.bmwe.de/Redaktion/DE/Pressemitteilungen/2025/11/20251117-neue-finanzierungsinstrumente-fuer-gemeinwohlorientierte-unternehmen-und-sozialunternehmerinnen-starten.html
+- `BMWE_REACT_WITH_IMPACT` | REACT with impact – Wachstumsfinanzierung fuer Sozialunternehmen | rollierend | https://www.bmwe.de/Redaktion/DE/Pressemitteilungen/2025/11/20251117-neue-finanzierungsinstrumente-fuer-gemeinwohlorientierte-unternehmen-und-sozialunternehmerinnen-starten.html
+- `BMWE_SOZIALUNTERNEHMEN_FINANZIERUNGSINSTRUMENTE` | Finanzierungsinstrumente fuer gemeinwohlorientierte Unternehmen (BMWE) | rollierend | https://www.bmwe.de/Redaktion/DE/Pressemitteilungen/2025/11/20251117-neue-finanzierungsinstrumente-fuer-gemeinwohlorientierte-unternehmen-und-sozialunternehmerinnen-starten.html
 - `BMWK_EEW_FOERDERWETTBEWERB` | EEW - Foerderwettbewerb Energie- und Ressourceneffizienz in der Wirtschaft | rollierend | https://www.wettbewerb-energieeffizienz.de/
 - `BMWK_H2GLOBAL` | H2Global - Foerdermechanismus fuer klimafreundliche Wasserstoffderivate | rollierend | https://www.h2global.org/
 - `BMWK_IGF_CORNET` | CORNET (Collective Research Networking) im IGF-Umfeld | rollierend | https://www.aif.de/foerderung/igf
