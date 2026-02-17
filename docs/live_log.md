@@ -698,3 +698,8 @@
 - Datenausbau Prio II (IFB Hamburg): +2 Programmlinien fuer Hamburg-Kredit Wachstum aufgenommen.
 - Neu: `IFB_HAMBURG_KREDIT_WACHSTUM_INVESTITION` und `IFB_HAMBURG_KREDIT_WACHSTUM_BETRIEBSMITTEL`.
 - Fokus: Trennung Investitions- und Betriebsmittelfinanzierung fuer bessere Filterlogik.
+
+## 2026-02-17 19:05
+- Datenausbau Prio II (IBB Berlin): +2 Programmlinien fuer das IBB-Wachstumsprogramm aufgenommen.
+- Neu: `IBB_WACHSTUMSPROGRAMM_INVESTITION` und `IBB_WACHSTUMSPROGRAMM_BETRIEBSMITTEL`.
+- Fokus: Trennung Investitions- und Betriebsmittelfinanzierung fuer bessere Filterpraezision.

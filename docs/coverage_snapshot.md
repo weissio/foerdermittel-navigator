@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-17 21:58`
-- Datensaetze: `1000`
-- Eindeutige `programm_id`: `1000`
+- Erzeugt am: `2026-02-17 22:03`
+- Datensaetze: `1002`
+- Eindeutige `programm_id`: `1002`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 590 |
+| laufend | 592 |
 | offen | 405 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 590 |
+| laufend | 592 |
 | offen | 405 |
 | zukuenftig | 5 |
 
@@ -29,8 +29,8 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Deutschland | 689 |
 | EU (inkl. Deutschland) | 66 |
 | Deutschland/International | 43 |
+| Berlin | 18 |
 | Rheinland-Pfalz | 17 |
-| Berlin | 16 |
 | Bayern | 14 |
 | Brandenburg | 14 |
 | Hamburg | 14 |
@@ -57,8 +57,8 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | BAFA | 34 |
 | Europaeische Kommission | 16 |
 | BMWK (ZIM) / Projekttraeger | 15 |
+| Investitionsbank Berlin (IBB) | 15 |
 | BMWK / EXIST | 13 |
-| Investitionsbank Berlin (IBB) | 13 |
 | BMWK / Bundesrepublik Deutschland | 12 |
 | ISB (Rheinland-Pfalz) | 12 |
 | BMAS / INQA / ESF Plus | 9 |
@@ -93,9 +93,9 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Energieeffizienz/Lastmanagement | 9 |
 | Forschung und Entwicklung | 9 |
 | Gruendung/Wachstum | 9 |
+| Wachstum/Investition | 9 |
 | Energieeffizienz/Digitalisierung | 8 |
 | Gruendung/Innovation | 8 |
-| Innovation/Forschung und Entwicklung | 8 |
 
 ## Feldqualitaet
 
