@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-17`
-- Gepruefte Datensaetze: `945`
+- Gepruefte Datensaetze: `946`
 
 ## Offen Mit Datumsfrist
 
@@ -303,6 +303,7 @@
 - `BMEL_BUNDESPROGRAMM_UMBAU_TIERHALTUNG` | Bundesprogramm Umbau der Tierhaltung
 - `BMEL_FNR_NACHWACHSENDE_ROHSTOFFE` | Projektfoerderung Nachwachsende Rohstoffe (FNR/BMEL)
 - `BMUV_ANK_AKTIONSPROGRAMM_NATUERLICHER_KLIMASCHUTZ` | Aktionsprogramm Natuerlicher Klimaschutz (ANK)
+- `BMUV_NKI_NATIONALE_KLIMASCHUTZINITIATIVE` | Nationale Klimaschutzinitiative (NKI)
 - `BMWK_EEW_FOERDERWETTBEWERB` | EEW - Foerderwettbewerb Energie- und Ressourceneffizienz in der Wirtschaft
 - `BMWK_H2GLOBAL` | H2Global - Foerdermechanismus fuer klimafreundliche Wasserstoffderivate
 - `BMWK_IGF_CORNET` | CORNET (Collective Research Networking) im IGF-Umfeld
