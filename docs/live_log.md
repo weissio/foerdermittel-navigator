@@ -638,3 +638,8 @@
 - Datenausbau Prio I (Bund/BMUV): +2 NKI-nahe Unternehmenslinien aufgenommen.
 - Neu: `BMUV_NKI_UNTERNEHMEN_ENERGIEEFFIZIENZ` und `BMUV_NKI_UNTERNEHMEN_TRANSFORMATION`.
 - Fokus: Unternehmensvorhaben zu Emissionsminderung sowie Transformations-/Klimastrategien.
+
+## 2026-02-17 16:08
+- Datenausbau Prio I (Bund/BMFTR): +2 FH-Personal-Programmlinien nachgezogen.
+- Neu: `BMBF_FH_PERSONAL_REKRUTIERUNG` und `BMBF_FH_PERSONAL_PERSONALENTWICKLUNG`.
+- Fokus: Rekrutierung, Qualifizierung und Karrierepfade fuer professorales Personal an HAW/FH.

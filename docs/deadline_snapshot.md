@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-17`
-- Gepruefte Datensaetze: `976`
+- Gepruefte Datensaetze: `978`
 
 ## Offen Mit Datumsfrist
 
@@ -32,6 +32,8 @@
 - `BMBF_DATIPILOT_INNOVATIONSCOMMUNITIES` | DATIpilot - Innovationscommunities
 - `BMBF_DATIPILOT_INNOVATIONSSPRINTS` | DATIpilot - Innovationssprints
 - `BMBF_FH_KOOPERATIVE_FUE` | Forschung an Fachhochschulen - Kooperative F&E-Projekte mit Unternehmen
+- `BMBF_FH_PERSONAL_PERSONALENTWICKLUNG` | FH-Personal - Personalentwicklung und Karrierepfade zur Professur
+- `BMBF_FH_PERSONAL_REKRUTIERUNG` | FH-Personal - Rekrutierung professoralen Personals aus Wissenschaft und Praxis
 - `BMBF_FH_TRANSFER_QUALIFIZIERUNG` | Forschung an Fachhochschulen - Transfer und Qualifizierung im Mittelstandskontext
 - `BMBF_FORSCHUNG_AN_FACHHOCHSCHULEN` | Forschung an Fachhochschulen (Programmportal)
 - `BMBF_GO_BIO_PHASE1` | GO-Bio - Phase I (Validierung und Entwicklung)

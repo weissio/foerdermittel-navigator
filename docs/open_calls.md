@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-17`
-- Offen gesamt: `391`
+- Offen gesamt: `393`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `375`
+- Rollierend/ohne Datum: `377`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -34,6 +34,8 @@
 - `BMBF_DATIPILOT_INNOVATIONSCOMMUNITIES` | DATIpilot - Innovationscommunities | rollierend | https://www.bmbf.de/bmbf/de/forschung/innovationen/datipilot/datipilot_node.html
 - `BMBF_DATIPILOT_INNOVATIONSSPRINTS` | DATIpilot - Innovationssprints | rollierend | https://www.bmbf.de/bmbf/de/forschung/innovationen/datipilot/datipilot_node.html
 - `BMBF_FH_KOOPERATIVE_FUE` | Forschung an Fachhochschulen - Kooperative F&E-Projekte mit Unternehmen | rollierend | https://www.forschung-fachhochschulen.de/
+- `BMBF_FH_PERSONAL_PERSONALENTWICKLUNG` | FH-Personal - Personalentwicklung und Karrierepfade zur Professur | rollierend | https://www.fh-personal.de/
+- `BMBF_FH_PERSONAL_REKRUTIERUNG` | FH-Personal - Rekrutierung professoralen Personals aus Wissenschaft und Praxis | rollierend | https://www.fh-personal.de/
 - `BMBF_FH_TRANSFER_QUALIFIZIERUNG` | Forschung an Fachhochschulen - Transfer und Qualifizierung im Mittelstandskontext | rollierend | https://www.forschung-fachhochschulen.de/
 - `BMBF_FORSCHUNG_AN_FACHHOCHSCHULEN` | Forschung an Fachhochschulen (Programmportal) | rollierend | https://www.forschung-fachhochschulen.de/
 - `BMBF_GO_BIO_PHASE1` | GO-Bio - Phase I (Validierung und Entwicklung) | rollierend | https://www.bmbf.de/bmbf/de/forschung/lebenswissenschaften/foerderinitiativen/go-bio/go-bio.html
