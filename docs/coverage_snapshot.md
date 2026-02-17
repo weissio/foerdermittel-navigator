@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-17 22:21`
-- Datensaetze: `1012`
-- Eindeutige `programm_id`: `1012`
+- Erzeugt am: `2026-02-17 22:25`
+- Datensaetze: `1014`
+- Eindeutige `programm_id`: `1014`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 602 |
+| laufend | 604 |
 | offen | 405 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 602 |
+| laufend | 604 |
 | offen | 405 |
 | zukuenftig | 5 |
 
@@ -32,10 +32,10 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Berlin | 18 |
 | Rheinland-Pfalz | 17 |
 | Bayern | 16 |
+| Hessen | 16 |
 | Sachsen | 16 |
 | Brandenburg | 14 |
 | Hamburg | 14 |
-| Hessen | 14 |
 | Niedersachsen | 14 |
 | Nordrhein-Westfalen | 14 |
 | Baden-Wuerttemberg | 12 |
@@ -59,9 +59,9 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | BMWK (ZIM) / Projekttraeger | 15 |
 | Investitionsbank Berlin (IBB) | 15 |
 | BMWK / EXIST | 13 |
+| WIBank (Hessen) | 13 |
 | BMWK / Bundesrepublik Deutschland | 12 |
 | ISB (Rheinland-Pfalz) | 12 |
-| WIBank (Hessen) | 11 |
 | BMAS / INQA / ESF Plus | 9 |
 | Europaeische Kommission / CINEA | 9 |
 | IFB Hamburg | 9 |
@@ -90,9 +90,9 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Internationalisierung/Export | 14 |
 | Digitalisierung/Innovation | 11 |
 | Gruendung/Nachfolge | 11 |
+| Gruendung/Wachstum | 11 |
 | Energieeffizienz/Lastmanagement | 9 |
 | Forschung und Entwicklung | 9 |
-| Gruendung/Wachstum | 9 |
 | Wachstum/Investition | 9 |
 | Energieeffizienz/Digitalisierung | 8 |
 | Gruendung/Innovation | 8 |
