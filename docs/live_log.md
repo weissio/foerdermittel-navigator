@@ -738,3 +738,8 @@
 - Datenausbau Prio II (IB Sachsen-Anhalt): +2 Programmlinien fuer Wachstumsfinanzierung Sachsen-Anhalt aufgenommen.
 - Neu: `IB_SA_WACHSTUM_INVESTITION` und `IB_SA_WACHSTUM_BETRIEBSMITTEL`.
 - Fokus: Trennung Investitions- und Betriebsmittelfinanzierung fuer praezise Filterlogik.
+
+## 2026-02-17 21:20
+- Datenausbau Prio II (IB Sachsen-Anhalt): +2 Programmlinien fuer Darlehen fuer Unternehmen Sachsen-Anhalt aufgenommen.
+- Neu: `IB_SA_DARLEHEN_UNTERNEHMEN_INVESTITION` und `IB_SA_DARLEHEN_UNTERNEHMEN_BETRIEBSMITTEL`.
+- Fokus: Trennung Investitions- und Betriebsmittelfinanzierung fuer bessere Filterpraezision.

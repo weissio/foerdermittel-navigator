@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-17 22:29`
-- Datensaetze: `1016`
-- Eindeutige `programm_id`: `1016`
+- Erzeugt am: `2026-02-17 22:37`
+- Datensaetze: `1018`
+- Eindeutige `programm_id`: `1018`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 606 |
+| laufend | 608 |
 | offen | 405 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 606 |
+| laufend | 608 |
 | offen | 405 |
 | zukuenftig | 5 |
 
@@ -38,8 +38,8 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Hamburg | 14 |
 | Niedersachsen | 14 |
 | Nordrhein-Westfalen | 14 |
+| Sachsen-Anhalt | 14 |
 | Baden-Wuerttemberg | 12 |
-| Sachsen-Anhalt | 12 |
 | Schleswig-Holstein | 12 |
 | Saarland | 11 |
 | Bremen | 8 |
@@ -62,12 +62,12 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | WIBank (Hessen) | 13 |
 | BMWK / Bundesrepublik Deutschland | 12 |
 | ISB (Rheinland-Pfalz) | 12 |
+| Investitionsbank Sachsen-Anhalt (IB) | 10 |
 | BMAS / INQA / ESF Plus | 9 |
 | Europaeische Kommission / CINEA | 9 |
 | IFB Hamburg | 9 |
 | NBank | 9 |
 | EIC (EU) | 8 |
-| Investitionsbank Sachsen-Anhalt (IB) | 8 |
 | LfA Foerderbank Bayern | 8 |
 | NRW.BANK | 7 |
 | SAB (Saechsische Aufbaubank) | 7 |
@@ -79,7 +79,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Energieeffizienz/Treibhausgasminderung | 64 |
 | Forschung und Entwicklung/Digital Health | 61 |
 | Forschung und Entwicklung/Produktionstechnik | 48 |
-| Unternehmensfinanzierung | 36 |
+| Unternehmensfinanzierung | 38 |
 | Investition/Betriebsmittel | 30 |
 | EU-Fonds ESF+ | 26 |
 | Forschung und Entwicklung/Innovation | 23 |
