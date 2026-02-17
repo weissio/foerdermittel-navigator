@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-17`
-- Gepruefte Datensaetze: `966`
+- Gepruefte Datensaetze: `968`
 
 ## Offen Mit Datumsfrist
 
@@ -297,6 +297,8 @@
 - `BMBF_RUBIN` | RUBIN - Regionale unternehmerische Buendnisse fuer Innovation (BMBF)
 - `BMBF_STARTUPSECURE` | StartUpSecure (BMBF)
 - `BMBF_T_RAUM` | T!Raum - TransferRaeume fuer die Zukunft von Regionen (BMBF)
+- `BMBF_VIP_PLUS_GESELLSCHAFTLICHE_INNOVATION` | VIP+ - Gesellschaftliches Innovationspotenzial und Transfer
+- `BMBF_VIP_PLUS_VALIDIERUNG` | VIP+ - Technologische Validierung
 - `BMBF_VIP_PLUS` | VIP+ - Validierung des technologischen und gesellschaftlichen Innovationspotenzials wissenschaftlicher Forschung
 - `BMBF_WIR` | WIR! - Wandel durch Innovation in der Region (BMBF)
 - `BMDV_KSNI_FAHRZEUGE` | KsNI - Beschaffung klimafreundlicher Nutzfahrzeuge

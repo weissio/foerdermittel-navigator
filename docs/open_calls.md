@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-17`
-- Offen gesamt: `384`
+- Offen gesamt: `386`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `368`
+- Rollierend/ohne Datum: `370`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -299,6 +299,8 @@
 - `BMBF_RUBIN` | RUBIN - Regionale unternehmerische Buendnisse fuer Innovation (BMBF) | rollierend | https://www.bmbf.de/bmbf/de/forschung/innovationen/wandel-durch-innovation-in-der-region/wandel-durch-innovation-in-der-region_node.html
 - `BMBF_STARTUPSECURE` | StartUpSecure (BMBF) | rollierend | https://www.startupsecure.de/
 - `BMBF_T_RAUM` | T!Raum - TransferRaeume fuer die Zukunft von Regionen (BMBF) | rollierend | https://www.bmbf.de/bmbf/de/forschung/innovationen/wandel-durch-innovation-in-der-region/wandel-durch-innovation-in-der-region_node.html
+- `BMBF_VIP_PLUS_GESELLSCHAFTLICHE_INNOVATION` | VIP+ - Gesellschaftliches Innovationspotenzial und Transfer | rollierend | https://www.bmbf.de/bmbf/de/forschung/innovationen/wissens-und-technologietransfer/vip/vip.html
+- `BMBF_VIP_PLUS_VALIDIERUNG` | VIP+ - Technologische Validierung | rollierend | https://www.bmbf.de/bmbf/de/forschung/innovationen/wissens-und-technologietransfer/vip/vip.html
 - `BMBF_VIP_PLUS` | VIP+ - Validierung des technologischen und gesellschaftlichen Innovationspotenzials wissenschaftlicher Forschung | rollierend | https://www.bmbf.de/bmbf/de/forschung/innovationen/wissens-und-technologietransfer/vip/vip.html
 - `BMBF_WIR` | WIR! - Wandel durch Innovation in der Region (BMBF) | rollierend | https://www.wandel-durch-innovation-in-der-region.de/
 - `BMDV_KSNI_FAHRZEUGE` | KsNI - Beschaffung klimafreundlicher Nutzfahrzeuge | rollierend | https://bmdv.bund.de/SharedDocs/DE/Artikel/G/ksni-foerderung.html
