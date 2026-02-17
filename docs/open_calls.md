@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-17`
-- Offen gesamt: `368`
+- Offen gesamt: `369`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `352`
+- Rollierend/ohne Datum: `353`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -34,6 +34,7 @@
 - `BMBF_GO_BIO_PHASE1` | GO-Bio - Phase I (Validierung und Entwicklung) | rollierend | https://www.bmbf.de/bmbf/de/forschung/lebenswissenschaften/foerderinitiativen/go-bio/go-bio.html
 - `BMBF_GO_BIO_PHASE2` | GO-Bio - Phase II (Gruendung und Markteintritt) | rollierend | https://www.bmbf.de/bmbf/de/forschung/lebenswissenschaften/foerderinitiativen/go-bio/go-bio.html
 - `BMBF_GO_BIO` | GO-Bio - Gruendungsoffensive Biotechnologie | rollierend | https://www.bmbf.de/bmbf/de/forschung/lebenswissenschaften/foerderinitiativen/go-bio/go-bio.html
+- `BMBF_INNOVATIVE_HOCHSCHULE` | Innovative Hochschule (BMBF) | rollierend | https://www.innovative-hochschule.de/
 - `BMBF_KMU_INNOVATIV_5G_6G_INDUSTRIE` | KMU-innovativ - 5G/6G und vernetzte Industrieanwendungen | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_BAUTEILINSPEKTION` | KMU-innovativ - Adaptive Bauteilinspektion und KI-gestuetzte Fehlervorhersage | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_FERTIGUNGSFLUESSE` | KMU-innovativ - Adaptive Fertigungsfluesse und resiliente Ablaufsteuerung | rollierend | https://www.kmu-innovativ.de/

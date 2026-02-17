@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-17`
-- Gepruefte Datensaetze: `946`
+- Gepruefte Datensaetze: `947`
 
 ## Offen Mit Datumsfrist
 
@@ -32,6 +32,7 @@
 - `BMBF_GO_BIO_PHASE1` | GO-Bio - Phase I (Validierung und Entwicklung)
 - `BMBF_GO_BIO_PHASE2` | GO-Bio - Phase II (Gruendung und Markteintritt)
 - `BMBF_GO_BIO` | GO-Bio - Gruendungsoffensive Biotechnologie
+- `BMBF_INNOVATIVE_HOCHSCHULE` | Innovative Hochschule (BMBF)
 - `BMBF_KMU_INNOVATIV_5G_6G_INDUSTRIE` | KMU-innovativ - 5G/6G und vernetzte Industrieanwendungen
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_BAUTEILINSPEKTION` | KMU-innovativ - Adaptive Bauteilinspektion und KI-gestuetzte Fehlervorhersage
 - `BMBF_KMU_INNOVATIV_ADAPTIVE_FERTIGUNGSFLUESSE` | KMU-innovativ - Adaptive Fertigungsfluesse und resiliente Ablaufsteuerung
