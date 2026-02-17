@@ -753,3 +753,8 @@
 - Datenausbau Prio II (IFB Hamburg): +2 Programmlinien fuer Hamburg-Kredit Universal aufgenommen.
 - Neu: `IFB_HAMBURG_KREDIT_UNIVERSAL_INVESTITION` und `IFB_HAMBURG_KREDIT_UNIVERSAL_BETRIEBSMITTEL`.
 - Fokus: Trennung Investitions- und Betriebsmittelfinanzierung fuer praeziseres Matching.
+
+## 2026-02-17 22:05
+- Datenausbau Prio II (LfA Bayern): +2 Programmlinien fuer den LfA Innovationskredit aufgenommen.
+- Neu: `LFA_INNOVATIONSKREDIT_INVESTITION` und `LFA_INNOVATIONSKREDIT_BETRIEBSMITTEL`.
+- Fokus: Trennung Investitions- und Betriebsmittelfinanzierung in Innovations-/Digitalisierungsvorhaben.

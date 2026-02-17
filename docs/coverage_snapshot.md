@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-17 22:45`
-- Datensaetze: `1022`
-- Eindeutige `programm_id`: `1022`
+- Erzeugt am: `2026-02-17 22:50`
+- Datensaetze: `1024`
+- Eindeutige `programm_id`: `1024`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 612 |
+| laufend | 614 |
 | offen | 405 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 612 |
+| laufend | 614 |
 | offen | 405 |
 | zukuenftig | 5 |
 
@@ -29,9 +29,9 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Deutschland | 689 |
 | EU (inkl. Deutschland) | 66 |
 | Deutschland/International | 43 |
+| Bayern | 18 |
 | Berlin | 18 |
 | Rheinland-Pfalz | 17 |
-| Bayern | 16 |
 | Hamburg | 16 |
 | Hessen | 16 |
 | Nordrhein-Westfalen | 16 |
@@ -64,12 +64,12 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | ISB (Rheinland-Pfalz) | 12 |
 | IFB Hamburg | 11 |
 | Investitionsbank Sachsen-Anhalt (IB) | 10 |
+| LfA Foerderbank Bayern | 10 |
 | BMAS / INQA / ESF Plus | 9 |
 | Europaeische Kommission / CINEA | 9 |
 | NBank | 9 |
 | NRW.BANK | 9 |
 | EIC (EU) | 8 |
-| LfA Foerderbank Bayern | 8 |
 | SAB (Saechsische Aufbaubank) | 7 |
 
 ## Top Themen
@@ -92,10 +92,10 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Gruendung/Nachfolge | 11 |
 | Gruendung/Wachstum | 11 |
 | Wachstum/Investition | 11 |
+| Innovation/Digitalisierung | 10 |
 | Energieeffizienz/Lastmanagement | 9 |
 | Forschung und Entwicklung | 9 |
 | Energieeffizienz/Digitalisierung | 8 |
-| Gruendung/Innovation | 8 |
 
 ## Feldqualitaet
 
