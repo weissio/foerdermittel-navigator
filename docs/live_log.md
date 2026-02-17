@@ -708,3 +708,8 @@
 - Datenausbau Prio II (SAB Sachsen): +2 Programmlinien fuer den SAB Sachsenkredit Universal aufgenommen.
 - Neu: `SAB_SACHSENKREDIT_UNIVERSAL_INVESTITION` und `SAB_SACHSENKREDIT_UNIVERSAL_BETRIEBSMITTEL`.
 - Fokus: Trennung Investitions- und Betriebsmittelfinanzierung fuer praezisere Filterlogik.
+
+## 2026-02-17 19:45
+- Datenausbau Prio II (LfA Bayern): +2 Programmlinien fuer den LfA Universalkredit aufgenommen.
+- Neu: `LFA_UNIVERSALKREDIT_INVESTITION` und `LFA_UNIVERSALKREDIT_BETRIEBSMITTEL`.
+- Fokus: Trennung Investitions- und Betriebsmittelfinanzierung fuer praezisere Filter und Matching.

@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-17 22:06`
-- Datensaetze: `1004`
-- Eindeutige `programm_id`: `1004`
+- Erzeugt am: `2026-02-17 22:10`
+- Datensaetze: `1006`
+- Eindeutige `programm_id`: `1006`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 594 |
+| laufend | 596 |
 | offen | 405 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 594 |
+| laufend | 596 |
 | offen | 405 |
 | zukuenftig | 5 |
 
@@ -31,8 +31,8 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Deutschland/International | 43 |
 | Berlin | 18 |
 | Rheinland-Pfalz | 17 |
+| Bayern | 16 |
 | Sachsen | 16 |
-| Bayern | 14 |
 | Brandenburg | 14 |
 | Hamburg | 14 |
 | Niedersachsen | 14 |
@@ -66,11 +66,11 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | IFB Hamburg | 9 |
 | NBank | 9 |
 | EIC (EU) | 8 |
+| LfA Foerderbank Bayern | 8 |
 | NRW.BANK | 7 |
 | SAB (Saechsische Aufbaubank) | 7 |
 | BMAS / ESF Plus | 6 |
 | Investitionsbank Sachsen-Anhalt (IB) | 6 |
-| L-Bank | 6 |
 
 ## Top Themen
 
@@ -79,8 +79,8 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Energieeffizienz/Treibhausgasminderung | 64 |
 | Forschung und Entwicklung/Digital Health | 61 |
 | Forschung und Entwicklung/Produktionstechnik | 48 |
+| Unternehmensfinanzierung | 32 |
 | Investition/Betriebsmittel | 30 |
-| Unternehmensfinanzierung | 30 |
 | EU-Fonds ESF+ | 26 |
 | Forschung und Entwicklung/Innovation | 23 |
 | Digitalisierung | 17 |
