@@ -1,7 +1,7 @@
 # Data Gaps
 
-- Erzeugt am: `2026-02-17 21:10`
-- Datensaetze: `984`
+- Erzeugt am: `2026-02-17 21:20`
+- Datensaetze: `986`
 
 ## Status-Verteilung
 
@@ -9,7 +9,7 @@
 |---|---:|
 | geplant | 5 |
 | laufend | 582 |
-| offen | 397 |
+| offen | 399 |
 
 ## Unterrepraesentierte Regionen
 
@@ -36,7 +36,7 @@
 | Region | Anzahl |
 |---|---:|
 | Deutschland | 689 |
-| EU (inkl. Deutschland) | 60 |
+| EU (inkl. Deutschland) | 62 |
 | Deutschland/International | 43 |
 | Rheinland-Pfalz | 17 |
 | Berlin | 16 |
@@ -88,8 +88,8 @@
 | Biotech/DeepTech | 1 |
 | Branchenfoerderung/Unternehmensfoerderung | 1 |
 | Cybersicherheit/Innovation/Gruendung | 1 |
-| DeepTech/Forschung/Innovation | 1 |
-| DeepTech/Technologietransfer/Validierung | 1 |
+| Deep Tech/Forschung und Innovation | 1 |
+| Deep Tech/Technologietransfer | 1 |
 
 ## Priorisierungsregel
 

@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-17`
-- Offen gesamt: `397`
+- Offen gesamt: `399`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `381`
+- Rollierend/ohne Datum: `383`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -364,7 +364,9 @@
 - `EU_CLEAN_HYDROGEN_JU` | Clean Hydrogen Joint Undertaking (Clean Hydrogen JU) | rollierend | https://www.clean-hydrogen.europa.eu/funding-calls_en
 - `EU_CREATIVE_EUROPE` | Creative Europe Programme | rollierend | https://culture.ec.europa.eu/creative-europe
 - `EU_DIGITAL_EUROPE_CALLS` | Digital Europe Programme - Open Calls | rollierend | https://digital-strategy.ec.europa.eu/en/activities/digital-programme
+- `EU_EIC_PATHFINDER_OPEN_2026` | EIC Pathfinder Open 2026 | rollierend | https://eic.ec.europa.eu/eic-funding-opportunities/eic-pathfinder_en
 - `EU_EIC_PATHFINDER` | EIC Pathfinder (EU) | rollierend | https://eic.ec.europa.eu/funding-opportunities_en
+- `EU_EIC_TRANSITION_OPEN_2026` | EIC Transition Open 2026 | rollierend | https://eic.ec.europa.eu/eic-funding-opportunities/eic-transition_en
 - `EU_EIC_TRANSITION` | EIC Transition (EU) | rollierend | https://eic.ec.europa.eu/funding-opportunities_en
 - `EU_EIT_COMMUNITY` | European Institute of Innovation and Technology (EIT) - Funding & Calls | rollierend | https://eit.europa.eu/our-activities/opportunities
 - `EU_ENTERPRISE_EUROPE_NETWORK` | Enterprise Europe Network (SMP COSME Strand) | rollierend | https://een.ec.europa.eu/

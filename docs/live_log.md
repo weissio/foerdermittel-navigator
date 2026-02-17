@@ -658,3 +658,8 @@
 - Datenausbau Prio I (Bund/BMUV): +2 Linien zur Exportinitiative Umweltschutz erfasst.
 - Neu: `BMUV_EXPORTINITIATIVE_UMWELTSCHUTZ_MARKTERSCHLIESSUNG` und `BMUV_EXPORTINITIATIVE_UMWELTSCHUTZ_PROJEKTANBAHNUNG`.
 - Fokus: internationale Markterschliessung und Projektanbahnung fuer GreenTech-Unternehmen.
+
+## 2026-02-17 17:10
+- Datenausbau Prio III (EU/EIC): +2 Open-Call-Linien fuer deutsche Unternehmen/KMU erfasst.
+- Neu: `EU_EIC_PATHFINDER_OPEN_2026` und `EU_EIC_TRANSITION_OPEN_2026`.
+- Fokus: fruehphasige Deep-Tech-Forschung (Pathfinder) und Transfer/Validierung bis Marktnaehe (Transition).

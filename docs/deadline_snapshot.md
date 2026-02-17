@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-17`
-- Gepruefte Datensaetze: `984`
+- Gepruefte Datensaetze: `986`
 
 ## Offen Mit Datumsfrist
 
@@ -362,7 +362,9 @@
 - `EU_CLEAN_HYDROGEN_JU` | Clean Hydrogen Joint Undertaking (Clean Hydrogen JU)
 - `EU_CREATIVE_EUROPE` | Creative Europe Programme
 - `EU_DIGITAL_EUROPE_CALLS` | Digital Europe Programme - Open Calls
+- `EU_EIC_PATHFINDER_OPEN_2026` | EIC Pathfinder Open 2026
 - `EU_EIC_PATHFINDER` | EIC Pathfinder (EU)
+- `EU_EIC_TRANSITION_OPEN_2026` | EIC Transition Open 2026
 - `EU_EIC_TRANSITION` | EIC Transition (EU)
 - `EU_EIT_COMMUNITY` | European Institute of Innovation and Technology (EIT) - Funding & Calls
 - `EU_ENTERPRISE_EUROPE_NETWORK` | Enterprise Europe Network (SMP COSME Strand)
