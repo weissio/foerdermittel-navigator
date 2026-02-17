@@ -703,3 +703,8 @@
 - Datenausbau Prio II (IBB Berlin): +2 Programmlinien fuer das IBB-Wachstumsprogramm aufgenommen.
 - Neu: `IBB_WACHSTUMSPROGRAMM_INVESTITION` und `IBB_WACHSTUMSPROGRAMM_BETRIEBSMITTEL`.
 - Fokus: Trennung Investitions- und Betriebsmittelfinanzierung fuer bessere Filterpraezision.
+
+## 2026-02-17 19:25
+- Datenausbau Prio II (SAB Sachsen): +2 Programmlinien fuer den SAB Sachsenkredit Universal aufgenommen.
+- Neu: `SAB_SACHSENKREDIT_UNIVERSAL_INVESTITION` und `SAB_SACHSENKREDIT_UNIVERSAL_BETRIEBSMITTEL`.
+- Fokus: Trennung Investitions- und Betriebsmittelfinanzierung fuer praezisere Filterlogik.

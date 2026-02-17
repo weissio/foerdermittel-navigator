@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-17 22:03`
-- Datensaetze: `1002`
-- Eindeutige `programm_id`: `1002`
+- Erzeugt am: `2026-02-17 22:06`
+- Datensaetze: `1004`
+- Eindeutige `programm_id`: `1004`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 592 |
+| laufend | 594 |
 | offen | 405 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 592 |
+| laufend | 594 |
 | offen | 405 |
 | zukuenftig | 5 |
 
@@ -31,12 +31,12 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Deutschland/International | 43 |
 | Berlin | 18 |
 | Rheinland-Pfalz | 17 |
+| Sachsen | 16 |
 | Bayern | 14 |
 | Brandenburg | 14 |
 | Hamburg | 14 |
 | Niedersachsen | 14 |
 | Nordrhein-Westfalen | 14 |
-| Sachsen | 14 |
 | Baden-Wuerttemberg | 12 |
 | Schleswig-Holstein | 12 |
 | Saarland | 11 |
@@ -67,10 +67,10 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | NBank | 9 |
 | EIC (EU) | 8 |
 | NRW.BANK | 7 |
+| SAB (Saechsische Aufbaubank) | 7 |
 | BMAS / ESF Plus | 6 |
 | Investitionsbank Sachsen-Anhalt (IB) | 6 |
 | L-Bank | 6 |
-| LfA Foerderbank Bayern | 6 |
 
 ## Top Themen
 
