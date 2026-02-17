@@ -2,16 +2,16 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-17 21:30`
-- Datensaetze: `990`
-- Eindeutige `programm_id`: `990`
+- Erzeugt am: `2026-02-17 21:38`
+- Datensaetze: `992`
+- Eindeutige `programm_id`: `992`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
 | laufend | 582 |
-| offen | 403 |
+| offen | 405 |
 | geplant | 5 |
 
 ## Kategorie
@@ -19,7 +19,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Kategorie | Anzahl |
 |---|---:|
 | laufend | 582 |
-| offen | 403 |
+| offen | 405 |
 | zukuenftig | 5 |
 
 ## Top Regionen
@@ -27,7 +27,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Region | Anzahl |
 |---|---:|
 | Deutschland | 689 |
-| EU (inkl. Deutschland) | 64 |
+| EU (inkl. Deutschland) | 66 |
 | Deutschland/International | 43 |
 | Rheinland-Pfalz | 17 |
 | Berlin | 16 |
@@ -62,9 +62,9 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | BMWK / Bundesrepublik Deutschland | 12 |
 | ISB (Rheinland-Pfalz) | 12 |
 | BMAS / INQA / ESF Plus | 9 |
+| Europaeische Kommission / CINEA | 9 |
 | NBank | 9 |
 | EIC (EU) | 8 |
-| Europaeische Kommission / CINEA | 7 |
 | IFB Hamburg | 7 |
 | BMAS / ESF Plus | 6 |
 | Investitionsbank Sachsen-Anhalt (IB) | 6 |

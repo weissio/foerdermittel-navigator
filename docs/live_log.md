@@ -673,3 +673,8 @@
 - Datenausbau Prio III (EU/LIFE): +2 thematische Call-Linien mit Unternehmens-/KMU-Fokus aufgenommen.
 - Neu: `EU_LIFE_CLEAN_ENERGY_TRANSITION` und `EU_LIFE_CIRCULAR_ECONOMY_QUALITY_OF_LIFE`.
 - Fokus: Clean-Energy-Transition sowie Kreislaufwirtschaft/Umweltinnovation mit CINEA-Call-Zugang.
+
+## 2026-02-17 17:52
+- Datenausbau Prio III (EU/LIFE): +2 weitere thematische Call-Linien aufgenommen.
+- Neu: `EU_LIFE_NATURE_BIODIVERSITY` und `EU_LIFE_CLIMATE_ACTION`.
+- Fokus: Biodiversitaet/Naturschutz sowie Klimaschutz/Klimaanpassung fuer Unternehmens- und Verbundvorhaben.

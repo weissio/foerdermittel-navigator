@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-17`
-- Gepruefte Datensaetze: `990`
+- Gepruefte Datensaetze: `992`
 
 ## Offen Mit Datumsfrist
 
@@ -396,6 +396,8 @@
 - `EU_JUST_TRANSITION_FUND` | Just Transition Fund (JTF) Programme
 - `EU_LIFE_CIRCULAR_ECONOMY_QUALITY_OF_LIFE` | LIFE Circular Economy and Quality of Life Calls
 - `EU_LIFE_CLEAN_ENERGY_TRANSITION` | LIFE Clean Energy Transition (CET) Calls
+- `EU_LIFE_CLIMATE_ACTION` | LIFE Climate Action Calls
+- `EU_LIFE_NATURE_BIODIVERSITY` | LIFE Nature and Biodiversity Calls
 - `EU_LIFE_PROGRAMME` | LIFE Programme (EU)
 - `EU_RAIL_JU` | Europe's Rail Joint Undertaking Calls
 - `EU_REPOWEREU` | REPowerEU (RRF-Ergaenzung)
