@@ -723,3 +723,8 @@
 - Datenausbau Prio II (WIBank Hessen): +2 Programmlinien fuer HessenFonds Grossdarlehen aufgenommen.
 - Neu: `WIBANK_HESSENFONDS_GROSSDARLEHEN_INVESTITION` und `WIBANK_HESSENFONDS_GROSSDARLEHEN_BETRIEBSMITTEL`.
 - Fokus: Trennung Investitions- und Betriebsmittelfinanzierung fuer praezises Matching.
+
+## 2026-02-17 20:35
+- Datenausbau Prio II (WIBank Hessen): +2 Programmlinien fuer HessenFonds Innovationskredit aufgenommen.
+- Neu: `WIBANK_HESSENFONDS_INNOVATIONSKREDIT_INVESTITION` und `WIBANK_HESSENFONDS_INNOVATIONSKREDIT_BETRIEBSMITTEL`.
+- Fokus: Trennung Investitions- und Betriebsmittelbezug fuer Innovationsvorhaben.

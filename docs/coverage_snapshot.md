@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-17 22:18`
-- Datensaetze: `1010`
-- Eindeutige `programm_id`: `1010`
+- Erzeugt am: `2026-02-17 22:21`
+- Datensaetze: `1012`
+- Eindeutige `programm_id`: `1012`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 600 |
+| laufend | 602 |
 | offen | 405 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 600 |
+| laufend | 602 |
 | offen | 405 |
 | zukuenftig | 5 |
 
@@ -35,10 +35,10 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Sachsen | 16 |
 | Brandenburg | 14 |
 | Hamburg | 14 |
+| Hessen | 14 |
 | Niedersachsen | 14 |
 | Nordrhein-Westfalen | 14 |
 | Baden-Wuerttemberg | 12 |
-| Hessen | 12 |
 | Schleswig-Holstein | 12 |
 | Saarland | 11 |
 | Sachsen-Anhalt | 10 |
@@ -61,11 +61,11 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | BMWK / EXIST | 13 |
 | BMWK / Bundesrepublik Deutschland | 12 |
 | ISB (Rheinland-Pfalz) | 12 |
+| WIBank (Hessen) | 11 |
 | BMAS / INQA / ESF Plus | 9 |
 | Europaeische Kommission / CINEA | 9 |
 | IFB Hamburg | 9 |
 | NBank | 9 |
-| WIBank (Hessen) | 9 |
 | EIC (EU) | 8 |
 | LfA Foerderbank Bayern | 8 |
 | NRW.BANK | 7 |
