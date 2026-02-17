@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-17`
-- Gepruefte Datensaetze: `962`
+- Gepruefte Datensaetze: `964`
 
 ## Offen Mit Datumsfrist
 
@@ -303,6 +303,8 @@
 - `BMDV_MFUND_FU_E_PROJEKTE` | mFUND - Forschungs- und Entwicklungsprojekte
 - `BMDV_MFUND_MACHBARKEITSSTUDIEN` | mFUND - Machbarkeitsstudien
 - `BMDV_MFUND` | mFUND - Foerderprogramm fuer datenbasierte digitale Innovationen
+- `BMDV_NIP_FUE_DEMONSTRATION` | NIP - F&E- und Demonstrationsprojekte Wasserstoff/Brennstoffzelle
+- `BMDV_NIP_MARKTHOCHLAUF` | NIP - Markthochlauf und Umsetzung Wasserstoff-/Brennstoffzellenanwendungen
 - `BMDV_NIP_WASSERSTOFF_BRENNSTOFFZELLE` | Nationales Innovationsprogramm Wasserstoff- und Brennstoffzellentechnologie (NIP)
 - `BMEL_BLE_INNOVATIONSFOERDERUNG` | Innovationsfoerderung des BMEL (BLE)
 - `BMEL_BULEPLUS` | BULEplus - Bundesprogramm Laendliche Entwicklung und Regionale Wertschoepfung

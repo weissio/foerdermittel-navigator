@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-17`
-- Offen gesamt: `380`
+- Offen gesamt: `382`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `364`
+- Rollierend/ohne Datum: `366`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -305,6 +305,8 @@
 - `BMDV_MFUND_FU_E_PROJEKTE` | mFUND - Forschungs- und Entwicklungsprojekte | rollierend | https://www.bmdv.bund.de/DE/Themen/Digitales/mFUND/mFUND.html
 - `BMDV_MFUND_MACHBARKEITSSTUDIEN` | mFUND - Machbarkeitsstudien | rollierend | https://www.bmdv.bund.de/DE/Themen/Digitales/mFUND/mFUND.html
 - `BMDV_MFUND` | mFUND - Foerderprogramm fuer datenbasierte digitale Innovationen | rollierend | https://www.bmdv.bund.de/DE/Themen/Digitales/mFUND/mFUND.html
+- `BMDV_NIP_FUE_DEMONSTRATION` | NIP - F&E- und Demonstrationsprojekte Wasserstoff/Brennstoffzelle | rollierend | https://www.now-gmbh.de/foerderung/foerderprogramme/nip/
+- `BMDV_NIP_MARKTHOCHLAUF` | NIP - Markthochlauf und Umsetzung Wasserstoff-/Brennstoffzellenanwendungen | rollierend | https://www.now-gmbh.de/foerderung/foerderprogramme/nip/
 - `BMDV_NIP_WASSERSTOFF_BRENNSTOFFZELLE` | Nationales Innovationsprogramm Wasserstoff- und Brennstoffzellentechnologie (NIP) | rollierend | https://www.now-gmbh.de/foerderung/foerderprogramme/nip/
 - `BMEL_BLE_INNOVATIONSFOERDERUNG` | Innovationsfoerderung des BMEL (BLE) | rollierend | https://www.ble.de/DE/Projektfoerderung/Foerderungen-Auftraege/Innovationsfoerderung/innovationsfoerderung_node.html
 - `BMEL_BULEPLUS` | BULEplus - Bundesprogramm Laendliche Entwicklung und Regionale Wertschoepfung | rollierend | https://www.bmel.de/DE/themen/laendliche-regionen/foerderung-des-laendlichen-raums/buleplus.html
