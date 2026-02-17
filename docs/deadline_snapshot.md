@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-17`
-- Gepruefte Datensaetze: `964`
+- Gepruefte Datensaetze: `966`
 
 ## Offen Mit Datumsfrist
 
@@ -26,6 +26,8 @@
 
 - `BMAS_INQA_EXPERIMENTIERRAEUME` | INQA-Experimentierräume (BMAS/INQA)
 - `BMAS_KOMPASS_QUALIFIZIERUNGSSCHECK` | KOMPASS - Qualifizierungsscheck fuer Solo-Selbststaendige
+- `BMAS_ZUKUNFTSZENTREN_BERATUNG` | Zukunftszentren - Transformationsberatung fuer KMU
+- `BMAS_ZUKUNFTSZENTREN_QUALIFIZIERUNG` | Zukunftszentren - Qualifizierung und Kompetenzaufbau
 - `BMAS_ZUKUNFTSZENTREN` | Foerderprogramm Zukunftszentren (BMAS/ESF Plus)
 - `BMBF_DATIPILOT_INNOVATIONSCOMMUNITIES` | DATIpilot - Innovationscommunities
 - `BMBF_DATIPILOT_INNOVATIONSSPRINTS` | DATIpilot - Innovationssprints
