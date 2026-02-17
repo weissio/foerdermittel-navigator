@@ -678,3 +678,8 @@
 - Datenausbau Prio III (EU/LIFE): +2 weitere thematische Call-Linien aufgenommen.
 - Neu: `EU_LIFE_NATURE_BIODIVERSITY` und `EU_LIFE_CLIMATE_ACTION`.
 - Fokus: Biodiversitaet/Naturschutz sowie Klimaschutz/Klimaanpassung fuer Unternehmens- und Verbundvorhaben.
+
+## 2026-02-17 18:07
+- Datenausbau Prio II (Landesbank NRW): +2 Programmlinien zur NRW.BANK.Gruendung-und-Wachstum-Logik aufgenommen.
+- Neu: `NRWBANK_GRUENDUNG_WACHSTUM_INVESTITION` und `NRWBANK_GRUENDUNG_WACHSTUM_BETRIEBSMITTEL`.
+- Fokus: klare Trennung Investitions- vs. Betriebsmittelfinanzierung fuer bessere Filterbarkeit.
