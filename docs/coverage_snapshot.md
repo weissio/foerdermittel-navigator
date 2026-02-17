@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-17 22:14`
-- Datensaetze: `1008`
-- Eindeutige `programm_id`: `1008`
+- Erzeugt am: `2026-02-17 22:18`
+- Datensaetze: `1010`
+- Eindeutige `programm_id`: `1010`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 598 |
+| laufend | 600 |
 | offen | 405 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 598 |
+| laufend | 600 |
 | offen | 405 |
 | zukuenftig | 5 |
 
@@ -38,9 +38,9 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Niedersachsen | 14 |
 | Nordrhein-Westfalen | 14 |
 | Baden-Wuerttemberg | 12 |
+| Hessen | 12 |
 | Schleswig-Holstein | 12 |
 | Saarland | 11 |
-| Hessen | 10 |
 | Sachsen-Anhalt | 10 |
 | Bremen | 8 |
 | Mecklenburg-Vorpommern | 8 |
@@ -65,11 +65,11 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Europaeische Kommission / CINEA | 9 |
 | IFB Hamburg | 9 |
 | NBank | 9 |
+| WIBank (Hessen) | 9 |
 | EIC (EU) | 8 |
 | LfA Foerderbank Bayern | 8 |
 | NRW.BANK | 7 |
 | SAB (Saechsische Aufbaubank) | 7 |
-| WIBank (Hessen) | 7 |
 | BMAS / ESF Plus | 6 |
 
 ## Top Themen
@@ -79,7 +79,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Energieeffizienz/Treibhausgasminderung | 64 |
 | Forschung und Entwicklung/Digital Health | 61 |
 | Forschung und Entwicklung/Produktionstechnik | 48 |
-| Unternehmensfinanzierung | 34 |
+| Unternehmensfinanzierung | 36 |
 | Investition/Betriebsmittel | 30 |
 | EU-Fonds ESF+ | 26 |
 | Forschung und Entwicklung/Innovation | 23 |
