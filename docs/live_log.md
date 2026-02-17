@@ -733,3 +733,8 @@
 - Datenausbau Prio II (WIBank Hessen): +2 Programmlinien fuer HessenFonds Gruendung und Wachstum (ERP) aufgenommen.
 - Neu: `WIBANK_HESSENFONDS_GUW_ERP_INVESTITION` und `WIBANK_HESSENFONDS_GUW_ERP_BETRIEBSMITTEL`.
 - Fokus: Trennung Investitions- und Betriebsmittelfinanzierung in der Gruendungs-/Wachstumslogik.
+
+## 2026-02-17 21:05
+- Datenausbau Prio II (IB Sachsen-Anhalt): +2 Programmlinien fuer Wachstumsfinanzierung Sachsen-Anhalt aufgenommen.
+- Neu: `IB_SA_WACHSTUM_INVESTITION` und `IB_SA_WACHSTUM_BETRIEBSMITTEL`.
+- Fokus: Trennung Investitions- und Betriebsmittelfinanzierung fuer praezise Filterlogik.

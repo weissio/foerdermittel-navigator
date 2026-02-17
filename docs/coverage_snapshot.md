@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-17 22:25`
-- Datensaetze: `1014`
-- Eindeutige `programm_id`: `1014`
+- Erzeugt am: `2026-02-17 22:29`
+- Datensaetze: `1016`
+- Eindeutige `programm_id`: `1016`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 604 |
+| laufend | 606 |
 | offen | 405 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 604 |
+| laufend | 606 |
 | offen | 405 |
 | zukuenftig | 5 |
 
@@ -39,9 +39,9 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Niedersachsen | 14 |
 | Nordrhein-Westfalen | 14 |
 | Baden-Wuerttemberg | 12 |
+| Sachsen-Anhalt | 12 |
 | Schleswig-Holstein | 12 |
 | Saarland | 11 |
-| Sachsen-Anhalt | 10 |
 | Bremen | 8 |
 | Mecklenburg-Vorpommern | 8 |
 | Thueringen | 8 |
@@ -67,10 +67,10 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | IFB Hamburg | 9 |
 | NBank | 9 |
 | EIC (EU) | 8 |
+| Investitionsbank Sachsen-Anhalt (IB) | 8 |
 | LfA Foerderbank Bayern | 8 |
 | NRW.BANK | 7 |
 | SAB (Saechsische Aufbaubank) | 7 |
-| BMAS / ESF Plus | 6 |
 
 ## Top Themen
 
@@ -91,9 +91,9 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Digitalisierung/Innovation | 11 |
 | Gruendung/Nachfolge | 11 |
 | Gruendung/Wachstum | 11 |
+| Wachstum/Investition | 11 |
 | Energieeffizienz/Lastmanagement | 9 |
 | Forschung und Entwicklung | 9 |
-| Wachstum/Investition | 9 |
 | Energieeffizienz/Digitalisierung | 8 |
 | Gruendung/Innovation | 8 |
 
