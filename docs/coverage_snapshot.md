@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-17 22:41`
-- Datensaetze: `1020`
-- Eindeutige `programm_id`: `1020`
+- Erzeugt am: `2026-02-17 22:45`
+- Datensaetze: `1022`
+- Eindeutige `programm_id`: `1022`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 610 |
+| laufend | 612 |
 | offen | 405 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 610 |
+| laufend | 612 |
 | offen | 405 |
 | zukuenftig | 5 |
 
@@ -32,11 +32,11 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Berlin | 18 |
 | Rheinland-Pfalz | 17 |
 | Bayern | 16 |
+| Hamburg | 16 |
 | Hessen | 16 |
 | Nordrhein-Westfalen | 16 |
 | Sachsen | 16 |
 | Brandenburg | 14 |
-| Hamburg | 14 |
 | Niedersachsen | 14 |
 | Sachsen-Anhalt | 14 |
 | Baden-Wuerttemberg | 12 |
@@ -62,10 +62,10 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | WIBank (Hessen) | 13 |
 | BMWK / Bundesrepublik Deutschland | 12 |
 | ISB (Rheinland-Pfalz) | 12 |
+| IFB Hamburg | 11 |
 | Investitionsbank Sachsen-Anhalt (IB) | 10 |
 | BMAS / INQA / ESF Plus | 9 |
 | Europaeische Kommission / CINEA | 9 |
-| IFB Hamburg | 9 |
 | NBank | 9 |
 | NRW.BANK | 9 |
 | EIC (EU) | 8 |
@@ -79,7 +79,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Energieeffizienz/Treibhausgasminderung | 64 |
 | Forschung und Entwicklung/Digital Health | 61 |
 | Forschung und Entwicklung/Produktionstechnik | 48 |
-| Unternehmensfinanzierung | 40 |
+| Unternehmensfinanzierung | 42 |
 | Investition/Betriebsmittel | 30 |
 | EU-Fonds ESF+ | 26 |
 | Forschung und Entwicklung/Innovation | 23 |

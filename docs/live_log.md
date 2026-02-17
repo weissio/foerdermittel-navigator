@@ -748,3 +748,8 @@
 - Datenausbau Prio II (NRW.BANK): +2 Programmlinien fuer den NRW.BANK.Universalkredit aufgenommen.
 - Neu: `NRWBANK_UNIVERSALKREDIT_INVESTITION` und `NRWBANK_UNIVERSALKREDIT_BETRIEBSMITTEL`.
 - Fokus: Trennung Investitions- und Betriebsmittelfinanzierung fuer praezisere Filterlogik.
+
+## 2026-02-17 21:50
+- Datenausbau Prio II (IFB Hamburg): +2 Programmlinien fuer Hamburg-Kredit Universal aufgenommen.
+- Neu: `IFB_HAMBURG_KREDIT_UNIVERSAL_INVESTITION` und `IFB_HAMBURG_KREDIT_UNIVERSAL_BETRIEBSMITTEL`.
+- Fokus: Trennung Investitions- und Betriebsmittelfinanzierung fuer praeziseres Matching.
