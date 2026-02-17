@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-17`
-- Offen gesamt: `371`
+- Offen gesamt: `373`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `355`
+- Rollierend/ohne Datum: `357`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -294,7 +294,9 @@
 - `BMBF_KMU_INNOVATIV_ZELLTHERAPIE` | KMU-innovativ - Zelltherapien und biomedizinische Plattformtechnologien | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV_ZERO_TRUST_OT` | KMU-innovativ - Zero-Trust-Sicherheit fuer industrielle OT-Netze | rollierend | https://www.kmu-innovativ.de/
 - `BMBF_KMU_INNOVATIV` | KMU-innovativ: Forschung fuer den Mittelstand | rollierend | https://www.kmu-innovativ.de/
+- `BMBF_RUBIN` | RUBIN - Regionale unternehmerische Buendnisse fuer Innovation (BMBF) | rollierend | https://www.bmbf.de/bmbf/de/forschung/innovationen/wandel-durch-innovation-in-der-region/wandel-durch-innovation-in-der-region_node.html
 - `BMBF_STARTUPSECURE` | StartUpSecure (BMBF) | rollierend | https://www.startupsecure.de/
+- `BMBF_T_RAUM` | T!Raum - TransferRaeume fuer die Zukunft von Regionen (BMBF) | rollierend | https://www.bmbf.de/bmbf/de/forschung/innovationen/wandel-durch-innovation-in-der-region/wandel-durch-innovation-in-der-region_node.html
 - `BMBF_VIP_PLUS` | VIP+ - Validierung des technologischen und gesellschaftlichen Innovationspotenzials wissenschaftlicher Forschung | rollierend | https://www.bmbf.de/bmbf/de/forschung/innovationen/wissens-und-technologietransfer/vip/vip.html
 - `BMBF_WIR` | WIR! - Wandel durch Innovation in der Region (BMBF) | rollierend | https://www.wandel-durch-innovation-in-der-region.de/
 - `BMDV_KSNI` | Foerderprogramm Klimaschonende Nutzfahrzeuge und Infrastruktur (KsNI) | rollierend | https://bmdv.bund.de/SharedDocs/DE/Artikel/G/ksni-foerderung.html

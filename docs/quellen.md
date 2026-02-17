@@ -318,3 +318,5 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 
 - https://www.unternehmen-revier.de/
 - https://www.wandel-durch-innovation-in-der-region.de/
+
+- https://www.bmbf.de/bmbf/de/forschung/innovationen/wandel-durch-innovation-in-der-region/wandel-durch-innovation-in-der-region_node.html

@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-17`
-- Gepruefte Datensaetze: `952`
+- Gepruefte Datensaetze: `954`
 
 ## Offen Mit Datumsfrist
 
@@ -292,7 +292,9 @@
 - `BMBF_KMU_INNOVATIV_ZELLTHERAPIE` | KMU-innovativ - Zelltherapien und biomedizinische Plattformtechnologien
 - `BMBF_KMU_INNOVATIV_ZERO_TRUST_OT` | KMU-innovativ - Zero-Trust-Sicherheit fuer industrielle OT-Netze
 - `BMBF_KMU_INNOVATIV` | KMU-innovativ: Forschung fuer den Mittelstand
+- `BMBF_RUBIN` | RUBIN - Regionale unternehmerische Buendnisse fuer Innovation (BMBF)
 - `BMBF_STARTUPSECURE` | StartUpSecure (BMBF)
+- `BMBF_T_RAUM` | T!Raum - TransferRaeume fuer die Zukunft von Regionen (BMBF)
 - `BMBF_VIP_PLUS` | VIP+ - Validierung des technologischen und gesellschaftlichen Innovationspotenzials wissenschaftlicher Forschung
 - `BMBF_WIR` | WIR! - Wandel durch Innovation in der Region (BMBF)
 - `BMDV_KSNI` | Foerderprogramm Klimaschonende Nutzfahrzeuge und Infrastruktur (KsNI)
