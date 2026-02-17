@@ -643,3 +643,8 @@
 - Datenausbau Prio I (Bund/BMFTR): +2 FH-Personal-Programmlinien nachgezogen.
 - Neu: `BMBF_FH_PERSONAL_REKRUTIERUNG` und `BMBF_FH_PERSONAL_PERSONALENTWICKLUNG`.
 - Fokus: Rekrutierung, Qualifizierung und Karrierepfade fuer professorales Personal an HAW/FH.
+
+## 2026-02-17 16:22
+- Datenausbau Prio I (Bund/KfW): +2 Produktvarianten im Segment Erneuerbare Energien Premium aufgenommen.
+- Neu: `KFW_271_INVESTITION` und `KFW_281_INVESTITION`.
+- Quelle in `docs/quellen.md` ergaenzt.

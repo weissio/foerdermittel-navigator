@@ -328,3 +328,5 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - https://www.forschung-fachhochschulen.de/
 
 - https://www.kfw.de/inlandsfoerderung/Unternehmen/Energie-Umwelt/F%C3%B6rderprodukte/Klimafreundlicher-Neubau-Nichtwohngeb%C3%A4ude-%28299-300%29/
+
+- https://www.kfw.de/inlandsfoerderung/Unternehmen/Energie-Umwelt/F%C3%B6rderprodukte/Erneuerbare-Energien-Premium-(271-281)/
