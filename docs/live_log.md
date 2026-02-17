@@ -618,3 +618,8 @@
 - Datenausbau Prio I (Bund/KfW): +5 Produktvarianten nachgefuehrt.
 - Neu: `KFW_290`, `KFW_291`, `KFW_294`, `KFW_295`, `KFW_296`.
 - Ziel: vollstaendigere Variantenabdeckung im Segment `KfW-Foerderkredit grosser Mittelstand`.
+
+## 2026-02-17 15:05
+- Datenausbau Prio I (Bund/BMFTR): +2 Programme im Hochschul-Transferkontext aufgenommen.
+- Neu: `BMBF_FH_PERSONAL` und `BMBF_FORSCHUNG_AN_FACHHOCHSCHULEN`.
+- Quellen in `docs/quellen.md` um die offiziellen Programmportale ergaenzt.

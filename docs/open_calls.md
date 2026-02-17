@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-17`
-- Offen gesamt: `386`
+- Offen gesamt: `387`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `370`
+- Rollierend/ohne Datum: `371`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -33,6 +33,7 @@
 - `BMAS_ZUKUNFTSZENTREN` | Foerderprogramm Zukunftszentren (BMAS/ESF Plus) | rollierend | https://www.bmas.de/DE/Arbeit/Digitalisierung-der-Arbeitswelt/Foerderprogramm-Zukunftszentren/foerderprogramm-zukunftszentren.html
 - `BMBF_DATIPILOT_INNOVATIONSCOMMUNITIES` | DATIpilot - Innovationscommunities | rollierend | https://www.bmbf.de/bmbf/de/forschung/innovationen/datipilot/datipilot_node.html
 - `BMBF_DATIPILOT_INNOVATIONSSPRINTS` | DATIpilot - Innovationssprints | rollierend | https://www.bmbf.de/bmbf/de/forschung/innovationen/datipilot/datipilot_node.html
+- `BMBF_FORSCHUNG_AN_FACHHOCHSCHULEN` | Forschung an Fachhochschulen (Programmportal) | rollierend | https://www.forschung-fachhochschulen.de/
 - `BMBF_GO_BIO_PHASE1` | GO-Bio - Phase I (Validierung und Entwicklung) | rollierend | https://www.bmbf.de/bmbf/de/forschung/lebenswissenschaften/foerderinitiativen/go-bio/go-bio.html
 - `BMBF_GO_BIO_PHASE2` | GO-Bio - Phase II (Gruendung und Markteintritt) | rollierend | https://www.bmbf.de/bmbf/de/forschung/lebenswissenschaften/foerderinitiativen/go-bio/go-bio.html
 - `BMBF_GO_BIO` | GO-Bio - Gruendungsoffensive Biotechnologie | rollierend | https://www.bmbf.de/bmbf/de/forschung/lebenswissenschaften/foerderinitiativen/go-bio/go-bio.html

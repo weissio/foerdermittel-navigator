@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-17`
-- Gepruefte Datensaetze: `968`
+- Gepruefte Datensaetze: `970`
 
 ## Offen Mit Datumsfrist
 
@@ -31,6 +31,7 @@
 - `BMAS_ZUKUNFTSZENTREN` | Foerderprogramm Zukunftszentren (BMAS/ESF Plus)
 - `BMBF_DATIPILOT_INNOVATIONSCOMMUNITIES` | DATIpilot - Innovationscommunities
 - `BMBF_DATIPILOT_INNOVATIONSSPRINTS` | DATIpilot - Innovationssprints
+- `BMBF_FORSCHUNG_AN_FACHHOCHSCHULEN` | Forschung an Fachhochschulen (Programmportal)
 - `BMBF_GO_BIO_PHASE1` | GO-Bio - Phase I (Validierung und Entwicklung)
 - `BMBF_GO_BIO_PHASE2` | GO-Bio - Phase II (Gruendung und Markteintritt)
 - `BMBF_GO_BIO` | GO-Bio - Gruendungsoffensive Biotechnologie
