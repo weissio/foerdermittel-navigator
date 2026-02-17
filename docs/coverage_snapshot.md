@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-17 21:54`
-- Datensaetze: `998`
-- Eindeutige `programm_id`: `998`
+- Erzeugt am: `2026-02-17 21:58`
+- Datensaetze: `1000`
+- Eindeutige `programm_id`: `1000`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 588 |
+| laufend | 590 |
 | offen | 405 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 588 |
+| laufend | 590 |
 | offen | 405 |
 | zukuenftig | 5 |
 
@@ -33,11 +33,11 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Berlin | 16 |
 | Bayern | 14 |
 | Brandenburg | 14 |
+| Hamburg | 14 |
 | Niedersachsen | 14 |
 | Nordrhein-Westfalen | 14 |
 | Sachsen | 14 |
 | Baden-Wuerttemberg | 12 |
-| Hamburg | 12 |
 | Schleswig-Holstein | 12 |
 | Saarland | 11 |
 | Sachsen-Anhalt | 10 |
@@ -63,9 +63,9 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | ISB (Rheinland-Pfalz) | 12 |
 | BMAS / INQA / ESF Plus | 9 |
 | Europaeische Kommission / CINEA | 9 |
+| IFB Hamburg | 9 |
 | NBank | 9 |
 | EIC (EU) | 8 |
-| IFB Hamburg | 7 |
 | NRW.BANK | 7 |
 | BMAS / ESF Plus | 6 |
 | Investitionsbank Sachsen-Anhalt (IB) | 6 |

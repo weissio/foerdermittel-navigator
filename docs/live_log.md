@@ -693,3 +693,8 @@
 - Datenausbau Prio II (Landesbank Saarland/SIKB): +2 Programmlinien fuer SIKB Investitionsdarlehen aufgenommen.
 - Neu: `SIKB_INVEST_DARLEHEN_INVESTITION` und `SIKB_INVEST_DARLEHEN_BETRIEBSMITTEL`.
 - Fokus: Trennung Investitions- und Betriebsmittelfinanzierung fuer bessere Filterpraezision.
+
+## 2026-02-17 18:45
+- Datenausbau Prio II (IFB Hamburg): +2 Programmlinien fuer Hamburg-Kredit Wachstum aufgenommen.
+- Neu: `IFB_HAMBURG_KREDIT_WACHSTUM_INVESTITION` und `IFB_HAMBURG_KREDIT_WACHSTUM_BETRIEBSMITTEL`.
+- Fokus: Trennung Investitions- und Betriebsmittelfinanzierung fuer bessere Filterlogik.
