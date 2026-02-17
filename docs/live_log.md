@@ -668,3 +668,8 @@
 - Datenausbau Prio III (EU/EUREKA): +2 Programmlinien fuer internationale F&E-Kooperationen mit deutschem Unternehmensbezug erfasst.
 - Neu: `EU_EUREKA_NETWORK_PROJECTS` und `EU_EUREKA_CLUSTERS`.
 - Fokus: marktorientierte internationale F&E-Verbundvorhaben mit nationaler Kofinanzierung.
+
+## 2026-02-17 17:40
+- Datenausbau Prio III (EU/LIFE): +2 thematische Call-Linien mit Unternehmens-/KMU-Fokus aufgenommen.
+- Neu: `EU_LIFE_CLEAN_ENERGY_TRANSITION` und `EU_LIFE_CIRCULAR_ECONOMY_QUALITY_OF_LIFE`.
+- Fokus: Clean-Energy-Transition sowie Kreislaufwirtschaft/Umweltinnovation mit CINEA-Call-Zugang.

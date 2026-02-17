@@ -2,16 +2,16 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-17 21:27`
-- Datensaetze: `988`
-- Eindeutige `programm_id`: `988`
+- Erzeugt am: `2026-02-17 21:30`
+- Datensaetze: `990`
+- Eindeutige `programm_id`: `990`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
 | laufend | 582 |
-| offen | 401 |
+| offen | 403 |
 | geplant | 5 |
 
 ## Kategorie
@@ -19,7 +19,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Kategorie | Anzahl |
 |---|---:|
 | laufend | 582 |
-| offen | 401 |
+| offen | 403 |
 | zukuenftig | 5 |
 
 ## Top Regionen
@@ -27,7 +27,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Region | Anzahl |
 |---|---:|
 | Deutschland | 689 |
-| EU (inkl. Deutschland) | 62 |
+| EU (inkl. Deutschland) | 64 |
 | Deutschland/International | 43 |
 | Rheinland-Pfalz | 17 |
 | Berlin | 16 |
@@ -64,13 +64,13 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | BMAS / INQA / ESF Plus | 9 |
 | NBank | 9 |
 | EIC (EU) | 8 |
+| Europaeische Kommission / CINEA | 7 |
 | IFB Hamburg | 7 |
 | BMAS / ESF Plus | 6 |
 | Investitionsbank Sachsen-Anhalt (IB) | 6 |
 | L-Bank | 6 |
 | LfA Foerderbank Bayern | 6 |
 | Saechsische Aufbaubank (SAB) | 6 |
-| Thueringer Aufbaubank (TAB) | 6 |
 
 ## Top Themen
 

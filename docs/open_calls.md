@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-17`
-- Offen gesamt: `401`
+- Offen gesamt: `403`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `385`
+- Rollierend/ohne Datum: `387`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -396,6 +396,8 @@
 - `EU_INTERREG` | Interreg 2021-2027 | rollierend | https://interreg.eu/
 - `EU_INVESTEU` | InvestEU Programme | rollierend | https://investeu.europa.eu/index_en
 - `EU_JUST_TRANSITION_FUND` | Just Transition Fund (JTF) Programme | rollierend | https://ec.europa.eu/regional_policy/funding/just-transition-fund_en
+- `EU_LIFE_CIRCULAR_ECONOMY_QUALITY_OF_LIFE` | LIFE Circular Economy and Quality of Life Calls | rollierend | https://cinea.ec.europa.eu/life/life-calls-proposals_en
+- `EU_LIFE_CLEAN_ENERGY_TRANSITION` | LIFE Clean Energy Transition (CET) Calls | rollierend | https://cinea.ec.europa.eu/life/life-calls-proposals_en
 - `EU_LIFE_PROGRAMME` | LIFE Programme (EU) | rollierend | https://cinea.ec.europa.eu/life_en
 - `EU_RAIL_JU` | Europe's Rail Joint Undertaking Calls | rollierend | https://rail-research.europa.eu/get-involved/calls-for-proposals/
 - `EU_REPOWEREU` | REPowerEU (RRF-Ergaenzung) | rollierend | https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/european-green-deal/repowereu-affordable-secure-and-sustainable-energy-europe_en

@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-17`
-- Gepruefte Datensaetze: `988`
+- Gepruefte Datensaetze: `990`
 
 ## Offen Mit Datumsfrist
 
@@ -394,6 +394,8 @@
 - `EU_INTERREG` | Interreg 2021-2027
 - `EU_INVESTEU` | InvestEU Programme
 - `EU_JUST_TRANSITION_FUND` | Just Transition Fund (JTF) Programme
+- `EU_LIFE_CIRCULAR_ECONOMY_QUALITY_OF_LIFE` | LIFE Circular Economy and Quality of Life Calls
+- `EU_LIFE_CLEAN_ENERGY_TRANSITION` | LIFE Clean Energy Transition (CET) Calls
 - `EU_LIFE_PROGRAMME` | LIFE Programme (EU)
 - `EU_RAIL_JU` | Europe's Rail Joint Undertaking Calls
 - `EU_REPOWEREU` | REPowerEU (RRF-Ergaenzung)
