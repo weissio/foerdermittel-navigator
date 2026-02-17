@@ -1,14 +1,14 @@
 # Data Gaps
 
-- Erzeugt am: `2026-02-17 21:42`
-- Datensaetze: `994`
+- Erzeugt am: `2026-02-17 21:46`
+- Datensaetze: `996`
 
 ## Status-Verteilung
 
 | Status | Anzahl |
 |---|---:|
 | geplant | 5 |
-| laufend | 584 |
+| laufend | 586 |
 | offen | 405 |
 
 ## Unterrepraesentierte Regionen
@@ -28,8 +28,8 @@
 | Saarland | 9 |
 | Sachsen-Anhalt | 10 |
 | Baden-Wuerttemberg | 12 |
-| Brandenburg | 12 |
 | Hamburg | 12 |
+| Schleswig-Holstein | 12 |
 
 ## Dominierende Regionen
 
@@ -41,11 +41,11 @@
 | Rheinland-Pfalz | 17 |
 | Berlin | 16 |
 | Bayern | 14 |
+| Brandenburg | 14 |
 | Niedersachsen | 14 |
 | Nordrhein-Westfalen | 14 |
 | Sachsen | 14 |
 | Baden-Wuerttemberg | 12 |
-| Brandenburg | 12 |
 | Hamburg | 12 |
 | Schleswig-Holstein | 12 |
 | Sachsen-Anhalt | 10 |

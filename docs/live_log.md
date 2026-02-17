@@ -683,3 +683,8 @@
 - Datenausbau Prio II (Landesbank NRW): +2 Programmlinien zur NRW.BANK.Gruendung-und-Wachstum-Logik aufgenommen.
 - Neu: `NRWBANK_GRUENDUNG_WACHSTUM_INVESTITION` und `NRWBANK_GRUENDUNG_WACHSTUM_BETRIEBSMITTEL`.
 - Fokus: klare Trennung Investitions- vs. Betriebsmittelfinanzierung fuer bessere Filterbarkeit.
+
+## 2026-02-17 18:17
+- Datenausbau Prio II (Landesbank Brandenburg/ILB): +2 Programmlinien fuer Brandenburg-Kredit Unternehmen aufgenommen.
+- Neu: `ILB_BRANDENBURG_KREDIT_UNTERNEHMEN_INVESTITION` und `ILB_BRANDENBURG_KREDIT_UNTERNEHMEN_BETRIEBSMITTEL`.
+- Fokus: Trennung Investitions- und Betriebsmittelfinanzierung fuer praezisere Filter.
