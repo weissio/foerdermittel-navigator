@@ -628,3 +628,8 @@
 - Datenausbau Prio I (Bund/KfW): +2 Programme fuer klimafreundlichen Nichtwohngebaeude-Neubau aufgenommen.
 - Neu: `KFW_299_INVESTITION` und `KFW_300_INVESTITION`.
 - Quelle in `docs/quellen.md` ergaenzt.
+
+## 2026-02-17 15:36
+- Datenausbau Prio I (Bund/BMFTR): +2 Programmlinien im Segment Forschung an Fachhochschulen aufgenommen.
+- Neu: `BMBF_FH_KOOPERATIVE_FUE` und `BMBF_FH_TRANSFER_QUALIFIZIERUNG`.
+- Fokus: kooperative F&E und Transfer/Qualifizierung mit Unternehmensbezug (KMU).

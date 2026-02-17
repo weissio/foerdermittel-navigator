@@ -1,7 +1,7 @@
 # Data Gaps
 
-- Erzeugt am: `2026-02-17 18:14`
-- Datensaetze: `972`
+- Erzeugt am: `2026-02-17 18:18`
+- Datensaetze: `974`
 
 ## Status-Verteilung
 
@@ -9,7 +9,7 @@
 |---|---:|
 | geplant | 5 |
 | laufend | 580 |
-| offen | 387 |
+| offen | 389 |
 
 ## Unterrepraesentierte Regionen
 
@@ -35,7 +35,7 @@
 
 | Region | Anzahl |
 |---|---:|
-| Deutschland | 679 |
+| Deutschland | 681 |
 | EU (inkl. Deutschland) | 60 |
 | Deutschland/International | 41 |
 | Rheinland-Pfalz | 17 |
@@ -59,7 +59,6 @@
 | BMAS / INQA | 1 |
 | BMEL / FNR | 1 |
 | BMFTR / Laender / Projekttraeger Juelich | 1 |
-| BMFTR / Projekttraeger Juelich | 1 |
 | BMUV / Zukunft Umwelt Gesellschaft (ZUG) | 1 |
 | BMWK (Nationales Portal) / EU | 1 |
 | BMWK / AiF / internationale Partner | 1 |
@@ -70,6 +69,7 @@
 | BMWK/ZIM (DE) + NCBR (PL) | 1 |
 | BMWK/ZIM (DE) + NRC IRAP (CA) | 1 |
 | BMWSB / BBSR | 1 |
+| BMZ / DEG | 1 |
 
 ## Unterrepraesentierte Themen
 
