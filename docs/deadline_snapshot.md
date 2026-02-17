@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-17`
-- Gepruefte Datensaetze: `986`
+- Gepruefte Datensaetze: `988`
 
 ## Offen Mit Datumsfrist
 
@@ -370,7 +370,9 @@
 - `EU_ENTERPRISE_EUROPE_NETWORK` | Enterprise Europe Network (SMP COSME Strand)
 - `EU_ERASMUS_PLUS` | Erasmus+ Programme
 - `EU_EU4HEALTH` | EU4Health Programme
+- `EU_EUREKA_CLUSTERS` | EUREKA Clusters
 - `EU_EUREKA_GLOBALSTARS` | Globalstars (EUREKA)
+- `EU_EUREKA_NETWORK_PROJECTS` | EUREKA Network Projects
 - `EU_EUROHPC_JU` | EuroHPC Joint Undertaking Calls
 - `EU_EUROPEAN_DEFENCE_FUND` | European Defence Fund (EDF)
 - `EU_EUROSTARS` | Eurostars (EUREKA / Innovative SMEs Partnership)

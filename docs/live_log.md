@@ -663,3 +663,8 @@
 - Datenausbau Prio III (EU/EIC): +2 Open-Call-Linien fuer deutsche Unternehmen/KMU erfasst.
 - Neu: `EU_EIC_PATHFINDER_OPEN_2026` und `EU_EIC_TRANSITION_OPEN_2026`.
 - Fokus: fruehphasige Deep-Tech-Forschung (Pathfinder) und Transfer/Validierung bis Marktnaehe (Transition).
+
+## 2026-02-17 17:24
+- Datenausbau Prio III (EU/EUREKA): +2 Programmlinien fuer internationale F&E-Kooperationen mit deutschem Unternehmensbezug erfasst.
+- Neu: `EU_EUREKA_NETWORK_PROJECTS` und `EU_EUREKA_CLUSTERS`.
+- Fokus: marktorientierte internationale F&E-Verbundvorhaben mit nationaler Kofinanzierung.

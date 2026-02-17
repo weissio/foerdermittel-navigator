@@ -2,16 +2,16 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-17 21:20`
-- Datensaetze: `986`
-- Eindeutige `programm_id`: `986`
+- Erzeugt am: `2026-02-17 21:27`
+- Datensaetze: `988`
+- Eindeutige `programm_id`: `988`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
 | laufend | 582 |
-| offen | 399 |
+| offen | 401 |
 | geplant | 5 |
 
 ## Kategorie
@@ -19,7 +19,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Kategorie | Anzahl |
 |---|---:|
 | laufend | 582 |
-| offen | 399 |
+| offen | 401 |
 | zukuenftig | 5 |
 
 ## Top Regionen
@@ -45,7 +45,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Hessen | 8 |
 | Mecklenburg-Vorpommern | 8 |
 | Thueringen | 8 |
-| Deutschland (Revierregionen) | 1 |
+| EU/International (inkl. Deutschland) | 3 |
 
 ## Top Traeger
 

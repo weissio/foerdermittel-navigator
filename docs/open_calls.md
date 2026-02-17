@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-17`
-- Offen gesamt: `399`
+- Offen gesamt: `401`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `383`
+- Rollierend/ohne Datum: `385`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -372,7 +372,9 @@
 - `EU_ENTERPRISE_EUROPE_NETWORK` | Enterprise Europe Network (SMP COSME Strand) | rollierend | https://een.ec.europa.eu/
 - `EU_ERASMUS_PLUS` | Erasmus+ Programme | rollierend | https://erasmus-plus.ec.europa.eu/
 - `EU_EU4HEALTH` | EU4Health Programme | rollierend | https://health.ec.europa.eu/funding/eu4health-programme-2021-2027-vision-healthier-european-union_en
+- `EU_EUREKA_CLUSTERS` | EUREKA Clusters | rollierend | https://www.eurekanetwork.org/programmes/clusters/
 - `EU_EUREKA_GLOBALSTARS` | Globalstars (EUREKA) | rollierend | https://www.eurekanetwork.org/programmes/globalstars/
+- `EU_EUREKA_NETWORK_PROJECTS` | EUREKA Network Projects | rollierend | https://www.eurekanetwork.org/programmes/network-projects/
 - `EU_EUROHPC_JU` | EuroHPC Joint Undertaking Calls | rollierend | https://eurohpc-ju.europa.eu/funding-calls/calls-proposals_en
 - `EU_EUROPEAN_DEFENCE_FUND` | European Defence Fund (EDF) | rollierend | https://defence-industry-space.ec.europa.eu/eu-defence-industry/european-defence-fund-edf_en
 - `EU_EUROSTARS` | Eurostars (EUREKA / Innovative SMEs Partnership) | rollierend | https://www.eurekanetwork.org/programmes/eurostars/
