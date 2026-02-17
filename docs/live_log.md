@@ -713,3 +713,8 @@
 - Datenausbau Prio II (LfA Bayern): +2 Programmlinien fuer den LfA Universalkredit aufgenommen.
 - Neu: `LFA_UNIVERSALKREDIT_INVESTITION` und `LFA_UNIVERSALKREDIT_BETRIEBSMITTEL`.
 - Fokus: Trennung Investitions- und Betriebsmittelfinanzierung fuer praezisere Filter und Matching.
+
+## 2026-02-17 20:05
+- Datenausbau Prio II (WIBank Hessen): +2 Programmlinien fuer HessenFonds Kleindarlehen aufgenommen.
+- Neu: `WIBANK_HESSENFONDS_KLEINDARLEHEN_INVESTITION` und `WIBANK_HESSENFONDS_KLEINDARLEHEN_BETRIEBSMITTEL`.
+- Fokus: Trennung Investitions- und Betriebsmittelfinanzierung fuer praeziseres Filtering.
