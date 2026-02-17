@@ -688,3 +688,8 @@
 - Datenausbau Prio II (Landesbank Brandenburg/ILB): +2 Programmlinien fuer Brandenburg-Kredit Unternehmen aufgenommen.
 - Neu: `ILB_BRANDENBURG_KREDIT_UNTERNEHMEN_INVESTITION` und `ILB_BRANDENBURG_KREDIT_UNTERNEHMEN_BETRIEBSMITTEL`.
 - Fokus: Trennung Investitions- und Betriebsmittelfinanzierung fuer praezisere Filter.
+
+## 2026-02-17 18:31
+- Datenausbau Prio II (Landesbank Saarland/SIKB): +2 Programmlinien fuer SIKB Investitionsdarlehen aufgenommen.
+- Neu: `SIKB_INVEST_DARLEHEN_INVESTITION` und `SIKB_INVEST_DARLEHEN_BETRIEBSMITTEL`.
+- Fokus: Trennung Investitions- und Betriebsmittelfinanzierung fuer bessere Filterpraezision.

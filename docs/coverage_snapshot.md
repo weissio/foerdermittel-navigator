@@ -2,15 +2,15 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-17 21:46`
-- Datensaetze: `996`
-- Eindeutige `programm_id`: `996`
+- Erzeugt am: `2026-02-17 21:54`
+- Datensaetze: `998`
+- Eindeutige `programm_id`: `998`
 
 ## Status
 
 | Status | Anzahl |
 |---|---:|
-| laufend | 586 |
+| laufend | 588 |
 | offen | 405 |
 | geplant | 5 |
 
@@ -18,7 +18,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
 | Kategorie | Anzahl |
 |---|---:|
-| laufend | 586 |
+| laufend | 588 |
 | offen | 405 |
 | zukuenftig | 5 |
 
@@ -39,8 +39,8 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Baden-Wuerttemberg | 12 |
 | Hamburg | 12 |
 | Schleswig-Holstein | 12 |
+| Saarland | 11 |
 | Sachsen-Anhalt | 10 |
-| Saarland | 9 |
 | Bremen | 8 |
 | Hessen | 8 |
 | Mecklenburg-Vorpommern | 8 |
@@ -80,7 +80,7 @@ Automatisch erzeugt aus `data/foerderprogramme.csv`.
 | Forschung und Entwicklung/Digital Health | 61 |
 | Forschung und Entwicklung/Produktionstechnik | 48 |
 | Investition/Betriebsmittel | 30 |
-| Unternehmensfinanzierung | 28 |
+| Unternehmensfinanzierung | 30 |
 | EU-Fonds ESF+ | 26 |
 | Forschung und Entwicklung/Innovation | 23 |
 | Digitalisierung | 17 |
