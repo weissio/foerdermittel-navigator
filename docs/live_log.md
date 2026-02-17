@@ -743,3 +743,8 @@
 - Datenausbau Prio II (IB Sachsen-Anhalt): +2 Programmlinien fuer Darlehen fuer Unternehmen Sachsen-Anhalt aufgenommen.
 - Neu: `IB_SA_DARLEHEN_UNTERNEHMEN_INVESTITION` und `IB_SA_DARLEHEN_UNTERNEHMEN_BETRIEBSMITTEL`.
 - Fokus: Trennung Investitions- und Betriebsmittelfinanzierung fuer bessere Filterpraezision.
+
+## 2026-02-17 21:35
+- Datenausbau Prio II (NRW.BANK): +2 Programmlinien fuer den NRW.BANK.Universalkredit aufgenommen.
+- Neu: `NRWBANK_UNIVERSALKREDIT_INVESTITION` und `NRWBANK_UNIVERSALKREDIT_BETRIEBSMITTEL`.
+- Fokus: Trennung Investitions- und Betriebsmittelfinanzierung fuer praezisere Filterlogik.
