@@ -320,3 +320,6 @@ Hinweis: Programmbeschreibungen werden nicht kopiert. Wir speichern strukturiert
 - https://www.wandel-durch-innovation-in-der-region.de/
 
 - https://www.bmbf.de/bmbf/de/forschung/innovationen/wandel-durch-innovation-in-der-region/wandel-durch-innovation-in-der-region_node.html
+
+- BMWE Pressemitteilung (17.11.2025): Neue Finanzierungsinstrumente fuer gemeinwohlorientierte Unternehmen und Sozialunternehmer/innen: https://www.bmwe.de/Redaktion/DE/Pressemitteilungen/2025/11/20251117-neue-finanzierungsinstrumente-fuer-gemeinwohlorientierte-unternehmen-und-sozialunternehmerinnen-starten.html
+- Mikromezzaninfonds Deutschland (Programmseite): https://www.mikromezzaninfonds-deutschland.de/

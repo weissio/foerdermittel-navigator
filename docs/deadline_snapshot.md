@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-17`
-- Gepruefte Datensaetze: `955`
+- Gepruefte Datensaetze: `958`
 
 ## Offen Mit Datumsfrist
 
@@ -308,6 +308,8 @@
 - `BMEL_FNR_NACHWACHSENDE_ROHSTOFFE` | Projektfoerderung Nachwachsende Rohstoffe (FNR/BMEL)
 - `BMUV_ANK_AKTIONSPROGRAMM_NATUERLICHER_KLIMASCHUTZ` | Aktionsprogramm Natuerlicher Klimaschutz (ANK)
 - `BMUV_NKI_NATIONALE_KLIMASCHUTZINITIATIVE` | Nationale Klimaschutzinitiative (NKI)
+- `BMWE_GEMEINNUETZIGE_GRUENDUNGSVORHABEN_KREDIT` | Foerderung gemeinnuetziger Gruendungsvorhaben (Kredite bis 125.000 EUR)
+- `BMWE_NACHHALTIG_WIRKEN` | NACHHALTIG WIRKEN – Foerderung gemeinwohlorientierter Unternehmen
 - `BMWK_EEW_FOERDERWETTBEWERB` | EEW - Foerderwettbewerb Energie- und Ressourceneffizienz in der Wirtschaft
 - `BMWK_H2GLOBAL` | H2Global - Foerdermechanismus fuer klimafreundliche Wasserstoffderivate
 - `BMWK_IGF_CORNET` | CORNET (Collective Research Networking) im IGF-Umfeld
@@ -376,6 +378,7 @@
 - `EU_SPACE_PROGRAMME` | EU Space Programme (inkl. CASSINI/EUSPA Calls)
 - `EU_URBACT_IV` | URBACT IV Programme
 - `IBB_GO_BIO_INITIAL` | Go-Bio initial (Berlin)
+- `MMF_III_GEMEINWOHL` | Mikromezzaninfonds Deutschland III (Gemeinwohl-/Sozialunternehmensfokus)
 - `NRW_MID_ASSISTENZ` | Mittelstand Innovativ & Digital (MID) - Digitale Assistenzsysteme
 - `NRW_MID_DIGITALISIERUNG` | Mittelstand Innovativ & Digital (MID) - Digitalisierung
 - `NRW_MID_DIGITALSICHERHEIT` | Mittelstand Innovativ & Digital (MID) - Digitale Sicherheit

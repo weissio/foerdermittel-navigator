@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-17`
-- Offen gesamt: `373`
+- Offen gesamt: `376`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `357`
+- Rollierend/ohne Datum: `360`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -310,6 +310,8 @@
 - `BMEL_FNR_NACHWACHSENDE_ROHSTOFFE` | Projektfoerderung Nachwachsende Rohstoffe (FNR/BMEL) | rollierend | https://www.fnr.de/projektfoerderung
 - `BMUV_ANK_AKTIONSPROGRAMM_NATUERLICHER_KLIMASCHUTZ` | Aktionsprogramm Natuerlicher Klimaschutz (ANK) | rollierend | https://www.aktion-natuerlicher-klimaschutz.de/
 - `BMUV_NKI_NATIONALE_KLIMASCHUTZINITIATIVE` | Nationale Klimaschutzinitiative (NKI) | rollierend | https://www.klimaschutz.de/de/foerderung
+- `BMWE_GEMEINNUETZIGE_GRUENDUNGSVORHABEN_KREDIT` | Foerderung gemeinnuetziger Gruendungsvorhaben (Kredite bis 125.000 EUR) | rollierend | https://www.bmwe.de/Redaktion/DE/Pressemitteilungen/2025/11/20251117-neue-finanzierungsinstrumente-fuer-gemeinwohlorientierte-unternehmen-und-sozialunternehmerinnen-starten.html
+- `BMWE_NACHHALTIG_WIRKEN` | NACHHALTIG WIRKEN – Foerderung gemeinwohlorientierter Unternehmen | rollierend | https://www.bmwe.de/Redaktion/DE/Pressemitteilungen/2025/11/20251117-neue-finanzierungsinstrumente-fuer-gemeinwohlorientierte-unternehmen-und-sozialunternehmerinnen-starten.html
 - `BMWK_EEW_FOERDERWETTBEWERB` | EEW - Foerderwettbewerb Energie- und Ressourceneffizienz in der Wirtschaft | rollierend | https://www.wettbewerb-energieeffizienz.de/
 - `BMWK_H2GLOBAL` | H2Global - Foerdermechanismus fuer klimafreundliche Wasserstoffderivate | rollierend | https://www.h2global.org/
 - `BMWK_IGF_CORNET` | CORNET (Collective Research Networking) im IGF-Umfeld | rollierend | https://www.aif.de/foerderung/igf
@@ -378,6 +380,7 @@
 - `EU_SPACE_PROGRAMME` | EU Space Programme (inkl. CASSINI/EUSPA Calls) | rollierend | https://www.euspa.europa.eu/euspace-opportunities
 - `EU_URBACT_IV` | URBACT IV Programme | rollierend | https://urbact.eu/
 - `IBB_GO_BIO_INITIAL` | Go-Bio initial (Berlin) | rollierend | https://www.ibb.de/de/foerderprogramme/go-bio-initial.html
+- `MMF_III_GEMEINWOHL` | Mikromezzaninfonds Deutschland III (Gemeinwohl-/Sozialunternehmensfokus) | rollierend | https://www.mikromezzaninfonds-deutschland.de/
 - `NRW_MID_ASSISTENZ` | Mittelstand Innovativ & Digital (MID) - Digitale Assistenzsysteme | rollierend | https://www.nrwbank.de/de/foerderung/foerderprodukte/60349/produktdetail.html
 - `NRW_MID_DIGITALISIERUNG` | Mittelstand Innovativ & Digital (MID) - Digitalisierung | rollierend | https://www.nrwbank.de/de/foerderung/foerderprodukte/60348/produktdetail.html
 - `NRW_MID_DIGITALSICHERHEIT` | Mittelstand Innovativ & Digital (MID) - Digitale Sicherheit | rollierend | https://www.nrwbank.de/de/foerderung/foerderprodukte/60347/produktdetail.html
