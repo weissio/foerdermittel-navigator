@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-17`
-- Gepruefte Datensaetze: `974`
+- Gepruefte Datensaetze: `976`
 
 ## Offen Mit Datumsfrist
 
@@ -319,6 +319,8 @@
 - `BMEL_FNR_NACHWACHSENDE_ROHSTOFFE` | Projektfoerderung Nachwachsende Rohstoffe (FNR/BMEL)
 - `BMUV_ANK_AKTIONSPROGRAMM_NATUERLICHER_KLIMASCHUTZ` | Aktionsprogramm Natuerlicher Klimaschutz (ANK)
 - `BMUV_NKI_NATIONALE_KLIMASCHUTZINITIATIVE` | Nationale Klimaschutzinitiative (NKI)
+- `BMUV_NKI_UNTERNEHMEN_ENERGIEEFFIZIENZ` | NKI - Unternehmensprojekte Energieeffizienz und Emissionsminderung
+- `BMUV_NKI_UNTERNEHMEN_TRANSFORMATION` | NKI - Unternehmensprojekte Transformationskonzepte und Klimastrategien
 - `BMWE_GEMEINNUETZIGE_GRUENDUNGSVORHABEN_KREDIT` | Foerderung gemeinnuetziger Gruendungsvorhaben (Kredite bis 125.000 EUR)
 - `BMWE_NACHHALTIG_WIRKEN` | NACHHALTIG WIRKEN – Foerderung gemeinwohlorientierter Unternehmen
 - `BMWE_REACT_WITH_IMPACT` | REACT with impact – Wachstumsfinanzierung fuer Sozialunternehmen

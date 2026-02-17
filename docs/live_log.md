@@ -633,3 +633,8 @@
 - Datenausbau Prio I (Bund/BMFTR): +2 Programmlinien im Segment Forschung an Fachhochschulen aufgenommen.
 - Neu: `BMBF_FH_KOOPERATIVE_FUE` und `BMBF_FH_TRANSFER_QUALIFIZIERUNG`.
 - Fokus: kooperative F&E und Transfer/Qualifizierung mit Unternehmensbezug (KMU).
+
+## 2026-02-17 15:50
+- Datenausbau Prio I (Bund/BMUV): +2 NKI-nahe Unternehmenslinien aufgenommen.
+- Neu: `BMUV_NKI_UNTERNEHMEN_ENERGIEEFFIZIENZ` und `BMUV_NKI_UNTERNEHMEN_TRANSFORMATION`.
+- Fokus: Unternehmensvorhaben zu Emissionsminderung sowie Transformations-/Klimastrategien.

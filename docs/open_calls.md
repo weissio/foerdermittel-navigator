@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-17`
-- Offen gesamt: `389`
+- Offen gesamt: `391`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `373`
+- Rollierend/ohne Datum: `375`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -321,6 +321,8 @@
 - `BMEL_FNR_NACHWACHSENDE_ROHSTOFFE` | Projektfoerderung Nachwachsende Rohstoffe (FNR/BMEL) | rollierend | https://www.fnr.de/projektfoerderung
 - `BMUV_ANK_AKTIONSPROGRAMM_NATUERLICHER_KLIMASCHUTZ` | Aktionsprogramm Natuerlicher Klimaschutz (ANK) | rollierend | https://www.aktion-natuerlicher-klimaschutz.de/
 - `BMUV_NKI_NATIONALE_KLIMASCHUTZINITIATIVE` | Nationale Klimaschutzinitiative (NKI) | rollierend | https://www.klimaschutz.de/de/foerderung
+- `BMUV_NKI_UNTERNEHMEN_ENERGIEEFFIZIENZ` | NKI - Unternehmensprojekte Energieeffizienz und Emissionsminderung | rollierend | https://www.klimaschutz.de/de/foerderung
+- `BMUV_NKI_UNTERNEHMEN_TRANSFORMATION` | NKI - Unternehmensprojekte Transformationskonzepte und Klimastrategien | rollierend | https://www.klimaschutz.de/de/foerderung
 - `BMWE_GEMEINNUETZIGE_GRUENDUNGSVORHABEN_KREDIT` | Foerderung gemeinnuetziger Gruendungsvorhaben (Kredite bis 125.000 EUR) | rollierend | https://www.bmwe.de/Redaktion/DE/Pressemitteilungen/2025/11/20251117-neue-finanzierungsinstrumente-fuer-gemeinwohlorientierte-unternehmen-und-sozialunternehmerinnen-starten.html
 - `BMWE_NACHHALTIG_WIRKEN` | NACHHALTIG WIRKEN – Foerderung gemeinwohlorientierter Unternehmen | rollierend | https://www.bmwe.de/Redaktion/DE/Pressemitteilungen/2025/11/20251117-neue-finanzierungsinstrumente-fuer-gemeinwohlorientierte-unternehmen-und-sozialunternehmerinnen-starten.html
 - `BMWE_REACT_WITH_IMPACT` | REACT with impact – Wachstumsfinanzierung fuer Sozialunternehmen | rollierend | https://www.bmwe.de/Redaktion/DE/Pressemitteilungen/2025/11/20251117-neue-finanzierungsinstrumente-fuer-gemeinwohlorientierte-unternehmen-und-sozialunternehmerinnen-starten.html
