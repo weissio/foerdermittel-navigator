@@ -1,7 +1,7 @@
 # Deadline Snapshot
 
 - Erzeugt am: `2026-02-17`
-- Gepruefte Datensaetze: `980`
+- Gepruefte Datensaetze: `982`
 
 ## Offen Mit Datumsfrist
 
@@ -29,6 +29,8 @@
 - `BMAS_ZUKUNFTSZENTREN_BERATUNG` | Zukunftszentren - Transformationsberatung fuer KMU
 - `BMAS_ZUKUNFTSZENTREN_QUALIFIZIERUNG` | Zukunftszentren - Qualifizierung und Kompetenzaufbau
 - `BMAS_ZUKUNFTSZENTREN` | Foerderprogramm Zukunftszentren (BMAS/ESF Plus)
+- `BMBF_DATIPILOT_INNOVATIONSCOMMUNITIES_AUFBAU` | DATIpilot - Innovationscommunities (Aufbauphase)
+- `BMBF_DATIPILOT_INNOVATIONSCOMMUNITIES_UMSETZUNG` | DATIpilot - Innovationscommunities (Umsetzungsphase)
 - `BMBF_DATIPILOT_INNOVATIONSCOMMUNITIES` | DATIpilot - Innovationscommunities
 - `BMBF_DATIPILOT_INNOVATIONSSPRINTS` | DATIpilot - Innovationssprints
 - `BMBF_FH_KOOPERATIVE_FUE` | Forschung an Fachhochschulen - Kooperative F&E-Projekte mit Unternehmen

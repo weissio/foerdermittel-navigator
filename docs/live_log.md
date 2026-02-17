@@ -648,3 +648,8 @@
 - Datenausbau Prio I (Bund/KfW): +2 Produktvarianten im Segment Erneuerbare Energien Premium aufgenommen.
 - Neu: `KFW_271_INVESTITION` und `KFW_281_INVESTITION`.
 - Quelle in `docs/quellen.md` ergaenzt.
+
+## 2026-02-17 16:34
+- Datenausbau Prio I (Bund/BMBF DATIpilot): +2 Programmlinien zur Innovationscommunity-Logik aufgenommen.
+- Neu: `BMBF_DATIPILOT_INNOVATIONSCOMMUNITIES_AUFBAU` und `BMBF_DATIPILOT_INNOVATIONSCOMMUNITIES_UMSETZUNG`.
+- Fokus: Aufbau- und Umsetzungsphase fuer transferorientierte Verbundstrukturen mit KMU-Beteiligung.

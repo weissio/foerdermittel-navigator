@@ -1,9 +1,9 @@
 # Open Calls
 
 - Erzeugt am: `2026-02-17`
-- Offen gesamt: `393`
+- Offen gesamt: `395`
 - Mit Datumsfrist: `16`
-- Rollierend/ohne Datum: `377`
+- Rollierend/ohne Datum: `379`
 
 ## Mit Datumsfrist (naechste Frist aufsteigend)
 
@@ -31,6 +31,8 @@
 - `BMAS_ZUKUNFTSZENTREN_BERATUNG` | Zukunftszentren - Transformationsberatung fuer KMU | rollierend | https://www.bmas.de/DE/Arbeit/Digitalisierung-der-Arbeitswelt/Foerderprogramm-Zukunftszentren/foerderprogramm-zukunftszentren.html
 - `BMAS_ZUKUNFTSZENTREN_QUALIFIZIERUNG` | Zukunftszentren - Qualifizierung und Kompetenzaufbau | rollierend | https://www.bmas.de/DE/Arbeit/Digitalisierung-der-Arbeitswelt/Foerderprogramm-Zukunftszentren/foerderprogramm-zukunftszentren.html
 - `BMAS_ZUKUNFTSZENTREN` | Foerderprogramm Zukunftszentren (BMAS/ESF Plus) | rollierend | https://www.bmas.de/DE/Arbeit/Digitalisierung-der-Arbeitswelt/Foerderprogramm-Zukunftszentren/foerderprogramm-zukunftszentren.html
+- `BMBF_DATIPILOT_INNOVATIONSCOMMUNITIES_AUFBAU` | DATIpilot - Innovationscommunities (Aufbauphase) | rollierend | https://www.bmbf.de/bmbf/de/forschung/innovationen/datipilot/datipilot_node.html
+- `BMBF_DATIPILOT_INNOVATIONSCOMMUNITIES_UMSETZUNG` | DATIpilot - Innovationscommunities (Umsetzungsphase) | rollierend | https://www.bmbf.de/bmbf/de/forschung/innovationen/datipilot/datipilot_node.html
 - `BMBF_DATIPILOT_INNOVATIONSCOMMUNITIES` | DATIpilot - Innovationscommunities | rollierend | https://www.bmbf.de/bmbf/de/forschung/innovationen/datipilot/datipilot_node.html
 - `BMBF_DATIPILOT_INNOVATIONSSPRINTS` | DATIpilot - Innovationssprints | rollierend | https://www.bmbf.de/bmbf/de/forschung/innovationen/datipilot/datipilot_node.html
 - `BMBF_FH_KOOPERATIVE_FUE` | Forschung an Fachhochschulen - Kooperative F&E-Projekte mit Unternehmen | rollierend | https://www.forschung-fachhochschulen.de/
