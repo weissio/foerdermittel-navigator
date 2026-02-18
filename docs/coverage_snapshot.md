@@ -2,7 +2,7 @@
 
 Automatisch erzeugt aus `data/foerderprogramme.csv`.
 
-- Erzeugt am: `2026-02-18 14:11`
+- Erzeugt am: `2026-02-18 14:41`
 - Datensaetze: `1024`
 - Eindeutige `programm_id`: `1024`
 
