@@ -1,9 +1,9 @@
 # Informationen/Dokumente Overlap
 
-- Erzeugt am: `2026-02-18 13:23`
+- Erzeugt am: `2026-02-18 13:41`
 - Datensaetze gesamt: `1024`
-- Gleicher Link in Informationen und Dokumente: `786`
-- Anteil: `76.8%`
+- Gleicher Link in Informationen und Dokumente: `778`
+- Anteil: `76.0%`
 
 ## Top Overlap-URLs
 
@@ -24,8 +24,6 @@
 | https://www.bafa.de/DE/Wirtschafts_Mittelstandsfoerderung/Beratung_Finanzierung/unternehmensberatung_node.html | 4 | BAFA_UNTERNEHMENSBERATUNG, BAFA_UNTERNEHMENSBERATUNG_JUNG, BAFA_UNTERNEHMENSBERATUNG_BESTAND, BAFA_UNTERNEHMENSBERATUNG_SCHWIERIGKEITEN |
 | https://www.bmwk.de/Redaktion/DE/Artikel/Innovation/go-innovativ.html | 4 | BMWK_GO_INNO, BMWK_GO_INNO_POTENZIALANALYSE, BMWK_GO_INNO_REALISIERUNGSKONZEPT, BMWK_GO_INNO_PROJEKTMANAGEMENT |
 | https://www.sikb.de/foerderprodukte/unternehmensfoerderung | 4 | SIKB_INVEST_DARLEHEN, SIKB_UNTERNEHMEN_UEBERSICHT, SIKB_INVEST_DARLEHEN_INVESTITION, SIKB_INVEST_DARLEHEN_BETRIEBSMITTEL |
-| https://www.kfw.de/inlandsfoerderung/Unternehmen/Energie-Umwelt/F%C3%B6rderprodukte/Bundesf%C3%B6rderung-f%C3%BCr-effiziente-Geb%C3%A4ude-Nichtwohngeb%C3%A4ude-Kredit-(263)/ | 4 | KFW_261_NEUBAU, KFW_261_SANIERUNG, KFW_263_NEUBAU, KFW_263_SANIERUNG |
-| https://www.kfw.de/inlandsfoerderung/Unternehmen/Energie-Umwelt/F%C3%B6rderprodukte/KfW-Umweltprogramm-(240-241)/ | 4 | KFW_240_INVESTITION, KFW_240_BETRIEBSMITTEL, KFW_241_INVESTITION, KFW_241_BETRIEBSMITTEL |
 | https://www.bmbf.de/bmbf/de/forschung/innovationen/datipilot/datipilot_node.html | 4 | BMBF_DATIPILOT_INNOVATIONSSPRINTS, BMBF_DATIPILOT_INNOVATIONSCOMMUNITIES, BMBF_DATIPILOT_INNOVATIONSCOMMUNITIES_AUFBAU, BMBF_DATIPILOT_INNOVATIONSCOMMUNITIES_UMSETZUNG |
 | https://www.bmwe.de/Redaktion/DE/Pressemitteilungen/2025/11/20251117-neue-finanzierungsinstrumente-fuer-gemeinwohlorientierte-unternehmen-und-sozialunternehmerinnen-starten.html | 4 | BMWE_NACHHALTIG_WIRKEN, BMWE_GEMEINNUETZIGE_GRUENDUNGSVORHABEN_KREDIT, BMWE_REACT_WITH_IMPACT, BMWE_SOZIALUNTERNEHMEN_FINANZIERUNGSINSTRUMENTE |
 | https://cinea.ec.europa.eu/life/life-calls-proposals_en | 4 | EU_LIFE_CLEAN_ENERGY_TRANSITION, EU_LIFE_CIRCULAR_ECONOMY_QUALITY_OF_LIFE, EU_LIFE_NATURE_BIODIVERSITY, EU_LIFE_CLIMATE_ACTION |
@@ -39,6 +37,8 @@
 | https://www.nrwbank.de/de/foerderung/foerderprodukte/60100/nrwbank-gruendung-und-wachstum.html | 3 | NRWBANK_GRUENDUNG_WACHSTUM, NRWBANK_GRUENDUNG_WACHSTUM_INVESTITION, NRWBANK_GRUENDUNG_WACHSTUM_BETRIEBSMITTEL |
 | https://www.foerderdatenbank.de/FDB/Content/DE/Foerderprogramm/Land/Brandenburg/brandenburg-kredit-unternehmen.html | 3 | ILB_BRANDENBURG_KREDIT_UNTERNEHMEN, ILB_BRANDENBURG_KREDIT_UNTERNEHMEN_INVESTITION, ILB_BRANDENBURG_KREDIT_UNTERNEHMEN_BETRIEBSMITTEL |
 | https://www.sab.sachsen.de/sab-sachsenkredit-universal-neu | 3 | SAB_SACHSENKREDIT_UNIVERSAL, SAB_SACHSENKREDIT_UNIVERSAL_INVESTITION, SAB_SACHSENKREDIT_UNIVERSAL_BETRIEBSMITTEL |
+| https://www.lfa.de/website/de/foerderangebote/finanzierung/stabilisierung/foerderangebot/Darlehen/index.php | 3 | LFA_UNIVERSALKREDIT, LFA_UNIVERSALKREDIT_INVESTITION, LFA_UNIVERSALKREDIT_BETRIEBSMITTEL |
+| https://www.ib-sachsen-anhalt.de/de/unternehmen/investieren-finanzieren/wachstum | 3 | IB_SA_WACHSTUM, IB_SA_WACHSTUM_INVESTITION, IB_SA_WACHSTUM_BETRIEBSMITTEL |
 
 ## Regel fuer Bereinigung
 
