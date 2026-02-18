@@ -1,44 +1,44 @@
 # Informationen/Dokumente Overlap
 
-- Erzeugt am: `2026-02-18 23:56`
+- Erzeugt am: `2026-02-19 00:26`
 - Datensaetze gesamt: `1024`
-- Gleicher Link in Informationen und Dokumente: `400`
-- Anteil: `39.1%`
+- Gleicher Link in Informationen und Dokumente: `303`
+- Anteil: `29.6%`
 
 ## Top Overlap-URLs
 
 | URL | Anzahl Datensaetze | Beispiel-IDs |
 |---|---:|---|
-| https://www.sab.sachsen.de/foerderprogramme | 4 | SAB_SACHSEN_GRUENDUNG, SAB_FOERDERPROGRAMME_UEBERSICHT, SAB_DIGITALKREDIT, SAB_INNOVATIONSKREDIT |
-| https://www.sikb.de/foerderprodukte/unternehmensfoerderung | 4 | SIKB_INVEST_DARLEHEN, SIKB_UNTERNEHMEN_UEBERSICHT, SIKB_INVEST_DARLEHEN_INVESTITION, SIKB_INVEST_DARLEHEN_BETRIEBSMITTEL |
-| https://www.l-bank.de/produkte/unternehmer/ | 3 | LBANK_INNOVATION_FINANZIERUNG, LBANK_LPLUS, LBANK_UNTERNEHMER_UEBERSICHT |
-| https://www.lfa.de/website/de/foerderangebote/finanzierung/stabilisierung/foerderangebot/Darlehen/index.php | 3 | LFA_UNIVERSALKREDIT, LFA_UNIVERSALKREDIT_INVESTITION, LFA_UNIVERSALKREDIT_BETRIEBSMITTEL |
-| https://www.ib-sachsen-anhalt.de/de/unternehmen/investieren-finanzieren/wachstum | 3 | IB_SA_WACHSTUM, IB_SA_WACHSTUM_INVESTITION, IB_SA_WACHSTUM_BETRIEBSMITTEL |
-| https://www.ib-sachsen-anhalt.de/de/unternehmen/investieren-finanzieren | 3 | IB_SA_DARLEHEN_UNTERNEHMEN, IB_SA_DARLEHEN_UNTERNEHMEN_INVESTITION, IB_SA_DARLEHEN_UNTERNEHMEN_BETRIEBSMITTEL |
-| https://isb.rlp.de/foerderung/innovation-und-digitalisierung.html | 3 | ISB_DIGITALISIERUNG_RLP, ISB_INNOVATION_RLP, ISB_INNOVATION_DIGITALISIERUNG |
-| https://www.exist.de/EXIST/Navigation/DE/Programm/Exist-Gruendungsstipendium/exist-gruendungsstipendium.html | 3 | BMWK_EXIST_GRUENDUNGSSTIPENDIUM, BMWK_EXIST_GRUENDUNGSSTIPENDIUM_PERSONAL, BMWK_EXIST_GRUENDUNGSSTIPENDIUM_SACHMITTEL |
-| https://www.exist.de/EXIST/Navigation/DE/Programm/Exist-Forschungstransfer/exist-forschungstransfer.html | 3 | BMWK_EXIST_FORSCHUNGSTRANSFER, BMWK_EXIST_FORSCHUNGSTRANSFER_PHASE1, BMWK_EXIST_FORSCHUNGSTRANSFER_PHASE2 |
-| https://www.bmwk.de/Redaktion/DE/Artikel/Technologie/wipano.html | 3 | BMWK_WIPANO, BMWK_WIPANO_PATENTE, BMWK_WIPANO_NORMUNG |
-| https://www.kfw.de/inlandsfoerderung/Unternehmen/Gr%C3%BCndung-und-Nachfolge/F%C3%B6rderprodukte/ERP-F%C3%B6rderkredit-Gr%C3%BCndung-und-Nachfolge-%28077%29/ | 3 | KFW_077, KFW_077_INVESTITION, KFW_077_BETRIEBSMITTEL |
-| https://www.inqa.de/DE/angebote/unternehmenswert-mensch-plus/uebersicht.html | 3 | BMAS_UNTERNEHMENSWERT_MENSCH_PLUS, BMAS_UNTERNEHMENSWERT_MENSCH_PLUS_ERSTBERATUNG, BMAS_UNTERNEHMENSWERT_MENSCH_PLUS_PROZESSBERATUNG |
-| https://www.ifbhh.de/ifb/foerderprogramm/hamburg-kredit-wachstum | 3 | IFB_HAMBURG_KREDIT_WACHSTUM, IFB_HAMBURG_KREDIT_WACHSTUM_INVESTITION, IFB_HAMBURG_KREDIT_WACHSTUM_BETRIEBSMITTEL |
-| https://www.ifbhh.de/ifb/foerderprogramm/hamburg-kredit-universal | 3 | IFB_HAMBURG_KREDIT_UNIVERSAL, IFB_HAMBURG_KREDIT_UNIVERSAL_INVESTITION, IFB_HAMBURG_KREDIT_UNIVERSAL_BETRIEBSMITTEL |
-| https://www.bmwk.de/Redaktion/DE/Artikel/Innovation/igp.html | 3 | BMWK_IGP, BMWK_IGP_PHASE1, BMWK_IGP_PHASE2 |
-| https://www.kfw.de/inlandsfoerderung/Unternehmen/Energie-Umwelt/F%C3%B6rderprodukte/KfW-Unternehmerkredit-Plus-(070)/ | 3 | KFW_070, KFW_070_KLIMASCHUTZINVESTITIONEN, KFW_070_TRANSFORMATIONSFINANZIERUNG |
-| https://www.umweltinnovationsprogramm.de/ | 3 | BMUV_UMWELTINNOVATIONSPROGRAMM, BMUV_UIP_ZUSCHUSS, BMUV_UIP_KREDIT |
-| https://www.mikromezzaninfonds-deutschland.de/ | 3 | MMF_DEUTSCHLAND, MMF_DEUTSCHLAND_STANDARD, MMF_DEUTSCHLAND_BESONDERE_ZIELGRUPPEN |
-| https://www.developpp.de/ | 3 | BMZ_DEVELOPPP, BMZ_DEVELOPPP_DEG, BMZ_DEVELOPPP_GIZ |
-| https://www.bmas.de/mikrokredit | 3 | BMAS_MIKROKREDITFONDS_DE, BMAS_MIKROKREDITFONDS_DE_ERSTFINANZIERUNG, BMAS_MIKROKREDITFONDS_DE_WACHSTUMSFINANZIERUNG |
-| https://www.bmwk.de/Redaktion/DE/Artikel/Technologie/vorwettbewerbliche-forschung-fuer-den-mittelstand.html | 3 | BMWK_INNO_KOM, BMWK_INNO_KOM_OST, BMWK_INNO_KOM_INVEST |
-| https://www.bafa.de/DE/Energie/Effiziente_Waermenetze/effiziente_waermenetze_node.html | 3 | BAFA_BEW, BAFA_BEW_TRANSFORMATIONSPLAN, BAFA_BEW_INVESTITION |
-| https://www.ermoeglicher.de/bob-buergschaft-ohne-bank/ | 3 | BUERGSCHAFT_OHNE_BANK, BUERGSCHAFT_OHNE_BANK_GRUENDUNG, BUERGSCHAFT_OHNE_BANK_WACHSTUM |
-| https://www.htgf.de/de/finanzierung/ | 3 | HTGF_SEED_FINANZIERUNG, HTGF_PRE_SEED_VALIDIERUNG, HTGF_SEED_FOLLOW_ON |
-| https://www.agaportal.de/ufk-garantien | 3 | BMWK_UFK_GARANTIEN, BMWK_UFK_GARANTIEN_AUSLAND, BMWK_UFK_GARANTIEN_INLAND |
-| https://www.sprind.org/challenges | 3 | SPRIND_CHALLENGES, SPRIND_CHALLENGES_VALIDIERUNG, SPRIND_CHALLENGES_PILOTIERUNG |
-| https://www.aif.de/foerderung/igf | 3 | BMWK_IGF, BMWK_IGF_FORSCHUNGSVORHABEN, BMWK_IGF_CORNET |
-| https://www.inqa.de/DE/angebote/unternehmenswert-mensch/uebersicht.html | 3 | BMAS_UNTERNEHMENSWERT_MENSCH, BMAS_UNTERNEHMENSWERT_MENSCH_ERSTBERATUNG, BMAS_UNTERNEHMENSWERT_MENSCH_PROZESSBERATUNG |
-| https://www.developpp.de/ventures | 3 | BMZ_DEVELOPPP_VENTURES, BMZ_DEVELOPPP_VENTURES_SEED, BMZ_DEVELOPPP_VENTURES_GROWTH |
-| https://www.coparion.vc/ | 3 | COPARION_BETEILIGUNGSFONDS, COPARION_SEED_COINVEST, COPARION_SERIES_A_COINVEST |
+| https://dtcf.de/ | 3 | DTCF_DEEPTECH_CLIMATE_FONDS, DTCF_SEED_GROWTH, DTCF_SCALEUP_GROWTH |
+| https://www.kfw-capital.de/ | 3 | KFW_CAPITAL_VC_FONDSINVESTMENTS, KFW_CAPITAL_FONDSINVESTMENTS_SEED, KFW_CAPITAL_FONDSINVESTMENTS_GROWTH |
+| https://www.german-pavilion.com/ | 3 | BMWK_AUSLANDSMESSEPROGRAMM, BMWK_AUSLANDSMESSEPROGRAMM_MARKTEINTRITT, BMWK_AUSLANDSMESSEPROGRAMM_BESTANDSMAERKTE |
+| https://www.exist.de/EXIST/Navigation/DE/Programm/Exist-Women/exist-women.html | 3 | BMWK_EXIST_WOMEN, BMWK_EXIST_WOMEN_QUALIFIZIERUNG, BMWK_EXIST_WOMEN_SACHMITTEL |
+| https://www.inqa.de/DE/angebote/inqa-coaching/uebersicht.html | 3 | BMAS_INQA_COACHING, BMAS_INQA_COACHING_ERSTCHECK, BMAS_INQA_COACHING_PROZESSBERATUNG |
+| https://www.exist.de/EXIST/Navigation/DE/Programm/EXIST-Potentiale/exist-potenziale.html | 3 | BMWK_EXIST_POTENZIALE, BMWK_EXIST_POTENZIALE_STRATEGIE, BMWK_EXIST_POTENZIALE_UMSETZUNG |
+| https://www.exist.de/EXIST/Navigation/DE/Programm/Startup-Factories/startup-factories.html | 3 | BMWK_STARTUP_FACTORIES, BMWK_STARTUP_FACTORIES_AUFBAUPHASE, BMWK_STARTUP_FACTORIES_SKALIERUNGSPHASE |
+| https://www.digitalbonus.bayern/ | 3 | BAYERN_DIGITALBONUS, BAYERN_DIGITALBONUS_STANDARD, BAYERN_DIGITALBONUS_PLUS |
+| https://www.euipo.europa.eu/en/discover-ip/sme-fund | 3 | EUIPO_SME_FUND, EUIPO_SME_FUND_MARKEN_DESIGNS, EUIPO_SME_FUND_PATENTE |
+| https://www.mittelstand-digital.de/MD/Navigation/DE/Home/home.html | 3 | BMWK_MITTELSTAND_DIGITAL, BMWK_MITTELSTAND_DIGITAL_ZENTREN, BMWK_MITTELSTAND_DIGITAL_IT_SICHERHEIT |
+| https://www.bmdv.bund.de/DE/Themen/Digitales/mFUND/mFUND.html | 3 | BMDV_MFUND, BMDV_MFUND_MACHBARKEITSSTUDIEN, BMDV_MFUND_FU_E_PROJEKTE |
+| https://www.esfplus.de/portal/DE/ESF-Plus-2021-2027/Foerderprogramme/bmas/kompass/inhalt.html | 3 | BMAS_KOMPASS, BMAS_KOMPASS_ERSTBERATUNG, BMAS_KOMPASS_QUALIFIZIERUNGSSCHECK |
+| https://www.bmwk.de/Redaktion/DE/Artikel/Technologie/go-cluster.html | 3 | BMWK_GO_CLUSTER, BMWK_GO_CLUSTER_QUALITAET, BMWK_GO_CLUSTER_VERNETZUNG |
+| https://www.exportinitiative-umweltschutz.de/ | 3 | BMUV_EXPORTINITIATIVE_UMWELTSCHUTZ, BMUV_EXPORTINITIATIVE_UMWELTSCHUTZ_MARKTERSCHLIESSUNG, BMUV_EXPORTINITIATIVE_UMWELTSCHUTZ_PROJEKTANBAHNUNG |
+| https://www.bmas.de/DE/Arbeit/Digitalisierung-der-Arbeitswelt/Foerderprogramm-Zukunftszentren/foerderprogramm-zukunftszentren.html | 3 | BMAS_ZUKUNFTSZENTREN, BMAS_ZUKUNFTSZENTREN_BERATUNG, BMAS_ZUKUNFTSZENTREN_QUALIFIZIERUNG |
+| https://bmdv.bund.de/SharedDocs/DE/Artikel/G/ksni-foerderung.html | 3 | BMDV_KSNI, BMDV_KSNI_FAHRZEUGE, BMDV_KSNI_INFRASTRUKTUR |
+| https://www.now-gmbh.de/foerderung/foerderprogramme/nip/ | 3 | BMDV_NIP_WASSERSTOFF_BRENNSTOFFZELLE, BMDV_NIP_FUE_DEMONSTRATION, BMDV_NIP_MARKTHOCHLAUF |
+| https://www.bmwk.de/Redaktion/DE/Dossier/wasserstoff.html | 3 | BMWK_IPCEI_WASSERSTOFF, BMWK_IPCEI_HY2TECH, BMWK_IPCEI_HY2USE |
+| https://www.bmbf.de/bmbf/de/forschung/lebenswissenschaften/foerderinitiativen/go-bio/go-bio.html | 3 | BMBF_GO_BIO, BMBF_GO_BIO_PHASE1, BMBF_GO_BIO_PHASE2 |
+| https://www.bmbf.de/bmbf/de/forschung/innovationen/wissens-und-technologietransfer/vip/vip.html | 3 | BMBF_VIP_PLUS, BMBF_VIP_PLUS_VALIDIERUNG, BMBF_VIP_PLUS_GESELLSCHAFTLICHE_INNOVATION |
+| https://www.klimaschutz.de/de/foerderung | 3 | BMUV_NKI_NATIONALE_KLIMASCHUTZINITIATIVE, BMUV_NKI_UNTERNEHMEN_ENERGIEEFFIZIENZ, BMUV_NKI_UNTERNEHMEN_TRANSFORMATION |
+| https://www.fh-personal.de/ | 3 | BMBF_FH_PERSONAL, BMBF_FH_PERSONAL_REKRUTIERUNG, BMBF_FH_PERSONAL_PERSONALENTWICKLUNG |
+| https://www.forschung-fachhochschulen.de/ | 3 | BMBF_FORSCHUNG_AN_FACHHOCHSCHULEN, BMBF_FH_KOOPERATIVE_FUE, BMBF_FH_TRANSFER_QUALIFIZIERUNG |
+| https://www.bab-bremen.de/de/page/unternehmen | 2 | BAB_BREMEN_GRW, BAB_BREMEN_UNTERNEHMEN |
+| https://www.esf.bayern.de/ | 2 | ESF_BAYERN_PORTAL, ESF_BAYERN_AUFRUFE_OFFEN |
+| https://www.esf-bw.de/esf-plus-in-bw/programm-des-esf-plus-in-baden-wuerttemberg | 2 | ESF_BW_PROGRAMM, ESF_BW_AUFRUFE_OFFEN |
+| https://www.esf-hamburg.de/foerderung-617696 | 2 | ESF_HAMBURG_PROGRAMME, ESF_HAMBURG_AUFRUFE_OFFEN |
+| https://pact-for-skills.ec.europa.eu/stakeholders-and-business/funding-opportunities/european-social-fund-plus-esf-germany-lower-saxonyniedersachsen_en | 2 | ESF_NIEDERSACHSEN_PORTAL, ESF_NIEDERSACHSEN_OPEN |
+| https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator/eic-accelerator-challenges-2026_en | 2 | EU_EIC_AIC_NAMS_2026, EU_EIC_AIC_PHYSICAL_AI_2026 |
+| https://www.ibb.de/de/wirtschaftsfoerderung/foerderprogramme-a-z/foerderprogramme-a-z.html | 2 | IBB_BERLIN_INNOVATIV_PLUS, IBB_FOERDERPROGRAMME_AZ |
 
 ## Regel fuer Bereinigung
 
