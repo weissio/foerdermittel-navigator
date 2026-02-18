@@ -1,6 +1,6 @@
 # Status (Live Snapshot)
 
-Stand: 2026-02-17
+Stand: 2026-02-18
 
 ## Datenbestand
 
@@ -16,11 +16,13 @@ Stand: 2026-02-17
 - `scripts/report_deadlines.py`: aktualisiert `docs/deadline_snapshot.md`
 - `scripts/report_open_calls.py`: aktualisiert `docs/open_calls.md`
 - `scripts/report_gaps.py`: aktualisiert `docs/data_gaps.md`
+- `scripts/report_scope_matrix.py`: aktualisiert `docs/scope_matrix.md`
 - Snapshot-Dateien:
   - `docs/coverage_snapshot.md`
   - `docs/deadline_snapshot.md`
   - `docs/open_calls.md`
   - `docs/data_gaps.md`
+  - `docs/scope_matrix.md`
 
 ## Preview
 

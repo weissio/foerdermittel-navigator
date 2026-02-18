@@ -19,6 +19,7 @@ status:
 	python3 scripts/report_deadlines.py
 	python3 scripts/report_open_calls.py
 	python3 scripts/report_gaps.py
+	python3 scripts/report_scope_matrix.py
 	python3 scripts/report_status.py
 
 gaps:

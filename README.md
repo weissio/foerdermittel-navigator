@@ -30,6 +30,7 @@ make batch
 
 `make status` erzeugt:
 - alle Snapshot-Reports (wie oben)
+- `docs/scope_matrix.md` (Bund/EU/Laender-Matrix)
 - `STATUS.md` (automatisch aus aktuellem Datenstand)
 
 ## Wichtige Dateien
@@ -41,6 +42,7 @@ make batch
 - Coverage-Snapshot: `docs/coverage_snapshot.md`
 - Deadline-Snapshot: `docs/deadline_snapshot.md`
 - Open-Calls-Snapshot: `docs/open_calls.md`
+- Scope-Matrix: `docs/scope_matrix.md`
 - Update-Prozess: `docs/update_process.md`
 - QA-Kommandos: `docs/qa_commands.md`
 
