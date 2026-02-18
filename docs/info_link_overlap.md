@@ -1,9 +1,9 @@
 # Informationen/Dokumente Overlap
 
-- Erzeugt am: `2026-02-18 13:41`
+- Erzeugt am: `2026-02-18 14:11`
 - Datensaetze gesamt: `1024`
-- Gleicher Link in Informationen und Dokumente: `778`
-- Anteil: `76.0%`
+- Gleicher Link in Informationen und Dokumente: `775`
+- Anteil: `75.7%`
 
 ## Top Overlap-URLs
 
@@ -20,7 +20,6 @@
 | https://www.rentenbank.de/foerderangebote/ | 5 | RENTENBANK_AGRAR_ERNAEHRUNG, RENTENBANK_ENERGIE_VOM_LAND, RENTENBANK_UMWELT_VERBRAUCHERSCHUTZ, RENTENBANK_ENERGIE_VOM_LAND_ERNEUERBARE |
 | https://www.bafa.de/DE/Energie/Energieberatung/Nichtwohngebaeude_Anlagen_Systeme/nichtwohngebaeude_anlagen_systeme_node.html | 4 | BAFA_EBN_M1, BAFA_EBN_M3, BAFA_EBN_M1_ENERGIEAUDIT, BAFA_EBN_M3_CONTRACTING |
 | https://www.sab.sachsen.de/foerderprogramme | 4 | SAB_SACHSEN_GRUENDUNG, SAB_FOERDERPROGRAMME_UEBERSICHT, SAB_DIGITALKREDIT, SAB_INNOVATIONSKREDIT |
-| https://isb.rlp.de/foerderung/wachsen-und-investieren.html | 4 | ISB_BETRIEBSMITTELKREDIT_605, ISB_WACHSEN_INVESTIEREN, ISB_MITTELSTANDSKREDIT_665, ISB_MITTELSTANDSKREDIT_667 |
 | https://www.bafa.de/DE/Wirtschafts_Mittelstandsfoerderung/Beratung_Finanzierung/unternehmensberatung_node.html | 4 | BAFA_UNTERNEHMENSBERATUNG, BAFA_UNTERNEHMENSBERATUNG_JUNG, BAFA_UNTERNEHMENSBERATUNG_BESTAND, BAFA_UNTERNEHMENSBERATUNG_SCHWIERIGKEITEN |
 | https://www.bmwk.de/Redaktion/DE/Artikel/Innovation/go-innovativ.html | 4 | BMWK_GO_INNO, BMWK_GO_INNO_POTENZIALANALYSE, BMWK_GO_INNO_REALISIERUNGSKONZEPT, BMWK_GO_INNO_PROJEKTMANAGEMENT |
 | https://www.sikb.de/foerderprodukte/unternehmensfoerderung | 4 | SIKB_INVEST_DARLEHEN, SIKB_UNTERNEHMEN_UEBERSICHT, SIKB_INVEST_DARLEHEN_INVESTITION, SIKB_INVEST_DARLEHEN_BETRIEBSMITTEL |
@@ -39,6 +38,7 @@
 | https://www.sab.sachsen.de/sab-sachsenkredit-universal-neu | 3 | SAB_SACHSENKREDIT_UNIVERSAL, SAB_SACHSENKREDIT_UNIVERSAL_INVESTITION, SAB_SACHSENKREDIT_UNIVERSAL_BETRIEBSMITTEL |
 | https://www.lfa.de/website/de/foerderangebote/finanzierung/stabilisierung/foerderangebot/Darlehen/index.php | 3 | LFA_UNIVERSALKREDIT, LFA_UNIVERSALKREDIT_INVESTITION, LFA_UNIVERSALKREDIT_BETRIEBSMITTEL |
 | https://www.ib-sachsen-anhalt.de/de/unternehmen/investieren-finanzieren/wachstum | 3 | IB_SA_WACHSTUM, IB_SA_WACHSTUM_INVESTITION, IB_SA_WACHSTUM_BETRIEBSMITTEL |
+| https://www.ib-sachsen-anhalt.de/de/unternehmen/investieren-finanzieren | 3 | IB_SA_DARLEHEN_UNTERNEHMEN, IB_SA_DARLEHEN_UNTERNEHMEN_INVESTITION, IB_SA_DARLEHEN_UNTERNEHMEN_BETRIEBSMITTEL |
 
 ## Regel fuer Bereinigung
 
