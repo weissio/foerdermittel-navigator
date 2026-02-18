@@ -1,24 +1,20 @@
 # Informationen/Dokumente Overlap
 
-- Erzeugt am: `2026-02-18 22:57`
+- Erzeugt am: `2026-02-18 23:28`
 - Datensaetze gesamt: `1024`
-- Gleicher Link in Informationen und Dokumente: `492`
-- Anteil: `48.0%`
+- Gleicher Link in Informationen und Dokumente: `464`
+- Anteil: `45.3%`
 
 ## Top Overlap-URLs
 
 | URL | Anzahl Datensaetze | Beispiel-IDs |
 |---|---:|---|
-| https://www.bmwk.de/Redaktion/DE/Dossier/markterschliessungsprogramm.html | 12 | BMWK_MARKTERSCHLIESSUNGSPROGRAMM, BMWK_MEP_GESCHAEFTSANBAHNUNG, BMWK_MEP_INFORMATIONSVERANSTALTUNG, BMWK_MEP_LEISTUNGSSCHAU |
-| https://www.agaportal.de/exportkreditgarantien | 7 | BMWK_HERMESDECKUNGEN, BMWK_HERMESDECKUNGEN_LIEFERKREDIT, BMWK_HERMESDECKUNGEN_FINANZKREDIT, BMWK_HERMESDECKUNGEN_FABRIKATIONSRISIKO |
-| https://www.bafa.de/DE/Energie/Effiziente_Gebaeude/effiziente_gebaeude_node.html | 5 | BAFA_BEG_EM, BAFA_BEG_EM_GEBUEDEHUELLE, BAFA_BEG_EM_ANLAGENTECHNIK, BAFA_BEG_EM_HEIZUNGSANLAGEN |
 | https://www.bmwk.de/Redaktion/DE/Artikel/Digitale-Welt/foerderprogramm-go-digital.html | 5 | BMWK_GO_DIGITAL, BMWK_GO_DIGITAL_DIGITALISIERUNGSSTRATEGIE, BMWK_GO_DIGITAL_IT_SICHERHEIT, BMWK_GO_DIGITAL_DIGITALE_MARKTERSCHLIESSUNG |
 | https://www.bmwk.de/Redaktion/DE/Artikel/Mittelstand/messen-junge-innovative-unternehmen.html | 5 | BMWK_MESSE_JUNGE_INNOVATIVE, BMWK_MESSE_JUNGE_INNOVATIVE_GEMEINSCHAFTSSTAND, BMWK_MESSE_JUNGE_INNOVATIVE_MARKTEINTRITT, BMWK_MESSE_JUNGE_INNOVATIVE_ERSTTEILNAHME |
 | https://www.germanaccelerator.com/ | 5 | BMWK_GERMAN_ACCELERATOR, BMWK_GERMAN_ACCELERATOR_US_MARKET, BMWK_GERMAN_ACCELERATOR_ASIA_MARKET, BMWK_GERMAN_ACCELERATOR_MARKET_DISCOVERY |
 | https://www.rentenbank.de/foerderangebote/ | 5 | RENTENBANK_AGRAR_ERNAEHRUNG, RENTENBANK_ENERGIE_VOM_LAND, RENTENBANK_UMWELT_VERBRAUCHERSCHUTZ, RENTENBANK_ENERGIE_VOM_LAND_ERNEUERBARE |
 | https://www.bafa.de/DE/Energie/Energieberatung/Nichtwohngebaeude_Anlagen_Systeme/nichtwohngebaeude_anlagen_systeme_node.html | 4 | BAFA_EBN_M1, BAFA_EBN_M3, BAFA_EBN_M1_ENERGIEAUDIT, BAFA_EBN_M3_CONTRACTING |
 | https://www.sab.sachsen.de/foerderprogramme | 4 | SAB_SACHSEN_GRUENDUNG, SAB_FOERDERPROGRAMME_UEBERSICHT, SAB_DIGITALKREDIT, SAB_INNOVATIONSKREDIT |
-| https://www.bafa.de/DE/Wirtschafts_Mittelstandsfoerderung/Beratung_Finanzierung/unternehmensberatung_node.html | 4 | BAFA_UNTERNEHMENSBERATUNG, BAFA_UNTERNEHMENSBERATUNG_JUNG, BAFA_UNTERNEHMENSBERATUNG_BESTAND, BAFA_UNTERNEHMENSBERATUNG_SCHWIERIGKEITEN |
 | https://www.bmwk.de/Redaktion/DE/Artikel/Innovation/go-innovativ.html | 4 | BMWK_GO_INNO, BMWK_GO_INNO_POTENZIALANALYSE, BMWK_GO_INNO_REALISIERUNGSKONZEPT, BMWK_GO_INNO_PROJEKTMANAGEMENT |
 | https://www.sikb.de/foerderprodukte/unternehmensfoerderung | 4 | SIKB_INVEST_DARLEHEN, SIKB_UNTERNEHMEN_UEBERSICHT, SIKB_INVEST_DARLEHEN_INVESTITION, SIKB_INVEST_DARLEHEN_BETRIEBSMITTEL |
 | https://www.bmbf.de/bmbf/de/forschung/innovationen/datipilot/datipilot_node.html | 4 | BMBF_DATIPILOT_INNOVATIONSSPRINTS, BMBF_DATIPILOT_INNOVATIONSCOMMUNITIES, BMBF_DATIPILOT_INNOVATIONSCOMMUNITIES_AUFBAU, BMBF_DATIPILOT_INNOVATIONSCOMMUNITIES_UMSETZUNG |
@@ -39,6 +35,10 @@
 | https://www.exist.de/EXIST/Navigation/DE/Programm/Exist-Gruendungsstipendium/exist-gruendungsstipendium.html | 3 | BMWK_EXIST_GRUENDUNGSSTIPENDIUM, BMWK_EXIST_GRUENDUNGSSTIPENDIUM_PERSONAL, BMWK_EXIST_GRUENDUNGSSTIPENDIUM_SACHMITTEL |
 | https://www.exist.de/EXIST/Navigation/DE/Programm/Exist-Forschungstransfer/exist-forschungstransfer.html | 3 | BMWK_EXIST_FORSCHUNGSTRANSFER, BMWK_EXIST_FORSCHUNGSTRANSFER_PHASE1, BMWK_EXIST_FORSCHUNGSTRANSFER_PHASE2 |
 | https://www.bmwk.de/Redaktion/DE/Artikel/Technologie/wipano.html | 3 | BMWK_WIPANO, BMWK_WIPANO_PATENTE, BMWK_WIPANO_NORMUNG |
+| https://www.kfw.de/inlandsfoerderung/Unternehmen/Gr%C3%BCndung-und-Nachfolge/F%C3%B6rderprodukte/ERP-F%C3%B6rderkredit-Gr%C3%BCndung-und-Nachfolge-%28077%29/ | 3 | KFW_077, KFW_077_INVESTITION, KFW_077_BETRIEBSMITTEL |
+| https://www.inqa.de/DE/angebote/unternehmenswert-mensch-plus/uebersicht.html | 3 | BMAS_UNTERNEHMENSWERT_MENSCH_PLUS, BMAS_UNTERNEHMENSWERT_MENSCH_PLUS_ERSTBERATUNG, BMAS_UNTERNEHMENSWERT_MENSCH_PLUS_PROZESSBERATUNG |
+| https://www.ifbhh.de/ifb/foerderprogramm/hamburg-kredit-wachstum | 3 | IFB_HAMBURG_KREDIT_WACHSTUM, IFB_HAMBURG_KREDIT_WACHSTUM_INVESTITION, IFB_HAMBURG_KREDIT_WACHSTUM_BETRIEBSMITTEL |
+| https://www.ifbhh.de/ifb/foerderprogramm/hamburg-kredit-universal | 3 | IFB_HAMBURG_KREDIT_UNIVERSAL, IFB_HAMBURG_KREDIT_UNIVERSAL_INVESTITION, IFB_HAMBURG_KREDIT_UNIVERSAL_BETRIEBSMITTEL |
 
 ## Regel fuer Bereinigung
 
