@@ -1,33 +1,17 @@
 # Informationen/Dokumente Overlap
 
-- Erzeugt am: `2026-02-18 23:28`
+- Erzeugt am: `2026-02-18 23:56`
 - Datensaetze gesamt: `1024`
-- Gleicher Link in Informationen und Dokumente: `464`
-- Anteil: `45.3%`
+- Gleicher Link in Informationen und Dokumente: `400`
+- Anteil: `39.1%`
 
 ## Top Overlap-URLs
 
 | URL | Anzahl Datensaetze | Beispiel-IDs |
 |---|---:|---|
-| https://www.bmwk.de/Redaktion/DE/Artikel/Digitale-Welt/foerderprogramm-go-digital.html | 5 | BMWK_GO_DIGITAL, BMWK_GO_DIGITAL_DIGITALISIERUNGSSTRATEGIE, BMWK_GO_DIGITAL_IT_SICHERHEIT, BMWK_GO_DIGITAL_DIGITALE_MARKTERSCHLIESSUNG |
-| https://www.bmwk.de/Redaktion/DE/Artikel/Mittelstand/messen-junge-innovative-unternehmen.html | 5 | BMWK_MESSE_JUNGE_INNOVATIVE, BMWK_MESSE_JUNGE_INNOVATIVE_GEMEINSCHAFTSSTAND, BMWK_MESSE_JUNGE_INNOVATIVE_MARKTEINTRITT, BMWK_MESSE_JUNGE_INNOVATIVE_ERSTTEILNAHME |
-| https://www.germanaccelerator.com/ | 5 | BMWK_GERMAN_ACCELERATOR, BMWK_GERMAN_ACCELERATOR_US_MARKET, BMWK_GERMAN_ACCELERATOR_ASIA_MARKET, BMWK_GERMAN_ACCELERATOR_MARKET_DISCOVERY |
-| https://www.rentenbank.de/foerderangebote/ | 5 | RENTENBANK_AGRAR_ERNAEHRUNG, RENTENBANK_ENERGIE_VOM_LAND, RENTENBANK_UMWELT_VERBRAUCHERSCHUTZ, RENTENBANK_ENERGIE_VOM_LAND_ERNEUERBARE |
-| https://www.bafa.de/DE/Energie/Energieberatung/Nichtwohngebaeude_Anlagen_Systeme/nichtwohngebaeude_anlagen_systeme_node.html | 4 | BAFA_EBN_M1, BAFA_EBN_M3, BAFA_EBN_M1_ENERGIEAUDIT, BAFA_EBN_M3_CONTRACTING |
 | https://www.sab.sachsen.de/foerderprogramme | 4 | SAB_SACHSEN_GRUENDUNG, SAB_FOERDERPROGRAMME_UEBERSICHT, SAB_DIGITALKREDIT, SAB_INNOVATIONSKREDIT |
-| https://www.bmwk.de/Redaktion/DE/Artikel/Innovation/go-innovativ.html | 4 | BMWK_GO_INNO, BMWK_GO_INNO_POTENZIALANALYSE, BMWK_GO_INNO_REALISIERUNGSKONZEPT, BMWK_GO_INNO_PROJEKTMANAGEMENT |
 | https://www.sikb.de/foerderprodukte/unternehmensfoerderung | 4 | SIKB_INVEST_DARLEHEN, SIKB_UNTERNEHMEN_UEBERSICHT, SIKB_INVEST_DARLEHEN_INVESTITION, SIKB_INVEST_DARLEHEN_BETRIEBSMITTEL |
-| https://www.bmbf.de/bmbf/de/forschung/innovationen/datipilot/datipilot_node.html | 4 | BMBF_DATIPILOT_INNOVATIONSSPRINTS, BMBF_DATIPILOT_INNOVATIONSCOMMUNITIES, BMBF_DATIPILOT_INNOVATIONSCOMMUNITIES_AUFBAU, BMBF_DATIPILOT_INNOVATIONSCOMMUNITIES_UMSETZUNG |
-| https://www.bmwe.de/Redaktion/DE/Pressemitteilungen/2025/11/20251117-neue-finanzierungsinstrumente-fuer-gemeinwohlorientierte-unternehmen-und-sozialunternehmerinnen-starten.html | 4 | BMWE_NACHHALTIG_WIRKEN, BMWE_GEMEINNUETZIGE_GRUENDUNGSVORHABEN_KREDIT, BMWE_REACT_WITH_IMPACT, BMWE_SOZIALUNTERNEHMEN_FINANZIERUNGSINSTRUMENTE |
-| https://cinea.ec.europa.eu/life/life-calls-proposals_en | 4 | EU_LIFE_CLEAN_ENERGY_TRANSITION, EU_LIFE_CIRCULAR_ECONOMY_QUALITY_OF_LIFE, EU_LIFE_NATURE_BIODIVERSITY, EU_LIFE_CLIMATE_ACTION |
-| https://www.bafa.de/DE/Energie/Energieberatung/Nichtwohngebaeude_Anlagen_Systeme/Modul2_Energieberatung/modul2_energieberatung.html | 3 | BAFA_EBN_M2, BAFA_EBN_M2_BESTAND, BAFA_EBN_M2_NEUBAU |
-| https://www.bmwk.de/Redaktion/DE/Dossier/invest.html | 3 | BMWK_INVEST, BMWK_INVEST_ERWERBSZUSCHUSS, BMWK_INVEST_EXITZUSCHUSS |
-| https://www.bundesfinanzministerium.de/Web/DE/Themen/Steuern/Steuerliche_Themengebiete/Forschungszulage/forschungszulage.html | 3 | FZULG, FZULG_EIGENBETRIEBLICH, FZULG_AUFTRAGSFORSCHUNG |
-| https://www.ibb.de/wachstumsprogramm | 3 | IBB_WACHSTUMSPROGRAMM, IBB_WACHSTUMSPROGRAMM_INVESTITION, IBB_WACHSTUMSPROGRAMM_BETRIEBSMITTEL |
-| https://www.ilb.de/de/wirtschaft/ | 3 | ILB_BRANDENBURG_GO, ILB_BRANDENBURG_KREDIT_MIKRO, ILB_WIRTSCHAFT_UEBERSICHT |
 | https://www.l-bank.de/produkte/unternehmer/ | 3 | LBANK_INNOVATION_FINANZIERUNG, LBANK_LPLUS, LBANK_UNTERNEHMER_UEBERSICHT |
-| https://www.umweltpakt.bayern.de/werkzeuge/foerderfibel/programme/12/innovationskredit | 3 | LFA_INNOVATIONSKREDIT, LFA_INNOVATIONSKREDIT_INVESTITION, LFA_INNOVATIONSKREDIT_BETRIEBSMITTEL |
-| https://www.foerderdatenbank.de/FDB/Content/DE/Foerderprogramm/Land/Brandenburg/brandenburg-kredit-unternehmen.html | 3 | ILB_BRANDENBURG_KREDIT_UNTERNEHMEN, ILB_BRANDENBURG_KREDIT_UNTERNEHMEN_INVESTITION, ILB_BRANDENBURG_KREDIT_UNTERNEHMEN_BETRIEBSMITTEL |
 | https://www.lfa.de/website/de/foerderangebote/finanzierung/stabilisierung/foerderangebot/Darlehen/index.php | 3 | LFA_UNIVERSALKREDIT, LFA_UNIVERSALKREDIT_INVESTITION, LFA_UNIVERSALKREDIT_BETRIEBSMITTEL |
 | https://www.ib-sachsen-anhalt.de/de/unternehmen/investieren-finanzieren/wachstum | 3 | IB_SA_WACHSTUM, IB_SA_WACHSTUM_INVESTITION, IB_SA_WACHSTUM_BETRIEBSMITTEL |
 | https://www.ib-sachsen-anhalt.de/de/unternehmen/investieren-finanzieren | 3 | IB_SA_DARLEHEN_UNTERNEHMEN, IB_SA_DARLEHEN_UNTERNEHMEN_INVESTITION, IB_SA_DARLEHEN_UNTERNEHMEN_BETRIEBSMITTEL |
@@ -39,6 +23,22 @@
 | https://www.inqa.de/DE/angebote/unternehmenswert-mensch-plus/uebersicht.html | 3 | BMAS_UNTERNEHMENSWERT_MENSCH_PLUS, BMAS_UNTERNEHMENSWERT_MENSCH_PLUS_ERSTBERATUNG, BMAS_UNTERNEHMENSWERT_MENSCH_PLUS_PROZESSBERATUNG |
 | https://www.ifbhh.de/ifb/foerderprogramm/hamburg-kredit-wachstum | 3 | IFB_HAMBURG_KREDIT_WACHSTUM, IFB_HAMBURG_KREDIT_WACHSTUM_INVESTITION, IFB_HAMBURG_KREDIT_WACHSTUM_BETRIEBSMITTEL |
 | https://www.ifbhh.de/ifb/foerderprogramm/hamburg-kredit-universal | 3 | IFB_HAMBURG_KREDIT_UNIVERSAL, IFB_HAMBURG_KREDIT_UNIVERSAL_INVESTITION, IFB_HAMBURG_KREDIT_UNIVERSAL_BETRIEBSMITTEL |
+| https://www.bmwk.de/Redaktion/DE/Artikel/Innovation/igp.html | 3 | BMWK_IGP, BMWK_IGP_PHASE1, BMWK_IGP_PHASE2 |
+| https://www.kfw.de/inlandsfoerderung/Unternehmen/Energie-Umwelt/F%C3%B6rderprodukte/KfW-Unternehmerkredit-Plus-(070)/ | 3 | KFW_070, KFW_070_KLIMASCHUTZINVESTITIONEN, KFW_070_TRANSFORMATIONSFINANZIERUNG |
+| https://www.umweltinnovationsprogramm.de/ | 3 | BMUV_UMWELTINNOVATIONSPROGRAMM, BMUV_UIP_ZUSCHUSS, BMUV_UIP_KREDIT |
+| https://www.mikromezzaninfonds-deutschland.de/ | 3 | MMF_DEUTSCHLAND, MMF_DEUTSCHLAND_STANDARD, MMF_DEUTSCHLAND_BESONDERE_ZIELGRUPPEN |
+| https://www.developpp.de/ | 3 | BMZ_DEVELOPPP, BMZ_DEVELOPPP_DEG, BMZ_DEVELOPPP_GIZ |
+| https://www.bmas.de/mikrokredit | 3 | BMAS_MIKROKREDITFONDS_DE, BMAS_MIKROKREDITFONDS_DE_ERSTFINANZIERUNG, BMAS_MIKROKREDITFONDS_DE_WACHSTUMSFINANZIERUNG |
+| https://www.bmwk.de/Redaktion/DE/Artikel/Technologie/vorwettbewerbliche-forschung-fuer-den-mittelstand.html | 3 | BMWK_INNO_KOM, BMWK_INNO_KOM_OST, BMWK_INNO_KOM_INVEST |
+| https://www.bafa.de/DE/Energie/Effiziente_Waermenetze/effiziente_waermenetze_node.html | 3 | BAFA_BEW, BAFA_BEW_TRANSFORMATIONSPLAN, BAFA_BEW_INVESTITION |
+| https://www.ermoeglicher.de/bob-buergschaft-ohne-bank/ | 3 | BUERGSCHAFT_OHNE_BANK, BUERGSCHAFT_OHNE_BANK_GRUENDUNG, BUERGSCHAFT_OHNE_BANK_WACHSTUM |
+| https://www.htgf.de/de/finanzierung/ | 3 | HTGF_SEED_FINANZIERUNG, HTGF_PRE_SEED_VALIDIERUNG, HTGF_SEED_FOLLOW_ON |
+| https://www.agaportal.de/ufk-garantien | 3 | BMWK_UFK_GARANTIEN, BMWK_UFK_GARANTIEN_AUSLAND, BMWK_UFK_GARANTIEN_INLAND |
+| https://www.sprind.org/challenges | 3 | SPRIND_CHALLENGES, SPRIND_CHALLENGES_VALIDIERUNG, SPRIND_CHALLENGES_PILOTIERUNG |
+| https://www.aif.de/foerderung/igf | 3 | BMWK_IGF, BMWK_IGF_FORSCHUNGSVORHABEN, BMWK_IGF_CORNET |
+| https://www.inqa.de/DE/angebote/unternehmenswert-mensch/uebersicht.html | 3 | BMAS_UNTERNEHMENSWERT_MENSCH, BMAS_UNTERNEHMENSWERT_MENSCH_ERSTBERATUNG, BMAS_UNTERNEHMENSWERT_MENSCH_PROZESSBERATUNG |
+| https://www.developpp.de/ventures | 3 | BMZ_DEVELOPPP_VENTURES, BMZ_DEVELOPPP_VENTURES_SEED, BMZ_DEVELOPPP_VENTURES_GROWTH |
+| https://www.coparion.vc/ | 3 | COPARION_BETEILIGUNGSFONDS, COPARION_SEED_COINVEST, COPARION_SERIES_A_COINVEST |
 
 ## Regel fuer Bereinigung
 

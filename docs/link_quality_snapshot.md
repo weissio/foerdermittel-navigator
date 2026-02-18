@@ -1,20 +1,20 @@
 # Link Quality Snapshot
 
-- Erzeugt am: `2026-02-18 23:28`
+- Erzeugt am: `2026-02-18 23:56`
 - Datensaetze: `1024`
 - Fehlend Informationen: `0`
 - Fehlend Dokumente: `0`
-- Informationen = Dokumente (identische URL): `464` (45.3%)
+- Informationen = Dokumente (identische URL): `400` (39.1%)
 
 ## Top Domains
 
 | Domain | Verwendungen |
 |---|---:|
 | www.kfw.de | 432 |
+| foerderportal.bund.de | 263 |
 | www.kmu-innovativ.de | 259 |
-| foerderportal.bund.de | 259 |
-| www.bmwk.de | 105 |
-| www.bafa.de | 57 |
+| www.bmwk.de | 88 |
+| www.bafa.de | 62 |
 | www.zim.de | 38 |
 | www.ibb.de | 32 |
 | www.nrwbank.de | 30 |
@@ -23,13 +23,13 @@
 | www.wibank.de | 28 |
 | www.sab.sachsen.de | 25 |
 | www.ifbhh.de | 24 |
-| www.bmbf.de | 24 |
+| www.bmwe.de | 23 |
 | www.ib-sh.de | 20 |
 | www.ib-sachsen-anhalt.de | 20 |
 | www.inqa.de | 20 |
 | www.agaportal.de | 20 |
+| www.bmbf.de | 20 |
 | www.l-bank.de | 18 |
-| www.nbank.de | 18 |
 
 ## Prioritaet
 
