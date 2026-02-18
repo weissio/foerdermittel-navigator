@@ -1,17 +1,18 @@
 # Link Quality Snapshot
 
-- Erzeugt am: `2026-02-18 21:56`
+- Erzeugt am: `2026-02-18 22:26`
 - Datensaetze: `1024`
 - Fehlend Informationen: `0`
 - Fehlend Dokumente: `0`
-- Informationen = Dokumente (identische URL): `761` (74.3%)
+- Informationen = Dokumente (identische URL): `502` (49.0%)
 
 ## Top Domains
 
 | Domain | Verwendungen |
 |---|---:|
-| www.kmu-innovativ.de | 518 |
 | www.kfw.de | 432 |
+| www.kmu-innovativ.de | 259 |
+| foerderportal.bund.de | 259 |
 | www.bmwk.de | 105 |
 | www.bafa.de | 57 |
 | www.zim.de | 38 |
@@ -29,7 +30,6 @@
 | www.agaportal.de | 20 |
 | www.foerderdatenbank.de | 18 |
 | www.l-bank.de | 18 |
-| www.nbank.de | 18 |
 
 ## Prioritaet
 

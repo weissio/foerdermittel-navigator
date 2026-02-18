@@ -1,15 +1,14 @@
 # Informationen/Dokumente Overlap
 
-- Erzeugt am: `2026-02-18 21:56`
+- Erzeugt am: `2026-02-18 22:26`
 - Datensaetze gesamt: `1024`
-- Gleicher Link in Informationen und Dokumente: `761`
-- Anteil: `74.3%`
+- Gleicher Link in Informationen und Dokumente: `502`
+- Anteil: `49.0%`
 
 ## Top Overlap-URLs
 
 | URL | Anzahl Datensaetze | Beispiel-IDs |
 |---|---:|---|
-| https://www.kmu-innovativ.de/ | 259 | BMBF_KMU_INNOVATIV, BMBF_KMU_INNOVATIV_IKT, BMBF_KMU_INNOVATIV_MEDTECH, BMBF_KMU_INNOVATIV_MATERIALFORSCHUNG |
 | https://www.bmwk.de/Redaktion/DE/Dossier/markterschliessungsprogramm.html | 12 | BMWK_MARKTERSCHLIESSUNGSPROGRAMM, BMWK_MEP_GESCHAEFTSANBAHNUNG, BMWK_MEP_INFORMATIONSVERANSTALTUNG, BMWK_MEP_LEISTUNGSSCHAU |
 | https://www.agaportal.de/exportkreditgarantien | 7 | BMWK_HERMESDECKUNGEN, BMWK_HERMESDECKUNGEN_LIEFERKREDIT, BMWK_HERMESDECKUNGEN_FINANZKREDIT, BMWK_HERMESDECKUNGEN_FABRIKATIONSRISIKO |
 | https://www.bafa.de/DE/Energie/Effiziente_Gebaeude/effiziente_gebaeude_node.html | 5 | BAFA_BEG_EM, BAFA_BEG_EM_GEBUEDEHUELLE, BAFA_BEG_EM_ANLAGENTECHNIK, BAFA_BEG_EM_HEIZUNGSANLAGEN |
@@ -39,6 +38,7 @@
 | https://isb.rlp.de/foerderung/innovation-und-digitalisierung.html | 3 | ISB_DIGITALISIERUNG_RLP, ISB_INNOVATION_RLP, ISB_INNOVATION_DIGITALISIERUNG |
 | https://www.exist.de/EXIST/Navigation/DE/Programm/Exist-Gruendungsstipendium/exist-gruendungsstipendium.html | 3 | BMWK_EXIST_GRUENDUNGSSTIPENDIUM, BMWK_EXIST_GRUENDUNGSSTIPENDIUM_PERSONAL, BMWK_EXIST_GRUENDUNGSSTIPENDIUM_SACHMITTEL |
 | https://www.exist.de/EXIST/Navigation/DE/Programm/Exist-Forschungstransfer/exist-forschungstransfer.html | 3 | BMWK_EXIST_FORSCHUNGSTRANSFER, BMWK_EXIST_FORSCHUNGSTRANSFER_PHASE1, BMWK_EXIST_FORSCHUNGSTRANSFER_PHASE2 |
+| https://www.bmwk.de/Redaktion/DE/Artikel/Technologie/wipano.html | 3 | BMWK_WIPANO, BMWK_WIPANO_PATENTE, BMWK_WIPANO_NORMUNG |
 
 ## Regel fuer Bereinigung
 
