@@ -1,9 +1,9 @@
 # Informationen/Dokumente Overlap
 
-- Erzeugt am: `2026-02-18 21:27`
+- Erzeugt am: `2026-02-18 21:56`
 - Datensaetze gesamt: `1024`
-- Gleicher Link in Informationen und Dokumente: `767`
-- Anteil: `74.9%`
+- Gleicher Link in Informationen und Dokumente: `761`
+- Anteil: `74.3%`
 
 ## Top Overlap-URLs
 
@@ -32,13 +32,13 @@
 | https://www.ilb.de/de/wirtschaft/ | 3 | ILB_BRANDENBURG_GO, ILB_BRANDENBURG_KREDIT_MIKRO, ILB_WIRTSCHAFT_UEBERSICHT |
 | https://www.l-bank.de/produkte/unternehmer/ | 3 | LBANK_INNOVATION_FINANZIERUNG, LBANK_LPLUS, LBANK_UNTERNEHMER_UEBERSICHT |
 | https://www.umweltpakt.bayern.de/werkzeuge/foerderfibel/programme/12/innovationskredit | 3 | LFA_INNOVATIONSKREDIT, LFA_INNOVATIONSKREDIT_INVESTITION, LFA_INNOVATIONSKREDIT_BETRIEBSMITTEL |
-| https://www.nrwbank.de/de/foerderung/foerderprodukte/60100/nrwbank-gruendung-und-wachstum.html | 3 | NRWBANK_GRUENDUNG_WACHSTUM, NRWBANK_GRUENDUNG_WACHSTUM_INVESTITION, NRWBANK_GRUENDUNG_WACHSTUM_BETRIEBSMITTEL |
 | https://www.foerderdatenbank.de/FDB/Content/DE/Foerderprogramm/Land/Brandenburg/brandenburg-kredit-unternehmen.html | 3 | ILB_BRANDENBURG_KREDIT_UNTERNEHMEN, ILB_BRANDENBURG_KREDIT_UNTERNEHMEN_INVESTITION, ILB_BRANDENBURG_KREDIT_UNTERNEHMEN_BETRIEBSMITTEL |
-| https://www.sab.sachsen.de/sab-sachsenkredit-universal-neu | 3 | SAB_SACHSENKREDIT_UNIVERSAL, SAB_SACHSENKREDIT_UNIVERSAL_INVESTITION, SAB_SACHSENKREDIT_UNIVERSAL_BETRIEBSMITTEL |
 | https://www.lfa.de/website/de/foerderangebote/finanzierung/stabilisierung/foerderangebot/Darlehen/index.php | 3 | LFA_UNIVERSALKREDIT, LFA_UNIVERSALKREDIT_INVESTITION, LFA_UNIVERSALKREDIT_BETRIEBSMITTEL |
 | https://www.ib-sachsen-anhalt.de/de/unternehmen/investieren-finanzieren/wachstum | 3 | IB_SA_WACHSTUM, IB_SA_WACHSTUM_INVESTITION, IB_SA_WACHSTUM_BETRIEBSMITTEL |
 | https://www.ib-sachsen-anhalt.de/de/unternehmen/investieren-finanzieren | 3 | IB_SA_DARLEHEN_UNTERNEHMEN, IB_SA_DARLEHEN_UNTERNEHMEN_INVESTITION, IB_SA_DARLEHEN_UNTERNEHMEN_BETRIEBSMITTEL |
 | https://isb.rlp.de/foerderung/innovation-und-digitalisierung.html | 3 | ISB_DIGITALISIERUNG_RLP, ISB_INNOVATION_RLP, ISB_INNOVATION_DIGITALISIERUNG |
+| https://www.exist.de/EXIST/Navigation/DE/Programm/Exist-Gruendungsstipendium/exist-gruendungsstipendium.html | 3 | BMWK_EXIST_GRUENDUNGSSTIPENDIUM, BMWK_EXIST_GRUENDUNGSSTIPENDIUM_PERSONAL, BMWK_EXIST_GRUENDUNGSSTIPENDIUM_SACHMITTEL |
+| https://www.exist.de/EXIST/Navigation/DE/Programm/Exist-Forschungstransfer/exist-forschungstransfer.html | 3 | BMWK_EXIST_FORSCHUNGSTRANSFER, BMWK_EXIST_FORSCHUNGSTRANSFER_PHASE1, BMWK_EXIST_FORSCHUNGSTRANSFER_PHASE2 |
 
 ## Regel fuer Bereinigung
 
