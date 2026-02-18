@@ -1,9 +1,9 @@
 # Informationen/Dokumente Overlap
 
-- Erzeugt am: `2026-02-18 12:14`
+- Erzeugt am: `2026-02-18 13:23`
 - Datensaetze gesamt: `1024`
-- Gleicher Link in Informationen und Dokumente: `801`
-- Anteil: `78.2%`
+- Gleicher Link in Informationen und Dokumente: `786`
+- Anteil: `76.8%`
 
 ## Top Overlap-URLs
 
@@ -11,10 +11,8 @@
 |---|---:|---|
 | https://www.kmu-innovativ.de/ | 259 | BMBF_KMU_INNOVATIV, BMBF_KMU_INNOVATIV_IKT, BMBF_KMU_INNOVATIV_MEDTECH, BMBF_KMU_INNOVATIV_MATERIALFORSCHUNG |
 | https://www.bmwk.de/Redaktion/DE/Dossier/markterschliessungsprogramm.html | 12 | BMWK_MARKTERSCHLIESSUNGSPROGRAMM, BMWK_MEP_GESCHAEFTSANBAHNUNG, BMWK_MEP_INFORMATIONSVERANSTALTUNG, BMWK_MEP_LEISTUNGSSCHAU |
-| https://www.kfw.de/PDF/Download-Center/F%C3%B6rderprogramme-%28Inlandsf%C3%B6rderung%29/PDF-Dokumente/6000004011_M_380_390_391.pdf | 9 | KFW_380, KFW_390, KFW_391, KFW_380_INVESTITION |
 | https://www.agaportal.de/exportkreditgarantien | 7 | BMWK_HERMESDECKUNGEN, BMWK_HERMESDECKUNGEN_LIEFERKREDIT, BMWK_HERMESDECKUNGEN_FINANZKREDIT, BMWK_HERMESDECKUNGEN_FABRIKATIONSRISIKO |
 | https://www.nrwbank.de/de/unternehmen/ | 6 | NRWBANK_INVEST_ZUKUNFT, NRWBANK_UNIVERSALKREDIT, NRWBANK_UNTERNEHMEN_UEBERSICHT, NRWBANK_DIGITALISIERUNG_INNOVATION |
-| https://www.kfw.de/inlandsfoerderung/Unternehmen/ | 6 | KFW_365, KFW_366, KFW_365_INVESTITION, KFW_365_BETRIEBSMITTEL |
 | https://www.bafa.de/DE/Energie/Effiziente_Gebaeude/effiziente_gebaeude_node.html | 5 | BAFA_BEG_EM, BAFA_BEG_EM_GEBUEDEHUELLE, BAFA_BEG_EM_ANLAGENTECHNIK, BAFA_BEG_EM_HEIZUNGSANLAGEN |
 | https://www.bmwk.de/Redaktion/DE/Artikel/Digitale-Welt/foerderprogramm-go-digital.html | 5 | BMWK_GO_DIGITAL, BMWK_GO_DIGITAL_DIGITALISIERUNGSSTRATEGIE, BMWK_GO_DIGITAL_IT_SICHERHEIT, BMWK_GO_DIGITAL_DIGITALE_MARKTERSCHLIESSUNG |
 | https://www.bmwk.de/Redaktion/DE/Artikel/Mittelstand/messen-junge-innovative-unternehmen.html | 5 | BMWK_MESSE_JUNGE_INNOVATIVE, BMWK_MESSE_JUNGE_INNOVATIVE_GEMEINSCHAFTSSTAND, BMWK_MESSE_JUNGE_INNOVATIVE_MARKTEINTRITT, BMWK_MESSE_JUNGE_INNOVATIVE_ERSTTEILNAHME |
@@ -39,6 +37,8 @@
 | https://www.l-bank.de/produkte/unternehmer/ | 3 | LBANK_INNOVATION_FINANZIERUNG, LBANK_LPLUS, LBANK_UNTERNEHMER_UEBERSICHT |
 | https://www.umweltpakt.bayern.de/werkzeuge/foerderfibel/programme/12/innovationskredit | 3 | LFA_INNOVATIONSKREDIT, LFA_INNOVATIONSKREDIT_INVESTITION, LFA_INNOVATIONSKREDIT_BETRIEBSMITTEL |
 | https://www.nrwbank.de/de/foerderung/foerderprodukte/60100/nrwbank-gruendung-und-wachstum.html | 3 | NRWBANK_GRUENDUNG_WACHSTUM, NRWBANK_GRUENDUNG_WACHSTUM_INVESTITION, NRWBANK_GRUENDUNG_WACHSTUM_BETRIEBSMITTEL |
+| https://www.foerderdatenbank.de/FDB/Content/DE/Foerderprogramm/Land/Brandenburg/brandenburg-kredit-unternehmen.html | 3 | ILB_BRANDENBURG_KREDIT_UNTERNEHMEN, ILB_BRANDENBURG_KREDIT_UNTERNEHMEN_INVESTITION, ILB_BRANDENBURG_KREDIT_UNTERNEHMEN_BETRIEBSMITTEL |
+| https://www.sab.sachsen.de/sab-sachsenkredit-universal-neu | 3 | SAB_SACHSENKREDIT_UNIVERSAL, SAB_SACHSENKREDIT_UNIVERSAL_INVESTITION, SAB_SACHSENKREDIT_UNIVERSAL_BETRIEBSMITTEL |
 
 ## Regel fuer Bereinigung
 
