@@ -1,9 +1,9 @@
 # Informationen/Dokumente Overlap
 
-- Erzeugt am: `2026-02-18 14:41`
+- Erzeugt am: `2026-02-18 21:27`
 - Datensaetze gesamt: `1024`
-- Gleicher Link in Informationen und Dokumente: `771`
-- Anteil: `75.3%`
+- Gleicher Link in Informationen und Dokumente: `767`
+- Anteil: `74.9%`
 
 ## Top Overlap-URLs
 
@@ -12,7 +12,6 @@
 | https://www.kmu-innovativ.de/ | 259 | BMBF_KMU_INNOVATIV, BMBF_KMU_INNOVATIV_IKT, BMBF_KMU_INNOVATIV_MEDTECH, BMBF_KMU_INNOVATIV_MATERIALFORSCHUNG |
 | https://www.bmwk.de/Redaktion/DE/Dossier/markterschliessungsprogramm.html | 12 | BMWK_MARKTERSCHLIESSUNGSPROGRAMM, BMWK_MEP_GESCHAEFTSANBAHNUNG, BMWK_MEP_INFORMATIONSVERANSTALTUNG, BMWK_MEP_LEISTUNGSSCHAU |
 | https://www.agaportal.de/exportkreditgarantien | 7 | BMWK_HERMESDECKUNGEN, BMWK_HERMESDECKUNGEN_LIEFERKREDIT, BMWK_HERMESDECKUNGEN_FINANZKREDIT, BMWK_HERMESDECKUNGEN_FABRIKATIONSRISIKO |
-| https://www.nrwbank.de/de/unternehmen/ | 6 | NRWBANK_INVEST_ZUKUNFT, NRWBANK_UNIVERSALKREDIT, NRWBANK_UNTERNEHMEN_UEBERSICHT, NRWBANK_DIGITALISIERUNG_INNOVATION |
 | https://www.bafa.de/DE/Energie/Effiziente_Gebaeude/effiziente_gebaeude_node.html | 5 | BAFA_BEG_EM, BAFA_BEG_EM_GEBUEDEHUELLE, BAFA_BEG_EM_ANLAGENTECHNIK, BAFA_BEG_EM_HEIZUNGSANLAGEN |
 | https://www.bmwk.de/Redaktion/DE/Artikel/Digitale-Welt/foerderprogramm-go-digital.html | 5 | BMWK_GO_DIGITAL, BMWK_GO_DIGITAL_DIGITALISIERUNGSSTRATEGIE, BMWK_GO_DIGITAL_IT_SICHERHEIT, BMWK_GO_DIGITAL_DIGITALE_MARKTERSCHLIESSUNG |
 | https://www.bmwk.de/Redaktion/DE/Artikel/Mittelstand/messen-junge-innovative-unternehmen.html | 5 | BMWK_MESSE_JUNGE_INNOVATIVE, BMWK_MESSE_JUNGE_INNOVATIVE_GEMEINSCHAFTSSTAND, BMWK_MESSE_JUNGE_INNOVATIVE_MARKTEINTRITT, BMWK_MESSE_JUNGE_INNOVATIVE_ERSTTEILNAHME |
@@ -39,6 +38,7 @@
 | https://www.lfa.de/website/de/foerderangebote/finanzierung/stabilisierung/foerderangebot/Darlehen/index.php | 3 | LFA_UNIVERSALKREDIT, LFA_UNIVERSALKREDIT_INVESTITION, LFA_UNIVERSALKREDIT_BETRIEBSMITTEL |
 | https://www.ib-sachsen-anhalt.de/de/unternehmen/investieren-finanzieren/wachstum | 3 | IB_SA_WACHSTUM, IB_SA_WACHSTUM_INVESTITION, IB_SA_WACHSTUM_BETRIEBSMITTEL |
 | https://www.ib-sachsen-anhalt.de/de/unternehmen/investieren-finanzieren | 3 | IB_SA_DARLEHEN_UNTERNEHMEN, IB_SA_DARLEHEN_UNTERNEHMEN_INVESTITION, IB_SA_DARLEHEN_UNTERNEHMEN_BETRIEBSMITTEL |
+| https://isb.rlp.de/foerderung/innovation-und-digitalisierung.html | 3 | ISB_DIGITALISIERUNG_RLP, ISB_INNOVATION_RLP, ISB_INNOVATION_DIGITALISIERUNG |
 
 ## Regel fuer Bereinigung
 
