@@ -1,10 +1,10 @@
 # Link Quality Snapshot
 
-- Erzeugt am: `2026-02-18 11:14`
+- Erzeugt am: `2026-02-18 11:21`
 - Datensaetze: `1024`
 - Fehlend Informationen: `0`
 - Fehlend Dokumente: `0`
-- Informationen = Dokumente (identische URL): `1001` (97.8%)
+- Informationen = Dokumente (identische URL): `975` (95.2%)
 
 ## Top Domains
 
@@ -13,7 +13,7 @@
 | www.kmu-innovativ.de | 518 |
 | www.kfw.de | 432 |
 | www.bmwk.de | 105 |
-| www.bafa.de | 70 |
+| www.bafa.de | 57 |
 | www.zim.de | 38 |
 | www.ibb.de | 32 |
 | www.nrwbank.de | 30 |
