@@ -1,9 +1,9 @@
 # Informationen/Dokumente Overlap
 
-- Erzeugt am: `2026-02-18 22:26`
+- Erzeugt am: `2026-02-18 22:57`
 - Datensaetze gesamt: `1024`
-- Gleicher Link in Informationen und Dokumente: `502`
-- Anteil: `49.0%`
+- Gleicher Link in Informationen und Dokumente: `492`
+- Anteil: `48.0%`
 
 ## Top Overlap-URLs
 
