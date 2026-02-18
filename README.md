@@ -32,6 +32,7 @@ make batch
 - alle Snapshot-Reports (wie oben)
 - `docs/scope_matrix.md` (Bund/EU/Laender-Matrix)
 - `docs/link_quality_snapshot.md` (Informationen/Dokumente-Qualitaet)
+- `docs/master_coverage.md` (Prio-Abdeckung Bund/EU/Laenderbanken)
 - `STATUS.md` (automatisch aus aktuellem Datenstand)
 
 ## Wichtige Dateien
@@ -45,6 +46,7 @@ make batch
 - Open-Calls-Snapshot: `docs/open_calls.md`
 - Scope-Matrix: `docs/scope_matrix.md`
 - Link-Qualitaet: `docs/link_quality_snapshot.md`
+- Master-Coverage: `docs/master_coverage.md`
 - Update-Prozess: `docs/update_process.md`
 - QA-Kommandos: `docs/qa_commands.md`
 
