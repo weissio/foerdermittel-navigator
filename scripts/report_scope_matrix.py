@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import csv
 import datetime as dt
+import re
 from collections import Counter
 from pathlib import Path
 
@@ -39,11 +40,16 @@ def in_any(text: str, needles: list[str]) -> bool:
     return any(n in text for n in needles)
 
 
+def is_eu_region(region: str) -> bool:
+    # Match standalone EU marker, not substrings like "deutschland".
+    return re.search(r"\beu\b", region) is not None
+
+
 def bucket(row: dict[str, str]) -> str:
     region = normalize(row.get("region", ""))
     traeger = normalize(row.get("traeger", ""))
 
-    if "eu" in region or in_any(
+    if is_eu_region(region) or in_any(
         traeger,
         ["europ", "eic", "eismea", "eacea", "euspa", "cinea", "ha dea", "hadea"],
     ):

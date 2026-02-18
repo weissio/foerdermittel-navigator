@@ -1,16 +1,16 @@
 # Scope Matrix
 
-- Erzeugt am: `2026-02-18 08:23`
+- Erzeugt am: `2026-02-18 10:01`
 - Datensaetze gesamt: `1024`
 
 ## Bereichsabdeckung
 
 | Bereich | Anzahl |
 |---|---:|
-| Bund | 0 |
-| EU | 805 |
+| Bund | 704 |
+| EU | 69 |
 | Laender/Landesbanken | 218 |
-| Sonstige | 1 |
+| Sonstige | 33 |
 
 ## Status gesamt
 
