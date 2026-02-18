@@ -33,6 +33,7 @@ make batch
 - `docs/scope_matrix.md` (Bund/EU/Laender-Matrix)
 - `docs/link_quality_snapshot.md` (Informationen/Dokumente-Qualitaet)
 - `docs/master_coverage.md` (Prio-Abdeckung Bund/EU/Laenderbanken)
+- `docs/info_link_overlap.md` (gleiche URL in Informationen/Dokumente)
 - `STATUS.md` (automatisch aus aktuellem Datenstand)
 
 ## Wichtige Dateien
@@ -47,6 +48,7 @@ make batch
 - Scope-Matrix: `docs/scope_matrix.md`
 - Link-Qualitaet: `docs/link_quality_snapshot.md`
 - Master-Coverage: `docs/master_coverage.md`
+- Link-Overlap: `docs/info_link_overlap.md`
 - Update-Prozess: `docs/update_process.md`
 - QA-Kommandos: `docs/qa_commands.md`
 

@@ -19,6 +19,7 @@ Stand: 2026-02-18
 - `scripts/report_scope_matrix.py`: aktualisiert `docs/scope_matrix.md`
 - `scripts/report_link_quality.py`: aktualisiert `docs/link_quality_snapshot.md`
 - `scripts/report_master_coverage.py`: aktualisiert `docs/master_coverage.md`
+- `scripts/report_info_link_overlap.py`: aktualisiert `docs/info_link_overlap.md`
 - Snapshot-Dateien:
   - `docs/coverage_snapshot.md`
   - `docs/deadline_snapshot.md`
@@ -27,6 +28,7 @@ Stand: 2026-02-18
   - `docs/scope_matrix.md`
   - `docs/link_quality_snapshot.md`
   - `docs/master_coverage.md`
+  - `docs/info_link_overlap.md`
 
 ## Preview
 
