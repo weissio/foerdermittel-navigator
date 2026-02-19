@@ -1,14 +1,15 @@
-# Link Quality Snapshot
+# Link Structure Snapshot
 
-- Erzeugt am: `2026-02-19 08:53`
 - Datensaetze: `1024`
-- Fehlend Informationen: `0`
-- Fehlend Dokumente: `0`
-- Informationen = Dokumente (identische URL): `0` (0.0%)
+- Fehlende Informationen-Links: `0`
+- Fehlende Dokumente-Links: `0`
+- Identische Informationen/Dokumente-Links: `0`
+- Gleicher Basispfad mit Query/Fragment: `159`
+- Gleicher Basispfad ohne Query/Fragment: `0`
 
-## Top Domains
+## Top Hosts
 
-| Domain | Verwendungen |
+| Host | Anzahl Links |
 |---|---:|
 | www.kfw.de | 432 |
 | foerderportal.bund.de | 263 |
@@ -31,7 +32,7 @@
 | www.inqa.de | 20 |
 | www.agaportal.de | 20 |
 
-## Prioritaet
+## Stichprobe: Gleicher Basispfad ohne Query/Fragment
 
-1. Datensaetze mit identischer URL fuer Informationen/Dokumente zuerst trennen.
-2. Danach 404-Checks auf allen geaenderten Datensaetzen ausfuehren.
+| programm_id |
+|---|

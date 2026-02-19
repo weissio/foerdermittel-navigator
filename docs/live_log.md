@@ -758,3 +758,8 @@
 - Datenausbau Prio II (LfA Bayern): +2 Programmlinien fuer den LfA Innovationskredit aufgenommen.
 - Neu: `LFA_INNOVATIONSKREDIT_INVESTITION` und `LFA_INNOVATIONSKREDIT_BETRIEBSMITTEL`.
 - Fokus: Trennung Investitions- und Betriebsmittelfinanzierung in Innovations-/Digitalisierungsvorhaben.
+
+## 2026-02-19 23:10
+- Link-Audit erweitert: neues Snapshot-Skript `scripts/report_link_structure.py` hinzugefuegt.
+- `make status` erzeugt jetzt zusaetzlich `docs/link_structure_snapshot.md`.
+- Ergebnisstruktur aktuell: keine identischen Informationen/Dokumente-Links; Basisgleichheit nur mit Query/Fragment (beabsichtigte Dokument-Tabs/Formularanker).

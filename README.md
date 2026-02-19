@@ -32,6 +32,8 @@ make batch
 - alle Snapshot-Reports (wie oben)
 - `docs/scope_matrix.md` (Bund/EU/Laender-Matrix)
 - `docs/link_quality_snapshot.md` (Informationen/Dokumente-Qualitaet)
+- `docs/link_structure_snapshot.md` (Strukturcheck Informationen/Dokumente)
+- `docs/url_sanity_snapshot.md` (URL-Format- und Spezifitaetscheck)
 - `docs/master_coverage.md` (Prio-Abdeckung Bund/EU/Laenderbanken)
 - `docs/info_link_overlap.md` (gleiche URL in Informationen/Dokumente)
 - `STATUS.md` (automatisch aus aktuellem Datenstand)
@@ -47,6 +49,8 @@ make batch
 - Open-Calls-Snapshot: `docs/open_calls.md`
 - Scope-Matrix: `docs/scope_matrix.md`
 - Link-Qualitaet: `docs/link_quality_snapshot.md`
+- Link-Struktur: `docs/link_structure_snapshot.md`
+- URL-Sanity: `docs/url_sanity_snapshot.md`
 - Master-Coverage: `docs/master_coverage.md`
 - Link-Overlap: `docs/info_link_overlap.md`
 - Update-Prozess: `docs/update_process.md`
