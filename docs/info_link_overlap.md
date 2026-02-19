@@ -1,44 +1,44 @@
 # Informationen/Dokumente Overlap
 
-- Erzeugt am: `2026-02-19 01:26`
+- Erzeugt am: `2026-02-19 01:57`
 - Datensaetze gesamt: `1024`
-- Gleicher Link in Informationen und Dokumente: `157`
-- Anteil: `15.3%`
+- Gleicher Link in Informationen und Dokumente: `79`
+- Anteil: `7.7%`
 
 ## Top Overlap-URLs
 
 | URL | Anzahl Datensaetze | Beispiel-IDs |
 |---|---:|---|
-| https://www.efre.bayern.de/efre/ | 1 | EFRE_BAYERN_PORTAL |
-| https://www.berlin.de/sen/wirtschaft/gruenden-und-foerdern/foerderprogramme/efre/ | 1 | EFRE_BERLIN_PORTAL |
-| https://efre.brandenburg.de/efre/de/ | 1 | EFRE_BRANDENBURG_PORTAL |
-| https://www.efre-bremen.de/foerderperiode-2021-2027/programm-2021-2027-32026 | 1 | EFRE_BREMEN_PORTAL |
-| https://efre-bw.de/ | 1 | EFRE_BW_PORTAL |
-| https://efre.hessen.de/ | 1 | EFRE_HESSEN_PORTAL |
-| https://www.regierung-mv.de/Landesregierung/wm/EFRE/ | 1 | EFRE_MV_PORTAL |
-| https://www.efre.niedersachsen.de/startseite/ | 1 | EFRE_NIEDERSACHSEN_PORTAL |
-| https://www.efre.nrw.de/ | 1 | EFRE_NRWFUNDS_PORTAL |
-| https://www.saarland.de/SharedDocs/Downloads/DE/staatskanzlei/efre_2021_2027.html | 1 | EFRE_SAARLAND_PORTAL |
-| https://www.strukturfonds.sachsen.de/efre-4427.html | 1 | EFRE_SACHSEN_PORTAL |
-| https://www.europa.sachsen-anhalt.de/fileadmin/Bibliothek/Politik_und_Verwaltung/StK/EFRE/EFRE_2021-2027.pdf | 1 | EFRE_SA_ANHALT_PORTAL |
-| https://www.schleswig-holstein.de/DE/landesregierung/themen/wirtschaft/lpw/efre_programm/efre_2021-2027/efreprogramm-2021-2027_node | 1 | EFRE_SH_PORTAL |
-| https://www.efre-thueringen.de/efre-programm/programm/ | 1 | EFRE_TH_PORTAL |
-| https://www.ibb.de/de/foerderungen/europaeischer-sozialfonds-plus/europaeischer-sozialfonds-plus.html | 1 | ESF_BERLIN_2021_2027 |
-| https://www.berlin.de/sen/arbeit/europaeischer-sozialfonds-plus/ | 1 | ESF_BERLIN_PORTAL |
-| https://esf.brandenburg.de/esf/de/esf-2021-2027/esf-foerderprogramme-2021-2027/ | 1 | ESF_BRANDENBURG_FOERDERPROGRAMME_2021_2027 |
-| https://esf.brandenburg.de/esf/de/esf-2021-2027/esf-programm/ | 1 | ESF_BRANDENBURG_PORTAL |
-| https://www.esf.bremen.de/ | 1 | ESF_BREMEN_2021_2027 |
-| https://www.esf-hessen.de/esf-hessen/programme-2021-2027 | 1 | ESF_HESSEN_PROGRAMME_2021_2027 |
-| https://www.europa-mv.de/foerderinstrumente/fonds_mv/esf/ | 1 | ESF_MV_2021_2027 |
-| https://www.nrwbank.de/de/foerderung/foerderprodukte/60170/esf-plus---foerderprogramme-des-bundes-2021-2027.html | 1 | ESF_NRW_PROGRAMME_2021_2027 |
-| https://esf.rlp.de/esf-programm | 1 | ESF_RLP_PROGRAMM |
-| https://pact-for-skills.ec.europa.eu/stakeholders-and-business/funding-opportunities/european-social-fund-plus-esf-germany-saarland_en | 1 | ESF_SAARLAND_OPEN |
-| https://www.saarland.de/DE/portale/esfplus/esfplus_node.html | 1 | ESF_SAARLAND_PROGRAMM |
-| https://www.schule.sachsen.de/europaeischer-sozialfonds-esf-plus-2021-2027-7745.html | 1 | ESF_SACHSEN_2021_2027 |
-| https://www.europa.sachsen-anhalt.de/ESF/ESF-2021-2027 | 1 | ESF_SA_ANHALT_PROGRAMM |
-| https://pact-for-skills.ec.europa.eu/stakeholders-and-business/funding-opportunities/european-social-fund-plus-esf-germany-schleswig-holstein_en | 1 | ESF_SH_OPEN |
-| https://pact-for-skills.ec.europa.eu/stakeholders-and-business/funding-opportunities/european-social-fund-plus-esf-germany-thuringiathuringen_en | 1 | ESF_TH_OPEN |
-| https://commission.europa.eu/funding-tenders/find-funding/eu-funding-programmes/digital-europe-programme_en | 1 | EU_DIGITAL_EUROPE |
+| https://www.foerderdatenbank.de/FDB/DE/Service/Onlineantrag/EFRE/efre_node.html | 1 | EU_EFRE_DE_PORTAL |
+| https://www.foerderdatenbank.de/FDB/DE/Service/Onlineantrag/ESF/esf_node.html | 1 | EU_ESF_DE_PORTAL |
+| https://isb.rlp.de/foerderung/wachsen-und-investieren.html | 1 | ISB_WACHSEN_INVESTIEREN |
+| https://www.lfi-mv.de/foerderfinder/messen-und-ausstellungen/ | 1 | LFI_MV_MESSEN_AUSSTELLUNGEN |
+| https://www.lfi-mv.de/foerderfinder/gemeinschaftsaufgabe-verbesserung-der-regionalen-wirtschaftsstruktur-gewerbliche-wirtschaft/ | 1 | LFI_MV_GRW_GEWERBLICHE_WIRTSCHAFT |
+| https://isb.rlp.de/foerderung.html | 1 | ISB_FOERDERUNG_A_Z_RLP |
+| https://www.lfi-mv.de/foerderfinder/klimaschutzprojekte-in-wirtschaftlich-taetigen-organisationen/ | 1 | LFI_MV_KLIMASCHUTZ_WIRTSCHAFT |
+| https://www.lfi-mv.de/foerderfinder/ersteinstellung-von-personal/ | 1 | LFI_MV_ERSTEINSTELLUNG_PERSONAL |
+| https://www.lfi-mv.de/foerderfinder/digitalisierungsvorhaben-in-unternehmen/ | 1 | LFI_MV_DIGITALISIERUNGSVORHABEN |
+| https://www.ifbhh.de/ifb/foerderprogramm/hamburg-kredit-digital | 1 | IFB_HAMBURG_KREDIT_DIGITAL |
+| https://www.ifbhh.de/foerderprogramm/innorampup | 1 | IFB_INNORAMPUP |
+| https://efre.rlp.de/ | 1 | EFRE_RLP_PORTAL |
+| https://www.hamburg.de/politik-und-verwaltung/behoerden/behoerde-fuer-wirtschaft-und-innovation/themen/europa-foerdert-hamburg-efre-30506 | 1 | EFRE_HAMBURG_PORTAL |
+| https://www.bayernkapital.de/ | 1 | BAYERNKAPITAL_BETEILIGUNG |
+| https://cinea.ec.europa.eu/programmes/connecting-europe-facility/cef-digital_en | 1 | EU_CEF_DIGITAL |
+| https://climate.ec.europa.eu/eu-action/funding-climate-action/innovation-fund_en | 1 | EU_INNOVATION_FUND |
+| https://investeu.europa.eu/index_en | 1 | EU_INVESTEU |
+| https://eit.europa.eu/our-activities/opportunities | 1 | EU_EIT_COMMUNITY |
+| https://health.ec.europa.eu/funding/eu4health-programme-2021-2027-vision-healthier-european-union_en | 1 | EU_EU4HEALTH |
+| https://www.eurekanetwork.org/programmes/eurostars/ | 1 | EU_EUROSTARS |
+| https://www.eurekanetwork.org/programmes/globalstars/ | 1 | EU_EUREKA_GLOBALSTARS |
+| https://culture.ec.europa.eu/creative-europe | 1 | EU_CREATIVE_EUROPE |
+| https://commission.europa.eu/funding-tenders/find-funding/eu-funding-programmes/citizens-equality-rights-and-values-programme_en | 1 | EU_CERV_PROGRAMME |
+| https://ec.europa.eu/regional_policy/funding/just-transition-fund_en | 1 | EU_JUST_TRANSITION_FUND |
+| https://interreg.eu/ | 1 | EU_INTERREG |
+| https://erasmus-plus.ec.europa.eu/ | 1 | EU_ERASMUS_PLUS |
+| https://defence-industry-space.ec.europa.eu/eu-defence-industry/european-defence-fund-edf_en | 1 | EU_EUROPEAN_DEFENCE_FUND |
+| https://www.euspa.europa.eu/euspace-opportunities | 1 | EU_SPACE_PROGRAMME |
+| https://blueinvest-community.converve.io/ | 1 | EU_BLUEINVEST |
+| https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe/research-infrastructures_en | 1 | EU_HORIZON_RESEARCH_INFRASTRUCTURES |
 
 ## Regel fuer Bereinigung
 
