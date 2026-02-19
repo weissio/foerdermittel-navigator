@@ -32,9 +32,38 @@ SPECIFIC_HINTS = [
     "/eic-",
 ]
 
+SPECIFIC_FILE_EXT = (
+    ".pdf",
+    ".doc",
+    ".docx",
+    ".xls",
+    ".xlsx",
+    ".ppt",
+    ".pptx",
+    ".zip",
+)
+
+SPECIFIC_FRAGMENTS = {
+    "downloads",
+    "download",
+    "dokumente",
+    "formulare",
+    "publikationen",
+    "faq",
+    "materialien",
+    "onlineantrag",
+    "foerderaufrufe",
+}
+
 
 def _looks_generic(url: str) -> bool:
     lower = url.lower()
+    parsed = urlparse(lower)
+
+    if parsed.path.endswith(SPECIFIC_FILE_EXT):
+        return False
+    if parsed.fragment and any(frag in parsed.fragment for frag in SPECIFIC_FRAGMENTS):
+        return False
     if any(h in lower for h in SPECIFIC_HINTS):
         return False
     return any(p in lower for p in GENERIC_PATTERNS)

@@ -1,11 +1,11 @@
 # URL Sanity Snapshot
 
-- Erzeugt am: `2026-02-19 03:57`
+- Erzeugt am: `2026-02-19 04:26`
 - Datensaetze: `1024`
 - Ungueltige URLs: `0`
 - Nicht-HTTPS URLs: `0`
 - Potenziell generische Informations-Links: `37`
-- Potenziell generische Dokumenten-Links: `137`
+- Potenziell generische Dokumenten-Links: `119`
 
 ## Top Hosts
 
@@ -76,13 +76,11 @@
 | IFB_MV_UNTERNEHMEN | https://www.lfi-mv.de/service/downloads/ |
 | ILB_BRANDENBURG_GO | https://www.ilb.de/de/service/download-center/ |
 | ILB_BRANDENBURG_KREDIT_MIKRO | https://www.ilb.de/de/service/download-center/ |
-| KFW_380 | https://www.kfw.de/PDF/Download-Center/F%C3%B6rderprogramme-%28Inlandsf%C3%B6rderung%29/PDF-Dokumente/6000004011_M_380_390_391.pdf |
 | LBANK_GRUENDUNG_WACHSTUM | https://www.l-bank.de/service/download-center/ |
 | LBANK_INNOVATION_FINANZIERUNG | https://www.l-bank.de/service/download-center/ |
 | LBANK_LPLUS | https://www.l-bank.de/service/download-center/ |
 | LFA_BAYERN_UNTERNEHMEN | https://www.lfa.de/website/de/service/downloads/index.php |
 | NBANK_NIEDERSACHSEN_UNTERNEHMEN | https://www.nbank.de/Service/Downloads/ |
-| SAB_SACHSEN_GRUENDUNG | https://www.sab.sachsen.de/foerderprogramme#dokumente |
 | TAB_FOERDERPROGRAMME_BRANCHE | https://www.aufbaubank.de/Service/Downloads |
 | WIBANK_HESSEN_UNTERNEHMEN | https://www.wibank.de/wibank/infocenter/download-center/index.jsp |
 | ILB_BRANDENBURG_KREDIT_UNTERNEHMEN | https://www.ilb.de/de/service/download-center/ |
@@ -91,6 +89,8 @@
 | SAB_SACHSENKREDIT_UNIVERSAL | https://www.sab.sachsen.de/foerderprogramme |
 | NBANK_INVESTKREDIT | https://www.nbank.de/Service/Downloads/ |
 | NBANK_MIKROSTARTER | https://www.nbank.de/Service/Downloads/ |
+| IFB_HAMBURG_KREDIT_GRUENDUNG_NACHFOLGE | https://www.ifbhh.de/downloads |
+| IFB_HAMBURG_KREDIT_MIKRO | https://www.ifbhh.de/downloads |
 
 ## Stichprobe: Ungueltige URLs
 
