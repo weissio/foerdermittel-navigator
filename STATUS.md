@@ -1,6 +1,6 @@
 # Status (Live Snapshot)
 
-Stand: 2026-02-18
+Stand: 2026-02-19
 
 ## Datenbestand
 
@@ -18,6 +18,7 @@ Stand: 2026-02-18
 - `scripts/report_gaps.py`: aktualisiert `docs/data_gaps.md`
 - `scripts/report_scope_matrix.py`: aktualisiert `docs/scope_matrix.md`
 - `scripts/report_link_quality.py`: aktualisiert `docs/link_quality_snapshot.md`
+- `scripts/report_url_sanity.py`: aktualisiert `docs/url_sanity_snapshot.md`
 - `scripts/report_master_coverage.py`: aktualisiert `docs/master_coverage.md`
 - `scripts/report_info_link_overlap.py`: aktualisiert `docs/info_link_overlap.md`
 - Snapshot-Dateien:
@@ -27,6 +28,7 @@ Stand: 2026-02-18
   - `docs/data_gaps.md`
   - `docs/scope_matrix.md`
   - `docs/link_quality_snapshot.md`
+  - `docs/url_sanity_snapshot.md`
   - `docs/master_coverage.md`
   - `docs/info_link_overlap.md`
 

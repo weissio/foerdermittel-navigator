@@ -21,6 +21,7 @@ status:
 	python3 scripts/report_gaps.py
 	python3 scripts/report_scope_matrix.py
 	python3 scripts/report_link_quality.py
+	python3 scripts/report_url_sanity.py
 	python3 scripts/report_master_coverage.py
 	python3 scripts/report_info_link_overlap.py
 	python3 scripts/report_status.py
