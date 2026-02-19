@@ -901,3 +901,8 @@
 ## 2026-02-20 05:28
 - Live-Link-Checker technisch verschaerft: Retry-Logik fuer transiente Fehler (Timeout/Connection-Reset) und explizite Trennung in harte vs. transiente Fehler eingefuehrt.
 - Snapshot erweitert um Kennzahlen `harte Fehler` und `transiente Fehler` fuer klareres QM-Entscheiden (404/DNS priorisiert, Transportfehler separat).
+
+## 2026-02-20 05:41
+- KfW-Qualitaetsregel umgesetzt: alle KfW-Datensaetze mit Produktnummer und bisher generischem Info-Link (`/inlandsfoerderung/Unternehmen/`) auf produktspezifische KfW-Produktdokumentseiten (`.../Dokumente-zum-Produkt/<Nummer>/index.jsp`) umgestellt.
+- Umfang: 93 Datensaetze aktualisiert, `letzte_pruefung` fuer geaenderte KfW-Faelle auf 2026-02-20 gesetzt.
+- Validator verhaertet: KfW-Eintraege mit Produktnummer duerfen den generischen KfW-Unternehmenslink nicht mehr als `Informationen` nutzen.

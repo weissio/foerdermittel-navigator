@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import csv
 import datetime as dt
+import re
 import sys
 from collections import Counter
 from pathlib import Path
@@ -224,6 +225,13 @@ def validate(path: Path) -> int:
             if "bmwe.de" in quelle_url:
                 errors.append(
                     f"line {idx} ({programm_id}): BMWK record with BMWE docs url '{quelle_url}'"
+                )
+
+        if programm_id.startswith("KFW_"):
+            has_product_number = bool(re.search(r"\d{3}", programm_id))
+            if has_product_number and info_url == "https://www.kfw.de/inlandsfoerderung/Unternehmen/":
+                errors.append(
+                    f"line {idx} ({programm_id}): KfW record with product number must not use generic info url '{info_url}'"
                 )
 
     print(f"Checked rows: {len(rows)}")
