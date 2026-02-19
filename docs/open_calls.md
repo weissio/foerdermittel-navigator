@@ -336,9 +336,9 @@
 - `BMWK_EEW_FOERDERWETTBEWERB` | EEW - Foerderwettbewerb Energie- und Ressourceneffizienz in der Wirtschaft | rollierend | https://www.wettbewerb-energieeffizienz.de/
 - `BMWK_H2GLOBAL` | H2Global - Foerdermechanismus fuer klimafreundliche Wasserstoffderivate | rollierend | https://www.h2global.org/
 - `BMWK_IGF_CORNET` | CORNET (Collective Research Networking) im IGF-Umfeld | rollierend | https://www.aif.de/
-- `BMWK_IGP_PHASE1` | IGP - Phase 1 (Ideenwettbewerb/Skizze) | rollierend | https://www.bmwk.de/
-- `BMWK_IGP_PHASE2` | IGP - Phase 2 (Umsetzungsprojekt) | rollierend | https://www.bmwk.de/
-- `BMWK_IGP` | Innovationsprogramm fuer Geschaeftsmodelle und Pionierloesungen (IGP) | rollierend | https://www.bmwk.de/
+- `BMWK_IGP_PHASE1` | IGP - Phase 1 (Ideenwettbewerb/Skizze) | rollierend | https://www.bmwk.de/Redaktion/DE/Artikel/Innovation/igp.html
+- `BMWK_IGP_PHASE2` | IGP - Phase 2 (Umsetzungsprojekt) | rollierend | https://www.bmwk.de/Redaktion/DE/Artikel/Innovation/igp.html
+- `BMWK_IGP` | Innovationsprogramm fuer Geschaeftsmodelle und Pionierloesungen (IGP) | rollierend | https://www.bmwk.de/Redaktion/DE/Artikel/Innovation/igp.html
 - `BMWK_IPCEI_HY2TECH` | IPCEI Wasserstoff - Hy2Tech (Technologiekomponenten) | rollierend | https://www.bmwk.de/Redaktion/DE/Dossier/wasserstoff.html
 - `BMWK_IPCEI_HY2USE` | IPCEI Wasserstoff - Hy2Use (Industrielle Anwendung und Infrastruktur) | rollierend | https://www.bmwk.de/Redaktion/DE/Dossier/wasserstoff.html
 - `BMWK_IPCEI_WASSERSTOFF` | IPCEI Wasserstoff (Hy2Tech/Hy2Use) - Bundesfoerderung | rollierend | https://www.bmwk.de/Redaktion/DE/Dossier/wasserstoff.html

@@ -892,3 +892,8 @@
   - Exception-Register `data/link_exceptions.csv` angelegt.
   - Neues Delta-Gate `scripts/check_changed_links_gate.py` + `make gate_changed` (geaenderte Datensaetze vs. `origin/main`).
   - QM-Dokumentation `docs/qm_policy.md` erstellt und README/Status auf neuen Gate-Flow erweitert.
+
+## 2026-02-20 05:12
+- BMWK-Rootlinks in Programmfamilien auf programmspezifische BMWK-Seiten umgestellt (INVEST, go-inno, go-digital, IGP, WIPANO, Markterschliessungsprogramm, Messeprogramm).
+- ESF/MBB-Hostkorrekturen beibehalten und Datensatzfeld `letzte_pruefung` fuer geaenderte BMWK-Faelle aktualisiert.
+- QA/Status vollstaendig erneut ausgefuehrt; Datensatzanzahl unveraendert bei 1024.
