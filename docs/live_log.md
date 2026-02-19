@@ -785,3 +785,6 @@
 ## 2026-02-19 23:52
 - Link-Korrektur: `ESF_NIEDERSACHSEN_OPEN` Dokumente-Link entfernt (Seite nicht verfuegbar).
 - Verhalten in Preview: nur `Informationen` angezeigt, kein fehlerhafter `Dokumente`-Link mehr.
+
+## 2026-02-19 23:59
+- Link-Korrektur: `ESF_SAARLAND_OPEN` Dokumente-Link entfernt (Zielseite nicht erreichbar).
