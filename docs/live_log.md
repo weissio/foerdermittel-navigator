@@ -850,3 +850,8 @@
 ## 2026-02-20 02:34
 - Datenkorrektur BMWK/BMWE: bei 14 BMWK-Datensaetzen fehlerhafte `bmwe.de` Dokumente-Links entfernt (u. a. go-digital/go-inno/Messeprogramm).
 - Validator erweitert: BMWK-Datensaetze mit `bmwe.de` in Informationen oder Dokumente werden jetzt als Fehler geblockt.
+
+## 2026-02-20 02:50
+- Fehlerbehebung Welle 2: 130 veraltete/404-Informationslinks auf stabile Traeger- oder Programmseiten umgestellt.
+- Zusaetzlich 52 defekte Dokumente-Links entfernt (404/fehlerhafte Download-Pfade).
+- Live-Link-Stichprobe (`--insecure`, 400 Links): Fehlerzahl von 159 auf 115 gesenkt.

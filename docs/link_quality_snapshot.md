@@ -1,10 +1,10 @@
 # Link Quality Snapshot
 
-- Erzeugt am: `2026-02-19 13:28`
+- Erzeugt am: `2026-02-19 13:34`
 - Datensaetze: `1024`
 - Fehlend Informationen: `0`
-- Fehlend Dokumente: `179`
-- Informationen = Dokumente (identische URL): `0` (0.0%)
+- Fehlend Dokumente: `231`
+- Informationen = Dokumente (identische URL): `8` (0.8%)
 
 ## Top Domains
 
@@ -14,22 +14,22 @@
 | foerderportal.bund.de | 263 |
 | www.kmu-innovativ.de | 259 |
 | www.bmwk.de | 88 |
-| www.bafa.de | 62 |
-| www.zim.de | 38 |
+| www.bafa.de | 55 |
 | www.exist.de | 30 |
 | www.nrwbank.de | 29 |
-| isb.rlp.de | 27 |
 | www.wibank.de | 26 |
 | www.ifbhh.de | 24 |
-| www.sab.sachsen.de | 22 |
+| isb.rlp.de | 24 |
+| www.zim.de | 21 |
+| www.sab.sachsen.de | 20 |
 | www.inqa.de | 20 |
 | www.agaportal.de | 20 |
 | www.bmbf.de | 20 |
 | www.ibb.de | 19 |
 | www.l-bank.de | 18 |
-| www.wettbewerb-energieeffizienz.de | 15 |
 | www.developpp.de | 12 |
 | www.bmas.de | 12 |
+| www.foerderdatenbank.de | 11 |
 
 ## Prioritaet
 
