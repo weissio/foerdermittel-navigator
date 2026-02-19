@@ -1,10 +1,10 @@
 # Link Quality Snapshot
 
-- Erzeugt am: `2026-02-19 01:57`
+- Erzeugt am: `2026-02-19 02:26`
 - Datensaetze: `1024`
 - Fehlend Informationen: `0`
 - Fehlend Dokumente: `0`
-- Informationen = Dokumente (identische URL): `79` (7.7%)
+- Informationen = Dokumente (identische URL): `0` (0.0%)
 
 ## Top Domains
 
@@ -14,6 +14,7 @@
 | foerderportal.bund.de | 263 |
 | www.kmu-innovativ.de | 259 |
 | www.bmwk.de | 88 |
+| ec.europa.eu | 65 |
 | www.bafa.de | 62 |
 | www.foerderdatenbank.de | 40 |
 | www.zim.de | 38 |
@@ -25,7 +26,6 @@
 | www.sab.sachsen.de | 25 |
 | www.ifbhh.de | 24 |
 | www.bmwe.de | 23 |
-| ec.europa.eu | 22 |
 | www.ib-sh.de | 20 |
 | www.ib-sachsen-anhalt.de | 20 |
 | www.inqa.de | 20 |
