@@ -881,3 +881,7 @@
 - Fehlerbehebung Welle 7: NBank-Problemfaelle auf stabile Startseite (`https://www.nbank.de/`) umgestellt.
 - Live-Link-Checker verbessert: HTTP-Redirects (3xx) werden jetzt als erreichbar gewertet statt als Fehler.
 - Live-Link-Stichprobe (`--insecure`, 400 Links): Fehlerzahl von 41 auf 34 gesenkt.
+
+## 2026-02-20 04:30
+- Korrektur auf Hinweis: `KFW_100` (ERP-Beteiligungsprogramm) Informationen-Link von allgemeiner KfW-Unternehmensseite auf die konkrete Produktseite umgestellt.
+- Neuer Link: `https://www.kfw.de/inlandsfoerderung/Unternehmen/Investitionen-und-Wachstum/F%C3%B6rderprodukte/ERP-Beteiligungsprogramm-(100-104)/`
