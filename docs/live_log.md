@@ -897,3 +897,7 @@
 - BMWK-Rootlinks in Programmfamilien auf programmspezifische BMWK-Seiten umgestellt (INVEST, go-inno, go-digital, IGP, WIPANO, Markterschliessungsprogramm, Messeprogramm).
 - ESF/MBB-Hostkorrekturen beibehalten und Datensatzfeld `letzte_pruefung` fuer geaenderte BMWK-Faelle aktualisiert.
 - QA/Status vollstaendig erneut ausgefuehrt; Datensatzanzahl unveraendert bei 1024.
+
+## 2026-02-20 05:28
+- Live-Link-Checker technisch verschaerft: Retry-Logik fuer transiente Fehler (Timeout/Connection-Reset) und explizite Trennung in harte vs. transiente Fehler eingefuehrt.
+- Snapshot erweitert um Kennzahlen `harte Fehler` und `transiente Fehler` fuer klareres QM-Entscheiden (404/DNS priorisiert, Transportfehler separat).

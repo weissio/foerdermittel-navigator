@@ -30,7 +30,16 @@ class LinkResult:
     detail: str
 
 
-def _check_url(url: str, timeout: float, insecure: bool) -> tuple[bool, str, str]:
+def _is_transient(status: str, detail: str) -> bool:
+    d = (detail or "").lower()
+    if status == "timeout":
+        return True
+    if status == "url_error" and ("timed out" in d or "connection reset" in d):
+        return True
+    return False
+
+
+def _check_url_once(url: str, timeout: float, insecure: bool) -> tuple[bool, str, str]:
     headers = {"User-Agent": "FoerdermittelNavigatorLinkCheck/1.0"}
     context = None
     if insecure:
@@ -63,6 +72,20 @@ def _check_url(url: str, timeout: float, insecure: bool) -> tuple[bool, str, str
             return (False, "error", str(e))
 
 
+def _check_url(url: str, timeout: float, insecure: bool, retries: int) -> tuple[bool, str, str]:
+    ok, status, detail = _check_url_once(url, timeout, insecure)
+    if ok:
+        return ok, status, detail
+    # Retry only transient transport failures.
+    attempts_left = max(0, retries)
+    while attempts_left > 0 and _is_transient(status, detail):
+        ok, status, detail = _check_url_once(url, timeout, insecure)
+        if ok:
+            return ok, status, detail
+        attempts_left -= 1
+    return ok, status, detail
+
+
 def iter_links(rows: Iterable[dict[str, str]]) -> Iterable[tuple[str, str, str]]:
     for row in rows:
         pid = (row.get("programm_id") or "").strip()
@@ -80,6 +103,7 @@ def main() -> int:
     parser.add_argument("--workers", type=int, default=24)
     parser.add_argument("--limit", type=int, default=0, help="0 = alle Links pruefen")
     parser.add_argument("--insecure", action="store_true", help="SSL-Zertifikatspruefung deaktivieren")
+    parser.add_argument("--retries", type=int, default=1, help="Anzahl Wiederholungen bei transienten Fehlern")
     parser.add_argument("--max-fail-list", type=int, default=300)
     parser.add_argument("--fail-on-errors", action="store_true")
     args = parser.parse_args()
@@ -92,7 +116,7 @@ def main() -> int:
 
     def run_one(entry: tuple[str, str, str]) -> LinkResult:
         pid, field, url = entry
-        ok, status, detail = _check_url(url, args.timeout, args.insecure)
+        ok, status, detail = _check_url(url, args.timeout, args.insecure, args.retries)
         return LinkResult(
             programm_id=pid,
             field=field,
@@ -110,6 +134,8 @@ def main() -> int:
     failures = [r for r in results if not r.ok]
     infos_fail = [r for r in failures if r.field == "Informationen"]
     docs_fail = [r for r in failures if r.field == "Dokumente"]
+    hard_fail = [r for r in failures if not _is_transient(r.status, r.detail)]
+    transient_fail = [r for r in failures if _is_transient(r.status, r.detail)]
     by_status = Counter(r.status for r in failures)
 
     lines: list[str] = []
@@ -117,6 +143,8 @@ def main() -> int:
     lines.append("")
     lines.append(f"- Gepruefte Links gesamt: `{total}`")
     lines.append(f"- Fehlgeschlagen gesamt: `{len(failures)}`")
+    lines.append(f"- Davon harte Fehler (z. B. 404/DNS): `{len(hard_fail)}`")
+    lines.append(f"- Davon transiente Fehler (Timeout/Reset): `{len(transient_fail)}`")
     lines.append(f"- Fehlgeschlagene Informationen-Links: `{len(infos_fail)}`")
     lines.append(f"- Fehlgeschlagene Dokumente-Links: `{len(docs_fail)}`")
     lines.append("")
