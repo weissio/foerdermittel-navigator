@@ -1,0 +1,19 @@
+# Local OS/editor artifacts
+.DS_Store
+*.swp
+*.swo
+
+# Other projects kept in same parent directory (must stay separate)
+BillRemind/
+BitcoinCopilot/
+design-previews/
+design-previews-v2/
+design-previews-v3/
+bookvault.rtfd/
+solo-trip-journal/
+
+# Local notes/workspace files
+chatverlauf.txt
+bookvault-context.md
+bookvault.code-workspace
+docs/billremind-desktop-software-konzept-v1.md

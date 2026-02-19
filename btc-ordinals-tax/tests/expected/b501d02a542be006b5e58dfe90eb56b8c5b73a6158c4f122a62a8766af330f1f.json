@@ -1,5 +1,0 @@
-{
-  "must_have_types": ["token_transfer"],
-  "must_not_have_types": ["op_return"],
-  "fee_required_if_computable": true
-}

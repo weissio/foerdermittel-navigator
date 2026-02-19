@@ -1,5 +1,0 @@
-{
-  "must_have_types": ["op_return"],
-  "must_not_have_types": ["inscription"],
-  "fee_required_if_computable": true
-}
