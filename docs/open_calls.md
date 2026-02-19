@@ -353,7 +353,7 @@
 - `EUIPO_SME_FUND_MARKEN_DESIGNS` | EUIPO SME Fund - Marken und Designs (Voucher) | rollierend | https://www.euipo.europa.eu/en/discover-ip/sme-fund
 - `EUIPO_SME_FUND_PATENTE` | EUIPO SME Fund - Patente (Voucher) | rollierend | https://www.euipo.europa.eu/en/discover-ip/sme-fund
 - `EUIPO_SME_FUND` | Ideas Powered for Business SME Fund (EUIPO) | rollierend | https://www.euipo.europa.eu/en/discover-ip/sme-fund
-- `EU_BLUEINVEST` | BlueInvest (EU) | rollierend | https://blueinvest-community.converve.io/
+- `EU_BLUEINVEST` | BlueInvest (EU) | rollierend | https://blueinvest.eu/
 - `EU_CBE_JU` | Circular Bio-based Europe Joint Undertaking (CBE JU) | rollierend | https://www.cbe.europa.eu/calls-proposals_en
 - `EU_CEF_DIGITAL` | Connecting Europe Facility - Digital (CEF Digital) | rollierend | https://cinea.ec.europa.eu/programmes/connecting-europe-facility/cef-digital_en
 - `EU_CEF_ENERGY` | Connecting Europe Facility - Energy (CEF Energy) | rollierend | https://cinea.ec.europa.eu/programmes/connecting-europe-facility/energy_en

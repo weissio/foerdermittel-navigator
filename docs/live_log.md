@@ -799,3 +799,7 @@
 - Link-Korrektur: `BMUV_ANK_AKTIONSPROGRAMM_NATUERLICHER_KLIMASCHUTZ` auf funktionierende Zielseiten umgestellt.
 - Informationen: `https://www.natuerlicher-klimaschutz.de/`
 - Dokumente: `https://www.bundesumweltministerium.de/publikation/aktionsprogramm-natuerlicher-klimaschutz`
+
+## 2026-02-20 00:27
+- Link-Korrektur: `EU_BLUEINVEST` Informationen-Link auf `https://blueinvest.eu/` umgestellt.
+- Dokumente bleibt leer (kein stabiler, programmspezifischer Dokumenten-Link ohne leeres Topic-Search-Portal).
