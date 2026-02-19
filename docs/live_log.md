@@ -827,3 +827,7 @@
 ## 2026-02-20 01:22
 - Live-Link-Check beschleunigt: `scripts/report_live_link_health.py` um Parallelisierung (`--workers`) und Stichprobenlimit (`--limit`) erweitert.
 - Ziel: schnelle Browser-nahe Stichproben statt langer Blockierung bei Vollscan.
+
+## 2026-02-20 01:31
+- Live-Link-Check erweitert: Option `--insecure` eingebaut, um SSL-Interception/fehlende lokale CAs auszublenden.
+- Ergebnis mit `--insecure` (Stichprobe 400): 207 echte Fehlschlaege statt 400.

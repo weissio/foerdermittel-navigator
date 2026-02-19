@@ -42,6 +42,7 @@ make links_live
 `make links_live` erzeugt:
 - `docs/live_link_health_snapshot.md` (echte HTTP-Erreichbarkeit aller Informationen-/Dokumente-Links)
 - Optional schnellere Stichprobe: `python3 scripts/report_live_link_health.py --timeout 2 --workers 32 --limit 400`
+- Bei Firmen-/Proxy-SSL-Problemen: `python3 scripts/report_live_link_health.py --timeout 2 --workers 32 --limit 400 --insecure`
 
 ## Wichtige Dateien
 

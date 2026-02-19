@@ -30,18 +30,21 @@ class LinkResult:
     detail: str
 
 
-def _check_url(url: str, timeout: float) -> tuple[bool, str, str]:
+def _check_url(url: str, timeout: float, insecure: bool) -> tuple[bool, str, str]:
     headers = {"User-Agent": "FoerdermittelNavigatorLinkCheck/1.0"}
+    context = None
+    if insecure:
+        context = ssl._create_unverified_context()
     req = urllib.request.Request(url, method="HEAD", headers=headers)
     try:
-        with urllib.request.urlopen(req, timeout=timeout) as resp:
+        with urllib.request.urlopen(req, timeout=timeout, context=context) as resp:
             code = getattr(resp, "status", None) or resp.getcode()
             return (200 <= int(code) < 400, str(code), "")
     except Exception:
         # HEAD is often blocked; try GET as fallback.
         req = urllib.request.Request(url, method="GET", headers=headers)
         try:
-            with urllib.request.urlopen(req, timeout=timeout) as resp:
+            with urllib.request.urlopen(req, timeout=timeout, context=context) as resp:
                 code = getattr(resp, "status", None) or resp.getcode()
                 return (200 <= int(code) < 400, str(code), "")
         except urllib.error.HTTPError as e:
@@ -73,6 +76,7 @@ def main() -> int:
     parser.add_argument("--timeout", type=float, default=10.0)
     parser.add_argument("--workers", type=int, default=24)
     parser.add_argument("--limit", type=int, default=0, help="0 = alle Links pruefen")
+    parser.add_argument("--insecure", action="store_true", help="SSL-Zertifikatspruefung deaktivieren")
     parser.add_argument("--max-fail-list", type=int, default=300)
     parser.add_argument("--fail-on-errors", action="store_true")
     args = parser.parse_args()
@@ -85,7 +89,7 @@ def main() -> int:
 
     def run_one(entry: tuple[str, str, str]) -> LinkResult:
         pid, field, url = entry
-        ok, status, detail = _check_url(url, args.timeout)
+        ok, status, detail = _check_url(url, args.timeout, args.insecure)
         return LinkResult(
             programm_id=pid,
             field=field,
