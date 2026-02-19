@@ -414,4 +414,4 @@
 - `NRW_MID_DIGITALISIERUNG` | Mittelstand Innovativ & Digital (MID) - Digitalisierung | rollierend | https://www.nrwbank.de/de/foerderung/foerderprodukte/60348/produktdetail.html
 - `NRW_MID_DIGITALSICHERHEIT` | Mittelstand Innovativ & Digital (MID) - Digitale Sicherheit | rollierend | https://www.nrwbank.de/de/foerderung/foerderprodukte/60347/produktdetail.html
 - `NRW_MID_INNOVATION` | Mittelstand Innovativ & Digital (MID) - Innovation | rollierend | https://www.nrwbank.de/de/foerderung/foerderprodukte/60346/produktdetail.html
-- `N_BANK_NDS_GRUENDUNGSSTIPENDIUM` | Niedersachsen Gruendungsstipendium | rollierend | https://www.nbank.de/unternehmen/
+- `N_BANK_NDS_GRUENDUNGSSTIPENDIUM` | Niedersachsen Gruendungsstipendium | rollierend | https://www.nbank.de/Unternehmen/

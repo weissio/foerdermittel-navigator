@@ -871,3 +871,8 @@
 - Fehlerbehebung Welle 5: weitere 56 alte/zielunsichere Informations-Links auf stabile Einstiegsseiten umgestellt (v. a. BMWK/NBank/INQA/AIF/AGAPortal).
 - Zusaetzlich 34 problematische Dokumente-Links entfernt.
 - Live-Link-Stichprobe (`--insecure`, 400 Links): bei 43 Fehlern stabil (Schwankung ggü. 42 durch Timeout/Rate-Limit moeglich).
+
+## 2026-02-20 03:49
+- Fehlerbehebung Welle 6: NBank-KMU-Info-Links auf konsistente Gross-/Kleinschreibung umgestellt (`/Unternehmen/`).
+- KfW-Capital-Fondsinvestments: verbleibende defekte Dokumente-Links entfernt (`.../investitionsfokus/`).
+- Live-Link-Stichprobe (`--insecure`, 400 Links): Fehlerzahl von 43 auf 41 gesenkt.

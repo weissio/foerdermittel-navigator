@@ -66,6 +66,7 @@ BLOCKED_DOC_URLS = {
     "https://www.bmwk.de/Redaktion/DE/Artikel/Technologie/vorwettbewerbliche-forschung-fuer-den-mittelstand.html#publikationen",
     "https://www.bmwk.de/Redaktion/DE/Artikel/Mittelstand/mittelstandspolitik.html#publikationen",
     "https://www.bmwk.de/Redaktion/DE/Dossier/markterschliessungsprogramm.html#termine",
+    "https://www.kfw-capital.de/investitionsfokus/",
 }
 
 BLOCKED_INFO_URLS = {
@@ -73,6 +74,7 @@ BLOCKED_INFO_URLS = {
     "https://www.chips-ju.europa.eu/calls-information_en",
     "https://www.bmel.de/DE/themen/laendliche-regionen/foerderung-des-laendlichen-raums/buleplus.html",
     "https://www.bmel.de/DE/themen/tiere/tierwohl/umbau-tierhaltung.html",
+    "https://www.nbank.de/unternehmen/",
 }
 
 

@@ -1,8 +1,8 @@
 # URL Sanity Snapshot
 
-- Erzeugt am: `2026-02-19 15:08`
+- Erzeugt am: `2026-02-19 15:16`
 - Datensaetze: `1024`
-- Ungueltige URLs: `327`
+- Ungueltige URLs: `330`
 - Nicht-HTTPS URLs: `0`
 - Potenziell generische Informations-Links: `9`
 - Potenziell generische Dokumenten-Links: `0`
