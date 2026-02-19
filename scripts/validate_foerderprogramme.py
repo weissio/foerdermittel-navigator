@@ -31,6 +31,13 @@ BLOCKED_DOC_URLS = {
     "https://www.foerderdatenbank.de/FDB/DE/Service/Onlineantrag/EFRE/efre_node.html",
 }
 
+BLOCKED_INFO_URLS = {
+    "https://www.aktion-natuerlicher-klimaschutz.de",
+    "https://www.chips-ju.europa.eu/calls-information_en",
+    "https://www.bmel.de/DE/themen/laendliche-regionen/foerderung-des-laendlichen-raums/buleplus.html",
+    "https://www.bmel.de/DE/themen/tiere/tierwohl/umbau-tierhaltung.html",
+}
+
 
 def _is_iso_date(value: str) -> bool:
     try:
@@ -67,6 +74,7 @@ def validate(path: Path) -> int:
         status = row["status"].strip()
         kategorie = row["kategorie"].strip()
         letzte_pruefung = row["letzte_pruefung"].strip()
+        info_url = row.get("richtlinie_url", "").strip()
         quelle_url = row.get("quelle_url", "").strip()
 
         if not programm_id:
@@ -97,6 +105,11 @@ def validate(path: Path) -> int:
         if quelle_url in BLOCKED_DOC_URLS:
             errors.append(
                 f"line {idx} ({programm_id}): blocked quelle_url '{quelle_url}'"
+            )
+
+        if info_url in BLOCKED_INFO_URLS:
+            errors.append(
+                f"line {idx} ({programm_id}): blocked richtlinie_url '{info_url}'"
             )
 
     print(f"Checked rows: {len(rows)}")

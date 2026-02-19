@@ -836,3 +836,8 @@
 - Sammelkorrektur EFRE: defekten Dokumente-Link `.../Onlineantrag/EFRE/efre_node.html` aus 14 Datensaetzen entfernt.
 - Guardrail in Validierung erweitert: EFRE-Onlineantrag-Link ist nun geblockt.
 - Live-Link-Stichprobe (`--insecure`, 400 Links): Fehlerzahl von 207 auf 196 gesenkt.
+
+## 2026-02-20 02:05
+- Hard-Guardrails erweitert: weitere bekannte Dead-Links in `validate_foerderprogramme.py` fuer `Informationen` gesperrt.
+- Gesperrt (Info): alte ANK-, Chips-JU- und alte BMEL-BULEplus/Tierhaltungs-URLs.
+- Gesperrt (Dokumente): Topic-Search + ESF/EFRE-Onlineantrag bleiben geblockt.
