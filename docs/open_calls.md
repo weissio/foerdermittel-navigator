@@ -359,7 +359,7 @@
 - `EU_CEF_ENERGY` | Connecting Europe Facility - Energy (CEF Energy) | rollierend | https://cinea.ec.europa.eu/programmes/connecting-europe-facility/energy_en
 - `EU_CEF_TRANSPORT` | Connecting Europe Facility - Transport (CEF Transport) | rollierend | https://cinea.ec.europa.eu/programmes/connecting-europe-facility/transport_en
 - `EU_CERV_PROGRAMME` | Citizens, Equality, Rights and Values (CERV) | rollierend | https://commission.europa.eu/funding-tenders/find-funding/eu-funding-programmes/citizens-equality-rights-and-values-programme_en
-- `EU_CHIPS_JU` | Chips Joint Undertaking (Chips JU) Calls | rollierend | https://www.chips-ju.europa.eu/calls-information_en
+- `EU_CHIPS_JU` | Chips Joint Undertaking (Chips JU) Calls | rollierend | https://www.chips-ju.europa.eu/
 - `EU_CLEAN_AVIATION_JU` | Clean Aviation Joint Undertaking Calls | rollierend | https://www.clean-aviation.eu/calls-proposals
 - `EU_CLEAN_HYDROGEN_JU` | Clean Hydrogen Joint Undertaking (Clean Hydrogen JU) | rollierend | https://www.clean-hydrogen.europa.eu/funding-calls_en
 - `EU_CREATIVE_EUROPE` | Creative Europe Programme | rollierend | https://culture.ec.europa.eu/creative-europe

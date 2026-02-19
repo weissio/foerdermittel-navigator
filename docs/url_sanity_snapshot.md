@@ -1,6 +1,6 @@
 # URL Sanity Snapshot
 
-- Erzeugt am: `2026-02-19 10:10`
+- Erzeugt am: `2026-02-19 10:11`
 - Datensaetze: `1024`
 - Ungueltige URLs: `71`
 - Nicht-HTTPS URLs: `0`

@@ -813,3 +813,8 @@
 - Link-Korrektur: `BMEL_BUNDESPROGRAMM_UMBAU_TIERHALTUNG` auf stabile Seiten umgestellt.
 - Informationen: `https://www.bmel.de/DE/themen/tiere/tierwohl/tierwohl_node.html`
 - Dokumente: `https://www.ble.de/DE/Projektfoerderung/Foerderungen-Auftraege/Foerderungen-Auftraege_node.html`
+
+## 2026-02-20 00:54
+- Link-Korrektur: `EU_CHIPS_JU` angepasst.
+- Informationen auf stabile Startseite gesetzt: `https://www.chips-ju.europa.eu/`
+- Dokumente leer gelassen (kein verifizierter, stabiler Deep-Link ohne Fehlerseite).
