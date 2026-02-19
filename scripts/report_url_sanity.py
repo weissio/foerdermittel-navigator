@@ -98,6 +98,7 @@ def main() -> int:
         is_overview = (
             pid.endswith("_PORTAL")
             or pid.endswith("_UEBERSICHT")
+            or pid.endswith("_UNTERNEHMEN")
             or "_PORTAL_" in pid
             or "_UEBERSICHT_" in pid
             or "uebersicht" in pname

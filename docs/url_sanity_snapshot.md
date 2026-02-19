@@ -1,10 +1,10 @@
 # URL Sanity Snapshot
 
-- Erzeugt am: `2026-02-19 06:26`
+- Erzeugt am: `2026-02-19 06:57`
 - Datensaetze: `1024`
 - Ungueltige URLs: `0`
 - Nicht-HTTPS URLs: `0`
-- Potenziell generische Informations-Links: `5`
+- Potenziell generische Informations-Links: `3`
 - Potenziell generische Dokumenten-Links: `0`
 
 ## Top Hosts
@@ -37,8 +37,6 @@
 | programm_id | URL |
 |---|---|
 | IBB_BERLIN_INNOVATIV_PLUS | https://www.ibb.de/de/wirtschaftsfoerderung/foerderprogramme-a-z/foerderprogramme-a-z.html |
-| NBANK_NIEDERSACHSEN_UNTERNEHMEN | https://www.nbank.de/Foerderprogramme/Foerderprogramme-fuer-Unternehmen/ |
-| WIBANK_HESSEN_UNTERNEHMEN | https://www.wibank.de/wibank/unternehmen/foerderprogramme |
 | SAB_DIGITALKREDIT | https://www.sab.sachsen.de/foerderprogramme |
 | SAB_INNOVATIONSKREDIT | https://www.sab.sachsen.de/foerderprogramme |
 
