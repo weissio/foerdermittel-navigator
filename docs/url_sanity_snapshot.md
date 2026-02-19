@@ -1,11 +1,11 @@
 # URL Sanity Snapshot
 
-- Erzeugt am: `2026-02-19 04:26`
+- Erzeugt am: `2026-02-19 04:56`
 - Datensaetze: `1024`
 - Ungueltige URLs: `0`
 - Nicht-HTTPS URLs: `0`
 - Potenziell generische Informations-Links: `37`
-- Potenziell generische Dokumenten-Links: `119`
+- Potenziell generische Dokumenten-Links: `13`
 
 ## Top Hosts
 
@@ -66,31 +66,19 @@
 
 | programm_id | URL |
 |---|---|
-| IBB_BERLIN_INNOVATIV_PLUS | https://www.ibb.de/de/wirtschaftsfoerderung/download-center/download-center.html |
-| IBB_BERLIN_KAPITAL | https://www.ibb.de/de/wirtschaftsfoerderung/download-center/download-center.html |
 | IBB_WACHSTUMSPROGRAMM | https://www.ibb.de/de/wirtschaftsfoerderung/foerderprogramme-a-z/foerderprogramme-a-z.html |
-| IBSH_HHSH_KREDIT | https://www.ib-sh.de/service/downloads/ |
-| IBSH_MITTELSTANDSKREDIT | https://www.ib-sh.de/service/downloads/ |
-| IB_SA_GRUENDUNGSDARLEHEN_2021_2027 | https://www.ib-sachsen-anhalt.de/de/service/downloads |
-| IFB_HH_HAMBURG_KREDIT | https://www.ifbhh.de/downloads |
-| IFB_MV_UNTERNEHMEN | https://www.lfi-mv.de/service/downloads/ |
-| ILB_BRANDENBURG_GO | https://www.ilb.de/de/service/download-center/ |
-| ILB_BRANDENBURG_KREDIT_MIKRO | https://www.ilb.de/de/service/download-center/ |
-| LBANK_GRUENDUNG_WACHSTUM | https://www.l-bank.de/service/download-center/ |
-| LBANK_INNOVATION_FINANZIERUNG | https://www.l-bank.de/service/download-center/ |
-| LBANK_LPLUS | https://www.l-bank.de/service/download-center/ |
-| LFA_BAYERN_UNTERNEHMEN | https://www.lfa.de/website/de/service/downloads/index.php |
-| NBANK_NIEDERSACHSEN_UNTERNEHMEN | https://www.nbank.de/Service/Downloads/ |
-| TAB_FOERDERPROGRAMME_BRANCHE | https://www.aufbaubank.de/Service/Downloads |
-| WIBANK_HESSEN_UNTERNEHMEN | https://www.wibank.de/wibank/infocenter/download-center/index.jsp |
-| ILB_BRANDENBURG_KREDIT_UNTERNEHMEN | https://www.ilb.de/de/service/download-center/ |
-| WIBANK_HESSENFONDS_BETEILIGUNG | https://www.wibank.de/wibank/infocenter/download-center/index.jsp |
-| LBANK_INNOVATIONSFINANZIERUNG | https://www.l-bank.de/service/download-center/ |
 | SAB_SACHSENKREDIT_UNIVERSAL | https://www.sab.sachsen.de/foerderprogramme |
-| NBANK_INVESTKREDIT | https://www.nbank.de/Service/Downloads/ |
-| NBANK_MIKROSTARTER | https://www.nbank.de/Service/Downloads/ |
-| IFB_HAMBURG_KREDIT_GRUENDUNG_NACHFOLGE | https://www.ifbhh.de/downloads |
-| IFB_HAMBURG_KREDIT_MIKRO | https://www.ifbhh.de/downloads |
+| SAB_EFRE_INNOVATION | https://www.sab.sachsen.de/foerderprogramme |
+| SAB_INNOVATIONSPRAEMIE | https://www.sab.sachsen.de/foerderprogramme |
+| SAB_DIGITALISIERUNG_EFRE_2021_2027 | https://www.sab.sachsen.de/foerderprogramme |
+| SAB_TECHTRANSFER | https://www.sab.sachsen.de/foerderprogramme |
+| SAB_INNOVATION_EFRE | https://www.sab.sachsen.de/foerderprogramme |
+| SAB_DIGITALISIERUNG_ZUSCHUSS_EFRE | https://www.sab.sachsen.de/foerderprogramme |
+| SAB_TECHNOLOGIETRANSFER | https://www.sab.sachsen.de/foerderprogramme |
+| IBB_WACHSTUMSPROGRAMM_INVESTITION | https://www.ibb.de/de/wirtschaftsfoerderung/foerderprogramme-a-z/foerderprogramme-a-z.html |
+| IBB_WACHSTUMSPROGRAMM_BETRIEBSMITTEL | https://www.ibb.de/de/wirtschaftsfoerderung/foerderprogramme-a-z/foerderprogramme-a-z.html |
+| SAB_SACHSENKREDIT_UNIVERSAL_INVESTITION | https://www.sab.sachsen.de/foerderprogramme |
+| SAB_SACHSENKREDIT_UNIVERSAL_BETRIEBSMITTEL | https://www.sab.sachsen.de/foerderprogramme |
 
 ## Stichprobe: Ungueltige URLs
 

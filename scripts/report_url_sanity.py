@@ -13,12 +13,14 @@ CSV_PATH = Path("data/foerderprogramme.csv")
 OUT_PATH = Path("docs/url_sanity_snapshot.md")
 
 
-GENERIC_PATTERNS = [
+GENERIC_INFO_PATTERNS = [
     "/foerderprogramme",
     "/foerderprogramme-a-z",
-    "/service/downloads",
-    "/download-center",
-    "/downloads",
+]
+
+GENERIC_DOC_PATTERNS = [
+    "/foerderprogramme",
+    "/foerderprogramme-a-z",
 ]
 
 SPECIFIC_HINTS = [
@@ -56,7 +58,7 @@ SPECIFIC_FRAGMENTS = {
 }
 
 
-def _looks_generic(url: str) -> bool:
+def _looks_generic(url: str, field: str) -> bool:
     lower = url.lower()
     parsed = urlparse(lower)
 
@@ -66,7 +68,8 @@ def _looks_generic(url: str) -> bool:
         return False
     if any(h in lower for h in SPECIFIC_HINTS):
         return False
-    return any(p in lower for p in GENERIC_PATTERNS)
+    patterns = GENERIC_INFO_PATTERNS if field == "Informationen" else GENERIC_DOC_PATTERNS
+    return any(p in lower for p in patterns)
 
 
 def main() -> int:
@@ -96,9 +99,9 @@ def main() -> int:
             if p.scheme != "https":
                 non_https.append((pid, label, url))
             host_counts[p.netloc.lower()] += 1
-            if label == "Informationen" and _looks_generic(url) and not is_overview:
+            if label == "Informationen" and _looks_generic(url, label) and not is_overview:
                 generic_info.append((pid, url))
-            if label == "Dokumente" and _looks_generic(url) and not is_overview:
+            if label == "Dokumente" and _looks_generic(url, label) and not is_overview:
                 generic_docs.append((pid, url))
 
     lines: list[str] = []
