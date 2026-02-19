@@ -1,11 +1,12 @@
 # URL Sanity Snapshot
 
-- Erzeugt am: `2026-02-19 06:57`
+- Erzeugt am: `2026-02-19 07:27`
 - Datensaetze: `1024`
 - Ungueltige URLs: `0`
 - Nicht-HTTPS URLs: `0`
-- Potenziell generische Informations-Links: `3`
+- Potenziell generische Informations-Links: `0`
 - Potenziell generische Dokumenten-Links: `0`
+- Bewusst erlaubte generische Informations-Links: `3`
 
 ## Top Hosts
 
@@ -32,13 +33,18 @@
 | www.inqa.de | 20 |
 | www.agaportal.de | 20 |
 
-## Stichprobe: Generische Informations-Links
+## Erlaubte Ausnahmen (Informationen)
 
 | programm_id | URL |
 |---|---|
 | IBB_BERLIN_INNOVATIV_PLUS | https://www.ibb.de/de/wirtschaftsfoerderung/foerderprogramme-a-z/foerderprogramme-a-z.html |
 | SAB_DIGITALKREDIT | https://www.sab.sachsen.de/foerderprogramme |
 | SAB_INNOVATIONSKREDIT | https://www.sab.sachsen.de/foerderprogramme |
+
+## Stichprobe: Generische Informations-Links
+
+| programm_id | URL |
+|---|---|
 
 ## Stichprobe: Generische Dokumenten-Links
 

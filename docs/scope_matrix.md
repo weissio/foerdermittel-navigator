@@ -1,6 +1,6 @@
 # Scope Matrix
 
-- Erzeugt am: `2026-02-19 06:57`
+- Erzeugt am: `2026-02-19 07:27`
 - Datensaetze gesamt: `1024`
 
 ## Bereichsabdeckung

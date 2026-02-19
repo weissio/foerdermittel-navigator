@@ -53,6 +53,13 @@ SPECIFIC_FRAGMENTS = {
     "foerderaufrufe",
 }
 
+ALLOWED_GENERIC_INFO_IDS = {
+    # Derzeit nur als Sammelseite bei der Quelle verfuegbar.
+    "IBB_BERLIN_INNOVATIV_PLUS",
+    "SAB_DIGITALKREDIT",
+    "SAB_INNOVATIONSKREDIT",
+}
+
 
 def _looks_generic(url: str, field: str) -> bool:
     lower = url.lower()
@@ -91,6 +98,7 @@ def main() -> int:
     non_https = []
     generic_info = []
     generic_docs = []
+    allowed_info = []
     host_counts = Counter()
     for r in rows:
         pid = (r.get("programm_id") or "").strip()
@@ -116,7 +124,10 @@ def main() -> int:
                 non_https.append((pid, label, url))
             host_counts[p.netloc.lower()] += 1
             if label == "Informationen" and _looks_generic(url, label) and not is_overview:
-                generic_info.append((pid, url))
+                if pid in ALLOWED_GENERIC_INFO_IDS:
+                    allowed_info.append((pid, url))
+                else:
+                    generic_info.append((pid, url))
             if label == "Dokumente" and _looks_generic(url, label) and not is_overview:
                 generic_docs.append((pid, url))
 
@@ -129,6 +140,7 @@ def main() -> int:
     lines.append(f"- Nicht-HTTPS URLs: `{len(non_https)}`")
     lines.append(f"- Potenziell generische Informations-Links: `{len(generic_info)}`")
     lines.append(f"- Potenziell generische Dokumenten-Links: `{len(generic_docs)}`")
+    lines.append(f"- Bewusst erlaubte generische Informations-Links: `{len(allowed_info)}`")
     lines.append("")
     lines.append("## Top Hosts")
     lines.append("")
@@ -136,6 +148,14 @@ def main() -> int:
     lines.append("|---|---:|")
     for host, count in host_counts.most_common(20):
         lines.append(f"| {host} | {count} |")
+
+    lines.append("")
+    lines.append("## Erlaubte Ausnahmen (Informationen)")
+    lines.append("")
+    lines.append("| programm_id | URL |")
+    lines.append("|---|---|")
+    for pid, url in allowed_info:
+        lines.append(f"| {pid} | {url} |")
 
     lines.append("")
     lines.append("## Stichprobe: Generische Informations-Links")
