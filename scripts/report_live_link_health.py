@@ -48,7 +48,10 @@ def _check_url(url: str, timeout: float, insecure: bool) -> tuple[bool, str, str
                 code = getattr(resp, "status", None) or resp.getcode()
                 return (200 <= int(code) < 400, str(code), "")
         except urllib.error.HTTPError as e:
-            return (False, str(e.code), "http_error")
+            code = int(e.code)
+            if 300 <= code < 400:
+                return (True, str(code), "redirect")
+            return (False, str(code), "http_error")
         except urllib.error.URLError as e:
             reason = str(e.reason)
             return (False, "url_error", reason)

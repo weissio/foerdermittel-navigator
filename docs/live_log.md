@@ -876,3 +876,8 @@
 - Fehlerbehebung Welle 6: NBank-KMU-Info-Links auf konsistente Gross-/Kleinschreibung umgestellt (`/Unternehmen/`).
 - KfW-Capital-Fondsinvestments: verbleibende defekte Dokumente-Links entfernt (`.../investitionsfokus/`).
 - Live-Link-Stichprobe (`--insecure`, 400 Links): Fehlerzahl von 43 auf 41 gesenkt.
+
+## 2026-02-20 04:02
+- Fehlerbehebung Welle 7: NBank-Problemfaelle auf stabile Startseite (`https://www.nbank.de/`) umgestellt.
+- Live-Link-Checker verbessert: HTTP-Redirects (3xx) werden jetzt als erreichbar gewertet statt als Fehler.
+- Live-Link-Stichprobe (`--insecure`, 400 Links): Fehlerzahl von 41 auf 34 gesenkt.

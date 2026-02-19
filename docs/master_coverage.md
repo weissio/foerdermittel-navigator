@@ -1,6 +1,6 @@
 # Master Coverage
 
-- Erzeugt am: `2026-02-19 15:16`
+- Erzeugt am: `2026-02-19 16:18`
 - Datensaetze gesamt: `1024`
 
 ## Bund (Prio 1)
