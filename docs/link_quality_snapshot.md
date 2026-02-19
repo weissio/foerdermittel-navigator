@@ -1,9 +1,9 @@
 # Link Quality Snapshot
 
-- Erzeugt am: `2026-02-19 10:13`
+- Erzeugt am: `2026-02-19 12:52`
 - Datensaetze: `1024`
 - Fehlend Informationen: `0`
-- Fehlend Dokumente: `71`
+- Fehlend Dokumente: `85`
 - Informationen = Dokumente (identische URL): `0` (0.0%)
 
 ## Top Domains
@@ -21,7 +21,6 @@
 | www.exist.de | 30 |
 | www.nrwbank.de | 29 |
 | www.wibank.de | 28 |
-| www.foerderdatenbank.de | 25 |
 | www.ifbhh.de | 24 |
 | www.bmwe.de | 23 |
 | www.sab.sachsen.de | 22 |
@@ -30,6 +29,7 @@
 | www.inqa.de | 20 |
 | www.agaportal.de | 20 |
 | www.bmbf.de | 20 |
+| www.nbank.de | 19 |
 
 ## Prioritaet
 

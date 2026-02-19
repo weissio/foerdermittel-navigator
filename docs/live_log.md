@@ -831,3 +831,8 @@
 ## 2026-02-20 01:31
 - Live-Link-Check erweitert: Option `--insecure` eingebaut, um SSL-Interception/fehlende lokale CAs auszublenden.
 - Ergebnis mit `--insecure` (Stichprobe 400): 207 echte Fehlschlaege statt 400.
+
+## 2026-02-20 01:43
+- Sammelkorrektur EFRE: defekten Dokumente-Link `.../Onlineantrag/EFRE/efre_node.html` aus 14 Datensaetzen entfernt.
+- Guardrail in Validierung erweitert: EFRE-Onlineantrag-Link ist nun geblockt.
+- Live-Link-Stichprobe (`--insecure`, 400 Links): Fehlerzahl von 207 auf 196 gesenkt.

@@ -2,7 +2,7 @@
 
 - Datensaetze: `1024`
 - Fehlende Informationen-Links: `0`
-- Fehlende Dokumente-Links: `71`
+- Fehlende Dokumente-Links: `85`
 - Identische Informationen/Dokumente-Links: `0`
 - Gleicher Basispfad mit Query/Fragment: `157`
 - Gleicher Basispfad ohne Query/Fragment: `0`
@@ -22,7 +22,6 @@
 | www.exist.de | 30 |
 | www.nrwbank.de | 29 |
 | www.wibank.de | 28 |
-| www.foerderdatenbank.de | 25 |
 | www.ifbhh.de | 24 |
 | www.bmwe.de | 23 |
 | www.sab.sachsen.de | 22 |
@@ -31,6 +30,7 @@
 | www.inqa.de | 20 |
 | www.agaportal.de | 20 |
 | www.bmbf.de | 20 |
+| www.nbank.de | 19 |
 
 ## Stichprobe: Gleicher Basispfad ohne Query/Fragment
 

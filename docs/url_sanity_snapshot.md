@@ -1,8 +1,8 @@
 # URL Sanity Snapshot
 
-- Erzeugt am: `2026-02-19 10:13`
+- Erzeugt am: `2026-02-19 12:52`
 - Datensaetze: `1024`
-- Ungueltige URLs: `71`
+- Ungueltige URLs: `85`
 - Nicht-HTTPS URLs: `0`
 - Potenziell generische Informations-Links: `0`
 - Potenziell generische Dokumenten-Links: `0`
@@ -23,7 +23,6 @@
 | www.exist.de | 30 |
 | www.nrwbank.de | 29 |
 | www.wibank.de | 28 |
-| www.foerderdatenbank.de | 25 |
 | www.ifbhh.de | 24 |
 | www.bmwe.de | 23 |
 | www.sab.sachsen.de | 22 |
@@ -32,6 +31,7 @@
 | www.inqa.de | 20 |
 | www.agaportal.de | 20 |
 | www.bmbf.de | 20 |
+| www.nbank.de | 19 |
 
 ## Erlaubte Ausnahmen (Informationen)
 
@@ -55,6 +55,20 @@
 
 | programm_id | Feld | URL |
 |---|---|---|
+| EFRE_BAYERN_PORTAL | Dokumente |  |
+| EFRE_BERLIN_PORTAL | Dokumente |  |
+| EFRE_BRANDENBURG_PORTAL | Dokumente |  |
+| EFRE_BREMEN_PORTAL | Dokumente |  |
+| EFRE_BW_PORTAL | Dokumente |  |
+| EFRE_HESSEN_PORTAL | Dokumente |  |
+| EFRE_MV_PORTAL | Dokumente |  |
+| EFRE_NIEDERSACHSEN_PORTAL | Dokumente |  |
+| EFRE_NRWFUNDS_PORTAL | Dokumente |  |
+| EFRE_SAARLAND_PORTAL | Dokumente |  |
+| EFRE_SACHSEN_PORTAL | Dokumente |  |
+| EFRE_SA_ANHALT_PORTAL | Dokumente |  |
+| EFRE_SH_PORTAL | Dokumente |  |
+| EFRE_TH_PORTAL | Dokumente |  |
 | ESF_BERLIN_2021_2027 | Dokumente |  |
 | ESF_BERLIN_PORTAL | Dokumente |  |
 | ESF_BRANDENBURG_FOERDERPROGRAMME_2021_2027 | Dokumente |  |
@@ -66,19 +80,5 @@
 | ESF_RLP_PROGRAMM | Dokumente |  |
 | ESF_SAARLAND_OPEN | Dokumente |  |
 | ESF_SAARLAND_PROGRAMM | Dokumente |  |
-| ESF_SACHSEN_2021_2027 | Dokumente |  |
-| ESF_SA_ANHALT_PROGRAMM | Dokumente |  |
-| ESF_SH_OPEN | Dokumente |  |
-| ESF_TH_OPEN | Dokumente |  |
-| EU_DIGITAL_EUROPE | Dokumente |  |
-| EU_EIC_ACCELERATOR_2026 | Dokumente |  |
-| EU_EIC_AIC_NAMS_2026 | Dokumente |  |
-| EU_EIC_AIC_PHYSICAL_AI_2026 | Dokumente |  |
-| EU_EIC_STEP_SCALEUP_2026 | Dokumente |  |
-| EU_EISMEA_EIE_STARTUP_HUBS_2026 | Dokumente |  |
-| EU_EISMEA_EYE_2026 | Dokumente |  |
-| EU_EISMEA_I3_CAP2B_2026 | Dokumente |  |
-| EU_EISMEA_PPPA_TOURISM_2026 | Dokumente |  |
-| EU_HORIZON | Dokumente |  |
 
 Hinweis: Dieser Report prueft Syntax/Struktur, nicht HTTP-Statuscodes.

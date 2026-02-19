@@ -28,6 +28,7 @@ EXPECTED_KATEGORIE = {
 BLOCKED_DOC_URLS = {
     "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
     "https://www.foerderdatenbank.de/FDB/DE/Service/Onlineantrag/ESF/esf_node.html",
+    "https://www.foerderdatenbank.de/FDB/DE/Service/Onlineantrag/EFRE/efre_node.html",
 }
 
 
