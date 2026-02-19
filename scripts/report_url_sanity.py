@@ -83,11 +83,15 @@ def main() -> int:
     host_counts = Counter()
     for r in rows:
         pid = (r.get("programm_id") or "").strip()
+        pname = (r.get("programm_name") or "").strip().lower()
         is_overview = (
             pid.endswith("_PORTAL")
             or pid.endswith("_UEBERSICHT")
             or "_PORTAL_" in pid
             or "_UEBERSICHT_" in pid
+            or "uebersicht" in pname
+            or "portal" in pname
+            or "a-z" in pname
         )
         info = (r.get("richtlinie_url") or "").strip()
         docs = (r.get("quelle_url") or "").strip()
