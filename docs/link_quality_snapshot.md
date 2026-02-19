@@ -1,10 +1,10 @@
 # Link Quality Snapshot
 
-- Erzeugt am: `2026-02-19 17:21`
+- Erzeugt am: `2026-02-19 23:32`
 - Datensaetze: `1024`
 - Fehlend Informationen: `0`
 - Fehlend Dokumente: `330`
-- Informationen = Dokumente (identische URL): `0` (0.0%)
+- Informationen = Dokumente (identische URL): `16` (1.6%)
 
 ## Top Domains
 
@@ -28,8 +28,8 @@
 | www.inqa.de | 14 |
 | ec.europa.eu | 12 |
 | www.developpp.de | 12 |
+| www.bmas.de | 12 |
 | www.ib-sh.de | 10 |
-| www.ib-sachsen-anhalt.de | 10 |
 
 ## Prioritaet
 

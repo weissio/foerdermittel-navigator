@@ -906,3 +906,8 @@
 - KfW-Qualitaetsregel umgesetzt: alle KfW-Datensaetze mit Produktnummer und bisher generischem Info-Link (`/inlandsfoerderung/Unternehmen/`) auf produktspezifische KfW-Produktdokumentseiten (`.../Dokumente-zum-Produkt/<Nummer>/index.jsp`) umgestellt.
 - Umfang: 93 Datensaetze aktualisiert, `letzte_pruefung` fuer geaenderte KfW-Faelle auf 2026-02-20 gesetzt.
 - Validator verhaertet: KfW-Eintraege mit Produktnummer duerfen den generischen KfW-Unternehmenslink nicht mehr als `Informationen` nutzen.
+
+## 2026-02-20 06:05
+- Link-Fix-Welle: 71 URL-Ersetzungen auf bekannte 404-Pfade (BMWK-Unterseiten, EFRE Hamburg, CEF-Unterseiten, EU-JU-Callseiten, BAFA-Energieberatung-Mittelstand alt, Rentenbank-Downloadcenter alt, mFUND alt, BMAS-KOMPASS alt).
+- EUIPO/BlueInvest/EEN auf robuste EC/CINEA/Gateway-Seiten umgestellt, um 403-bedingte Fehlklassifikationen zu reduzieren.
+- Live-Link-Check (500, --insecure, retries=2) erreicht: harte Fehler = 0, verbleibend nur transiente Verbindungsfehler.

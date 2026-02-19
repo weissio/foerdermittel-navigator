@@ -3,8 +3,8 @@
 - Datensaetze: `1024`
 - Fehlende Informationen-Links: `0`
 - Fehlende Dokumente-Links: `330`
-- Identische Informationen/Dokumente-Links: `0`
-- Gleicher Basispfad mit Query/Fragment: `89`
+- Identische Informationen/Dokumente-Links: `16`
+- Gleicher Basispfad mit Query/Fragment: `84`
 - Gleicher Basispfad ohne Query/Fragment: `0`
 
 ## Top Hosts
@@ -29,8 +29,8 @@
 | www.inqa.de | 14 |
 | ec.europa.eu | 12 |
 | www.developpp.de | 12 |
+| www.bmas.de | 12 |
 | www.ib-sh.de | 10 |
-| www.ib-sachsen-anhalt.de | 10 |
 
 ## Stichprobe: Gleicher Basispfad ohne Query/Fragment
 

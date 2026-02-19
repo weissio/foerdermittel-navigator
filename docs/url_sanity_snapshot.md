@@ -1,6 +1,6 @@
 # URL Sanity Snapshot
 
-- Erzeugt am: `2026-02-19 17:21`
+- Erzeugt am: `2026-02-19 23:32`
 - Datensaetze: `1024`
 - Ungueltige URLs: `330`
 - Nicht-HTTPS URLs: `0`
@@ -30,8 +30,8 @@
 | www.inqa.de | 14 |
 | ec.europa.eu | 12 |
 | www.developpp.de | 12 |
+| www.bmas.de | 12 |
 | www.ib-sh.de | 10 |
-| www.ib-sachsen-anhalt.de | 10 |
 
 ## Erlaubte Ausnahmen (Informationen)
 

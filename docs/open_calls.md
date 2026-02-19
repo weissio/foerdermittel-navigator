@@ -27,7 +27,7 @@
 ## Rollierend / Ohne Datum
 
 - `BMAS_INQA_EXPERIMENTIERRAEUME` | INQA-Experimentierräume (BMAS/INQA) | rollierend | https://www.inqa.de/DE/angebote/experimentierraeume/uebersicht.html
-- `BMAS_KOMPASS_QUALIFIZIERUNGSSCHECK` | KOMPASS - Qualifizierungsscheck fuer Solo-Selbststaendige | rollierend | https://www.esfplus.de/portal/DE/ESF-Plus-2021-2027/Foerderprogramme/bmas/kompass/inhalt.html
+- `BMAS_KOMPASS_QUALIFIZIERUNGSSCHECK` | KOMPASS - Qualifizierungsscheck fuer Solo-Selbststaendige | rollierend | https://www.bmas.de/DE/Service/Presse/Meldungen/2025/zukunftssichere-solo-selbststaendigkeit-durch-kompass.html
 - `BMAS_ZUKUNFTSZENTREN_BERATUNG` | Zukunftszentren - Transformationsberatung fuer KMU | rollierend | https://www.bmas.de/DE/Arbeit/Digitalisierung-der-Arbeitswelt/Foerderprogramm-Zukunftszentren/foerderprogramm-zukunftszentren.html
 - `BMAS_ZUKUNFTSZENTREN_QUALIFIZIERUNG` | Zukunftszentren - Qualifizierung und Kompetenzaufbau | rollierend | https://www.bmas.de/DE/Arbeit/Digitalisierung-der-Arbeitswelt/Foerderprogramm-Zukunftszentren/foerderprogramm-zukunftszentren.html
 - `BMAS_ZUKUNFTSZENTREN` | Foerderprogramm Zukunftszentren (BMAS/ESF Plus) | rollierend | https://www.bmas.de/DE/Arbeit/Digitalisierung-der-Arbeitswelt/Foerderprogramm-Zukunftszentren/foerderprogramm-zukunftszentren.html
@@ -313,9 +313,9 @@
 - `BMDV_KSNI_FAHRZEUGE` | KsNI - Beschaffung klimafreundlicher Nutzfahrzeuge | rollierend | https://bmdv.bund.de/SharedDocs/DE/Artikel/G/ksni-foerderung.html
 - `BMDV_KSNI_INFRASTRUKTUR` | KsNI - Lade- und Tankinfrastruktur fuer klimafreundliche Nutzfahrzeuge | rollierend | https://bmdv.bund.de/SharedDocs/DE/Artikel/G/ksni-foerderung.html
 - `BMDV_KSNI` | Foerderprogramm Klimaschonende Nutzfahrzeuge und Infrastruktur (KsNI) | rollierend | https://bmdv.bund.de/SharedDocs/DE/Artikel/G/ksni-foerderung.html
-- `BMDV_MFUND_FU_E_PROJEKTE` | mFUND - Forschungs- und Entwicklungsprojekte | rollierend | https://www.bmdv.bund.de/DE/Themen/Digitales/mFUND/mFUND.html
-- `BMDV_MFUND_MACHBARKEITSSTUDIEN` | mFUND - Machbarkeitsstudien | rollierend | https://www.bmdv.bund.de/DE/Themen/Digitales/mFUND/mFUND.html
-- `BMDV_MFUND` | mFUND - Foerderprogramm fuer datenbasierte digitale Innovationen | rollierend | https://www.bmdv.bund.de/DE/Themen/Digitales/mFUND/mFUND.html
+- `BMDV_MFUND_FU_E_PROJEKTE` | mFUND - Forschungs- und Entwicklungsprojekte | rollierend | https://www.mfund.de/
+- `BMDV_MFUND_MACHBARKEITSSTUDIEN` | mFUND - Machbarkeitsstudien | rollierend | https://www.mfund.de/
+- `BMDV_MFUND` | mFUND - Foerderprogramm fuer datenbasierte digitale Innovationen | rollierend | https://www.mfund.de/
 - `BMDV_NIP_FUE_DEMONSTRATION` | NIP - F&E- und Demonstrationsprojekte Wasserstoff/Brennstoffzelle | rollierend | https://www.now-gmbh.de/foerderung/foerderprogramme/nip/
 - `BMDV_NIP_MARKTHOCHLAUF` | NIP - Markthochlauf und Umsetzung Wasserstoff-/Brennstoffzellenanwendungen | rollierend | https://www.now-gmbh.de/foerderung/foerderprogramme/nip/
 - `BMDV_NIP_WASSERSTOFF_BRENNSTOFFZELLE` | Nationales Innovationsprogramm Wasserstoff- und Brennstoffzellentechnologie (NIP) | rollierend | https://www.now-gmbh.de/foerderung/foerderprogramme/nip/
@@ -336,9 +336,9 @@
 - `BMWK_EEW_FOERDERWETTBEWERB` | EEW - Foerderwettbewerb Energie- und Ressourceneffizienz in der Wirtschaft | rollierend | https://www.wettbewerb-energieeffizienz.de/
 - `BMWK_H2GLOBAL` | H2Global - Foerdermechanismus fuer klimafreundliche Wasserstoffderivate | rollierend | https://www.h2global.org/
 - `BMWK_IGF_CORNET` | CORNET (Collective Research Networking) im IGF-Umfeld | rollierend | https://www.aif.de/
-- `BMWK_IGP_PHASE1` | IGP - Phase 1 (Ideenwettbewerb/Skizze) | rollierend | https://www.bmwk.de/Redaktion/DE/Artikel/Innovation/igp.html
-- `BMWK_IGP_PHASE2` | IGP - Phase 2 (Umsetzungsprojekt) | rollierend | https://www.bmwk.de/Redaktion/DE/Artikel/Innovation/igp.html
-- `BMWK_IGP` | Innovationsprogramm fuer Geschaeftsmodelle und Pionierloesungen (IGP) | rollierend | https://www.bmwk.de/Redaktion/DE/Artikel/Innovation/igp.html
+- `BMWK_IGP_PHASE1` | IGP - Phase 1 (Ideenwettbewerb/Skizze) | rollierend | https://www.bmwk.de/
+- `BMWK_IGP_PHASE2` | IGP - Phase 2 (Umsetzungsprojekt) | rollierend | https://www.bmwk.de/
+- `BMWK_IGP` | Innovationsprogramm fuer Geschaeftsmodelle und Pionierloesungen (IGP) | rollierend | https://www.bmwk.de/
 - `BMWK_IPCEI_HY2TECH` | IPCEI Wasserstoff - Hy2Tech (Technologiekomponenten) | rollierend | https://www.bmwk.de/Redaktion/DE/Dossier/wasserstoff.html
 - `BMWK_IPCEI_HY2USE` | IPCEI Wasserstoff - Hy2Use (Industrielle Anwendung und Infrastruktur) | rollierend | https://www.bmwk.de/Redaktion/DE/Dossier/wasserstoff.html
 - `BMWK_IPCEI_WASSERSTOFF` | IPCEI Wasserstoff (Hy2Tech/Hy2Use) - Bundesfoerderung | rollierend | https://www.bmwk.de/Redaktion/DE/Dossier/wasserstoff.html
@@ -350,18 +350,18 @@
 - `ESF_BAYERN_AUFRUFE_OFFEN` | ESF+ Bayern - Programmaufrufe (offen/rollierend) | rollierend | https://www.esf.bayern.de/
 - `ESF_BW_AUFRUFE_OFFEN` | ESF+ Baden-Wuerttemberg - Programmaufrufe (offen/rollierend) | rollierend | https://www.esf-bw.de/esf-plus-in-bw/programm-des-esf-plus-in-baden-wuerttemberg
 - `ESF_HAMBURG_AUFRUFE_OFFEN` | ESF+ Hamburg - Projektaufrufe (offen/rollierend) | rollierend | https://www.esf-hamburg.de/foerderung-617696
-- `EUIPO_SME_FUND_MARKEN_DESIGNS` | EUIPO SME Fund - Marken und Designs (Voucher) | rollierend | https://www.euipo.europa.eu/en/discover-ip/sme-fund
-- `EUIPO_SME_FUND_PATENTE` | EUIPO SME Fund - Patente (Voucher) | rollierend | https://www.euipo.europa.eu/en/discover-ip/sme-fund
-- `EUIPO_SME_FUND` | Ideas Powered for Business SME Fund (EUIPO) | rollierend | https://www.euipo.europa.eu/en/discover-ip/sme-fund
-- `EU_BLUEINVEST` | BlueInvest (EU) | rollierend | https://blueinvest.eu/
-- `EU_CBE_JU` | Circular Bio-based Europe Joint Undertaking (CBE JU) | rollierend | https://www.cbe.europa.eu/calls-proposals_en
-- `EU_CEF_DIGITAL` | Connecting Europe Facility - Digital (CEF Digital) | rollierend | https://cinea.ec.europa.eu/programmes/connecting-europe-facility/cef-digital_en
-- `EU_CEF_ENERGY` | Connecting Europe Facility - Energy (CEF Energy) | rollierend | https://cinea.ec.europa.eu/programmes/connecting-europe-facility/energy_en
-- `EU_CEF_TRANSPORT` | Connecting Europe Facility - Transport (CEF Transport) | rollierend | https://cinea.ec.europa.eu/programmes/connecting-europe-facility/transport_en
+- `EUIPO_SME_FUND_MARKEN_DESIGNS` | EUIPO SME Fund - Marken und Designs (Voucher) | rollierend | https://single-market-economy.ec.europa.eu/news/launch-2025-sme-fund-help-smes-protect-intellectual-property-2025-02-03_en
+- `EUIPO_SME_FUND_PATENTE` | EUIPO SME Fund - Patente (Voucher) | rollierend | https://single-market-economy.ec.europa.eu/news/launch-2025-sme-fund-help-smes-protect-intellectual-property-2025-02-03_en
+- `EUIPO_SME_FUND` | Ideas Powered for Business SME Fund (EUIPO) | rollierend | https://single-market-economy.ec.europa.eu/news/launch-2025-sme-fund-help-smes-protect-intellectual-property-2025-02-03_en
+- `EU_BLUEINVEST` | BlueInvest (EU) | rollierend | https://cinea.ec.europa.eu/featured-projects/blueinvest-platform-accelerating-european-blue-economy_en
+- `EU_CBE_JU` | Circular Bio-based Europe Joint Undertaking (CBE JU) | rollierend | https://www.cbe.europa.eu/
+- `EU_CEF_DIGITAL` | Connecting Europe Facility - Digital (CEF Digital) | rollierend | https://cinea.ec.europa.eu/programmes/connecting-europe-facility_en
+- `EU_CEF_ENERGY` | Connecting Europe Facility - Energy (CEF Energy) | rollierend | https://cinea.ec.europa.eu/programmes/connecting-europe-facility_en
+- `EU_CEF_TRANSPORT` | Connecting Europe Facility - Transport (CEF Transport) | rollierend | https://cinea.ec.europa.eu/programmes/connecting-europe-facility_en
 - `EU_CERV_PROGRAMME` | Citizens, Equality, Rights and Values (CERV) | rollierend | https://commission.europa.eu/funding-tenders/find-funding/eu-funding-programmes/citizens-equality-rights-and-values-programme_en
 - `EU_CHIPS_JU` | Chips Joint Undertaking (Chips JU) Calls | rollierend | https://www.chips-ju.europa.eu/
-- `EU_CLEAN_AVIATION_JU` | Clean Aviation Joint Undertaking Calls | rollierend | https://www.clean-aviation.eu/calls-proposals
-- `EU_CLEAN_HYDROGEN_JU` | Clean Hydrogen Joint Undertaking (Clean Hydrogen JU) | rollierend | https://www.clean-hydrogen.europa.eu/funding-calls_en
+- `EU_CLEAN_AVIATION_JU` | Clean Aviation Joint Undertaking Calls | rollierend | https://www.clean-aviation.eu/
+- `EU_CLEAN_HYDROGEN_JU` | Clean Hydrogen Joint Undertaking (Clean Hydrogen JU) | rollierend | https://www.clean-hydrogen.europa.eu/
 - `EU_CREATIVE_EUROPE` | Creative Europe Programme | rollierend | https://culture.ec.europa.eu/creative-europe
 - `EU_DIGITAL_EUROPE_CALLS` | Digital Europe Programme - Open Calls | rollierend | https://digital-strategy.ec.europa.eu/en/activities/digital-programme
 - `EU_EIC_PATHFINDER_OPEN_2026` | EIC Pathfinder Open 2026 | rollierend | https://eic.ec.europa.eu/eic-funding-opportunities/eic-pathfinder_en
@@ -369,13 +369,13 @@
 - `EU_EIC_TRANSITION_OPEN_2026` | EIC Transition Open 2026 | rollierend | https://eic.ec.europa.eu/eic-funding-opportunities/eic-transition_en
 - `EU_EIC_TRANSITION` | EIC Transition (EU) | rollierend | https://eic.ec.europa.eu/eic-funding-opportunities/eic-transition_en
 - `EU_EIT_COMMUNITY` | European Institute of Innovation and Technology (EIT) - Funding & Calls | rollierend | https://eit.europa.eu/our-activities/opportunities
-- `EU_ENTERPRISE_EUROPE_NETWORK` | Enterprise Europe Network (SMP COSME Strand) | rollierend | https://een.ec.europa.eu/
+- `EU_ENTERPRISE_EUROPE_NETWORK` | Enterprise Europe Network (SMP COSME Strand) | rollierend | https://social-economy-gateway.ec.europa.eu/enterprise-europe-network_en
 - `EU_ERASMUS_PLUS` | Erasmus+ Programme | rollierend | https://erasmus-plus.ec.europa.eu/
 - `EU_EU4HEALTH` | EU4Health Programme | rollierend | https://health.ec.europa.eu/funding/eu4health-programme-2021-2027-vision-healthier-european-union_en
 - `EU_EUREKA_CLUSTERS` | EUREKA Clusters | rollierend | https://www.eurekanetwork.org/programmes/clusters/
 - `EU_EUREKA_GLOBALSTARS` | Globalstars (EUREKA) | rollierend | https://www.eurekanetwork.org/programmes/globalstars/
 - `EU_EUREKA_NETWORK_PROJECTS` | EUREKA Network Projects | rollierend | https://www.eurekanetwork.org/programmes/network-projects/
-- `EU_EUROHPC_JU` | EuroHPC Joint Undertaking Calls | rollierend | https://eurohpc-ju.europa.eu/funding-calls/calls-proposals_en
+- `EU_EUROHPC_JU` | EuroHPC Joint Undertaking Calls | rollierend | https://eurohpc-ju.europa.eu/
 - `EU_EUROPEAN_DEFENCE_FUND` | European Defence Fund (EDF) | rollierend | https://defence-industry-space.ec.europa.eu/eu-defence-industry/european-defence-fund-edf_en
 - `EU_EUROSTARS` | Eurostars (EUREKA / Innovative SMEs Partnership) | rollierend | https://www.eurekanetwork.org/programmes/eurostars/
 - `EU_HORIZON_CLIMATE_ENERGY` | Horizon Europe - Cluster 5 Climate, Energy and Mobility | rollierend | https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe/cluster-5-climate-energy-and-mobility_en
@@ -388,7 +388,7 @@
 - `EU_HORIZON_MISSIONS` | Horizon Europe Missions (Calls) | rollierend | https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe/eu-missions-horizon-europe_en
 - `EU_HORIZON_MSCA` | Horizon Europe - Marie Sklodowska-Curie Actions (MSCA) | rollierend | https://marie-sklodowska-curie-actions.ec.europa.eu/
 - `EU_HORIZON_RESEARCH_INFRASTRUCTURES` | Horizon Europe - Research Infrastructures Calls | rollierend | https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe/research-infrastructures_en
-- `EU_HORIZON_WIDERA` | Horizon Europe - Widening Participation and Strengthening the European Research Area (WIDERA) | rollierend | https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe/widening-participation-and-strengthening-european-research-area_en
+- `EU_HORIZON_WIDERA` | Horizon Europe - Widening Participation and Strengthening the European Research Area (WIDERA) | rollierend | https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en
 - `EU_I3_INSTRUMENT` | Interregional Innovation Investments Instrument (I3) | rollierend | https://eismea.ec.europa.eu/programmes/interregional-innovation-investments_en
 - `EU_INNOVATION_FUND` | Innovation Fund (EU ETS) | rollierend | https://climate.ec.europa.eu/eu-action/funding-climate-action/innovation-fund_en
 - `EU_INNOVATIVE_HEALTH_INITIATIVE` | Innovative Health Initiative (IHI) Calls | rollierend | https://www.ihi.europa.eu/apply-funding
@@ -401,12 +401,12 @@
 - `EU_LIFE_CLIMATE_ACTION` | LIFE Climate Action Calls | rollierend | https://cinea.ec.europa.eu/life/life-calls-proposals_en
 - `EU_LIFE_NATURE_BIODIVERSITY` | LIFE Nature and Biodiversity Calls | rollierend | https://cinea.ec.europa.eu/life/life-calls-proposals_en
 - `EU_LIFE_PROGRAMME` | LIFE Programme (EU) | rollierend | https://cinea.ec.europa.eu/life_en
-- `EU_RAIL_JU` | Europe's Rail Joint Undertaking Calls | rollierend | https://rail-research.europa.eu/get-involved/calls-for-proposals/
+- `EU_RAIL_JU` | Europe's Rail Joint Undertaking Calls | rollierend | https://rail-research.europa.eu/
 - `EU_REPOWEREU` | REPowerEU (RRF-Ergaenzung) | rollierend | https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/european-green-deal/repowereu-affordable-secure-and-sustainable-energy-europe_en
-- `EU_SESAR_3_JU` | SESAR 3 Joint Undertaking Calls | rollierend | https://www.sesarju.eu/calls
-- `EU_SNS_JU` | Smart Networks and Services Joint Undertaking (SNS JU) Calls | rollierend | https://smart-networks.europa.eu/calls-for-proposals/
-- `EU_SOCIAL_CLIMATE_FUND` | Social Climate Fund (SCF) | rollierend | https://climate.ec.europa.eu/eu-action/social-climate-fund_en
-- `EU_SPACE_PROGRAMME` | EU Space Programme (inkl. CASSINI/EUSPA Calls) | rollierend | https://www.euspa.europa.eu/euspace-opportunities
+- `EU_SESAR_3_JU` | SESAR 3 Joint Undertaking Calls | rollierend | https://www.sesarju.eu/
+- `EU_SNS_JU` | Smart Networks and Services Joint Undertaking (SNS JU) Calls | rollierend | https://smart-networks.europa.eu/
+- `EU_SOCIAL_CLIMATE_FUND` | Social Climate Fund (SCF) | rollierend | https://climate.ec.europa.eu/eu-action/european-green-deal_en
+- `EU_SPACE_PROGRAMME` | EU Space Programme (inkl. CASSINI/EUSPA Calls) | rollierend | https://defence-industry-space.ec.europa.eu/eu-space/eu-space-programme_en
 - `EU_URBACT_IV` | URBACT IV Programme | rollierend | https://urbact.eu/
 - `IBB_GO_BIO_INITIAL` | Go-Bio initial (Berlin) | rollierend | https://www.ibb.de/de/wirtschaftsfoerderung/foerderprogramme-a-z/foerderprogramme-a-z.html
 - `MMF_III_GEMEINWOHL` | Mikromezzaninfonds Deutschland III (Gemeinwohl-/Sozialunternehmensfokus) | rollierend | https://www.mikromezzaninfonds-deutschland.de/
