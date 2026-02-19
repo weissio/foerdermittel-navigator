@@ -1,6 +1,6 @@
 SHELL := /bin/bash
 
-.PHONY: qa batch preview open_calls status gaps
+.PHONY: qa batch preview open_calls status gaps links_live
 
 qa:
 	scripts/run_qa.sh
@@ -29,3 +29,6 @@ status:
 
 gaps:
 	python3 scripts/report_gaps.py
+
+links_live:
+	python3 scripts/report_live_link_health.py

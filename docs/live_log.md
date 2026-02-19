@@ -818,3 +818,8 @@
 - Link-Korrektur: `EU_CHIPS_JU` angepasst.
 - Informationen auf stabile Startseite gesetzt: `https://www.chips-ju.europa.eu/`
 - Dokumente leer gelassen (kein verifizierter, stabiler Deep-Link ohne Fehlerseite).
+
+## 2026-02-20 01:05
+- Ursache adressiert: bisherige QA pruefte Link-Struktur, aber nicht flaechendeckend die Live-Erreichbarkeit.
+- Neu: `scripts/report_live_link_health.py` + `make links_live` fuer echte HTTP-Linkchecks (Informationen/Dokumente).
+- Ausgabe: `docs/live_link_health_snapshot.md` mit Fehlerliste und Status-Typen.

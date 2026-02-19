@@ -20,6 +20,7 @@ Preview im Browser:
 cd "/Users/jonasweiss/Documents/New project"
 make qa
 make batch
+make links_live
 ```
 
 `make qa` erzeugt alle Snapshot-Reports:
@@ -37,6 +38,9 @@ make batch
 - `docs/master_coverage.md` (Prio-Abdeckung Bund/EU/Laenderbanken)
 - `docs/info_link_overlap.md` (gleiche URL in Informationen/Dokumente)
 - `STATUS.md` (automatisch aus aktuellem Datenstand)
+
+`make links_live` erzeugt:
+- `docs/live_link_health_snapshot.md` (echte HTTP-Erreichbarkeit aller Informationen-/Dokumente-Links)
 
 ## Wichtige Dateien
 
