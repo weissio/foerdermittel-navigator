@@ -2,7 +2,7 @@
 
 - Datensaetze: `1024`
 - Fehlende Informationen-Links: `0`
-- Fehlende Dokumente-Links: `165`
+- Fehlende Dokumente-Links: `179`
 - Identische Informationen/Dokumente-Links: `0`
 - Gleicher Basispfad mit Query/Fragment: `157`
 - Gleicher Basispfad ohne Query/Fragment: `0`
@@ -22,7 +22,6 @@
 | isb.rlp.de | 27 |
 | www.wibank.de | 26 |
 | www.ifbhh.de | 24 |
-| www.bmwe.de | 23 |
 | www.sab.sachsen.de | 22 |
 | www.inqa.de | 20 |
 | www.agaportal.de | 20 |
@@ -31,6 +30,7 @@
 | www.l-bank.de | 18 |
 | www.wettbewerb-energieeffizienz.de | 15 |
 | www.developpp.de | 12 |
+| www.bmas.de | 12 |
 
 ## Stichprobe: Gleicher Basispfad ohne Query/Fragment
 

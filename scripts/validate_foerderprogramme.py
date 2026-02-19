@@ -88,6 +88,7 @@ def validate(path: Path) -> int:
         status = row["status"].strip()
         kategorie = row["kategorie"].strip()
         letzte_pruefung = row["letzte_pruefung"].strip()
+        traeger = row.get("traeger", "").strip()
         info_url = row.get("richtlinie_url", "").strip()
         quelle_url = row.get("quelle_url", "").strip()
 
@@ -125,6 +126,16 @@ def validate(path: Path) -> int:
             errors.append(
                 f"line {idx} ({programm_id}): blocked richtlinie_url '{info_url}'"
             )
+
+        if "BMWK" in traeger:
+            if "bmwe.de" in info_url:
+                errors.append(
+                    f"line {idx} ({programm_id}): BMWK record with BMWE info url '{info_url}'"
+                )
+            if "bmwe.de" in quelle_url:
+                errors.append(
+                    f"line {idx} ({programm_id}): BMWK record with BMWE docs url '{quelle_url}'"
+                )
 
     print(f"Checked rows: {len(rows)}")
     print(f"Unique programm_id: {len(set(ids))}")

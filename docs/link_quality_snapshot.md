@@ -1,9 +1,9 @@
 # Link Quality Snapshot
 
-- Erzeugt am: `2026-02-19 13:11`
+- Erzeugt am: `2026-02-19 13:28`
 - Datensaetze: `1024`
 - Fehlend Informationen: `0`
-- Fehlend Dokumente: `165`
+- Fehlend Dokumente: `179`
 - Informationen = Dokumente (identische URL): `0` (0.0%)
 
 ## Top Domains
@@ -21,7 +21,6 @@
 | isb.rlp.de | 27 |
 | www.wibank.de | 26 |
 | www.ifbhh.de | 24 |
-| www.bmwe.de | 23 |
 | www.sab.sachsen.de | 22 |
 | www.inqa.de | 20 |
 | www.agaportal.de | 20 |
@@ -30,6 +29,7 @@
 | www.l-bank.de | 18 |
 | www.wettbewerb-energieeffizienz.de | 15 |
 | www.developpp.de | 12 |
+| www.bmas.de | 12 |
 
 ## Prioritaet
 

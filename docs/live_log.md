@@ -846,3 +846,7 @@
 - Fehlerbehebung Welle 1 (Massenkorrektur): 80 defekte Dokumente-Links aus stark fehlerhaften Download-Center-/Service-URLs entfernt.
 - Validator-Hard-Blocklist fuer diese URL-Gruppen erweitert, damit sie nicht erneut eingetragen werden.
 - Live-Link-Stichprobe (`--insecure`, 400 Links): Fehlerzahl von 213 auf 174 reduziert.
+
+## 2026-02-20 02:34
+- Datenkorrektur BMWK/BMWE: bei 14 BMWK-Datensaetzen fehlerhafte `bmwe.de` Dokumente-Links entfernt (u. a. go-digital/go-inno/Messeprogramm).
+- Validator erweitert: BMWK-Datensaetze mit `bmwe.de` in Informationen oder Dokumente werden jetzt als Fehler geblockt.
