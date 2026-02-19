@@ -13,15 +13,11 @@ CSV_PATH = Path("data/foerderprogramme.csv")
 OUT_PATH = Path("docs/url_sanity_snapshot.md")
 
 
-GENERIC_INFO_PATTERNS = [
-    "/foerderprogramme",
-    "/foerderprogramme-a-z",
-]
-
-GENERIC_DOC_PATTERNS = [
-    "/foerderprogramme",
-    "/foerderprogramme-a-z",
-]
+GENERIC_LEAFS = {
+    "foerderprogramme",
+    "foerderprogramme-a-z",
+    "foerderprogramme-fuer-unternehmen",
+}
 
 SPECIFIC_HINTS = [
     "/foerderprodukte/",
@@ -68,8 +64,23 @@ def _looks_generic(url: str, field: str) -> bool:
         return False
     if any(h in lower for h in SPECIFIC_HINTS):
         return False
-    patterns = GENERIC_INFO_PATTERNS if field == "Informationen" else GENERIC_DOC_PATTERNS
-    return any(p in lower for p in patterns)
+    path_parts = [p for p in parsed.path.strip("/").split("/") if p]
+    if not path_parts:
+        return False
+
+    last = path_parts[-1]
+    if last in GENERIC_LEAFS:
+        return True
+
+    # Explicit generic A-Z index structures.
+    if len(path_parts) >= 2 and path_parts[-2:] == ["foerderprogramme-a-z", "foerderprogramme-a-z.html"]:
+        return True
+
+    # For docs, be slightly stricter: only flag obvious generic leafs.
+    if field == "Dokumente":
+        return False
+
+    return False
 
 
 def main() -> int:

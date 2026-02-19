@@ -1,10 +1,10 @@
 # URL Sanity Snapshot
 
-- Erzeugt am: `2026-02-19 05:26`
+- Erzeugt am: `2026-02-19 05:56`
 - Datensaetze: `1024`
 - Ungueltige URLs: `0`
 - Nicht-HTTPS URLs: `0`
-- Potenziell generische Informations-Links: `34`
+- Potenziell generische Informations-Links: `5`
 - Potenziell generische Dokumenten-Links: `13`
 
 ## Top Hosts
@@ -37,30 +37,10 @@
 | programm_id | URL |
 |---|---|
 | IBB_BERLIN_INNOVATIV_PLUS | https://www.ibb.de/de/wirtschaftsfoerderung/foerderprogramme-a-z/foerderprogramme-a-z.html |
-| IBSH_HHSH_KREDIT | https://www.ib-sh.de/foerderprogramme/unternehmen/ |
-| IFB_MV_UNTERNEHMEN | https://www.lfi-mv.de/foerderprogramme/unternehmen/ |
 | NBANK_NIEDERSACHSEN_UNTERNEHMEN | https://www.nbank.de/Foerderprogramme/Foerderprogramme-fuer-Unternehmen/ |
 | WIBANK_HESSEN_UNTERNEHMEN | https://www.wibank.de/wibank/unternehmen/foerderprogramme |
-| IBB_PROFIT_FRUEHPHASE | https://www.ibb.de/de/foerderprogramme/pro-fit-fruehphasenfinanzierung.html |
-| IBB_PROFIT_PROJEKTFINANZIERUNG | https://www.ibb.de/de/foerderprogramme/pro-fit-projektfinanzierung.html |
-| IB_SH_INNOVATION | https://www.ib-sh.de/foerderprogramme/innovationsprogramm/ |
-| IB_SH_DIGITALISIERUNG | https://www.ib-sh.de/foerderprogramme/digitalisierungsprogramm/ |
-| IB_SH_ENERGIEWENDE | https://www.ib-sh.de/foerderprogramme/energiewende-und-klimaschutzprogramm/ |
-| BAB_BREMEN_MIKRO | https://www.bab-bremen.de/foerderung/foerderprogramme/mikrokredit |
-| TAB_INNOVATION_FUE | https://www.aufbaubank.de/Foerderprogramme/TAB-Innovation |
-| IBB_TECHNOLOGIECOACHING | https://www.ibb.de/de/foerderprogramme/technologiecoaching.html |
-| IBB_GO_BIO_INITIAL | https://www.ibb.de/de/foerderprogramme/go-bio-initial.html |
-| IBB_INNOVATIONSASSISTENZ | https://www.ibb.de/de/foerderprogramme/innovationsassistent-in.html |
-| TAB_FORSCHUNGS_FOERDERUNG | https://www.aufbaubank.de/Foerderprogramme/Forschung-Entwicklung |
-| TAB_DIGITALISIERUNG_TUERINGEN | https://www.aufbaubank.de/Foerderprogramme/Digitalisierung |
-| TAB_ENERGIE_KLIMA | https://www.aufbaubank.de/Foerderprogramme/Energie-Klimaschutz |
-| IBB_COACHING_BONUS | https://www.ibb.de/de/foerderprogramme/coaching-bonus.html |
-| IBB_AKQUISITIONSBONUS | https://www.ibb.de/de/foerderprogramme/akquisitionsbonus.html |
-| IBB_INNOVATIONSFACHKRAFT | https://www.ibb.de/de/foerderprogramme/innovationsfachkraft.html |
-| IBB_INNOVATIONSASSISTENT | https://www.ibb.de/de/foerderprogramme/innovationsassistent-in.html |
-| IBSH_INNOVATIONSPROGRAMM | https://www.ib-sh.de/foerderprogramme/innovationsprogramm/ |
-| IBSH_DIGITALISIERUNGSPROGRAMM | https://www.ib-sh.de/foerderprogramme/digitalisierungsprogramm/ |
-| IBSH_ENERGIEWENDE_KLIMASCHUTZ | https://www.ib-sh.de/foerderprogramme/energiewende-und-klimaschutzprogramm/ |
+| SAB_DIGITALKREDIT | https://www.sab.sachsen.de/foerderprogramme |
+| SAB_INNOVATIONSKREDIT | https://www.sab.sachsen.de/foerderprogramme |
 
 ## Stichprobe: Generische Dokumenten-Links
 
