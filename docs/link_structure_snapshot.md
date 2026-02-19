@@ -2,7 +2,7 @@
 
 - Datensaetze: `1024`
 - Fehlende Informationen-Links: `0`
-- Fehlende Dokumente-Links: `10`
+- Fehlende Dokumente-Links: `55`
 - Identische Informationen/Dokumente-Links: `0`
 - Gleicher Basispfad mit Query/Fragment: `159`
 - Gleicher Basispfad ohne Query/Fragment: `0`
@@ -16,7 +16,6 @@
 | www.kmu-innovativ.de | 259 |
 | www.bmwk.de | 88 |
 | www.bafa.de | 62 |
-| ec.europa.eu | 55 |
 | www.foerderdatenbank.de | 40 |
 | www.zim.de | 38 |
 | www.ibb.de | 31 |
@@ -31,6 +30,7 @@
 | www.ib-sachsen-anhalt.de | 20 |
 | www.inqa.de | 20 |
 | www.agaportal.de | 20 |
+| www.bmbf.de | 20 |
 
 ## Stichprobe: Gleicher Basispfad ohne Query/Fragment
 

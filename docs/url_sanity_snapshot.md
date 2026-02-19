@@ -1,8 +1,8 @@
 # URL Sanity Snapshot
 
-- Erzeugt am: `2026-02-19 09:56`
+- Erzeugt am: `2026-02-19 09:57`
 - Datensaetze: `1024`
-- Ungueltige URLs: `10`
+- Ungueltige URLs: `55`
 - Nicht-HTTPS URLs: `0`
 - Potenziell generische Informations-Links: `0`
 - Potenziell generische Dokumenten-Links: `0`
@@ -17,7 +17,6 @@
 | www.kmu-innovativ.de | 259 |
 | www.bmwk.de | 88 |
 | www.bafa.de | 62 |
-| ec.europa.eu | 55 |
 | www.foerderdatenbank.de | 40 |
 | www.zim.de | 38 |
 | www.ibb.de | 31 |
@@ -32,6 +31,7 @@
 | www.ib-sachsen-anhalt.de | 20 |
 | www.inqa.de | 20 |
 | www.agaportal.de | 20 |
+| www.bmbf.de | 20 |
 
 ## Erlaubte Ausnahmen (Informationen)
 
@@ -55,6 +55,7 @@
 
 | programm_id | Feld | URL |
 |---|---|---|
+| EU_DIGITAL_EUROPE | Dokumente |  |
 | EU_EIC_ACCELERATOR_2026 | Dokumente |  |
 | EU_EIC_AIC_NAMS_2026 | Dokumente |  |
 | EU_EIC_AIC_PHYSICAL_AI_2026 | Dokumente |  |
@@ -63,7 +64,21 @@
 | EU_EISMEA_EYE_2026 | Dokumente |  |
 | EU_EISMEA_I3_CAP2B_2026 | Dokumente |  |
 | EU_EISMEA_PPPA_TOURISM_2026 | Dokumente |  |
-| EU_I3_INSTRUMENT | Dokumente |  |
-| EU_ENTERPRISE_EUROPE_NETWORK | Dokumente |  |
+| EU_HORIZON | Dokumente |  |
+| EU_SINGLE_MARKET | Dokumente |  |
+| EU_CEF_DIGITAL | Dokumente |  |
+| EU_INNOVATION_FUND | Dokumente |  |
+| EU_INVESTEU | Dokumente |  |
+| EU_EIT_COMMUNITY | Dokumente |  |
+| EU_EU4HEALTH | Dokumente |  |
+| EU_EUROSTARS | Dokumente |  |
+| EU_EUREKA_GLOBALSTARS | Dokumente |  |
+| EU_CREATIVE_EUROPE | Dokumente |  |
+| EU_CERV_PROGRAMME | Dokumente |  |
+| EU_JUST_TRANSITION_FUND | Dokumente |  |
+| EU_INTERREG | Dokumente |  |
+| EU_ERASMUS_PLUS | Dokumente |  |
+| EU_EUROPEAN_DEFENCE_FUND | Dokumente |  |
+| EU_SPACE_PROGRAMME | Dokumente |  |
 
 Hinweis: Dieser Report prueft Syntax/Struktur, nicht HTTP-Statuscodes.

@@ -772,3 +772,8 @@
 ## 2026-02-19 23:28
 - EU-EISMEA Korrektur: unspezifischen Dokumente-Link auf F&T Topic-Search bei EISMEA-bezogenen Datensaetzen entfernt.
 - Betroffen: `EU_EISMEA_EIE_STARTUP_HUBS_2026`, `EU_EISMEA_EYE_2026`, `EU_EISMEA_I3_CAP2B_2026`, `EU_EISMEA_PPPA_TOURISM_2026`, `EU_I3_INSTRUMENT`, `EU_ENTERPRISE_EUROPE_NETWORK`.
+
+## 2026-02-19 23:35
+- EU-Dokumente bereinigt: F&T Topic-Search (`.../topic-search`) komplett als Dokumente-Link entfernt.
+- Umfang: 45 Datensaetze (u. a. Horizon/Cluster/CEF/LIFE/Joint Undertakings).
+- Ergebnis: dieser unspezifische Dokumente-Link kommt in `quelle_url` nun nicht mehr vor.
