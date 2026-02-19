@@ -768,3 +768,7 @@
 - EU-EIC Korrektur: bei 4 EIC-Programmen den Dokumente-Link auf das unspezifische F&T-Topic-Search-Portal entfernt.
 - Betroffen: `EU_EIC_ACCELERATOR_2026`, `EU_EIC_AIC_NAMS_2026`, `EU_EIC_AIC_PHYSICAL_AI_2026`, `EU_EIC_STEP_SCALEUP_2026`.
 - Ziel: Vermeidung leerer/unspezifischer Dokumente-Ziele in der Preview.
+
+## 2026-02-19 23:28
+- EU-EISMEA Korrektur: unspezifischen Dokumente-Link auf F&T Topic-Search bei EISMEA-bezogenen Datensaetzen entfernt.
+- Betroffen: `EU_EISMEA_EIE_STARTUP_HUBS_2026`, `EU_EISMEA_EYE_2026`, `EU_EISMEA_I3_CAP2B_2026`, `EU_EISMEA_PPPA_TOURISM_2026`, `EU_I3_INSTRUMENT`, `EU_ENTERPRISE_EUROPE_NETWORK`.
