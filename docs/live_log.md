@@ -788,3 +788,6 @@
 
 ## 2026-02-19 23:59
 - Link-Korrektur: `ESF_SAARLAND_OPEN` Dokumente-Link entfernt (Zielseite nicht erreichbar).
+
+## 2026-02-20 00:06
+- Link-Korrektur: `ESF_SH_OPEN` Dokumente-Link entfernt (Zielseite nicht verfuegbar).

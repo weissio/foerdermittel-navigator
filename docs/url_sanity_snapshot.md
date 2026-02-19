@@ -1,8 +1,8 @@
 # URL Sanity Snapshot
 
-- Erzeugt am: `2026-02-19 10:01`
+- Erzeugt am: `2026-02-19 10:02`
 - Datensaetze: `1024`
-- Ungueltige URLs: `57`
+- Ungueltige URLs: `58`
 - Nicht-HTTPS URLs: `0`
 - Potenziell generische Informations-Links: `0`
 - Potenziell generische Dokumenten-Links: `0`
@@ -17,7 +17,7 @@
 | www.kmu-innovativ.de | 259 |
 | www.bmwk.de | 88 |
 | www.bafa.de | 62 |
-| www.foerderdatenbank.de | 39 |
+| www.foerderdatenbank.de | 38 |
 | www.zim.de | 38 |
 | www.ibb.de | 31 |
 | isb.rlp.de | 30 |
@@ -56,6 +56,7 @@
 | programm_id | Feld | URL |
 |---|---|---|
 | ESF_SAARLAND_OPEN | Dokumente |  |
+| ESF_SH_OPEN | Dokumente |  |
 | EU_DIGITAL_EUROPE | Dokumente |  |
 | EU_EIC_ACCELERATOR_2026 | Dokumente |  |
 | EU_EIC_AIC_NAMS_2026 | Dokumente |  |
@@ -79,6 +80,5 @@
 | EU_JUST_TRANSITION_FUND | Dokumente |  |
 | EU_INTERREG | Dokumente |  |
 | EU_ERASMUS_PLUS | Dokumente |  |
-| EU_EUROPEAN_DEFENCE_FUND | Dokumente |  |
 
 Hinweis: Dieser Report prueft Syntax/Struktur, nicht HTTP-Statuscodes.
