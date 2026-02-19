@@ -1,10 +1,10 @@
 # URL Sanity Snapshot
 
-- Erzeugt am: `2026-02-19 14:31`
+- Erzeugt am: `2026-02-19 14:58`
 - Datensaetze: `1024`
-- Ungueltige URLs: `251`
+- Ungueltige URLs: `293`
 - Nicht-HTTPS URLs: `0`
-- Potenziell generische Informations-Links: `3`
+- Potenziell generische Informations-Links: `9`
 - Potenziell generische Dokumenten-Links: `0`
 - Bewusst erlaubte generische Informations-Links: `1`
 
@@ -15,23 +15,23 @@
 | www.kfw.de | 432 |
 | foerderportal.bund.de | 263 |
 | www.kmu-innovativ.de | 259 |
-| www.bmwk.de | 88 |
-| www.bafa.de | 46 |
+| www.bmwk.de | 72 |
+| www.bafa.de | 43 |
 | www.exist.de | 30 |
 | www.nrwbank.de | 29 |
 | www.wibank.de | 26 |
 | www.ifbhh.de | 24 |
-| isb.rlp.de | 24 |
+| isb.rlp.de | 21 |
 | www.zim.de | 21 |
-| www.inqa.de | 20 |
 | www.agaportal.de | 20 |
 | www.bmbf.de | 20 |
 | www.ibb.de | 19 |
 | www.l-bank.de | 18 |
+| www.inqa.de | 17 |
 | www.sab.sachsen.de | 16 |
 | ec.europa.eu | 12 |
 | www.developpp.de | 12 |
-| www.bmas.de | 12 |
+| www.ib-sh.de | 10 |
 
 ## Erlaubte Ausnahmen (Informationen)
 
@@ -44,7 +44,13 @@
 | programm_id | URL |
 |---|---|
 | TAB_INNOVATION_FUE | https://www.aufbaubank.de/Foerderprogramme/ |
+| IBB_TECHNOLOGIECOACHING | https://www.ibb.de/de/wirtschaftsfoerderung/foerderprogramme-a-z/foerderprogramme-a-z.html |
+| IBB_GO_BIO_INITIAL | https://www.ibb.de/de/wirtschaftsfoerderung/foerderprogramme-a-z/foerderprogramme-a-z.html |
 | TAB_FORSCHUNGS_FOERDERUNG | https://www.aufbaubank.de/Foerderprogramme/ |
+| TAB_DIGITALISIERUNG_TUERINGEN | https://www.aufbaubank.de/Foerderprogramme/ |
+| TAB_ENERGIE_KLIMA | https://www.aufbaubank.de/Foerderprogramme/ |
+| IBB_AKQUISITIONSBONUS | https://www.ibb.de/de/wirtschaftsfoerderung/foerderprogramme-a-z/foerderprogramme-a-z.html |
+| IBB_INNOVATIONSFACHKRAFT | https://www.ibb.de/de/wirtschaftsfoerderung/foerderprogramme-a-z/foerderprogramme-a-z.html |
 | TAB_FORSCHUNG_ENTWICKLUNG | https://www.aufbaubank.de/Foerderprogramme/ |
 
 ## Stichprobe: Generische Dokumenten-Links

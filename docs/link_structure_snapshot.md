@@ -2,9 +2,9 @@
 
 - Datensaetze: `1024`
 - Fehlende Informationen-Links: `0`
-- Fehlende Dokumente-Links: `251`
+- Fehlende Dokumente-Links: `293`
 - Identische Informationen/Dokumente-Links: `8`
-- Gleicher Basispfad mit Query/Fragment: `140`
+- Gleicher Basispfad mit Query/Fragment: `105`
 - Gleicher Basispfad ohne Query/Fragment: `0`
 
 ## Top Hosts
@@ -14,23 +14,23 @@
 | www.kfw.de | 432 |
 | foerderportal.bund.de | 263 |
 | www.kmu-innovativ.de | 259 |
-| www.bmwk.de | 88 |
-| www.bafa.de | 46 |
+| www.bmwk.de | 72 |
+| www.bafa.de | 43 |
 | www.exist.de | 30 |
 | www.nrwbank.de | 29 |
 | www.wibank.de | 26 |
 | www.ifbhh.de | 24 |
-| isb.rlp.de | 24 |
+| isb.rlp.de | 21 |
 | www.zim.de | 21 |
-| www.inqa.de | 20 |
 | www.agaportal.de | 20 |
 | www.bmbf.de | 20 |
 | www.ibb.de | 19 |
 | www.l-bank.de | 18 |
+| www.inqa.de | 17 |
 | www.sab.sachsen.de | 16 |
 | ec.europa.eu | 12 |
 | www.developpp.de | 12 |
-| www.bmas.de | 12 |
+| www.ib-sh.de | 10 |
 
 ## Stichprobe: Gleicher Basispfad ohne Query/Fragment
 

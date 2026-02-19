@@ -861,3 +861,8 @@
 - Zusaetzlich 20 weitere defekte Dokumente-Links entfernt.
 - Validator-Blocklist fuer bekannte 404-Dokumente-URLs erweitert.
 - Live-Link-Stichprobe (`--insecure`, 400 Links): Fehlerzahl von 115 auf 84 gesenkt.
+
+## 2026-02-20 03:20
+- Fehlerbehebung Welle 4: 40 weitere veraltete Informations-Links auf stabile Traeger-/Programmseiten umgestellt.
+- Zusaetzlich 42 defekte Dokumente-Links entfernt (inkl. alter BMWK/BAFA/INQA/ISB/BSFZ-Pfade).
+- Live-Link-Stichprobe (`--insecure`, 400 Links): Fehlerzahl von 84 auf 42 gesenkt.

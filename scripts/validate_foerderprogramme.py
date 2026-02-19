@@ -51,6 +51,21 @@ BLOCKED_DOC_URLS = {
     "https://www.lfa.de/website/de/foerderangebote/innovationsfinanzierung/innovationskredit/index.php",
     "https://www.sab.sachsen.de/foerderprogramme#dokumente",
     "https://www.sikb.de/service/downloads",
+    "https://www.bsfz.de/bsfz/antragstellung",
+    "https://www.inqa.de/DE/angebote/unternehmenswert-mensch-plus/uebersicht.html#materialien",
+    "https://isb.rlp.de/foerderung/wachsen-und-investieren.html#tab14749-1",
+    "https://isb.rlp.de/foerderung/665.html#tab14749-1",
+    "https://isb.rlp.de/foerderung/667.html#tab14749-1",
+    "https://www.umweltinnovationsprogramm.de/foerderung/",
+    "https://www.mikromezzaninfonds-deutschland.de/faq/",
+    "https://www.bmas.de/DE/Soziales/Armut-und-Teilhabe/Mikrokreditfonds/mikrokreditfonds.html",
+    "https://www.bafa.de/DE/Energie/Effiziente_Waermenetze/effiziente_waermenetze_node.html#formulare",
+    "https://www.ermoeglicher.de/bob-buergschaft-ohne-bank/#faq",
+    "https://www.bmwk.de/Redaktion/DE/Artikel/Technologie/wipano.html#publikationen",
+    "https://www.bmwk.de/Redaktion/DE/Artikel/Innovation/igp.html#publikationen",
+    "https://www.bmwk.de/Redaktion/DE/Artikel/Technologie/vorwettbewerbliche-forschung-fuer-den-mittelstand.html#publikationen",
+    "https://www.bmwk.de/Redaktion/DE/Artikel/Mittelstand/mittelstandspolitik.html#publikationen",
+    "https://www.bmwk.de/Redaktion/DE/Dossier/markterschliessungsprogramm.html#termine",
 }
 
 BLOCKED_INFO_URLS = {

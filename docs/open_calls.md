@@ -408,10 +408,10 @@
 - `EU_SOCIAL_CLIMATE_FUND` | Social Climate Fund (SCF) | rollierend | https://climate.ec.europa.eu/eu-action/social-climate-fund_en
 - `EU_SPACE_PROGRAMME` | EU Space Programme (inkl. CASSINI/EUSPA Calls) | rollierend | https://www.euspa.europa.eu/euspace-opportunities
 - `EU_URBACT_IV` | URBACT IV Programme | rollierend | https://urbact.eu/
-- `IBB_GO_BIO_INITIAL` | Go-Bio initial (Berlin) | rollierend | https://www.ibb.de/de/foerderprogramme/go-bio-initial.html
+- `IBB_GO_BIO_INITIAL` | Go-Bio initial (Berlin) | rollierend | https://www.ibb.de/de/wirtschaftsfoerderung/foerderprogramme-a-z/foerderprogramme-a-z.html
 - `MMF_III_GEMEINWOHL` | Mikromezzaninfonds Deutschland III (Gemeinwohl-/Sozialunternehmensfokus) | rollierend | https://www.mikromezzaninfonds-deutschland.de/
 - `NRW_MID_ASSISTENZ` | Mittelstand Innovativ & Digital (MID) - Digitale Assistenzsysteme | rollierend | https://www.nrwbank.de/de/foerderung/foerderprodukte/60349/produktdetail.html
 - `NRW_MID_DIGITALISIERUNG` | Mittelstand Innovativ & Digital (MID) - Digitalisierung | rollierend | https://www.nrwbank.de/de/foerderung/foerderprodukte/60348/produktdetail.html
 - `NRW_MID_DIGITALSICHERHEIT` | Mittelstand Innovativ & Digital (MID) - Digitale Sicherheit | rollierend | https://www.nrwbank.de/de/foerderung/foerderprodukte/60347/produktdetail.html
 - `NRW_MID_INNOVATION` | Mittelstand Innovativ & Digital (MID) - Innovation | rollierend | https://www.nrwbank.de/de/foerderung/foerderprodukte/60346/produktdetail.html
-- `N_BANK_NDS_GRUENDUNGSSTIPENDIUM` | Niedersachsen Gruendungsstipendium | rollierend | https://www.nbank.de/Unternehmen/Gr%C3%BCnden-Wachsen/Niedersachsen-Gr%C3%BCndungsstipendium/
+- `N_BANK_NDS_GRUENDUNGSSTIPENDIUM` | Niedersachsen Gruendungsstipendium | rollierend | https://www.nbank.de/Unternehmen/
