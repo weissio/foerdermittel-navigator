@@ -1,44 +1,44 @@
 # Informationen/Dokumente Overlap
 
-- Erzeugt am: `2026-02-19 00:56`
+- Erzeugt am: `2026-02-19 01:26`
 - Datensaetze gesamt: `1024`
-- Gleicher Link in Informationen und Dokumente: `234`
-- Anteil: `22.9%`
+- Gleicher Link in Informationen und Dokumente: `157`
+- Anteil: `15.3%`
 
 ## Top Overlap-URLs
 
 | URL | Anzahl Datensaetze | Beispiel-IDs |
 |---|---:|---|
-| https://www.bab-bremen.de/de/page/unternehmen | 2 | BAB_BREMEN_GRW, BAB_BREMEN_UNTERNEHMEN |
-| https://www.esf.bayern.de/ | 2 | ESF_BAYERN_PORTAL, ESF_BAYERN_AUFRUFE_OFFEN |
-| https://www.esf-bw.de/esf-plus-in-bw/programm-des-esf-plus-in-baden-wuerttemberg | 2 | ESF_BW_PROGRAMM, ESF_BW_AUFRUFE_OFFEN |
-| https://www.esf-hamburg.de/foerderung-617696 | 2 | ESF_HAMBURG_PROGRAMME, ESF_HAMBURG_AUFRUFE_OFFEN |
-| https://pact-for-skills.ec.europa.eu/stakeholders-and-business/funding-opportunities/european-social-fund-plus-esf-germany-lower-saxonyniedersachsen_en | 2 | ESF_NIEDERSACHSEN_PORTAL, ESF_NIEDERSACHSEN_OPEN |
-| https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator/eic-accelerator-challenges-2026_en | 2 | EU_EIC_AIC_NAMS_2026, EU_EIC_AIC_PHYSICAL_AI_2026 |
-| https://www.ibb.de/de/wirtschaftsfoerderung/foerderprogramme-a-z/foerderprogramme-a-z.html | 2 | IBB_BERLIN_INNOVATIV_PLUS, IBB_FOERDERPROGRAMME_AZ |
-| https://www.ib-sh.de/foerderprogramme/unternehmen/ | 2 | IBSH_HHSH_KREDIT, IB_SH_UNTERNEHMEN_UEBERSICHT |
-| https://www.ib-sh.de/produkt/ibsh-mittelstandskredit/ | 2 | IBSH_MITTELSTANDSKREDIT, IB_SH_MITTELSTANDSKREDIT |
-| https://www.ib-sachsen-anhalt.de/de/unternehmen | 2 | IB_SA_GRUENDUNGSDARLEHEN_2021_2027, IB_SA_UNTERNEHMEN_UEBERSICHT |
-| https://www.ifbhh.de/foerderung/unternehmen | 2 | IFB_HH_HAMBURG_KREDIT, IFB_HAMBURG_UNTERNEHMEN_UEBERSICHT |
-| https://www.mbb-mittelstand.de/ | 2 | MBB_BUERGSCHAFTEN, MBB_UNTERNEHMEN_UEBERSICHT |
-| https://mwl.sachsen-anhalt.de/ministerium/foerderung/grw-unternehmensfoerderung | 2 | SA_GRW_UNTERNEHMENSFOERDERUNG, MWL_SA_GRW_UNTERNEHMENSFOERDERUNG |
-| https://www.ib-sh.de/foerderprogramme/innovationsprogramm/ | 2 | IB_SH_INNOVATION, IBSH_INNOVATIONSPROGRAMM |
-| https://www.ib-sh.de/foerderprogramme/digitalisierungsprogramm/ | 2 | IB_SH_DIGITALISIERUNG, IBSH_DIGITALISIERUNGSPROGRAMM |
-| https://www.ib-sh.de/foerderprogramme/energiewende-und-klimaschutzprogramm/ | 2 | IB_SH_ENERGIEWENDE, IBSH_ENERGIEWENDE_KLIMASCHUTZ |
-| https://www.nbank.de/F%C3%B6rderprogramme/Aktuelle-F%C3%B6rderprogramme/Innovationsf%C3%B6rderprogramm.html | 2 | N_BANK_NDS_INNOVATION, N_BANK_INNOVATIONSFOERDERPROGRAMM |
-| https://www.ibb.de/de/foerderprogramme/innovationsassistent-in.html | 2 | IBB_INNOVATIONSASSISTENZ, IBB_INNOVATIONSASSISTENT |
-| https://www.aufbaubank.de/Foerderprogramme/Forschung-Entwicklung | 2 | TAB_FORSCHUNGS_FOERDERUNG, TAB_FORSCHUNG_ENTWICKLUNG |
-| https://www.nbank.de/Unternehmen/Gr%C3%BCnden-Wachsen/Gr%C3%BCndungs--und-Wachstumskredit/ | 2 | N_BANK_GRUENDUNG_KREDIT, N_BANK_GRUENDUNGS_WACHSTUMSKREDIT |
-| https://www.bafa.de/DE/Wirtschafts_Mittelstandsfoerderung/wirtschafts_mittelstandsfoerderung_node.html | 2 | BAFA_MATERIAL_EFFIZIENZ, BAFA_UEBERBETRIEBLICHE_BERATUNG |
-| https://www.bmwk.de/Redaktion/DE/Artikel/Mittelstand/mittelstandspolitik.html | 2 | BMWK_ZENTRALES_INNOVATIONSPROGRAMM_HANDWERK, BMWK_INNOVATIONSFOERDERUNG_HANDWERK |
-| https://www.bab-bremen.de/de/page/programm/liquiditaetshilfen | 2 | BAB_LIQUIDITAETSHILFEN, BAB_BREMEN_LIQUIDITAETSHILFEN |
-| https://www.nrwbank.de/de/unternehmen/ | 2 | NRWBANK_UNTERNEHMEN_UEBERSICHT, NRWBANK_DIGITALISIERUNG_INNOVATION |
-| https://eic.ec.europa.eu/eic-funding-opportunities/eic-pathfinder_en | 2 | EU_EIC_PATHFINDER, EU_EIC_PATHFINDER_OPEN_2026 |
-| https://eic.ec.europa.eu/eic-funding-opportunities/eic-transition_en | 2 | EU_EIC_TRANSITION, EU_EIC_TRANSITION_OPEN_2026 |
-| https://lfa.de/website/de/foerderangebote/energie-und-umwelt/index.php | 2 | LFA_ENERGIEKREDIT, LFA_ENERGIEKREDIT_REGENERATIV |
-| https://www.kfw.de/inlandsfoerderung/Unternehmen/Gr%C3%BCnden-Nachfolgen/F%C3%B6rderprodukte/ERP-Gr%C3%BCnderkredit-Startgeld-%28067%29/ | 2 | KFW_067_INVESTITION, KFW_067_BETRIEBSMITTEL |
-| https://www.kfw.de/inlandsfoerderung/Unternehmen/Energie-Umwelt/F%C3%B6rderprodukte/Klimaschutzoffensive-f%C3%BCr-den-Mittelstand-(293)/ | 2 | KFW_293_INVESTITION, KFW_293_BETRIEBSMITTEL |
-| https://www.bmwk.de/Redaktion/DE/Dossier/klimaschutzvertraege.html | 2 | BMWK_BIK_BUNDESFOERDERUNG_INDUSTRIE_KLIMASCHUTZ, BMWK_KLIMASCHUTZVERTRAEGE |
+| https://www.efre.bayern.de/efre/ | 1 | EFRE_BAYERN_PORTAL |
+| https://www.berlin.de/sen/wirtschaft/gruenden-und-foerdern/foerderprogramme/efre/ | 1 | EFRE_BERLIN_PORTAL |
+| https://efre.brandenburg.de/efre/de/ | 1 | EFRE_BRANDENBURG_PORTAL |
+| https://www.efre-bremen.de/foerderperiode-2021-2027/programm-2021-2027-32026 | 1 | EFRE_BREMEN_PORTAL |
+| https://efre-bw.de/ | 1 | EFRE_BW_PORTAL |
+| https://efre.hessen.de/ | 1 | EFRE_HESSEN_PORTAL |
+| https://www.regierung-mv.de/Landesregierung/wm/EFRE/ | 1 | EFRE_MV_PORTAL |
+| https://www.efre.niedersachsen.de/startseite/ | 1 | EFRE_NIEDERSACHSEN_PORTAL |
+| https://www.efre.nrw.de/ | 1 | EFRE_NRWFUNDS_PORTAL |
+| https://www.saarland.de/SharedDocs/Downloads/DE/staatskanzlei/efre_2021_2027.html | 1 | EFRE_SAARLAND_PORTAL |
+| https://www.strukturfonds.sachsen.de/efre-4427.html | 1 | EFRE_SACHSEN_PORTAL |
+| https://www.europa.sachsen-anhalt.de/fileadmin/Bibliothek/Politik_und_Verwaltung/StK/EFRE/EFRE_2021-2027.pdf | 1 | EFRE_SA_ANHALT_PORTAL |
+| https://www.schleswig-holstein.de/DE/landesregierung/themen/wirtschaft/lpw/efre_programm/efre_2021-2027/efreprogramm-2021-2027_node | 1 | EFRE_SH_PORTAL |
+| https://www.efre-thueringen.de/efre-programm/programm/ | 1 | EFRE_TH_PORTAL |
+| https://www.ibb.de/de/foerderungen/europaeischer-sozialfonds-plus/europaeischer-sozialfonds-plus.html | 1 | ESF_BERLIN_2021_2027 |
+| https://www.berlin.de/sen/arbeit/europaeischer-sozialfonds-plus/ | 1 | ESF_BERLIN_PORTAL |
+| https://esf.brandenburg.de/esf/de/esf-2021-2027/esf-foerderprogramme-2021-2027/ | 1 | ESF_BRANDENBURG_FOERDERPROGRAMME_2021_2027 |
+| https://esf.brandenburg.de/esf/de/esf-2021-2027/esf-programm/ | 1 | ESF_BRANDENBURG_PORTAL |
+| https://www.esf.bremen.de/ | 1 | ESF_BREMEN_2021_2027 |
+| https://www.esf-hessen.de/esf-hessen/programme-2021-2027 | 1 | ESF_HESSEN_PROGRAMME_2021_2027 |
+| https://www.europa-mv.de/foerderinstrumente/fonds_mv/esf/ | 1 | ESF_MV_2021_2027 |
+| https://www.nrwbank.de/de/foerderung/foerderprodukte/60170/esf-plus---foerderprogramme-des-bundes-2021-2027.html | 1 | ESF_NRW_PROGRAMME_2021_2027 |
+| https://esf.rlp.de/esf-programm | 1 | ESF_RLP_PROGRAMM |
+| https://pact-for-skills.ec.europa.eu/stakeholders-and-business/funding-opportunities/european-social-fund-plus-esf-germany-saarland_en | 1 | ESF_SAARLAND_OPEN |
+| https://www.saarland.de/DE/portale/esfplus/esfplus_node.html | 1 | ESF_SAARLAND_PROGRAMM |
+| https://www.schule.sachsen.de/europaeischer-sozialfonds-esf-plus-2021-2027-7745.html | 1 | ESF_SACHSEN_2021_2027 |
+| https://www.europa.sachsen-anhalt.de/ESF/ESF-2021-2027 | 1 | ESF_SA_ANHALT_PROGRAMM |
+| https://pact-for-skills.ec.europa.eu/stakeholders-and-business/funding-opportunities/european-social-fund-plus-esf-germany-schleswig-holstein_en | 1 | ESF_SH_OPEN |
+| https://pact-for-skills.ec.europa.eu/stakeholders-and-business/funding-opportunities/european-social-fund-plus-esf-germany-thuringiathuringen_en | 1 | ESF_TH_OPEN |
+| https://commission.europa.eu/funding-tenders/find-funding/eu-funding-programmes/digital-europe-programme_en | 1 | EU_DIGITAL_EUROPE |
 
 ## Regel fuer Bereinigung
 

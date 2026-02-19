@@ -1,10 +1,10 @@
 # Link Quality Snapshot
 
-- Erzeugt am: `2026-02-19 00:56`
+- Erzeugt am: `2026-02-19 01:26`
 - Datensaetze: `1024`
 - Fehlend Informationen: `0`
 - Fehlend Dokumente: `0`
-- Informationen = Dokumente (identische URL): `234` (22.9%)
+- Informationen = Dokumente (identische URL): `157` (15.3%)
 
 ## Top Domains
 
