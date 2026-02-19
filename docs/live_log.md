@@ -763,3 +763,8 @@
 - Link-Audit erweitert: neues Snapshot-Skript `scripts/report_link_structure.py` hinzugefuegt.
 - `make status` erzeugt jetzt zusaetzlich `docs/link_structure_snapshot.md`.
 - Ergebnisstruktur aktuell: keine identischen Informationen/Dokumente-Links; Basisgleichheit nur mit Query/Fragment (beabsichtigte Dokument-Tabs/Formularanker).
+
+## 2026-02-19 23:20
+- EU-EIC Korrektur: bei 4 EIC-Programmen den Dokumente-Link auf das unspezifische F&T-Topic-Search-Portal entfernt.
+- Betroffen: `EU_EIC_ACCELERATOR_2026`, `EU_EIC_AIC_NAMS_2026`, `EU_EIC_AIC_PHYSICAL_AI_2026`, `EU_EIC_STEP_SCALEUP_2026`.
+- Ziel: Vermeidung leerer/unspezifischer Dokumente-Ziele in der Preview.

@@ -1,9 +1,9 @@
 # Link Quality Snapshot
 
-- Erzeugt am: `2026-02-19 08:53`
+- Erzeugt am: `2026-02-19 09:53`
 - Datensaetze: `1024`
 - Fehlend Informationen: `0`
-- Fehlend Dokumente: `0`
+- Fehlend Dokumente: `4`
 - Informationen = Dokumente (identische URL): `0` (0.0%)
 
 ## Top Domains
@@ -14,8 +14,8 @@
 | foerderportal.bund.de | 263 |
 | www.kmu-innovativ.de | 259 |
 | www.bmwk.de | 88 |
-| ec.europa.eu | 65 |
 | www.bafa.de | 62 |
+| ec.europa.eu | 61 |
 | www.foerderdatenbank.de | 40 |
 | www.zim.de | 38 |
 | www.ibb.de | 31 |

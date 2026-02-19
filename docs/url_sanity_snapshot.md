@@ -1,8 +1,8 @@
 # URL Sanity Snapshot
 
-- Erzeugt am: `2026-02-19 08:53`
+- Erzeugt am: `2026-02-19 09:53`
 - Datensaetze: `1024`
-- Ungueltige URLs: `0`
+- Ungueltige URLs: `4`
 - Nicht-HTTPS URLs: `0`
 - Potenziell generische Informations-Links: `0`
 - Potenziell generische Dokumenten-Links: `0`
@@ -16,8 +16,8 @@
 | foerderportal.bund.de | 263 |
 | www.kmu-innovativ.de | 259 |
 | www.bmwk.de | 88 |
-| ec.europa.eu | 65 |
 | www.bafa.de | 62 |
+| ec.europa.eu | 61 |
 | www.foerderdatenbank.de | 40 |
 | www.zim.de | 38 |
 | www.ibb.de | 31 |
@@ -55,5 +55,9 @@
 
 | programm_id | Feld | URL |
 |---|---|---|
+| EU_EIC_ACCELERATOR_2026 | Dokumente |  |
+| EU_EIC_AIC_NAMS_2026 | Dokumente |  |
+| EU_EIC_AIC_PHYSICAL_AI_2026 | Dokumente |  |
+| EU_EIC_STEP_SCALEUP_2026 | Dokumente |  |
 
 Hinweis: Dieser Report prueft Syntax/Struktur, nicht HTTP-Statuscodes.
