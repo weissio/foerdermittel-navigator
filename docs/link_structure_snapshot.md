@@ -4,7 +4,7 @@
 - Fehlende Informationen-Links: `0`
 - Fehlende Dokumente-Links: `71`
 - Identische Informationen/Dokumente-Links: `0`
-- Gleicher Basispfad mit Query/Fragment: `158`
+- Gleicher Basispfad mit Query/Fragment: `157`
 - Gleicher Basispfad ohne Query/Fragment: `0`
 
 ## Top Hosts

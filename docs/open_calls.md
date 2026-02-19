@@ -321,7 +321,7 @@
 - `BMDV_NIP_WASSERSTOFF_BRENNSTOFFZELLE` | Nationales Innovationsprogramm Wasserstoff- und Brennstoffzellentechnologie (NIP) | rollierend | https://www.now-gmbh.de/foerderung/foerderprogramme/nip/
 - `BMEL_BLE_INNOVATIONSFOERDERUNG` | Innovationsfoerderung des BMEL (BLE) | rollierend | https://www.ble.de/DE/Projektfoerderung/Foerderungen-Auftraege/Innovationsfoerderung/innovationsfoerderung_node.html
 - `BMEL_BULEPLUS` | BULEplus - Bundesprogramm Laendliche Entwicklung und Regionale Wertschoepfung | rollierend | https://www.bmel.de/DE/themen/laendliche-regionen/foerderung-des-laendlichen-raumes/bundesprogramm-laendliche-entwicklung/bundesprogramm-laendliche-entwicklung_node.html
-- `BMEL_BUNDESPROGRAMM_UMBAU_TIERHALTUNG` | Bundesprogramm Umbau der Tierhaltung | rollierend | https://www.bmel.de/DE/themen/tiere/tierwohl/umbau-tierhaltung.html
+- `BMEL_BUNDESPROGRAMM_UMBAU_TIERHALTUNG` | Bundesprogramm Umbau der Tierhaltung | rollierend | https://www.bmel.de/DE/themen/tiere/tierwohl/tierwohl_node.html
 - `BMEL_FNR_NACHWACHSENDE_ROHSTOFFE` | Projektfoerderung Nachwachsende Rohstoffe (FNR/BMEL) | rollierend | https://www.fnr.de/projektfoerderung
 - `BMUV_ANK_AKTIONSPROGRAMM_NATUERLICHER_KLIMASCHUTZ` | Aktionsprogramm Natuerlicher Klimaschutz (ANK) | rollierend | https://www.natuerlicher-klimaschutz.de/
 - `BMUV_EXPORTINITIATIVE_UMWELTSCHUTZ_MARKTERSCHLIESSUNG` | Exportinitiative Umweltschutz - Markterschliessung und Internationalisierung | rollierend | https://www.exportinitiative-umweltschutz.de/
