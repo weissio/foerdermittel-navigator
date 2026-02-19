@@ -21,6 +21,7 @@ cd "/Users/jonasweiss/Documents/New project"
 make qa
 make batch
 make links_live
+make gate_changed
 ```
 
 `make qa` erzeugt alle Snapshot-Reports:
@@ -44,9 +45,14 @@ make links_live
 - Optional schnellere Stichprobe: `python3 scripts/report_live_link_health.py --timeout 2 --workers 32 --limit 400`
 - Bei Firmen-/Proxy-SSL-Problemen: `python3 scripts/report_live_link_health.py --timeout 2 --workers 32 --limit 400 --insecure`
 
+`make gate_changed` erzeugt:
+- `docs/changed_link_health_snapshot.md` (nur geaenderte Datensaetze vs. `origin/main`)
+- Gate-Regel: Merge nur wenn `Fehlgeschlagene Links (geaenderte Datensaetze) = 0`
+
 ## Wichtige Dateien
 
 - Daten: `data/foerderprogramme.csv`
+- Link-Exceptions: `data/link_exceptions.csv`
 - Update-Log: `data/update_log.csv`
 - Status-Snapshot: `STATUS.md`
 - Live-Log: `docs/live_log.md`
@@ -60,6 +66,7 @@ make links_live
 - Master-Coverage: `docs/master_coverage.md`
 - Link-Overlap: `docs/info_link_overlap.md`
 - Update-Prozess: `docs/update_process.md`
+- QM-Policy: `docs/qm_policy.md`
 - QA-Kommandos: `docs/qa_commands.md`
 
 ## Operativer Einstieg

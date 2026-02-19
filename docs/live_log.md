@@ -885,3 +885,10 @@
 ## 2026-02-20 04:30
 - Korrektur auf Hinweis: `KFW_100` (ERP-Beteiligungsprogramm) Informationen-Link von allgemeiner KfW-Unternehmensseite auf die konkrete Produktseite umgestellt.
 - Neuer Link: `https://www.kfw.de/inlandsfoerderung/Unternehmen/Investitionen-und-Wachstum/F%C3%B6rderprodukte/ERP-Beteiligungsprogramm-(100-104)/`
+
+## 2026-02-20 04:55
+- QM-Framework technisch verankert:
+  - Pflichtfeld `link_klasse` in `data/foerderprogramme.csv` eingefuehrt und initial für alle Datensaetze gesetzt.
+  - Exception-Register `data/link_exceptions.csv` angelegt.
+  - Neues Delta-Gate `scripts/check_changed_links_gate.py` + `make gate_changed` (geaenderte Datensaetze vs. `origin/main`).
+  - QM-Dokumentation `docs/qm_policy.md` erstellt und README/Status auf neuen Gate-Flow erweitert.

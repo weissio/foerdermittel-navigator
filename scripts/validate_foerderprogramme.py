@@ -8,12 +8,14 @@ import datetime as dt
 import sys
 from collections import Counter
 from pathlib import Path
+from urllib.parse import urlsplit
 
 REQUIRED_COLUMNS = {
     "programm_id",
     "programm_name",
     "status",
     "kategorie",
+    "link_klasse",
     "letzte_pruefung",
 }
 
@@ -24,6 +26,15 @@ EXPECTED_KATEGORIE = {
     "offen": "offen",
     "geplant": "zukuenftig",
 }
+
+ALLOWED_LINK_KLASSE = {
+    "programm_spezifisch",
+    "call_spezifisch",
+    "dokument_spezifisch",
+    "portal_uebersicht",
+}
+
+EXCEPTIONS_PATH = Path("data/link_exceptions.csv")
 
 BLOCKED_DOC_URLS = {
     "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
@@ -86,6 +97,50 @@ def _is_iso_date(value: str) -> bool:
         return False
 
 
+def _looks_generic_info(url: str) -> bool:
+    p = urlsplit(url)
+    path = p.path.strip("/")
+    if not path:
+        return True
+    parts = [x for x in path.split("/") if x]
+    if len(parts) <= 1:
+        return True
+    generic_parts = {
+        "de",
+        "en",
+        "unternehmen",
+        "foerderung",
+        "foerderprogramme",
+        "service",
+        "startseite",
+        "home",
+    }
+    return all(part.lower() in generic_parts for part in parts)
+
+
+def _load_exceptions() -> set[tuple[str, str, str]]:
+    if not EXCEPTIONS_PATH.exists():
+        return set()
+    rows = list(csv.DictReader(EXCEPTIONS_PATH.open(encoding="utf-8", newline="")))
+    today = dt.date.today()
+    active: set[tuple[str, str, str]] = set()
+    for row in rows:
+        status = (row.get("status") or "").strip().lower()
+        if status and status != "active":
+            continue
+        pid = (row.get("programm_id") or "").strip()
+        feld = (row.get("feld") or "").strip()
+        url = (row.get("url") or "").strip()
+        gueltig_bis = (row.get("gueltig_bis") or "").strip()
+        if not (pid and feld and url):
+            continue
+        if gueltig_bis and _is_iso_date(gueltig_bis):
+            if dt.date.fromisoformat(gueltig_bis) < today:
+                continue
+        active.add((pid, feld, url))
+    return active
+
+
 def validate(path: Path) -> int:
     if not path.exists():
         print(f"ERROR: file not found: {path}")
@@ -102,6 +157,7 @@ def validate(path: Path) -> int:
         rows = list(reader)
 
     errors: list[str] = []
+    exceptions = _load_exceptions()
 
     ids = [r["programm_id"].strip() for r in rows]
     duplicates = [k for k, v in Counter(ids).items() if v > 1]
@@ -116,6 +172,7 @@ def validate(path: Path) -> int:
         traeger = row.get("traeger", "").strip()
         info_url = row.get("richtlinie_url", "").strip()
         quelle_url = row.get("quelle_url", "").strip()
+        link_klasse = row.get("link_klasse", "").strip()
 
         if not programm_id:
             errors.append(f"line {idx}: empty programm_id")
@@ -127,6 +184,10 @@ def validate(path: Path) -> int:
         if kategorie not in ALLOWED_KATEGORIE:
             errors.append(
                 f"line {idx} ({programm_id}): invalid kategorie '{kategorie}'"
+            )
+        if link_klasse not in ALLOWED_LINK_KLASSE:
+            errors.append(
+                f"line {idx} ({programm_id}): invalid link_klasse '{link_klasse}'"
             )
 
         expected = EXPECTED_KATEGORIE.get(status)
@@ -141,6 +202,9 @@ def validate(path: Path) -> int:
             errors.append(
                 f"line {idx} ({programm_id}): invalid letzte_pruefung '{letzte_pruefung}'"
             )
+
+        # Generic-link strictness is enforced in dedicated reports/gates to avoid
+        # false positives for provider structures that intentionally use landing pages.
 
         if quelle_url in BLOCKED_DOC_URLS:
             errors.append(

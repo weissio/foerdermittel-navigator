@@ -1,6 +1,6 @@
 SHELL := /bin/bash
 
-.PHONY: qa batch preview open_calls status gaps links_live
+.PHONY: qa batch preview open_calls status gaps links_live gate_changed
 
 qa:
 	scripts/run_qa.sh
@@ -32,3 +32,6 @@ gaps:
 
 links_live:
 	python3 scripts/report_live_link_health.py
+
+gate_changed:
+	python3 scripts/check_changed_links_gate.py --insecure
