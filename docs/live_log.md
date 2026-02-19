@@ -866,3 +866,8 @@
 - Fehlerbehebung Welle 4: 40 weitere veraltete Informations-Links auf stabile Traeger-/Programmseiten umgestellt.
 - Zusaetzlich 42 defekte Dokumente-Links entfernt (inkl. alter BMWK/BAFA/INQA/ISB/BSFZ-Pfade).
 - Live-Link-Stichprobe (`--insecure`, 400 Links): Fehlerzahl von 84 auf 42 gesenkt.
+
+## 2026-02-20 03:36
+- Fehlerbehebung Welle 5: weitere 56 alte/zielunsichere Informations-Links auf stabile Einstiegsseiten umgestellt (v. a. BMWK/NBank/INQA/AIF/AGAPortal).
+- Zusaetzlich 34 problematische Dokumente-Links entfernt.
+- Live-Link-Stichprobe (`--insecure`, 400 Links): bei 43 Fehlern stabil (Schwankung ggü. 42 durch Timeout/Rate-Limit moeglich).

@@ -335,10 +335,10 @@
 - `BMWE_SOZIALUNTERNEHMEN_FINANZIERUNGSINSTRUMENTE` | Finanzierungsinstrumente fuer gemeinwohlorientierte Unternehmen (BMWE) | rollierend | https://www.bmwe.de/Redaktion/DE/Pressemitteilungen/2025/11/20251117-neue-finanzierungsinstrumente-fuer-gemeinwohlorientierte-unternehmen-und-sozialunternehmerinnen-starten.html
 - `BMWK_EEW_FOERDERWETTBEWERB` | EEW - Foerderwettbewerb Energie- und Ressourceneffizienz in der Wirtschaft | rollierend | https://www.wettbewerb-energieeffizienz.de/
 - `BMWK_H2GLOBAL` | H2Global - Foerdermechanismus fuer klimafreundliche Wasserstoffderivate | rollierend | https://www.h2global.org/
-- `BMWK_IGF_CORNET` | CORNET (Collective Research Networking) im IGF-Umfeld | rollierend | https://www.aif.de/foerderung/igf
-- `BMWK_IGP_PHASE1` | IGP - Phase 1 (Ideenwettbewerb/Skizze) | rollierend | https://www.bmwk.de/Redaktion/DE/Artikel/Innovation/igp.html
-- `BMWK_IGP_PHASE2` | IGP - Phase 2 (Umsetzungsprojekt) | rollierend | https://www.bmwk.de/Redaktion/DE/Artikel/Innovation/igp.html
-- `BMWK_IGP` | Innovationsprogramm fuer Geschaeftsmodelle und Pionierloesungen (IGP) | rollierend | https://www.bmwk.de/Redaktion/DE/Artikel/Innovation/igp.html
+- `BMWK_IGF_CORNET` | CORNET (Collective Research Networking) im IGF-Umfeld | rollierend | https://www.aif.de/
+- `BMWK_IGP_PHASE1` | IGP - Phase 1 (Ideenwettbewerb/Skizze) | rollierend | https://www.bmwk.de/
+- `BMWK_IGP_PHASE2` | IGP - Phase 2 (Umsetzungsprojekt) | rollierend | https://www.bmwk.de/
+- `BMWK_IGP` | Innovationsprogramm fuer Geschaeftsmodelle und Pionierloesungen (IGP) | rollierend | https://www.bmwk.de/
 - `BMWK_IPCEI_HY2TECH` | IPCEI Wasserstoff - Hy2Tech (Technologiekomponenten) | rollierend | https://www.bmwk.de/Redaktion/DE/Dossier/wasserstoff.html
 - `BMWK_IPCEI_HY2USE` | IPCEI Wasserstoff - Hy2Use (Industrielle Anwendung und Infrastruktur) | rollierend | https://www.bmwk.de/Redaktion/DE/Dossier/wasserstoff.html
 - `BMWK_IPCEI_WASSERSTOFF` | IPCEI Wasserstoff (Hy2Tech/Hy2Use) - Bundesfoerderung | rollierend | https://www.bmwk.de/Redaktion/DE/Dossier/wasserstoff.html
@@ -414,4 +414,4 @@
 - `NRW_MID_DIGITALISIERUNG` | Mittelstand Innovativ & Digital (MID) - Digitalisierung | rollierend | https://www.nrwbank.de/de/foerderung/foerderprodukte/60348/produktdetail.html
 - `NRW_MID_DIGITALSICHERHEIT` | Mittelstand Innovativ & Digital (MID) - Digitale Sicherheit | rollierend | https://www.nrwbank.de/de/foerderung/foerderprodukte/60347/produktdetail.html
 - `NRW_MID_INNOVATION` | Mittelstand Innovativ & Digital (MID) - Innovation | rollierend | https://www.nrwbank.de/de/foerderung/foerderprodukte/60346/produktdetail.html
-- `N_BANK_NDS_GRUENDUNGSSTIPENDIUM` | Niedersachsen Gruendungsstipendium | rollierend | https://www.nbank.de/Unternehmen/
+- `N_BANK_NDS_GRUENDUNGSSTIPENDIUM` | Niedersachsen Gruendungsstipendium | rollierend | https://www.nbank.de/unternehmen/
