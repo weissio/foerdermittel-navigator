@@ -2,7 +2,7 @@
 
 - Datensaetze: `1024`
 - Fehlende Informationen-Links: `0`
-- Fehlende Dokumente-Links: `55`
+- Fehlende Dokumente-Links: `56`
 - Identische Informationen/Dokumente-Links: `0`
 - Gleicher Basispfad mit Query/Fragment: `159`
 - Gleicher Basispfad ohne Query/Fragment: `0`

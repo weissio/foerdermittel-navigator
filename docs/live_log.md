@@ -781,3 +781,7 @@
 ## 2026-02-19 23:42
 - Guardrail gesetzt: `scripts/validate_foerderprogramme.py` blockiert jetzt den unspezifischen EU-Topic-Search-Link in `quelle_url`.
 - Effekt: falls der Link wieder auftaucht, faellt `make qa` sofort mit Validierungsfehler.
+
+## 2026-02-19 23:52
+- Link-Korrektur: `ESF_NIEDERSACHSEN_OPEN` Dokumente-Link entfernt (Seite nicht verfuegbar).
+- Verhalten in Preview: nur `Informationen` angezeigt, kein fehlerhafter `Dokumente`-Link mehr.
