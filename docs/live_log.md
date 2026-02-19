@@ -794,3 +794,8 @@
 
 ## 2026-02-20 00:12
 - Sammelkorrektur ESF-Dokumente: den defekten Link `.../Onlineantrag/ESF/esf_node.html` aus allen verbleibenden Datensaetzen entfernt (13 Eintraege, inkl. `ESF_TH_OPEN`).
+
+## 2026-02-20 00:18
+- Link-Korrektur: `BMUV_ANK_AKTIONSPROGRAMM_NATUERLICHER_KLIMASCHUTZ` auf funktionierende Zielseiten umgestellt.
+- Informationen: `https://www.natuerlicher-klimaschutz.de/`
+- Dokumente: `https://www.bundesumweltministerium.de/publikation/aktionsprogramm-natuerlicher-klimaschutz`
