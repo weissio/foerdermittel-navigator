@@ -43,6 +43,14 @@ BLOCKED_DOC_URLS = {
     "https://www.wibank.de/wibank/infocenter/download-center/index.jsp",
     "https://www.bab-bremen.de/de/page/service/downloads",
     "https://www.europa-fuer-niedersachsen.de/foerderperiode-2021-2027/esfplus/",
+    "https://www.foerderdatenbank.de/FDB/DE/Service/Onlineantrag/EFRE/efre_node.html#onlineantrag",
+    "https://www.foerderdatenbank.de/FDB/DE/Service/Onlineantrag/ESF/esf_node.html#onlineantrag",
+    "https://www.bafa.de/DE/Wirtschafts_Mittelstandsfoerderung/Beratung_Finanzierung/unternehmensberatung_node.html#formulare",
+    "https://www.bafa.de/DE/Wirtschafts_Mittelstandsfoerderung/Invest/invest_node.html",
+    "https://www.esf.bayern.de/imperia/md/content/stmas/stmas_inet/esf/dokumente/esfplus_foerderhinweise.pdf",
+    "https://www.lfa.de/website/de/foerderangebote/innovationsfinanzierung/innovationskredit/index.php",
+    "https://www.sab.sachsen.de/foerderprogramme#dokumente",
+    "https://www.sikb.de/service/downloads",
 }
 
 BLOCKED_INFO_URLS = {

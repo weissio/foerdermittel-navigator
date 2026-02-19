@@ -855,3 +855,9 @@
 - Fehlerbehebung Welle 2: 130 veraltete/404-Informationslinks auf stabile Traeger- oder Programmseiten umgestellt.
 - Zusaetzlich 52 defekte Dokumente-Links entfernt (404/fehlerhafte Download-Pfade).
 - Live-Link-Stichprobe (`--insecure`, 400 Links): Fehlerzahl von 159 auf 115 gesenkt.
+
+## 2026-02-20 03:02
+- Fehlerbehebung Welle 3: weitere 33 veraltete Informations-Links auf stabile Zielseiten umgestellt.
+- Zusaetzlich 20 weitere defekte Dokumente-Links entfernt.
+- Validator-Blocklist fuer bekannte 404-Dokumente-URLs erweitert.
+- Live-Link-Stichprobe (`--insecure`, 400 Links): Fehlerzahl von 115 auf 84 gesenkt.
