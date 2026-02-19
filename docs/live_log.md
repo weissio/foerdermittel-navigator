@@ -803,3 +803,8 @@
 ## 2026-02-20 00:27
 - Link-Korrektur: `EU_BLUEINVEST` Informationen-Link auf `https://blueinvest.eu/` umgestellt.
 - Dokumente bleibt leer (kein stabiler, programmspezifischer Dokumenten-Link ohne leeres Topic-Search-Portal).
+
+## 2026-02-20 00:35
+- Link-Korrektur: `BMEL_BULEPLUS` auf aktualisierte, stabile Zielseiten umgestellt.
+- Informationen: `https://www.bmel.de/DE/themen/laendliche-regionen/foerderung-des-laendlichen-raumes/bundesprogramm-laendliche-entwicklung/bundesprogramm-laendliche-entwicklung_node.html`
+- Dokumente: `https://land-zukunft.de/foerderung/`
