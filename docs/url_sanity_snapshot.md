@@ -1,8 +1,8 @@
 # URL Sanity Snapshot
 
-- Erzeugt am: `2026-02-19 10:02`
+- Erzeugt am: `2026-02-19 10:04`
 - Datensaetze: `1024`
-- Ungueltige URLs: `58`
+- Ungueltige URLs: `71`
 - Nicht-HTTPS URLs: `0`
 - Potenziell generische Informations-Links: `0`
 - Potenziell generische Dokumenten-Links: `0`
@@ -17,13 +17,13 @@
 | www.kmu-innovativ.de | 259 |
 | www.bmwk.de | 88 |
 | www.bafa.de | 62 |
-| www.foerderdatenbank.de | 38 |
 | www.zim.de | 38 |
 | www.ibb.de | 31 |
 | isb.rlp.de | 30 |
 | www.exist.de | 30 |
 | www.nrwbank.de | 29 |
 | www.wibank.de | 28 |
+| www.foerderdatenbank.de | 25 |
 | www.ifbhh.de | 24 |
 | www.bmwe.de | 23 |
 | www.sab.sachsen.de | 22 |
@@ -55,8 +55,21 @@
 
 | programm_id | Feld | URL |
 |---|---|---|
+| ESF_BERLIN_2021_2027 | Dokumente |  |
+| ESF_BERLIN_PORTAL | Dokumente |  |
+| ESF_BRANDENBURG_FOERDERPROGRAMME_2021_2027 | Dokumente |  |
+| ESF_BRANDENBURG_PORTAL | Dokumente |  |
+| ESF_BREMEN_2021_2027 | Dokumente |  |
+| ESF_HESSEN_PROGRAMME_2021_2027 | Dokumente |  |
+| ESF_MV_2021_2027 | Dokumente |  |
+| ESF_NRW_PROGRAMME_2021_2027 | Dokumente |  |
+| ESF_RLP_PROGRAMM | Dokumente |  |
 | ESF_SAARLAND_OPEN | Dokumente |  |
+| ESF_SAARLAND_PROGRAMM | Dokumente |  |
+| ESF_SACHSEN_2021_2027 | Dokumente |  |
+| ESF_SA_ANHALT_PROGRAMM | Dokumente |  |
 | ESF_SH_OPEN | Dokumente |  |
+| ESF_TH_OPEN | Dokumente |  |
 | EU_DIGITAL_EUROPE | Dokumente |  |
 | EU_EIC_ACCELERATOR_2026 | Dokumente |  |
 | EU_EIC_AIC_NAMS_2026 | Dokumente |  |
@@ -67,18 +80,5 @@
 | EU_EISMEA_I3_CAP2B_2026 | Dokumente |  |
 | EU_EISMEA_PPPA_TOURISM_2026 | Dokumente |  |
 | EU_HORIZON | Dokumente |  |
-| EU_SINGLE_MARKET | Dokumente |  |
-| EU_CEF_DIGITAL | Dokumente |  |
-| EU_INNOVATION_FUND | Dokumente |  |
-| EU_INVESTEU | Dokumente |  |
-| EU_EIT_COMMUNITY | Dokumente |  |
-| EU_EU4HEALTH | Dokumente |  |
-| EU_EUROSTARS | Dokumente |  |
-| EU_EUREKA_GLOBALSTARS | Dokumente |  |
-| EU_CREATIVE_EUROPE | Dokumente |  |
-| EU_CERV_PROGRAMME | Dokumente |  |
-| EU_JUST_TRANSITION_FUND | Dokumente |  |
-| EU_INTERREG | Dokumente |  |
-| EU_ERASMUS_PLUS | Dokumente |  |
 
 Hinweis: Dieser Report prueft Syntax/Struktur, nicht HTTP-Statuscodes.

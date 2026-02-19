@@ -791,3 +791,6 @@
 
 ## 2026-02-20 00:06
 - Link-Korrektur: `ESF_SH_OPEN` Dokumente-Link entfernt (Zielseite nicht verfuegbar).
+
+## 2026-02-20 00:12
+- Sammelkorrektur ESF-Dokumente: den defekten Link `.../Onlineantrag/ESF/esf_node.html` aus allen verbleibenden Datensaetzen entfernt (13 Eintraege, inkl. `ESF_TH_OPEN`).

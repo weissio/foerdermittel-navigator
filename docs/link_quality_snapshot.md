@@ -1,9 +1,9 @@
 # Link Quality Snapshot
 
-- Erzeugt am: `2026-02-19 10:02`
+- Erzeugt am: `2026-02-19 10:04`
 - Datensaetze: `1024`
 - Fehlend Informationen: `0`
-- Fehlend Dokumente: `58`
+- Fehlend Dokumente: `71`
 - Informationen = Dokumente (identische URL): `0` (0.0%)
 
 ## Top Domains
@@ -15,13 +15,13 @@
 | www.kmu-innovativ.de | 259 |
 | www.bmwk.de | 88 |
 | www.bafa.de | 62 |
-| www.foerderdatenbank.de | 38 |
 | www.zim.de | 38 |
 | www.ibb.de | 31 |
 | isb.rlp.de | 30 |
 | www.exist.de | 30 |
 | www.nrwbank.de | 29 |
 | www.wibank.de | 28 |
+| www.foerderdatenbank.de | 25 |
 | www.ifbhh.de | 24 |
 | www.bmwe.de | 23 |
 | www.sab.sachsen.de | 22 |
