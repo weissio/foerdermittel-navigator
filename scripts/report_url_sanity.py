@@ -16,15 +16,27 @@ OUT_PATH = Path("docs/url_sanity_snapshot.md")
 GENERIC_PATTERNS = [
     "/foerderprogramme",
     "/foerderprogramme-a-z",
-    "/unternehmen/",
     "/service/downloads",
     "/download-center",
     "/downloads",
 ]
 
+SPECIFIC_HINTS = [
+    "/foerderprodukte/",
+    "/produkt/",
+    "/produktdetail",
+    "/programmes/",
+    "/calls",
+    "/call",
+    "/topic",
+    "/eic-",
+]
+
 
 def _looks_generic(url: str) -> bool:
     lower = url.lower()
+    if any(h in lower for h in SPECIFIC_HINTS):
+        return False
     return any(p in lower for p in GENERIC_PATTERNS)
 
 
