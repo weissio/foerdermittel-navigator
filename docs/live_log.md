@@ -777,3 +777,7 @@
 - EU-Dokumente bereinigt: F&T Topic-Search (`.../topic-search`) komplett als Dokumente-Link entfernt.
 - Umfang: 45 Datensaetze (u. a. Horizon/Cluster/CEF/LIFE/Joint Undertakings).
 - Ergebnis: dieser unspezifische Dokumente-Link kommt in `quelle_url` nun nicht mehr vor.
+
+## 2026-02-19 23:42
+- Guardrail gesetzt: `scripts/validate_foerderprogramme.py` blockiert jetzt den unspezifischen EU-Topic-Search-Link in `quelle_url`.
+- Effekt: falls der Link wieder auftaucht, faellt `make qa` sofort mit Validierungsfehler.

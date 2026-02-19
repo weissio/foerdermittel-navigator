@@ -25,6 +25,10 @@ EXPECTED_KATEGORIE = {
     "geplant": "zukuenftig",
 }
 
+BLOCKED_DOC_URLS = {
+    "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
+}
+
 
 def _is_iso_date(value: str) -> bool:
     try:
@@ -61,6 +65,7 @@ def validate(path: Path) -> int:
         status = row["status"].strip()
         kategorie = row["kategorie"].strip()
         letzte_pruefung = row["letzte_pruefung"].strip()
+        quelle_url = row.get("quelle_url", "").strip()
 
         if not programm_id:
             errors.append(f"line {idx}: empty programm_id")
@@ -85,6 +90,11 @@ def validate(path: Path) -> int:
         elif not _is_iso_date(letzte_pruefung):
             errors.append(
                 f"line {idx} ({programm_id}): invalid letzte_pruefung '{letzte_pruefung}'"
+            )
+
+        if quelle_url in BLOCKED_DOC_URLS:
+            errors.append(
+                f"line {idx} ({programm_id}): blocked quelle_url '{quelle_url}'"
             )
 
     print(f"Checked rows: {len(rows)}")
