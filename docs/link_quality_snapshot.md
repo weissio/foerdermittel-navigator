@@ -1,6 +1,6 @@
 # Link Quality Snapshot
 
-- Erzeugt am: `2026-02-19 05:56`
+- Erzeugt am: `2026-02-19 06:26`
 - Datensaetze: `1024`
 - Fehlend Informationen: `0`
 - Fehlend Dokumente: `0`
@@ -23,9 +23,9 @@
 | www.exist.de | 30 |
 | www.nrwbank.de | 29 |
 | www.wibank.de | 28 |
-| www.sab.sachsen.de | 25 |
 | www.ifbhh.de | 24 |
 | www.bmwe.de | 23 |
+| www.sab.sachsen.de | 22 |
 | www.ib-sh.de | 20 |
 | www.ib-sachsen-anhalt.de | 20 |
 | www.inqa.de | 20 |

@@ -1,11 +1,11 @@
 # URL Sanity Snapshot
 
-- Erzeugt am: `2026-02-19 05:56`
+- Erzeugt am: `2026-02-19 06:26`
 - Datensaetze: `1024`
 - Ungueltige URLs: `0`
 - Nicht-HTTPS URLs: `0`
 - Potenziell generische Informations-Links: `5`
-- Potenziell generische Dokumenten-Links: `13`
+- Potenziell generische Dokumenten-Links: `0`
 
 ## Top Hosts
 
@@ -24,9 +24,9 @@
 | www.exist.de | 30 |
 | www.nrwbank.de | 29 |
 | www.wibank.de | 28 |
-| www.sab.sachsen.de | 25 |
 | www.ifbhh.de | 24 |
 | www.bmwe.de | 23 |
+| www.sab.sachsen.de | 22 |
 | www.ib-sh.de | 20 |
 | www.ib-sachsen-anhalt.de | 20 |
 | www.inqa.de | 20 |
@@ -46,19 +46,6 @@
 
 | programm_id | URL |
 |---|---|
-| IBB_WACHSTUMSPROGRAMM | https://www.ibb.de/de/wirtschaftsfoerderung/foerderprogramme-a-z/foerderprogramme-a-z.html |
-| SAB_SACHSENKREDIT_UNIVERSAL | https://www.sab.sachsen.de/foerderprogramme |
-| SAB_EFRE_INNOVATION | https://www.sab.sachsen.de/foerderprogramme |
-| SAB_INNOVATIONSPRAEMIE | https://www.sab.sachsen.de/foerderprogramme |
-| SAB_DIGITALISIERUNG_EFRE_2021_2027 | https://www.sab.sachsen.de/foerderprogramme |
-| SAB_TECHTRANSFER | https://www.sab.sachsen.de/foerderprogramme |
-| SAB_INNOVATION_EFRE | https://www.sab.sachsen.de/foerderprogramme |
-| SAB_DIGITALISIERUNG_ZUSCHUSS_EFRE | https://www.sab.sachsen.de/foerderprogramme |
-| SAB_TECHNOLOGIETRANSFER | https://www.sab.sachsen.de/foerderprogramme |
-| IBB_WACHSTUMSPROGRAMM_INVESTITION | https://www.ibb.de/de/wirtschaftsfoerderung/foerderprogramme-a-z/foerderprogramme-a-z.html |
-| IBB_WACHSTUMSPROGRAMM_BETRIEBSMITTEL | https://www.ibb.de/de/wirtschaftsfoerderung/foerderprogramme-a-z/foerderprogramme-a-z.html |
-| SAB_SACHSENKREDIT_UNIVERSAL_INVESTITION | https://www.sab.sachsen.de/foerderprogramme |
-| SAB_SACHSENKREDIT_UNIVERSAL_BETRIEBSMITTEL | https://www.sab.sachsen.de/foerderprogramme |
 
 ## Stichprobe: Ungueltige URLs
 
