@@ -841,3 +841,8 @@
 - Hard-Guardrails erweitert: weitere bekannte Dead-Links in `validate_foerderprogramme.py` fuer `Informationen` gesperrt.
 - Gesperrt (Info): alte ANK-, Chips-JU- und alte BMEL-BULEplus/Tierhaltungs-URLs.
 - Gesperrt (Dokumente): Topic-Search + ESF/EFRE-Onlineantrag bleiben geblockt.
+
+## 2026-02-20 02:18
+- Fehlerbehebung Welle 1 (Massenkorrektur): 80 defekte Dokumente-Links aus stark fehlerhaften Download-Center-/Service-URLs entfernt.
+- Validator-Hard-Blocklist fuer diese URL-Gruppen erweitert, damit sie nicht erneut eingetragen werden.
+- Live-Link-Stichprobe (`--insecure`, 400 Links): Fehlerzahl von 213 auf 174 reduziert.

@@ -29,6 +29,20 @@ BLOCKED_DOC_URLS = {
     "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
     "https://www.foerderdatenbank.de/FDB/DE/Service/Onlineantrag/ESF/esf_node.html",
     "https://www.foerderdatenbank.de/FDB/DE/Service/Onlineantrag/EFRE/efre_node.html",
+    "https://www.ibb.de/de/wirtschaftsfoerderung/download-center/download-center.html",
+    "https://www.nbank.de/Service/Downloads/",
+    "https://www.ib-sh.de/service/downloads/",
+    "https://www.lfi-mv.de/service/downloads/",
+    "https://www.aufbaubank.de/Service/Downloads",
+    "https://www.ib-sachsen-anhalt.de/de/service/downloads",
+    "https://www.lfa.de/website/de/service/downloads/index.php",
+    "https://www.ilb.de/de/service/download-center/",
+    "https://www.ilb.de/de/service/downloadcenter/",
+    "https://www.sikb.de/foerderprodukte/unternehmensfoerderung",
+    "https://isb.rlp.de/service/downloads.html",
+    "https://www.wibank.de/wibank/infocenter/download-center/index.jsp",
+    "https://www.bab-bremen.de/de/page/service/downloads",
+    "https://www.europa-fuer-niedersachsen.de/foerderperiode-2021-2027/esfplus/",
 }
 
 BLOCKED_INFO_URLS = {

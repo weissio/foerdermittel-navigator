@@ -1,8 +1,8 @@
 # URL Sanity Snapshot
 
-- Erzeugt am: `2026-02-19 12:52`
+- Erzeugt am: `2026-02-19 13:11`
 - Datensaetze: `1024`
-- Ungueltige URLs: `85`
+- Ungueltige URLs: `165`
 - Nicht-HTTPS URLs: `0`
 - Potenziell generische Informations-Links: `0`
 - Potenziell generische Dokumenten-Links: `0`
@@ -18,20 +18,20 @@
 | www.bmwk.de | 88 |
 | www.bafa.de | 62 |
 | www.zim.de | 38 |
-| www.ibb.de | 31 |
-| isb.rlp.de | 30 |
 | www.exist.de | 30 |
 | www.nrwbank.de | 29 |
-| www.wibank.de | 28 |
+| isb.rlp.de | 27 |
+| www.wibank.de | 26 |
 | www.ifbhh.de | 24 |
 | www.bmwe.de | 23 |
 | www.sab.sachsen.de | 22 |
-| www.ib-sh.de | 20 |
-| www.ib-sachsen-anhalt.de | 20 |
 | www.inqa.de | 20 |
 | www.agaportal.de | 20 |
 | www.bmbf.de | 20 |
-| www.nbank.de | 19 |
+| www.ibb.de | 19 |
+| www.l-bank.de | 18 |
+| www.wettbewerb-energieeffizienz.de | 15 |
+| www.developpp.de | 12 |
 
 ## Erlaubte Ausnahmen (Informationen)
 
@@ -76,9 +76,9 @@
 | ESF_BREMEN_2021_2027 | Dokumente |  |
 | ESF_HESSEN_PROGRAMME_2021_2027 | Dokumente |  |
 | ESF_MV_2021_2027 | Dokumente |  |
+| ESF_NIEDERSACHSEN_PORTAL | Dokumente |  |
+| ESF_NIEDERSACHSEN_PROGRAMM | Dokumente |  |
 | ESF_NRW_PROGRAMME_2021_2027 | Dokumente |  |
 | ESF_RLP_PROGRAMM | Dokumente |  |
-| ESF_SAARLAND_OPEN | Dokumente |  |
-| ESF_SAARLAND_PROGRAMM | Dokumente |  |
 
 Hinweis: Dieser Report prueft Syntax/Struktur, nicht HTTP-Statuscodes.

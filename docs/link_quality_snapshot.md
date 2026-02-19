@@ -1,9 +1,9 @@
 # Link Quality Snapshot
 
-- Erzeugt am: `2026-02-19 12:52`
+- Erzeugt am: `2026-02-19 13:11`
 - Datensaetze: `1024`
 - Fehlend Informationen: `0`
-- Fehlend Dokumente: `85`
+- Fehlend Dokumente: `165`
 - Informationen = Dokumente (identische URL): `0` (0.0%)
 
 ## Top Domains
@@ -16,20 +16,20 @@
 | www.bmwk.de | 88 |
 | www.bafa.de | 62 |
 | www.zim.de | 38 |
-| www.ibb.de | 31 |
-| isb.rlp.de | 30 |
 | www.exist.de | 30 |
 | www.nrwbank.de | 29 |
-| www.wibank.de | 28 |
+| isb.rlp.de | 27 |
+| www.wibank.de | 26 |
 | www.ifbhh.de | 24 |
 | www.bmwe.de | 23 |
 | www.sab.sachsen.de | 22 |
-| www.ib-sh.de | 20 |
-| www.ib-sachsen-anhalt.de | 20 |
 | www.inqa.de | 20 |
 | www.agaportal.de | 20 |
 | www.bmbf.de | 20 |
-| www.nbank.de | 19 |
+| www.ibb.de | 19 |
+| www.l-bank.de | 18 |
+| www.wettbewerb-energieeffizienz.de | 15 |
+| www.developpp.de | 12 |
 
 ## Prioritaet
 
