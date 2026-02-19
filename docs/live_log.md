@@ -823,3 +823,7 @@
 - Ursache adressiert: bisherige QA pruefte Link-Struktur, aber nicht flaechendeckend die Live-Erreichbarkeit.
 - Neu: `scripts/report_live_link_health.py` + `make links_live` fuer echte HTTP-Linkchecks (Informationen/Dokumente).
 - Ausgabe: `docs/live_link_health_snapshot.md` mit Fehlerliste und Status-Typen.
+
+## 2026-02-20 01:22
+- Live-Link-Check beschleunigt: `scripts/report_live_link_health.py` um Parallelisierung (`--workers`) und Stichprobenlimit (`--limit`) erweitert.
+- Ziel: schnelle Browser-nahe Stichproben statt langer Blockierung bei Vollscan.

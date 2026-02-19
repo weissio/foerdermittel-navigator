@@ -10,6 +10,7 @@ import ssl
 import urllib.error
 import urllib.request
 from collections import Counter
+from concurrent.futures import ThreadPoolExecutor
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Iterable
@@ -70,25 +71,33 @@ def iter_links(rows: Iterable[dict[str, str]]) -> Iterable[tuple[str, str, str]]
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--timeout", type=float, default=10.0)
+    parser.add_argument("--workers", type=int, default=24)
+    parser.add_argument("--limit", type=int, default=0, help="0 = alle Links pruefen")
     parser.add_argument("--max-fail-list", type=int, default=300)
     parser.add_argument("--fail-on-errors", action="store_true")
     args = parser.parse_args()
 
     rows = list(csv.DictReader(CSV_PATH.open(encoding="utf-8", newline="")))
 
-    results: list[LinkResult] = []
-    for pid, field, url in iter_links(rows):
+    links = list(iter_links(rows))
+    if args.limit and args.limit > 0:
+        links = links[: args.limit]
+
+    def run_one(entry: tuple[str, str, str]) -> LinkResult:
+        pid, field, url = entry
         ok, status, detail = _check_url(url, args.timeout)
-        results.append(
-            LinkResult(
-                programm_id=pid,
-                field=field,
-                url=url,
-                ok=ok,
-                status=status,
-                detail=detail,
-            )
+        return LinkResult(
+            programm_id=pid,
+            field=field,
+            url=url,
+            ok=ok,
+            status=status,
+            detail=detail,
         )
+
+    workers = max(1, args.workers)
+    with ThreadPoolExecutor(max_workers=workers) as pool:
+        results = list(pool.map(run_one, links))
 
     total = len(results)
     failures = [r for r in results if not r.ok]
