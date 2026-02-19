@@ -5,7 +5,7 @@ from __future__ import annotations
 
 import csv
 import datetime as dt
-from collections import Counter, defaultdict
+from collections import Counter
 from pathlib import Path
 from urllib.parse import urlparse
 
@@ -49,10 +49,14 @@ def main() -> int:
     generic_info = []
     generic_docs = []
     host_counts = Counter()
-    by_host = defaultdict(int)
-
     for r in rows:
         pid = (r.get("programm_id") or "").strip()
+        is_overview = (
+            pid.endswith("_PORTAL")
+            or pid.endswith("_UEBERSICHT")
+            or "_PORTAL_" in pid
+            or "_UEBERSICHT_" in pid
+        )
         info = (r.get("richtlinie_url") or "").strip()
         docs = (r.get("quelle_url") or "").strip()
         for label, url in [("Informationen", info), ("Dokumente", docs)]:
@@ -63,10 +67,9 @@ def main() -> int:
             if p.scheme != "https":
                 non_https.append((pid, label, url))
             host_counts[p.netloc.lower()] += 1
-            by_host[p.netloc.lower()] += 1
-            if label == "Informationen" and _looks_generic(url):
+            if label == "Informationen" and _looks_generic(url) and not is_overview:
                 generic_info.append((pid, url))
-            if label == "Dokumente" and _looks_generic(url):
+            if label == "Dokumente" and _looks_generic(url) and not is_overview:
                 generic_docs.append((pid, url))
 
     lines: list[str] = []

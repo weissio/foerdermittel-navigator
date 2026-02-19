@@ -1,11 +1,11 @@
 # URL Sanity Snapshot
 
-- Erzeugt am: `2026-02-19 03:26`
+- Erzeugt am: `2026-02-19 03:57`
 - Datensaetze: `1024`
 - Ungueltige URLs: `0`
 - Nicht-HTTPS URLs: `0`
-- Potenziell generische Informations-Links: `41`
-- Potenziell generische Dokumenten-Links: `144`
+- Potenziell generische Informations-Links: `37`
+- Potenziell generische Dokumenten-Links: `137`
 
 ## Top Hosts
 
@@ -36,8 +36,6 @@
 
 | programm_id | URL |
 |---|---|
-| EFRE_BERLIN_PORTAL | https://www.berlin.de/sen/wirtschaft/gruenden-und-foerdern/foerderprogramme/efre/ |
-| EFRE_SAARLAND_PORTAL | https://www.saarland.de/SharedDocs/Downloads/DE/staatskanzlei/efre_2021_2027.html |
 | IBB_BERLIN_INNOVATIV_PLUS | https://www.ibb.de/de/wirtschaftsfoerderung/foerderprogramme-a-z/foerderprogramme-a-z.html |
 | IBSH_HHSH_KREDIT | https://www.ib-sh.de/foerderprogramme/unternehmen/ |
 | IFB_MV_UNTERNEHMEN | https://www.lfi-mv.de/foerderprogramme/unternehmen/ |
@@ -61,6 +59,8 @@
 | TAB_ENERGIE_KLIMA | https://www.aufbaubank.de/Foerderprogramme/Energie-Klimaschutz |
 | IBB_COACHING_BONUS | https://www.ibb.de/de/foerderprogramme/coaching-bonus.html |
 | IBB_AKQUISITIONSBONUS | https://www.ibb.de/de/foerderprogramme/akquisitionsbonus.html |
+| IBB_INNOVATIONSFACHKRAFT | https://www.ibb.de/de/foerderprogramme/innovationsfachkraft.html |
+| IBB_INNOVATIONSASSISTENT | https://www.ibb.de/de/foerderprogramme/innovationsassistent-in.html |
 
 ## Stichprobe: Generische Dokumenten-Links
 
