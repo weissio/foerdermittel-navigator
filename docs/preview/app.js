@@ -136,16 +136,22 @@ function objectiveTags(item) {
 function programFamily(item) {
   const name = (item.programm_name || "").trim();
   const haystack = `${item.programm_name || ""} ${item.programm_id || ""} ${item.traeger || ""}`.toLowerCase();
+  const lowerName = (item.programm_name || "").toLowerCase();
 
   if (!name) return "";
   const coarseFamilies = [
     { re: /\bkmu-innovativ\b/, label: "KMU-innovativ" },
     { re: /\bzim\b|zentrales innovationsprogramm mittelstand/, label: "ZIM" },
     { re: /\beew\b/, label: "EEW" },
+    { re: /\bbafa\b/, label: "BAFA" },
+    { re: /\bdbu\b|deutsche bundesstiftung umwelt/, label: "DBU" },
+    { re: /\bexist\b/, label: "EXIST" },
     { re: /\befre\b/, label: "EFRE" },
     { re: /\besf\+?\b/, label: "ESF+" },
     { re: /\beic\b/, label: "EIC" },
+    { re: /\bgrw\b/, label: "GRW" },
     { re: /\bkfw\b/, label: "KfW" },
+    { re: /\blife\b/, label: "LIFE" },
     { re: /\blfa\b/, label: "LfA" },
     { re: /\bl-bank\b|\blbank\b/, label: "L-Bank" },
     { re: /\bnbank\b/, label: "NBank" },
@@ -154,6 +160,7 @@ function programFamily(item) {
     { re: /\bibb\b|investitionsbank berlin/, label: "IBB" },
     { re: /\bilb\b|investitionsbank brandenburg/, label: "ILB" },
     { re: /\binterreg\b/, label: "Interreg" },
+    { re: /\bsikb\b|saarlaendische investitionskreditbank/, label: "SIKB" },
     { re: /\bhorizon europe\b/, label: "Horizon Europe" },
     { re: /\bdigital europe\b/, label: "Digital Europe" },
     { re: /\bsingle market programme\b/, label: "Single Market Programme" }
@@ -161,6 +168,7 @@ function programFamily(item) {
   for (const family of coarseFamilies) {
     if (family.re.test(haystack)) return family.label;
   }
+  if (/\binvesteu\b|^invest\b/.test(lowerName)) return "INVEST";
 
   const moduleMatch = name.match(/^(.+?)\s+Modul\s+\d+\b/i);
   let base = moduleMatch ? moduleMatch[1].trim() : name;
