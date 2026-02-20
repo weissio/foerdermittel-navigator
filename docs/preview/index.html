@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Foerdermittel-Navigator – Preview</title>
-    <link rel="stylesheet" href="./styles.css?v=20260220-2" />
+    <link rel="stylesheet" href="./styles.css?v=20260220-3" />
   </head>
   <body>
     <header class="hero">
@@ -12,48 +12,64 @@
         <div class="badge">Preview</div>
         <h1>Foerdermittel-Navigator</h1>
         <p>
-          Schneller Abgleich von Unternehmens- und Projektkriterien mit laufenden
-          Programmen und offenen Calls. Fokus: KMU, F&E, Digitalisierung, Energieeffizienz.
+          Gefuehrte Auswahl fuer Unternehmen: In wenigen Schritten vom Vorhaben zur passenden
+          Foerderung (inkl. Fristen, Foerderart, Summe und Foerdersatz).
         </p>
         <div class="meta">
           <div><strong>Datenquelle:</strong> data/foerderprogramme.csv</div>
-          <div><strong>Stand:</strong> <span id="stand">–</span></div>
+          <div><strong>Datenstand (letzte Pruefung):</strong> <span id="stand">–</span></div>
         </div>
       </div>
     </header>
 
     <main class="container">
+      <section class="journey">
+        <div class="journey__step"><span>1</span>Unternehmen einordnen</div>
+        <div class="journey__step"><span>2</span>Vorhaben beschreiben</div>
+        <div class="journey__step"><span>3</span>Passende Programme erhalten</div>
+      </section>
+
       <section class="filters">
         <div class="filter">
-          <label>Status</label>
-          <select id="statusFilter"></select>
+          <label>Unternehmensprofil</label>
+          <select id="companyTypeFilter"></select>
         </div>
         <div class="filter">
-          <label>Projektart</label>
-          <select id="projektartFilter"></select>
+          <label>Vorhaben</label>
+          <select id="objectiveFilter"></select>
+        </div>
+        <div class="filter">
+          <label>Region</label>
+          <select id="regionFilter"></select>
         </div>
         <div class="filter">
           <label>Foerderart</label>
           <select id="foerderartFilter"></select>
         </div>
         <div class="filter">
-          <label>Zielgruppe</label>
-          <select id="zielgruppeFilter"></select>
+          <label>Projektphase</label>
+          <select id="projektphaseFilter"></select>
         </div>
         <div class="filter">
           <label>Themenfokus</label>
           <select id="themaFilter"></select>
         </div>
-        <div class="filter">
-          <label>Suche</label>
+        <div class="filter filter--narrow">
+          <label>Status</label>
+          <select id="statusFilter"></select>
+        </div>
+        <div class="filter filter--wide">
+          <label>Optionale Suche</label>
           <input id="searchFilter" placeholder="Programm, Traeger, Thema..." />
         </div>
-        <button id="resetBtn">Filter zuruecksetzen</button>
+        <label class="check"><input type="checkbox" id="onlyAmountFilter" /> Nur Programme mit Foerdersumme anzeigen</label>
+        <label class="check"><input type="checkbox" id="onlyRateFilter" /> Nur Programme mit Foerdersatz (%) anzeigen</label>
+        <button id="resetBtn">Maske zuruecksetzen</button>
       </section>
 
       <section class="stats">
         <div class="stat">
-          <div class="stat__label">Ergebnisse</div>
+          <div class="stat__label">Gefundene Programme</div>
           <div class="stat__value" id="count">0</div>
         </div>
         <div class="stat">
@@ -61,9 +77,9 @@
           <div class="stat__value" id="statusCounts">–</div>
         </div>
       </section>
+
       <section class="info-note">
-        Fristlogik: Offene Calls werden nach naechster zukuenftiger Frist sortiert.
-        Offene Programme ohne fixes Datum sind als <strong>rollierend</strong> markiert.
+        Fristlogik: Offene Calls werden nach der naechsten zukuenftigen Frist sortiert.
       </section>
 
       <section>
@@ -89,11 +105,11 @@
 
     <footer class="footer">
       <p>
-        Hinweis: Beschreibungen sind strukturierte Auszuege, keine 1:1-Uebernahmen
-        aus offiziellen Texten. Fuer Details immer die Informationen bzw. Dokumente pruefen.
+        Hinweis: Beschreibungen sind strukturierte Auszuege, keine 1:1-Uebernahmen aus offiziellen Texten.
+        Fuer Details immer die Informationen bzw. Dokumente pruefen.
       </p>
     </footer>
 
-    <script src="./app.js?v=20260220-2"></script>
+    <script src="./app.js?v=20260220-3"></script>
   </body>
 </html>
