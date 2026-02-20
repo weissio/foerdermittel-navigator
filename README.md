@@ -14,6 +14,16 @@ Preview im Browser:
 - `http://127.0.0.1:8000/docs/preview/`
 - alternativ: `http://localhost:8000/docs/preview/`
 
+## BETA Online (GitHub Pages)
+
+Die Preview wird bei jedem Push auf `main` automatisch deployt.
+
+- URL: `https://weissio.github.io/foerdermittel-navigator/docs/preview/`
+- Workflow: `.github/workflows/deploy-preview.yml`
+
+Hinweis: Falls die URL noch nicht erreichbar ist, einmal in GitHub unter
+`Settings -> Pages` pruefen, ob "GitHub Actions" als Quelle aktiv ist.
+
 ## QA und Batch
 
 ```bash
