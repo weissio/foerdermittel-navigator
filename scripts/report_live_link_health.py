@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import argparse
 import csv
+import time
 import socket
 import ssl
 import urllib.error
@@ -32,6 +33,8 @@ class LinkResult:
 
 def _is_transient(status: str, detail: str) -> bool:
     d = (detail or "").lower()
+    if status.startswith("5"):
+        return True
     if status == "timeout":
         return True
     if status == "url_error" and ("timed out" in d or "connection reset" in d):
@@ -44,32 +47,26 @@ def _check_url_once(url: str, timeout: float, insecure: bool) -> tuple[bool, str
     context = None
     if insecure:
         context = ssl._create_unverified_context()
-    req = urllib.request.Request(url, method="HEAD", headers=headers)
+    # Use GET directly to avoid server-side HEAD blocking/reset behavior.
+    req = urllib.request.Request(url, method="GET", headers=headers)
     try:
         with urllib.request.urlopen(req, timeout=timeout, context=context) as resp:
             code = getattr(resp, "status", None) or resp.getcode()
             return (200 <= int(code) < 400, str(code), "")
-    except Exception:
-        # HEAD is often blocked; try GET as fallback.
-        req = urllib.request.Request(url, method="GET", headers=headers)
-        try:
-            with urllib.request.urlopen(req, timeout=timeout, context=context) as resp:
-                code = getattr(resp, "status", None) or resp.getcode()
-                return (200 <= int(code) < 400, str(code), "")
-        except urllib.error.HTTPError as e:
-            code = int(e.code)
-            if 300 <= code < 400:
-                return (True, str(code), "redirect")
-            return (False, str(code), "http_error")
-        except urllib.error.URLError as e:
-            reason = str(e.reason)
-            return (False, "url_error", reason)
-        except socket.timeout:
-            return (False, "timeout", "socket timeout")
-        except ssl.SSLError as e:
-            return (False, "ssl_error", str(e))
-        except Exception as e:  # pragma: no cover
-            return (False, "error", str(e))
+    except urllib.error.HTTPError as e:
+        code = int(e.code)
+        if 300 <= code < 400:
+            return (True, str(code), "redirect")
+        return (False, str(code), "http_error")
+    except urllib.error.URLError as e:
+        reason = str(e.reason)
+        return (False, "url_error", reason)
+    except socket.timeout:
+        return (False, "timeout", "socket timeout")
+    except ssl.SSLError as e:
+        return (False, "ssl_error", str(e))
+    except Exception as e:  # pragma: no cover
+        return (False, "error", str(e))
 
 
 def _check_url(url: str, timeout: float, insecure: bool, retries: int) -> tuple[bool, str, str]:
@@ -79,6 +76,7 @@ def _check_url(url: str, timeout: float, insecure: bool, retries: int) -> tuple[
     # Retry only transient transport failures.
     attempts_left = max(0, retries)
     while attempts_left > 0 and _is_transient(status, detail):
+        time.sleep(0.4)
         ok, status, detail = _check_url_once(url, timeout, insecure)
         if ok:
             return ok, status, detail

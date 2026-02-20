@@ -1,32 +1,37 @@
 # Live Link Health Snapshot
 
 - Gepruefte Links gesamt: `500`
-- Fehlgeschlagen gesamt: `30`
+- Fehlgeschlagen gesamt: `35`
 - Davon harte Fehler (z. B. 404/DNS): `0`
-- Davon transiente Fehler (Timeout/Reset): `30`
-- Fehlgeschlagene Informationen-Links: `25`
+- Davon transiente Fehler (Timeout/Reset): `35`
+- Fehlgeschlagene Informationen-Links: `30`
 - Fehlgeschlagene Dokumente-Links: `5`
 
 ## Fehler nach Status/Typ
 
 | Typ | Anzahl |
 |---|---:|
-| url_error | 30 |
+| url_error | 35 |
 
 ## Fehlgeschlagene Links (Stichprobe)
 
 | programm_id | Feld | Status/Typ | URL | Detail |
 |---|---|---|---|---|
-| BMWK_INNO_KOM | Informationen | url_error | https://www.bmwk.de/ | [Errno 54] Connection reset by peer |
-| BMWK_MARKTERSCHLIESSUNGSPROGRAMM | Informationen | url_error | https://www.bmwk.de/ | [Errno 54] Connection reset by peer |
-| BMWK_INVEST_ERWERBSZUSCHUSS | Informationen | url_error | https://www.bmwk.de/Redaktion/DE/Dossier/invest.html | [Errno 54] Connection reset by peer |
-| BMWK_INVEST_EXITZUSCHUSS | Informationen | url_error | https://www.bmwk.de/Redaktion/DE/Dossier/invest.html | [Errno 54] Connection reset by peer |
-| BMWK_GO_INNO_POTENZIALANALYSE | Informationen | url_error | https://www.bmwk.de/ | [Errno 54] Connection reset by peer |
-| BMWK_GO_INNO_REALISIERUNGSKONZEPT | Informationen | url_error | https://www.bmwk.de/ | [Errno 54] Connection reset by peer |
-| BMWK_GO_INNO_PROJEKTMANAGEMENT | Informationen | url_error | https://www.bmwk.de/ | [Errno 54] Connection reset by peer |
-| BMWK_MEP_GESCHAEFTSANBAHNUNG | Informationen | url_error | https://www.bmwk.de/ | [Errno 54] Connection reset by peer |
-| BMWK_MEP_INFORMATIONSVERANSTALTUNG | Informationen | url_error | https://www.bmwk.de/ | [Errno 54] Connection reset by peer |
-| BMWK_MEP_LEISTUNGSSCHAU | Informationen | url_error | https://www.bmwk.de/ | [Errno 54] Connection reset by peer |
+| BMWK_INVEST | Informationen | url_error | https://www.bmwk.de/Redaktion/DE/Dossier/invest.html | [Errno 54] Connection reset by peer |
+| EU_FUNDS_DE_PORTAL | Informationen | url_error | https://www.bmwk.de/Redaktion/DE/Artikel/Europa/eu-kohaesions-und-strukturpolitik.html | [Errno 54] Connection reset by peer |
+| ZIM_2025 | Informationen | url_error | https://www.zim.de/ZIM/Navigation/DE/Home/home.html | [Errno 54] Connection reset by peer |
+| ZIM_INT_CANADA_17 | Informationen | url_error | https://www.zim.de/ZIM/Redaktion/DE/Meldungen/2026-Internationale-Ausschreibungen/2026-02-03-17-ausschreibung-deutschland-kanada.html | [Errno 54] Connection reset by peer |
+| ZIM_INT_CHILE_4 | Informationen | url_error | https://www.zim.de/ZIM/Redaktion/DE/Meldungen/2025-Internationale-Ausschreibungen/2025-10-01-4-ausschreibung-deutschland-chile.html | [Errno 54] Connection reset by peer |
+| ZIM_INT_IRASME_37 | Informationen | url_error | https://www.zim.de/ZIM/Redaktion/DE/Meldungen/2025-Internationale-Ausschreibungen/2025-12-01-37-ausschreibung-irasme.html | [Errno 54] Connection reset by peer |
+| ZIM_INT_PL_3 | Informationen | url_error | https://www.zim.de/ZIM/Redaktion/DE/Meldungen/2025-Internationale-Ausschreibungen/2025-12-01-3-ausschreibung-deutschland-polen.html | [Errno 54] Connection reset by peer |
+| BMWK_GO_INNO | Informationen | url_error | https://www.bmwk.de/ | [Errno 54] Connection reset by peer |
+| BMWK_WIPANO | Informationen | url_error | https://www.bmwk.de/ | [Errno 54] Connection reset by peer |
+| BMWK_ZENTRALES_INNOVATIONSPROGRAMM_HANDWERK | Informationen | url_error | https://www.bmwk.de/ | [Errno 54] Connection reset by peer |
+| BMWK_GO_DIGITAL | Informationen | url_error | https://www.bmwk.de/ | [Errno 54] Connection reset by peer |
+| ZIM_2025_STUDIE | Informationen | url_error | https://www.zim.de/ZIM/Navigation/DE/Home/home.html | [Errno 54] Connection reset by peer |
+| ZIM_2025_EINZEL | Informationen | url_error | https://www.zim.de/ZIM/Navigation/DE/Home/home.html | [Errno 54] Connection reset by peer |
+| ZIM_2025_KOOP | Informationen | url_error | https://www.zim.de/ZIM/Navigation/DE/Home/home.html | [Errno 54] Connection reset by peer |
+| ZIM_2025_NETZWERK | Informationen | url_error | https://www.zim.de/ZIM/Navigation/DE/Home/home.html | [Errno 54] Connection reset by peer |
 | BMWK_MEP_EINKAEUFERREISEN | Informationen | url_error | https://www.bmwk.de/ | [Errno 54] Connection reset by peer |
 | BMWK_MEP_INNOVATIONSSEMINARE | Informationen | url_error | https://www.bmwk.de/ | [Errno 54] Connection reset by peer |
 | ZIM_2025_AUSSCHREIBUNGSSTART | Informationen | url_error | https://www.zim.de/ZIM/Navigation/DE/Home/home.html | [Errno 54] Connection reset by peer |

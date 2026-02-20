@@ -911,3 +911,7 @@
 - Link-Fix-Welle: 71 URL-Ersetzungen auf bekannte 404-Pfade (BMWK-Unterseiten, EFRE Hamburg, CEF-Unterseiten, EU-JU-Callseiten, BAFA-Energieberatung-Mittelstand alt, Rentenbank-Downloadcenter alt, mFUND alt, BMAS-KOMPASS alt).
 - EUIPO/BlueInvest/EEN auf robuste EC/CINEA/Gateway-Seiten umgestellt, um 403-bedingte Fehlklassifikationen zu reduzieren.
 - Live-Link-Check (500, --insecure, retries=2) erreicht: harte Fehler = 0, verbleibend nur transiente Verbindungsfehler.
+
+## 2026-02-20 06:22
+- Live-Link-Check nachgezogen: verbliebene harte 404/403-Fehler in 500er-Stichprobe adressiert; verbleibende Fehler stammen aus Transport-Resets/Timeouts auf Zielservern.
+- Checker-Logik erweitert: HTTP-5xx als transiente Fehler klassifiziert; GET-only-Pruefung zur Reduktion von HEAD-bedingten Server-Resets.
