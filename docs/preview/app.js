@@ -1,5 +1,6 @@
 const companyTypeEl = document.getElementById("companyTypeFilter");
 const objectiveEl = document.getElementById("objectiveFilter");
+const programEl = document.getElementById("programFilter");
 const regionEl = document.getElementById("regionFilter");
 const foerderartEl = document.getElementById("foerderartFilter");
 const projektphaseEl = document.getElementById("projektphaseFilter");
@@ -132,9 +133,33 @@ function objectiveTags(item) {
   return [...new Set(tags)];
 }
 
+function programFamily(item) {
+  const name = (item.programm_name || "").trim();
+  const lower = name.toLowerCase();
+
+  if (!name) return "";
+  if (lower.includes("kmu-innovativ")) return "KMU-innovativ";
+  if (/\bzim\b/.test(lower) || lower.includes("zentrales innovationsprogramm mittelstand")) return "ZIM";
+
+  let base = name.split(" - ")[0].trim();
+  if (base.includes(": ")) base = base.split(": ")[0].trim();
+  return base;
+}
+
+function isGenericProjektphase(value) {
+  const v = String(value || "").toLowerCase().trim();
+  return (
+    v === "programmabhaengig" ||
+    v === "programmspezifisch" ||
+    v === "abhaengig vom programm" ||
+    v === "abhängig vom programm"
+  );
+}
+
 function matchesFilter(item) {
   const selectedCompany = companyTypeEl.value;
   const selectedObjective = objectiveEl.value;
+  const selectedProgram = programEl.value;
   const selectedRegion = regionEl.value;
   const selectedFoerderart = foerderartEl.value;
   const selectedProjektphase = projektphaseEl.value;
@@ -144,6 +169,7 @@ function matchesFilter(item) {
 
   if (selectedCompany && companyType(item) !== selectedCompany) return false;
   if (selectedObjective && !objectiveTags(item).includes(selectedObjective)) return false;
+  if (selectedProgram && programFamily(item) !== selectedProgram) return false;
   if (selectedRegion && (item.region || "") !== selectedRegion) return false;
   if (selectedFoerderart && (item.foerderart || "") !== selectedFoerderart) return false;
   if (selectedProjektphase && (item.projektphase || "") !== selectedProjektphase) return false;
@@ -329,6 +355,7 @@ reportSendBtn.addEventListener("click", () => {
 function resetFilters() {
   companyTypeEl.value = "";
   objectiveEl.value = "";
+  programEl.value = "";
   regionEl.value = "";
   foerderartEl.value = "";
   projektphaseEl.value = "";
@@ -343,6 +370,7 @@ function resetFilters() {
 [
   companyTypeEl,
   objectiveEl,
+  programEl,
   regionEl,
   foerderartEl,
   projektphaseEl,
@@ -385,9 +413,14 @@ loadCSV()
 
     buildOptions(companyTypeEl, new Set(data.map(companyType)), "Alle Unternehmen");
     buildOptions(objectiveEl, new Set(data.flatMap(objectiveTags)), "Alle Vorhaben");
+    buildOptions(programEl, new Set(data.map(programFamily)), "Alle Foerderprogramme");
     buildOptions(regionEl, new Set(data.map(d => d.region)), "Alle Regionen");
     buildOptions(foerderartEl, new Set(data.map(d => d.foerderart)), "Alle Foerderarten");
-    buildOptions(projektphaseEl, new Set(data.map(d => d.projektphase)), "Alle Projektphasen");
+    buildOptions(
+      projektphaseEl,
+      new Set(data.map(d => d.projektphase).filter(v => !isGenericProjektphase(v))),
+      "Alle Projektphasen"
+    );
     buildOptions(themaEl, new Set(data.flatMap(d => splitValues(d.themen_schwerpunkt || d.thema))), "Alle Themen");
     buildOptions(statusEl, new Set(data.map(d => d.status)), "Alle Status");
 
