@@ -135,12 +135,32 @@ function objectiveTags(item) {
 
 function programFamily(item) {
   const name = (item.programm_name || "").trim();
-  const lower = name.toLowerCase();
+  const haystack = `${item.programm_name || ""} ${item.programm_id || ""} ${item.traeger || ""}`.toLowerCase();
 
   if (!name) return "";
-  if (lower.includes("kmu-innovativ")) return "KMU-innovativ";
-  if (/\bzim\b/.test(lower) || lower.includes("zentrales innovationsprogramm mittelstand")) return "ZIM";
-  if (/^eew\b/.test(lower)) return "EEW";
+  const coarseFamilies = [
+    { re: /\bkmu-innovativ\b/, label: "KMU-innovativ" },
+    { re: /\bzim\b|zentrales innovationsprogramm mittelstand/, label: "ZIM" },
+    { re: /\beew\b/, label: "EEW" },
+    { re: /\befre\b/, label: "EFRE" },
+    { re: /\besf\+?\b/, label: "ESF+" },
+    { re: /\beic\b/, label: "EIC" },
+    { re: /\bkfw\b/, label: "KfW" },
+    { re: /\blfa\b/, label: "LfA" },
+    { re: /\bl-bank\b|\blbank\b/, label: "L-Bank" },
+    { re: /\bnbank\b/, label: "NBank" },
+    { re: /\bnrw\.bank\b|\bnrwbank\b/, label: "NRW.BANK" },
+    { re: /\bsab\b|sächsische aufbaubank|saechsische aufbaubank/, label: "SAB" },
+    { re: /\bibb\b|investitionsbank berlin/, label: "IBB" },
+    { re: /\bilb\b|investitionsbank brandenburg/, label: "ILB" },
+    { re: /\binterreg\b/, label: "Interreg" },
+    { re: /\bhorizon europe\b/, label: "Horizon Europe" },
+    { re: /\bdigital europe\b/, label: "Digital Europe" },
+    { re: /\bsingle market programme\b/, label: "Single Market Programme" }
+  ];
+  for (const family of coarseFamilies) {
+    if (family.re.test(haystack)) return family.label;
+  }
 
   const moduleMatch = name.match(/^(.+?)\s+Modul\s+\d+\b/i);
   let base = moduleMatch ? moduleMatch[1].trim() : name;
