@@ -356,11 +356,13 @@ function resetFilters() {
 resetBtn.addEventListener("click", resetFilters);
 
 const base = window.location.origin;
+const appBase = new URL("./", window.location.href);
 const candidates = [
-  `${base}/data/foerderprogramme.csv`,
-  `${base}/docs/preview/../../data/foerderprogramme.csv`,
-  "../../data/foerderprogramme.csv",
-  "/data/foerderprogramme.csv"
+  new URL("data/foerderprogramme.csv", appBase).toString(),
+  "data/foerderprogramme.csv",
+  "./data/foerderprogramme.csv",
+  `${base}/foerdermittel-navigator/data/foerderprogramme.csv`,
+  `${base}/data/foerderprogramme.csv`
 ];
 
 async function loadCSV() {
