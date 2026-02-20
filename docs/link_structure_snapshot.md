@@ -2,9 +2,9 @@
 
 - Datensaetze: `1024`
 - Fehlende Informationen-Links: `0`
-- Fehlende Dokumente-Links: `330`
-- Identische Informationen/Dokumente-Links: `16`
-- Gleicher Basispfad mit Query/Fragment: `84`
+- Fehlende Dokumente-Links: `331`
+- Identische Informationen/Dokumente-Links: `19`
+- Gleicher Basispfad mit Query/Fragment: `83`
 - Gleicher Basispfad ohne Query/Fragment: `0`
 
 ## Top Hosts
@@ -14,7 +14,7 @@
 | www.kfw.de | 432 |
 | foerderportal.bund.de | 263 |
 | www.kmu-innovativ.de | 259 |
-| www.bmwk.de | 65 |
+| www.bmwk.de | 64 |
 | www.bafa.de | 43 |
 | www.exist.de | 30 |
 | www.nrwbank.de | 29 |

@@ -8,6 +8,7 @@ import csv
 import time
 import socket
 import ssl
+import threading
 import urllib.error
 import urllib.request
 from collections import Counter
@@ -15,6 +16,7 @@ from concurrent.futures import ThreadPoolExecutor
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Iterable
+from urllib.parse import urlsplit
 
 ROOT = Path(__file__).resolve().parents[1]
 CSV_PATH = ROOT / "data" / "foerderprogramme.csv"
@@ -102,6 +104,12 @@ def main() -> int:
     parser.add_argument("--limit", type=int, default=0, help="0 = alle Links pruefen")
     parser.add_argument("--insecure", action="store_true", help="SSL-Zertifikatspruefung deaktivieren")
     parser.add_argument("--retries", type=int, default=1, help="Anzahl Wiederholungen bei transienten Fehlern")
+    parser.add_argument(
+        "--per-host-delay",
+        type=float,
+        default=0.25,
+        help="Mindestabstand in Sekunden zwischen Requests zum selben Host",
+    )
     parser.add_argument("--max-fail-list", type=int, default=300)
     parser.add_argument("--fail-on-errors", action="store_true")
     args = parser.parse_args()
@@ -112,9 +120,25 @@ def main() -> int:
     if args.limit and args.limit > 0:
         links = links[: args.limit]
 
+    host_locks: dict[str, threading.Lock] = {}
+    host_last_ts: dict[str, float] = {}
+    lock_guard = threading.Lock()
+
     def run_one(entry: tuple[str, str, str]) -> LinkResult:
         pid, field, url = entry
-        ok, status, detail = _check_url(url, args.timeout, args.insecure, args.retries)
+        host = (urlsplit(url).hostname or "").lower()
+        with lock_guard:
+            if host not in host_locks:
+                host_locks[host] = threading.Lock()
+            host_lock = host_locks[host]
+        with host_lock:
+            now = time.monotonic()
+            last = host_last_ts.get(host, 0.0)
+            wait = args.per_host_delay - (now - last)
+            if wait > 0:
+                time.sleep(wait)
+            ok, status, detail = _check_url(url, args.timeout, args.insecure, args.retries)
+            host_last_ts[host] = time.monotonic()
         return LinkResult(
             programm_id=pid,
             field=field,

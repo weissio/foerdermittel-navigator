@@ -1,6 +1,6 @@
 # Open Calls
 
-- Erzeugt am: `2026-02-19`
+- Erzeugt am: `2026-02-20`
 - Offen gesamt: `405`
 - Mit Datumsfrist: `16`
 - Rollierend/ohne Datum: `389`
@@ -315,7 +315,7 @@
 - `BMDV_KSNI` | Foerderprogramm Klimaschonende Nutzfahrzeuge und Infrastruktur (KsNI) | rollierend | https://bmdv.bund.de/SharedDocs/DE/Artikel/G/ksni-foerderung.html
 - `BMDV_MFUND_FU_E_PROJEKTE` | mFUND - Forschungs- und Entwicklungsprojekte | rollierend | https://www.mfund.de/
 - `BMDV_MFUND_MACHBARKEITSSTUDIEN` | mFUND - Machbarkeitsstudien | rollierend | https://www.mfund.de/
-- `BMDV_MFUND` | mFUND - Foerderprogramm fuer datenbasierte digitale Innovationen | rollierend | https://www.mfund.de/
+- `BMDV_MFUND` | mFUND - Foerderprogramm fuer datenbasierte digitale Innovationen | rollierend | https://bmdv.bund.de/
 - `BMDV_NIP_FUE_DEMONSTRATION` | NIP - F&E- und Demonstrationsprojekte Wasserstoff/Brennstoffzelle | rollierend | https://www.now-gmbh.de/foerderung/foerderprogramme/nip/
 - `BMDV_NIP_MARKTHOCHLAUF` | NIP - Markthochlauf und Umsetzung Wasserstoff-/Brennstoffzellenanwendungen | rollierend | https://www.now-gmbh.de/foerderung/foerderprogramme/nip/
 - `BMDV_NIP_WASSERSTOFF_BRENNSTOFFZELLE` | Nationales Innovationsprogramm Wasserstoff- und Brennstoffzellentechnologie (NIP) | rollierend | https://www.now-gmbh.de/foerderung/foerderprogramme/nip/

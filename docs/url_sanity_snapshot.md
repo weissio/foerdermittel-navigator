@@ -1,8 +1,8 @@
 # URL Sanity Snapshot
 
-- Erzeugt am: `2026-02-19 23:32`
+- Erzeugt am: `2026-02-20 07:03`
 - Datensaetze: `1024`
-- Ungueltige URLs: `330`
+- Ungueltige URLs: `331`
 - Nicht-HTTPS URLs: `0`
 - Potenziell generische Informations-Links: `9`
 - Potenziell generische Dokumenten-Links: `0`
@@ -15,7 +15,7 @@
 | www.kfw.de | 432 |
 | foerderportal.bund.de | 263 |
 | www.kmu-innovativ.de | 259 |
-| www.bmwk.de | 65 |
+| www.bmwk.de | 64 |
 | www.bafa.de | 43 |
 | www.exist.de | 30 |
 | www.nrwbank.de | 29 |

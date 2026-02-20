@@ -1,10 +1,10 @@
 # Link Quality Snapshot
 
-- Erzeugt am: `2026-02-19 23:32`
+- Erzeugt am: `2026-02-20 07:03`
 - Datensaetze: `1024`
 - Fehlend Informationen: `0`
-- Fehlend Dokumente: `330`
-- Informationen = Dokumente (identische URL): `16` (1.6%)
+- Fehlend Dokumente: `331`
+- Informationen = Dokumente (identische URL): `19` (1.9%)
 
 ## Top Domains
 
@@ -13,7 +13,7 @@
 | www.kfw.de | 432 |
 | foerderportal.bund.de | 263 |
 | www.kmu-innovativ.de | 259 |
-| www.bmwk.de | 65 |
+| www.bmwk.de | 64 |
 | www.bafa.de | 43 |
 | www.exist.de | 30 |
 | www.nrwbank.de | 29 |

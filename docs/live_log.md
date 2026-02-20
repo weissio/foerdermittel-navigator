@@ -915,3 +915,8 @@
 ## 2026-02-20 06:22
 - Live-Link-Check nachgezogen: verbliebene harte 404/403-Fehler in 500er-Stichprobe adressiert; verbleibende Fehler stammen aus Transport-Resets/Timeouts auf Zielservern.
 - Checker-Logik erweitert: HTTP-5xx als transiente Fehler klassifiziert; GET-only-Pruefung zur Reduktion von HEAD-bedingten Server-Resets.
+
+## 2026-02-20 06:38
+- Stabilisierung der Live-Link-Pruefung: per-host-throttling (`--per-host-delay`) eingefuehrt, um serverseitige Rate-/Reset-Effekte zu minimieren.
+- mFUND und Mittelstand-Digital Dokument-Links auf stabile offizielle Zielseiten umgestellt; `BMWK_GO_CLUSTER` auf stabile BMWK-Startseite/Fallback gesetzt.
+- Live-Link-Health (500 Links, `--timeout 10 --workers 16 --retries 2 --per-host-delay 0.4`) erreicht: `Failed links = 0`.

@@ -1,6 +1,6 @@
 # Status (Live Snapshot)
 
-Stand: 2026-02-19
+Stand: 2026-02-20
 
 ## Datenbestand
 
