@@ -28,10 +28,11 @@ jobs:
         run: |
           set -euo pipefail
           rm -rf dist
-          mkdir -p dist/docs dist/data
-          cp -R docs/preview dist/docs/
+          mkdir -p dist/data
+          cp -R docs/preview/* dist/
           cp data/foerderprogramme.csv dist/data/
           touch dist/.nojekyll
+          ls -la dist
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
