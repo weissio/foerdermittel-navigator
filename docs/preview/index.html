@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Foerdermittel-Navigator – Preview</title>
-    <link rel="stylesheet" href="./styles.css?v=20260214-1" />
+    <link rel="stylesheet" href="./styles.css?v=20260220-2" />
   </head>
   <body>
     <header class="hero">
@@ -71,6 +71,22 @@
       </section>
     </main>
 
+    <div id="reportModal" class="modal hidden" aria-hidden="true">
+      <div class="modal__panel">
+        <h3>Link melden</h3>
+        <p class="modal__hint">
+          Wenn der Link nicht erreichbar ist oder auf eine falsche Seite fuehrt, bitte kurz melden.
+        </p>
+        <div class="modal__meta" id="reportMeta"></div>
+        <textarea id="reportComment" rows="4" placeholder="Optionaler Hinweis..."></textarea>
+        <div class="modal__actions">
+          <button id="reportSendBtn" type="button">Meldung senden</button>
+          <button id="reportCopyBtn" type="button" class="btn-secondary">In Zwischenablage</button>
+          <button id="reportCloseBtn" type="button" class="btn-secondary">Schliessen</button>
+        </div>
+      </div>
+    </div>
+
     <footer class="footer">
       <p>
         Hinweis: Beschreibungen sind strukturierte Auszuege, keine 1:1-Uebernahmen
@@ -78,6 +94,6 @@
       </p>
     </footer>
 
-    <script src="./app.js?v=20260214-1"></script>
+    <script src="./app.js?v=20260220-2"></script>
   </body>
 </html>

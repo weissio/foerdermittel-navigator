@@ -10,8 +10,16 @@ const cardsEl = document.getElementById("cards");
 const countEl = document.getElementById("count");
 const statusCountsEl = document.getElementById("statusCounts");
 const standEl = document.getElementById("stand");
+const reportModalEl = document.getElementById("reportModal");
+const reportMetaEl = document.getElementById("reportMeta");
+const reportCommentEl = document.getElementById("reportComment");
+const reportSendBtn = document.getElementById("reportSendBtn");
+const reportCopyBtn = document.getElementById("reportCopyBtn");
+const reportCloseBtn = document.getElementById("reportCloseBtn");
 
 let data = [];
+let currentReport = null;
+const REPORT_RECIPIENT = "feedback@foerdermittel-navigator.de";
 
 function buildOptions(selectEl, values, label = "Alle") {
   const sorted = Array.from(values).filter(Boolean).sort((a, b) => a.localeCompare(b));
@@ -193,6 +201,14 @@ function render() {
     const stand = item.richtlinie_stand || "-";
     const deadline = nextDeadline(item) || item.frist || "-";
     const deadlineType = isRollingDeadline(item) ? " (rollierend)" : "";
+    const infoLink = item.richtlinie_url
+      ? `<a href="${item.richtlinie_url}" target="_blank">Informationen</a>
+         <button class="report-btn" data-field="Informationen" data-url="${item.richtlinie_url}" data-id="${item.programm_id || ""}" data-name="${item.programm_name || ""}" title="Link melden">!</button>`
+      : "";
+    const docLink = item.quelle_url && item.quelle_url !== item.richtlinie_url
+      ? `<a href="${item.quelle_url}" target="_blank">Dokumente</a>
+         <button class="report-btn" data-field="Dokumente" data-url="${item.quelle_url}" data-id="${item.programm_id || ""}" data-name="${item.programm_name || ""}" title="Link melden">!</button>`
+      : "";
     card.innerHTML = `
       <h3>${item.programm_name || "Programm"}</h3>
       <div class="row">
@@ -211,13 +227,74 @@ function render() {
       <div class="row"><strong>Warum passt es?</strong> ${item.match_reason || "-"}</div>
       <div class="row"><strong>Was wird gefoerdert?</strong> ${item.foerdergegenstand || "-"}</div>
       <div class="links">
-        ${item.richtlinie_url ? `<a href="${item.richtlinie_url}" target="_blank">Informationen</a>` : ""}
-        ${item.quelle_url && item.quelle_url !== item.richtlinie_url ? ` | <a href="${item.quelle_url}" target="_blank">Dokumente</a>` : ""}
+        ${infoLink}
+        ${infoLink && docLink ? ` | ` : ""}
+        ${docLink}
       </div>
     `;
     cardsEl.appendChild(card);
   }
 }
+
+function buildReportText() {
+  if (!currentReport) return "";
+  const comment = (reportCommentEl.value || "").trim();
+  return [
+    `programm_id: ${currentReport.programmId}`,
+    `programm_name: ${currentReport.programmName}`,
+    `feld: ${currentReport.field}`,
+    `url: ${currentReport.url}`,
+    `kommentar: ${comment || "-"}`,
+    `timestamp: ${new Date().toISOString()}`
+  ].join("\n");
+}
+
+function openReportModal(payload) {
+  currentReport = payload;
+  reportCommentEl.value = "";
+  reportMetaEl.textContent = `${payload.programmName} | ${payload.field} | ${payload.url}`;
+  reportModalEl.classList.remove("hidden");
+  reportModalEl.setAttribute("aria-hidden", "false");
+}
+
+function closeReportModal() {
+  reportModalEl.classList.add("hidden");
+  reportModalEl.setAttribute("aria-hidden", "true");
+  currentReport = null;
+}
+
+cardsEl.addEventListener("click", (event) => {
+  const btn = event.target.closest(".report-btn");
+  if (!btn) return;
+  event.preventDefault();
+  openReportModal({
+    programmId: btn.dataset.id || "",
+    programmName: btn.dataset.name || "",
+    field: btn.dataset.field || "",
+    url: btn.dataset.url || ""
+  });
+});
+
+reportCloseBtn.addEventListener("click", closeReportModal);
+reportModalEl.addEventListener("click", (event) => {
+  if (event.target === reportModalEl) closeReportModal();
+});
+
+reportCopyBtn.addEventListener("click", async () => {
+  const text = buildReportText();
+  if (!text) return;
+  await navigator.clipboard.writeText(text);
+  reportCopyBtn.textContent = "Kopiert";
+  setTimeout(() => (reportCopyBtn.textContent = "In Zwischenablage"), 1200);
+});
+
+reportSendBtn.addEventListener("click", () => {
+  const text = buildReportText();
+  if (!text) return;
+  const subject = encodeURIComponent(`Linkmeldung ${currentReport.programmId} (${currentReport.field})`);
+  const body = encodeURIComponent(text);
+  window.location.href = `mailto:${REPORT_RECIPIENT}?subject=${subject}&body=${body}`;
+});
 
 function resetFilters() {
   statusEl.value = "";
