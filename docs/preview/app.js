@@ -140,9 +140,13 @@ function programFamily(item) {
   if (!name) return "";
   if (lower.includes("kmu-innovativ")) return "KMU-innovativ";
   if (/\bzim\b/.test(lower) || lower.includes("zentrales innovationsprogramm mittelstand")) return "ZIM";
+  if (/^eew\b/.test(lower)) return "EEW";
 
-  let base = name.split(" - ")[0].trim();
+  const moduleMatch = name.match(/^(.+?)\s+Modul\s+\d+\b/i);
+  let base = moduleMatch ? moduleMatch[1].trim() : name;
+  base = base.split(" - ")[0].trim();
   if (base.includes(": ")) base = base.split(": ")[0].trim();
+  base = base.replace(/\s*\([^)]*\)\s*$/, "").trim();
   return base;
 }
 
