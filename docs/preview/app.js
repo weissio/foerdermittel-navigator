@@ -188,6 +188,56 @@ function isGenericProjektphase(value) {
   );
 }
 
+function isMetaProgramEntry(item) {
+  const text = `${item.programm_name || ""} ${item.projektart || ""}`.toLowerCase();
+  return /kurzmeldung|programmstatus|programmstart|programmueberblick|programminfo/.test(text);
+}
+
+function normalizedVariant(item) {
+  const text = `${item.projektart || ""} ${item.programm_name || ""}`.toLowerCase();
+  if (/durchfuehrbarkeit/.test(text)) return "durchfuehrbarkeitsstudie";
+  if (/einzelprojekt/.test(text)) return "einzelprojekt";
+  if (/kooperationsprojekt|kooperation/.test(text)) return "kooperationsprojekt";
+  if (/innovationsnetzwerk|netzwerk/.test(text)) return "innovationsnetzwerk";
+  if (/betriebsmittel/.test(text)) return "betriebsmittel";
+  if (/investitions/.test(text)) return "investition";
+  return (item.projektart || item.programm_name || "").toLowerCase().trim();
+}
+
+function dedupeScore(item) {
+  let score = 0;
+  if ((item.richtlinie_url || "").trim()) score += 2;
+  if ((item.quelle_url || "").trim()) score += 2;
+  if ((item.match_reason || "").trim()) score += 1;
+  if ((item.foerdergegenstand || "").trim()) score += 1;
+  if ((item.foerderhoehe || "").trim()) score += 1;
+  if ((item.foerdersatz || "").trim()) score += 1;
+  if ((item.frist || "").trim()) score += 1;
+  if ((item.call_deadline || "").trim()) score += 1;
+  score += Math.min(((item.foerdergegenstand || "").length / 120), 2);
+  return score;
+}
+
+function prepareData(rows) {
+  const cleaned = rows.filter(item => !isMetaProgramEntry(item));
+  const deduped = new Map();
+
+  for (const item of cleaned) {
+    const key = [
+      programFamily(item),
+      normalizedVariant(item),
+      (item.richtlinie_url || "").trim().replace(/\/+$/, ""),
+      (item.region || "").trim().toLowerCase(),
+      (item.status || "").trim().toLowerCase()
+    ].join("|");
+
+    const existing = deduped.get(key);
+    if (!existing || dedupeScore(item) > dedupeScore(existing)) deduped.set(key, item);
+  }
+
+  return Array.from(deduped.values());
+}
+
 function matchesFilter(item) {
   const selectedCompany = companyTypeEl.value;
   const selectedObjective = objectiveEl.value;
@@ -441,7 +491,7 @@ async function loadCSV() {
 
 loadCSV()
   .then(text => {
-    data = parseCSV(text);
+    data = prepareData(parseCSV(text));
 
     buildOptions(companyTypeEl, new Set(data.map(companyType)), "Alle Unternehmen");
     buildOptions(objectiveEl, new Set(data.flatMap(objectiveTags)), "Alle Vorhaben");
